@@ -1,988 +1,688 @@
-/* =========================================================================
-   RojgarDwaar — Design Tokens
-   Signature idea: the site borrows the visual language of an Indian
-   government exam admit card / OMR answer sheet — perforated ticket
-   edges, roll-number-style code blocks, a digital-clock timer, and
-   circular OMR-bubble option letters. It's built for the subject
-   (mock tests, Railway exam prep) rather than a generic template.
-   ========================================================================= */
-:root {
-  --ink: #1b2a4a;
-  --ink-soft: #45557a;
-  --paper: #f1efe6;
-  --paper-deep: #e7e3d5;
-  --card: #ffffff;
-  --line: #d9d3c1;
-  --stamp-red: #b23a2e;
-  --stamp-red-soft: #f3e0dd;
-  --gold: #c1852c;
-  --gold-soft: #f6ead2;
-  --success: #2f6b4f;
-  --success-soft: #dcece3;
-  --shadow: 0 2px 10px rgba(27, 42, 74, 0.08);
-
-  --font-display: "Roboto Slab", "Noto Serif Devanagari", serif;
-  --font-body: "Inter", "Noto Sans Devanagari", -apple-system, sans-serif;
-  --font-mono: "Space Mono", "Noto Sans Mono", monospace;
-
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 16px;
-  --container: 880px;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  -webkit-text-size-adjust: 100%;
-}
-
-body {
-  margin: 0;
-  font-family: var(--font-body);
-  background: var(--paper);
-  color: var(--ink);
-  line-height: 1.55;
-  -webkit-font-smoothing: antialiased;
-}
-
-a {
-  color: inherit;
-}
-
-button {
-  font-family: inherit;
-}
-
-img {
-  max-width: 100%;
-}
-
-.rjd-container {
-  max-width: var(--container);
-  margin: 0 auto;
-  padding: 0 16px;
-}
-
-/* ---------- Header / Global Nav ---------------------------------------- */
-.rjd-site-header {
-  background: var(--ink);
-  color: #fff;
-  border-bottom: 4px solid var(--gold);
-}
-
-.rjd-site-header__inner {
-  max-width: var(--container);
-  margin: 0 auto;
-  padding: 14px 16px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.rjd-brand {
-  display: flex;
-  align-items: baseline;
-  gap: 8px;
-  text-decoration: none;
-  color: #fff;
-}
-
-.rjd-brand__mark {
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 20px;
-  letter-spacing: 0.02em;
-}
-
-.rjd-brand__tag {
-  font-family: var(--font-mono);
-  font-size: 10px;
-  color: var(--gold);
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  border: 1px solid var(--gold);
-  padding: 2px 6px;
-  border-radius: 3px;
-  display: none;
-}
-
-@media (min-width: 480px) {
-  .rjd-brand__tag {
-    display: inline-block;
-  }
-}
-
-.rjd-lang-toggle {
-  display: flex;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 999px;
-  padding: 3px;
-  gap: 2px;
-}
-
-.rjd-lang-toggle button {
-  border: none;
-  background: transparent;
-  color: rgba(255, 255, 255, 0.75);
-  font-size: 13px;
-  font-weight: 600;
-  padding: 7px 14px;
-  border-radius: 999px;
-  cursor: pointer;
-  transition: background 0.15s ease, color 0.15s ease;
-}
-
-.rjd-lang-toggle button.is-active {
-  background: var(--gold);
-  color: var(--ink);
-}
-
-/* ---------- Buttons ------------------------------------------------------ */
-.rjd-btn {
-  font-family: var(--font-body);
-  font-weight: 600;
-  font-size: 14px;
-  padding: 11px 18px;
-  border-radius: var(--radius-sm);
-  border: 1.5px solid transparent;
-  cursor: pointer;
-  transition: transform 0.06s ease, opacity 0.15s ease;
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-}
-
-.rjd-btn:active {
-  transform: scale(0.98);
-}
-
-.rjd-btn:disabled,
-.rjd-btn.is-disabled {
-  opacity: 0.45;
-  cursor: not-allowed;
-  pointer-events: none;
-}
-
-.rjd-btn--primary {
-  background: var(--ink);
-  color: #fff;
-}
-
-.rjd-btn--secondary {
-  background: var(--gold-soft);
-  color: var(--gold);
-  border-color: var(--gold);
-}
-
-.rjd-btn--danger {
-  background: var(--stamp-red);
-  color: #fff;
-}
-
-.rjd-btn--ghost {
-  background: transparent;
-  border-color: var(--line);
-  color: var(--ink);
-}
-
-.rjd-btn--block {
-  width: 100%;
-  margin-top: 14px;
-}
-
-/* ---------- Eyebrow / Section title -------------------------------------- */
-.rjd-eyebrow {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-}
-
-.rjd-section-title {
-  font-family: var(--font-display);
-  font-size: 17px;
-  font-weight: 700;
-  margin: 22px 0 10px;
-  color: var(--ink);
-  border-bottom: 2px solid var(--line);
-  padding-bottom: 6px;
-}
-
-/* ---------- Chapter Hero (masthead) --------------------------------------- */
-.rjd-chapter-hero {
-  padding: 22px 0 16px;
-  border-bottom: 3px double var(--ink);
-  margin-bottom: 4px;
-}
-
-.rjd-chapter-hero__title {
-  font-family: var(--font-display);
-  font-size: clamp(22px, 5vw, 30px);
-  margin: 6px 0 8px;
-  color: var(--ink);
-}
-
-.rjd-chapter-hero__stat {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  color: var(--stamp-red);
-  margin: 0;
-}
-
-/* ---------- Tabs ---------------------------------------------------------- */
-.rjd-tabs {
-  display: flex;
-  gap: 4px;
-  margin: 18px 0 4px;
-  border-bottom: 1px solid var(--line);
-  overflow-x: auto;
-}
-
-.rjd-tab {
-  background: transparent;
-  border: none;
-  border-bottom: 3px solid transparent;
-  padding: 10px 6px;
-  font-weight: 700;
-  font-size: 14px;
-  color: var(--ink-soft);
-  cursor: pointer;
-  white-space: nowrap;
-}
-
-.rjd-tab.is-active {
-  color: var(--ink);
-  border-bottom-color: var(--stamp-red);
-}
-
-.rjd-tab-panel {
-  padding: 18px 0 40px;
-}
-
-/* ---------- Notes card ----------------------------------------------------- */
-.rjd-notes-card {
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-md);
-  padding: 20px;
-  box-shadow: var(--shadow);
-}
-
-.rjd-notes-card p {
-  margin: 4px 0 12px;
-}
-
-.rjd-key-points {
-  margin: 0 0 12px;
-  padding-left: 20px;
-}
-
-.rjd-key-points li {
-  margin-bottom: 6px;
-}
-
-.rjd-quick-revision {
-  background: var(--gold-soft);
-  border-left: 4px solid var(--gold);
-  padding: 10px 14px;
-  border-radius: var(--radius-sm);
-  margin-bottom: 16px;
-  font-size: 14px;
-}
-
-/* ---------- Practice toolbar / cards --------------------------------------- */
-.rjd-practice-toolbar {
-  display: flex;
-  gap: 8px;
-  margin-bottom: 14px;
-  flex-wrap: wrap;
-}
-
-.rjd-chip {
-  border: 1.5px solid var(--line);
-  background: var(--card);
-  padding: 8px 14px;
-  border-radius: 999px;
-  font-size: 13px;
-  font-weight: 600;
-  cursor: pointer;
-  color: var(--ink-soft);
-}
-
-.rjd-chip.is-active {
-  background: var(--ink);
-  border-color: var(--ink);
-  color: #fff;
-}
-
-.rjd-practice-card,
-.rjd-exam-card {
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-md);
-  padding: 20px;
-  box-shadow: var(--shadow);
-}
-
-.rjd-practice-card__meta,
-.rjd-exam-card__meta {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 10px;
-}
-
-.rjd-question-text {
-  font-family: var(--font-display);
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.5;
-  margin: 0 0 16px;
-  color: var(--ink);
-}
-
-.rjd-question-text--sm {
-  font-size: 15px;
-}
-
-/* ---------- Options (OMR-bubble styled) ------------------------------------ */
-.rjd-options {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-bottom: 14px;
-}
-
-.rjd-option {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  width: 100%;
-  text-align: left;
-  background: var(--paper);
-  border: 1.5px solid var(--line);
-  border-radius: var(--radius-sm);
-  padding: 12px 14px;
-  cursor: pointer;
-  font-size: 15px;
-  color: var(--ink);
-  transition: border-color 0.12s ease, background 0.12s ease;
-}
-
-.rjd-option:hover:not(.is-disabled) {
-  border-color: var(--ink-soft);
-}
-
-.rjd-option__letter {
-  flex: none;
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  border: 2px solid var(--ink-soft);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-mono);
-  font-weight: 700;
-  font-size: 13px;
-  color: var(--ink-soft);
-}
-
-.rjd-option.is-selected {
-  border-color: var(--ink);
-  background: #eef1f8;
-}
-
-.rjd-option.is-selected .rjd-option__letter {
-  background: var(--ink);
-  color: #fff;
-  border-color: var(--ink);
-}
-
-.rjd-option.is-correct {
-  border-color: var(--success);
-  background: var(--success-soft);
-}
-
-.rjd-option.is-correct .rjd-option__letter {
-  background: var(--success);
-  border-color: var(--success);
-  color: #fff;
-}
-
-.rjd-option.is-wrong {
-  border-color: var(--stamp-red);
-  background: var(--stamp-red-soft);
-}
-
-.rjd-option.is-wrong .rjd-option__letter {
-  background: var(--stamp-red);
-  border-color: var(--stamp-red);
-  color: #fff;
-}
-
-.rjd-option.is-disabled {
-  cursor: default;
-}
-
-/* ---------- Feedback / Badges ---------------------------------------------- */
-.rjd-feedback {
-  border-radius: var(--radius-sm);
-  padding: 12px 14px;
-  margin-bottom: 14px;
-  font-size: 14px;
-}
-
-.rjd-feedback--correct {
-  background: var(--success-soft);
-  border-left: 4px solid var(--success);
-}
-
-.rjd-feedback--wrong {
-  background: var(--stamp-red-soft);
-  border-left: 4px solid var(--stamp-red);
-}
-
-.rjd-feedback__verdict {
-  font-weight: 700;
-  margin: 0 0 6px;
-}
-
-.rjd-feedback__explanation {
-  margin: 0;
-}
-
-.rjd-badge {
-  font-family: var(--font-mono);
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  padding: 4px 9px;
-  border-radius: 999px;
-  font-weight: 700;
-}
-
-.rjd-badge--easy {
-  background: var(--success-soft);
-  color: var(--success);
-}
-
-.rjd-badge--medium {
-  background: var(--gold-soft);
-  color: var(--gold);
-}
-
-.rjd-badge--hard {
-  background: var(--stamp-red-soft);
-  color: var(--stamp-red);
-}
-
-.rjd-practice-card__actions,
-.rjd-exam-card__actions,
-.rjd-exam-card__nav {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin-top: 6px;
-}
-
-/* ---------- Mock Test Hub — "admit card" tickets --------------------------- */
-.rjd-testcard-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 12px;
-  margin: 14px 0;
-}
-
-.rjd-testcard {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  background: var(--card);
-  border: 1.5px dashed var(--ink-soft);
-  border-radius: var(--radius-md);
-  padding: 16px 14px;
-  text-decoration: none;
-  color: var(--ink);
-  box-shadow: var(--shadow);
+/* =========================================================
+   RojgarDwaar Premium Notes UI — Override Layer
+   Scope: .rjd-notes-premium and its children only.
+   Does NOT touch .rjd-practice-card, .rjd-exam-card,
+   .rjd-testcard, .rjd-palette, .rjd-result, .rjd-btn base,
+   or any other existing selector.
+   ========================================================= */
+
+/* ---------- Notes wrapper ------------------------------------------------ */
+.rjd-notes-premium {
+  padding: 0;
   overflow: hidden;
+  border-radius: var(--radius-lg);
 }
 
-.rjd-testcard::before,
-.rjd-testcard::after {
-  content: "";
-  position: absolute;
-  width: 14px;
-  height: 14px;
-  background: var(--paper);
-  border-radius: 50%;
-  top: 50%;
-  transform: translateY(-50%);
+.rjd-notes-premium > * {
+  padding-left: 22px;
+  padding-right: 22px;
 }
 
-.rjd-testcard::before {
-  left: -8px;
+/* ---------- 1. EXAM READY NOTES intro / hero ----------------------------- */
+.rjd-notes-intro {
+  padding-top: 26px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 6px;
+  background: linear-gradient(180deg, var(--paper) 0%, var(--card) 100%);
 }
 
-.rjd-testcard::after {
-  right: -8px;
-}
-
-.rjd-testcard__index {
-  font-family: var(--font-mono);
-  font-size: 22px;
-  font-weight: 700;
-  color: var(--stamp-red);
-}
-
-.rjd-testcard__label {
-  font-weight: 700;
-  font-size: 14px;
-}
-
-.rjd-testcard__meta {
+.rjd-notes-badge {
+  display: inline-block;
   font-family: var(--font-mono);
   font-size: 11px;
-  color: var(--ink-soft);
-}
-
-.rjd-testcard--accent {
-  border-style: solid;
-  border-color: var(--gold);
-}
-
-.rjd-topic-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 10px;
-}
-
-.rjd-topic-chip {
-  border: 1.5px solid var(--line);
-  background: var(--card);
-  padding: 8px 14px;
-  border-radius: 999px;
-  font-size: 13px;
-  text-decoration: none;
-  color: var(--ink);
-}
-
-.rjd-history-list {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.rjd-history-item {
-  display: grid;
-  grid-template-columns: 1fr auto auto;
-  gap: 12px;
-  font-family: var(--font-mono);
-  font-size: 12px;
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-sm);
-  padding: 8px 12px;
-}
-
-/* ---------- Exam page (admit-card header + OMR palette) --------------------- */
-.rjd-exam {
-  padding-bottom: 40px;
-}
-
-.rjd-exam__header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 12px;
-  background: var(--ink);
-  color: #fff;
-  border-radius: var(--radius-md);
-  padding: 14px 18px;
-  margin: 14px 0;
-  flex-wrap: wrap;
-}
-
-.rjd-exam__title {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-}
-
-.rjd-exam__title .rjd-eyebrow {
-  color: var(--gold);
-}
-
-.rjd-exam__admit-code {
-  font-family: var(--font-mono);
-  font-size: 10px;
-  color: rgba(255, 255, 255, 0.6);
-  letter-spacing: 0.04em;
-}
-
-.rjd-exam__timer {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-}
-
-.rjd-exam__timer-label {
-  font-size: 10px;
-  text-transform: uppercase;
+  font-weight: 700;
   letter-spacing: 0.06em;
-  color: rgba(255, 255, 255, 0.65);
-}
-
-.rjd-exam__timer-value {
-  font-family: var(--font-mono);
-  font-size: 24px;
-  font-weight: 700;
-  background: rgba(255, 255, 255, 0.08);
+  text-transform: uppercase;
+  color: var(--ink);
+  background: var(--gold-soft);
   border: 1px solid var(--gold);
-  padding: 2px 12px;
-  border-radius: var(--radius-sm);
-  letter-spacing: 0.05em;
-}
-
-.rjd-exam__timer-value.is-low {
-  color: #ffb3ab;
-  border-color: var(--stamp-red);
-  animation: rjd-pulse 1s infinite;
-}
-
-@keyframes rjd-pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.55; }
-}
-
-.rjd-exam__body {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 16px;
-}
-
-@media (min-width: 760px) {
-  .rjd-exam__body {
-    grid-template-columns: 2fr 1fr;
-    align-items: start;
-  }
-}
-
-.rjd-exam__palette-area {
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-md);
-  padding: 16px;
-  box-shadow: var(--shadow);
-  position: sticky;
-  top: 12px;
-}
-
-.rjd-palette {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(38px, 1fr));
-  gap: 6px;
-  margin: 10px 0 14px;
-}
-
-.rjd-palette__cell {
-  aspect-ratio: 1;
-  border-radius: 50%;
-  border: 2px solid var(--line);
-  background: var(--paper);
-  font-family: var(--font-mono);
-  font-weight: 700;
-  font-size: 12px;
-  cursor: pointer;
-  color: var(--ink-soft);
-}
-
-.rjd-palette__cell--attempted {
-  background: var(--success);
-  border-color: var(--success);
-  color: #fff;
-}
-
-.rjd-palette__cell--marked {
-  background: var(--gold);
-  border-color: var(--gold);
-  color: #fff;
-}
-
-.rjd-palette__cell--unattempted {
-  background: var(--card);
-}
-
-.rjd-palette__cell.is-current {
-  outline: 2px solid var(--stamp-red);
-  outline-offset: 2px;
-}
-
-.rjd-palette-legend {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  font-size: 12px;
-  color: var(--ink-soft);
+  padding: 5px 12px;
+  border-radius: 999px;
   margin-bottom: 12px;
 }
 
-.rjd-palette-legend span {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.rjd-dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-.rjd-dot--attempted { background: var(--success); }
-.rjd-dot--marked { background: var(--gold); }
-.rjd-dot--unattempted { background: var(--line); }
-
-/* ---------- Result page ----------------------------------------------------- */
-.rjd-result {
-  padding: 14px 0 40px;
-}
-
-.rjd-result__banner {
-  text-align: center;
-  padding: 26px 16px;
-  border-radius: var(--radius-lg);
-  margin-bottom: 18px;
-  background: var(--ink);
-  color: #fff;
-}
-
-.rjd-result__score {
+.rjd-notes-intro h2 {
   font-family: var(--font-display);
-  font-size: 44px;
-  font-weight: 700;
-  margin: 0;
-}
-
-.rjd-result__performance {
-  margin: 4px 0 0;
-  font-weight: 600;
-  color: var(--gold);
-}
-
-.rjd-stat-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
-  margin-bottom: 18px;
-}
-
-@media (min-width: 560px) {
-  .rjd-stat-grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
-.rjd-stat {
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-sm);
-  padding: 12px;
-  text-align: center;
-}
-
-.rjd-stat__value {
-  display: block;
-  font-family: var(--font-mono);
-  font-size: 20px;
-  font-weight: 700;
   color: var(--ink);
+  font-size: clamp(20px, 4vw, 26px);
+  margin: 0 0 8px;
+  line-height: 1.3;
 }
 
-.rjd-stat__label {
-  font-size: 11px;
+.rjd-notes-intro p {
   color: var(--ink-soft);
+  font-size: 14.5px;
+  line-height: 1.65;
+  margin: 0;
+  max-width: 60ch;
 }
 
-.rjd-stat--correct .rjd-stat__value { color: var(--success); }
-.rjd-stat--wrong .rjd-stat__value { color: var(--stamp-red); }
+/* ---------- Shared note-block rhythm ------------------------------------- */
+.rjd-notes-premium .rjd-note-block {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--line);
+}
 
-.rjd-result__actions {
+.rjd-notes-premium .rjd-note-block:last-of-type {
+  border-bottom: none;
+}
+
+.rjd-note-heading {
   display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin-bottom: 10px;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 14px;
 }
 
-.rjd-review-list {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.rjd-review-item {
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-left-width: 5px;
-  border-radius: var(--radius-sm);
-  padding: 14px;
-}
-
-.rjd-review-item--correct { border-left-color: var(--success); }
-.rjd-review-item--wrong { border-left-color: var(--stamp-red); }
-.rjd-review-item--unattempted { border-left-color: var(--line); }
-
-.rjd-review-item__head {
-  display: flex;
-  justify-content: space-between;
-  font-family: var(--font-mono);
-  font-size: 12px;
-  margin-bottom: 6px;
-  color: var(--ink-soft);
-}
-
-.rjd-review-item__answer,
-.rjd-review-item__explanation {
-  font-size: 13px;
-  margin: 4px 0;
-}
-
-/* ---------- Loading / Error / Empty ---------------------------------------- */
-.rjd-loading,
-.rjd-error,
-.rjd-empty-state {
-  text-align: center;
-  padding: 60px 16px;
-  color: var(--ink-soft);
-}
-
-.rjd-loading__spinner {
+.rjd-note-icon {
+  flex: none;
   width: 34px;
   height: 34px;
-  margin: 0 auto 14px;
-  border: 3px solid var(--line);
-  border-top-color: var(--stamp-red);
-  border-radius: 50%;
-  animation: rjd-spin 0.8s linear infinite;
-}
-
-@keyframes rjd-spin {
-  to { transform: rotate(360deg); }
-}
-
-.rjd-error__icon {
-  font-size: 30px;
-  margin-bottom: 6px;
-}
-
-/* ---------- Toasts ----------------------------------------------------------- */
-.rjd-toast-root {
-  position: fixed;
-  bottom: 16px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 999;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  width: min(92vw, 420px);
-}
-
-.rjd-toast {
-  background: var(--ink);
-  color: #fff;
-  padding: 12px 16px;
-  border-radius: var(--radius-sm);
-  font-size: 13px;
-  opacity: 0;
-  transform: translateY(8px);
-  transition: opacity 0.2s ease, transform 0.2s ease;
-  box-shadow: var(--shadow);
-}
-
-.rjd-toast.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-.rjd-toast--warn { background: var(--gold); color: var(--ink); }
-.rjd-toast--success { background: var(--success); }
-
-/* ---------- Modal ------------------------------------------------------------ */
-.rjd-modal-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(27, 42, 74, 0.55);
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 1000;
-  opacity: 0;
-  transition: opacity 0.18s ease;
-  padding: 16px;
+  font-size: 16px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
 }
 
-.rjd-modal-overlay.is-visible {
-  opacity: 1;
-}
-
-.rjd-modal {
-  background: var(--card);
-  border-radius: var(--radius-md);
-  padding: 22px;
-  width: 100%;
-  max-width: 360px;
-  box-shadow: var(--shadow);
-}
-
-.rjd-modal__title {
+.rjd-note-heading h3 {
   font-family: var(--font-display);
-  font-weight: 700;
+  color: var(--ink);
   font-size: 17px;
-  margin: 0 0 8px;
+  margin: 0 0 3px;
 }
 
-.rjd-modal__message {
-  font-size: 14px;
+.rjd-note-heading p {
   color: var(--ink-soft);
-  margin: 0 0 18px;
+  font-size: 13px;
+  margin: 0;
 }
 
-.rjd-modal__actions {
+/* ---------- 2. Concept / reading card ------------------------------------ */
+.rjd-note-reading {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 16px 18px;
+}
+
+.rjd-note-reading p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--ink);
+  margin: 0;
+}
+
+.rjd-note-example {
   display: flex;
-  gap: 10px;
-  justify-content: flex-end;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--gold-soft);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+  margin-top: -4px;
+  margin-bottom: 24px;
 }
 
-/* ---------- Footer ------------------------------------------------------------ */
-.rjd-site-footer {
-  text-align: center;
-  padding: 24px 16px 40px;
-  font-size: 12px;
-  color: var(--ink-soft);
+.rjd-note-example > span {
+  font-size: 16px;
+  line-height: 1;
 }
 
-/* ---------- Reduced motion --------------------------------------------------- */
-@media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after {
-    animation-duration: 0.01ms !important;
-    transition-duration: 0.01ms !important;
+.rjd-note-example strong {
+  display: block;
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 13.5px;
+  margin-bottom: 4px;
+}
+
+.rjd-note-example p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.65;
+  color: var(--ink);
+}
+
+/* ---------- 3. Topic breakdown — numbered cards --------------------------- */
+.rjd-topic-notes-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 700px) {
+  .rjd-topic-notes-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* ---------- Focus visibility --------------------------------------------------- */
-a:focus-visible,
-button:focus-visible {
-  outline: 2px solid var(--stamp-red);
-  outline-offset: 2px;
+.rjd-topic-note-card {
+  position: relative;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 18px 18px 16px;
+  box-shadow: var(--shadow);
+}
+
+.rjd-topic-note-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  height: 30px;
+  padding: 0 6px;
+  border-radius: var(--radius-sm);
+  background: var(--ink);
+  color: #fff;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.rjd-topic-note-card h4 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 15.5px;
+  margin: 0 0 8px;
+  line-height: 1.4;
+}
+
+.rjd-topic-note-card > p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  margin: 0 0 10px;
+}
+
+.rjd-mini-example {
+  background: var(--paper);
+  border-left: 3px solid var(--gold);
+  border-radius: 4px;
+  padding: 8px 12px;
+  margin: 10px 0;
+}
+
+.rjd-mini-example strong {
+  display: block;
+  font-size: 12.5px;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+
+.rjd-mini-example p {
+  margin: 0;
+  font-size: 13.5px;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+.rjd-topic-note-card .rjd-key-points {
+  margin: 10px 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.rjd-topic-note-card .rjd-key-points li {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+.rjd-topic-note-card .rjd-key-points li span:first-child {
+  flex: none;
+  color: var(--success);
+  font-weight: 700;
+}
+
+/* ---------- Key Points (premium, top-level) ------------------------------ */
+.rjd-key-points-premium {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-key-points-premium li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.rjd-point-icon {
+  flex: none;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--success-soft);
+  color: var(--success);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* ---------- Shared "special" section heading ------------------------------ */
+.rjd-special-heading {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  padding: 6px 14px;
+  border-radius: 999px;
+  margin-bottom: 8px;
+}
+
+.rjd-special-description {
+  color: var(--ink-soft);
+  font-size: 13.5px;
+  margin: 0 0 16px;
+}
+
+/* ---------- 4. EXAM FOCUS -------------------------------------------------- */
+.rjd-exam-focus .rjd-special-heading {
+  background: var(--gold-soft);
+  color: var(--ink);
+  border: 1px solid var(--gold);
+}
+
+.rjd-exam-focus-list {
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-exam-focus-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--gold);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+}
+
+.rjd-exam-focus-item > span {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gold);
+  color: #fff;
+  border-radius: 50%;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.rjd-exam-focus-item p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+/* ---------- 5. EXAM TRAP (warning-style, red) ------------------------------ */
+.rjd-exam-trap {
+  background: var(--stamp-red-soft);
+  border-radius: var(--radius-md);
+  margin-left: -22px;
+  margin-right: -22px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.rjd-exam-trap .rjd-special-heading {
+  background: var(--stamp-red);
+  color: #fff;
+}
+
+.rjd-exam-trap .rjd-special-description {
+  color: #7a2e26;
+}
+
+.rjd-exam-trap-list {
+  display: grid;
+  gap: 12px;
+}
+
+.rjd-trap-item {
+  background: var(--card);
+  border: 1px solid var(--stamp-red);
+  border-radius: var(--radius-sm);
+  padding: 14px 16px;
+}
+
+.rjd-trap-item h4 {
+  font-family: var(--font-display);
+  color: var(--stamp-red);
+  font-size: 15px;
+  margin: 0 0 6px;
+}
+
+.rjd-trap-item > p {
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--ink);
+  margin: 0 0 10px;
+}
+
+.rjd-trap-confusion {
+  background: var(--stamp-red-soft);
+  border-radius: 4px;
+  padding: 10px 12px;
+}
+
+.rjd-trap-confusion strong {
+  display: block;
+  color: var(--stamp-red);
+  font-size: 12.5px;
+  margin-bottom: 4px;
+}
+
+.rjd-trap-confusion p {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+/* ---------- 6. Think Before Answer ----------------------------------------- */
+.rjd-think-box .rjd-special-heading {
+  background: #eef1f8;
+  color: var(--ink);
+  border: 1px solid var(--ink-soft);
+}
+
+.rjd-think-list {
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-think-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1.5px dashed var(--ink-soft);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+}
+
+.rjd-think-item > span:first-child {
+  flex: none;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--ink);
+  color: #fff;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.rjd-think-item strong {
+  display: block;
+  color: var(--ink);
+  font-size: 14.5px;
+  line-height: 1.5;
+  margin-bottom: 4px;
+}
+
+.rjd-think-item p {
+  margin: 4px 0;
+  font-size: 13.5px;
+  color: var(--ink-soft);
+}
+
+.rjd-think-item details summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gold);
+  margin-top: 4px;
+}
+
+.rjd-think-item details p {
+  margin-top: 6px;
+  color: var(--ink);
+}
+
+/* ---------- 7. Smart Memory -------------------------------------------------- */
+.rjd-memory-box .rjd-special-heading {
+  background: var(--success-soft);
+  color: var(--success);
+  border: 1px solid var(--success);
+}
+
+.rjd-memory-list {
+  display: grid;
+  gap: 10px;
+}
+
+@media (min-width: 700px) {
+  .rjd-memory-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.rjd-memory-item {
+  background: var(--success-soft);
+  border: 1px solid var(--success);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+/* ---------- 8. PYQ SIGNAL ----------------------------------------------------- */
+.rjd-pyq-box .rjd-special-heading {
+  background: var(--ink);
+  color: var(--gold);
+}
+
+.rjd-pyq-box .rjd-key-points {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.rjd-pyq-box .rjd-key-points li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--paper);
+  border-left: 3px solid var(--ink);
+  border-radius: 4px;
+  padding: 10px 12px;
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.rjd-pyq-box .rjd-key-points li span:first-child {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+/* ---------- 9. MUST REMEMBER --------------------------------------------------- */
+.rjd-must-remember {
+  background: var(--gold-soft);
+  border-radius: var(--radius-md);
+  margin-left: -22px;
+  margin-right: -22px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.rjd-must-remember .rjd-special-heading {
+  background: var(--gold);
+  color: #fff;
+}
+
+.rjd-must-remember .rjd-key-points {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.rjd-must-remember .rjd-key-points li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+.rjd-must-remember .rjd-key-points li span:first-child {
+  color: var(--gold);
+  font-weight: 700;
+}
+
+/* ---------- 10. Quick Revision (final strong block) ---------------------------- */
+.rjd-quick-revision-premium {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: var(--ink);
+  border-left: none;
+  border-radius: var(--radius-md);
+  padding: 18px 20px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.rjd-quick-icon {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gold);
+  border-radius: 50%;
+  font-size: 15px;
+}
+
+.rjd-quick-revision-premium strong {
+  display: block;
+  color: var(--gold);
+  font-family: var(--font-display);
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.rjd-quick-revision-premium p {
+  margin: 0;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+/* ---------- 11. Practice CTA --------------------------------------------------- */
+.rjd-notes-cta {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: stretch;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+@media (min-width: 640px) {
+  .rjd-notes-cta {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.rjd-notes-cta__eyebrow {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+
+.rjd-notes-cta h3 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 18px;
+  margin: 0 0 4px;
+}
+
+.rjd-notes-cta p {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 13.5px;
+}
+
+.rjd-notes-cta .rjd-btn--primary {
+  flex: none;
+  padding: 13px 26px;
+  font-size: 15px;
+  border-radius: var(--radius-md);
+  box-shadow: 0 3px 0 rgba(27, 42, 74, 0.25);
+}
+
+/* ---------- Mobile tightening ---------------------------------------------------- */
+@media (max-width: 480px) {
+  .rjd-notes-premium > * {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .rjd-exam-trap,
+  .rjd-must-remember {
+    margin-left: -16px;
+    margin-right: -16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .rjd-note-heading {
+    gap: 10px;
+  }
+
+  .rjd-quick-revision-premium {
+    flex-direction: column;
+  }
 }
