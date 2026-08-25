@@ -1,42 +1,469 @@
 {
   "class": 6,
   "subject": "science",
-  "subjectName": { "hi": "विज्ञान", "en": "Science" },
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
   "chapter": "chapter-01",
   "chapterNumber": 1,
-  "chapterName": { "hi": "भोजन के घटक", "en": "Components of Food" },
+  "chapterName": {
+    "hi": "भोजन के घटक",
+    "en": "Components of Food"
+  },
   "topics": [
-    { "id": "nutrients-overview", "name": { "hi": "पोषक तत्वों का परिचय", "en": "Introduction to Nutrients" } },
-    { "id": "carbohydrates-fats", "name": { "hi": "कार्बोहाइड्रेट व वसा", "en": "Carbohydrates & Fats" } },
-    { "id": "proteins", "name": { "hi": "प्रोटीन", "en": "Proteins" } },
-    { "id": "vitamins-minerals", "name": { "hi": "विटामिन व खनिज", "en": "Vitamins & Minerals" } },
-    { "id": "balanced-diet", "name": { "hi": "संतुलित आहार", "en": "Balanced Diet" } },
-    { "id": "deficiency-diseases", "name": { "hi": "अभावजन्य रोग", "en": "Deficiency Diseases" } }
+    {
+      "id": "nutrients-overview",
+      "name": {
+        "hi": "पोषक तत्वों का परिचय",
+        "en": "Introduction to Nutrients"
+      }
+    },
+    {
+      "id": "carbohydrates-fats",
+      "name": {
+        "hi": "कार्बोहाइड्रेट व वसा",
+        "en": "Carbohydrates & Fats"
+      }
+    },
+    {
+      "id": "proteins",
+      "name": {
+        "hi": "प्रोटीन",
+        "en": "Proteins"
+      }
+    },
+    {
+      "id": "vitamins-minerals",
+      "name": {
+        "hi": "विटामिन व खनिज",
+        "en": "Vitamins & Minerals"
+      }
+    },
+    {
+      "id": "balanced-diet",
+      "name": {
+        "hi": "संतुलित आहार",
+        "en": "Balanced Diet"
+      }
+    },
+    {
+      "id": "deficiency-diseases",
+      "name": {
+        "hi": "अभावजन्य रोग",
+        "en": "Deficiency Diseases"
+      }
+    }
   ],
   "notes": {
     "hi": {
-      "concept": "भोजन में मौजूद पोषक तत्व — कार्बोहाइड्रेट, वसा, प्रोटीन, विटामिन, खनिज और जल — हमारे शरीर को ऊर्जा, वृद्धि और सुरक्षा प्रदान करते हैं। हर पोषक तत्व का शरीर में एक अलग काम होता है।",
-      "example": "उदाहरण: चावल और आलू से कार्बोहाइड्रेट मिलता है जो ऊर्जा देता है, जबकि दाल और अंडा प्रोटीन देते हैं जो शरीर की वृद्धि में मदद करता है।",
-      "keyPoints": [
-        "कार्बोहाइड्रेट व वसा शरीर को ऊर्जा देते हैं",
-        "प्रोटीन शरीर की वृद्धि व मरम्मत करता है",
-        "विटामिन व खनिज शरीर को रोगों से बचाते हैं",
-        "संतुलित आहार में सभी पोषक तत्व सही मात्रा में होते हैं",
-        "किसी पोषक तत्व की कमी से अभावजन्य रोग होते हैं"
+      "concept": "हम जो भोजन खाते हैं, उसमें कई अलग-अलग घटक होते हैं। इनमें कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज प्रमुख पोषक तत्व हैं। इसके अलावा आहारीय रेशा (रफेज) और जल भी हमारे आहार के महत्वपूर्ण घटक हैं। अलग-अलग पोषक तत्व शरीर में अलग-अलग कार्य करते हैं—कुछ मुख्य रूप से ऊर्जा देते हैं, कुछ शरीर की वृद्धि और ऊतकों की मरम्मत में सहायता करते हैं और कुछ शरीर को स्वस्थ रखने तथा विभिन्न कार्यों को सुचारु रूप से चलाने में मदद करते हैं। इसलिए केवल पेट भरना पर्याप्त नहीं है; भोजन में आवश्यक पोषक तत्वों का उचित संतुलन भी जरूरी है।",
+      
+      "example": "एक भोजन की थाली में चावल या रोटी से कार्बोहाइड्रेट, दाल से प्रोटीन, थोड़ी मात्रा में तेल या घी से वसा, सब्जियों और फलों से विभिन्न विटामिन व खनिज तथा जल प्राप्त हो सकता है। यही कारण है कि अलग-अलग प्रकार के खाद्य पदार्थों को मिलाकर खाना अधिक उपयोगी होता है।",
+      
+      "sections": [
+        {
+          "title": "पोषक तत्व क्या हैं?",
+          "concept": "भोजन में पाए जाने वाले वे घटक जिनकी शरीर को वृद्धि, ऊर्जा, रखरखाव और सामान्य कार्यों के लिए आवश्यकता होती है, पोषक तत्व कहलाते हैं।",
+          "example": "दाल, अनाज, दूध, फल और सब्जियों में अलग-अलग प्रकार के पोषक तत्व अलग-अलग मात्रा में पाए जाते हैं।",
+          "keyPoints": [
+            "एक ही खाद्य पदार्थ में एक से अधिक पोषक तत्व हो सकते हैं।",
+            "हर पोषक तत्व का शरीर में एक जैसा कार्य नहीं होता।",
+            "संतुलित भोजन के लिए विभिन्न खाद्य पदार्थों का उचित संयोजन आवश्यक है।"
+          ]
+        },
+        {
+          "title": "कार्बोहाइड्रेट — शरीर का प्रमुख ऊर्जा स्रोत",
+          "concept": "कार्बोहाइड्रेट ऐसे पोषक तत्व हैं जो शरीर को मुख्य रूप से ऊर्जा प्रदान करते हैं। चावल, गेहूँ, मक्का, आलू और कई अनाज कार्बोहाइड्रेट के सामान्य स्रोत हैं।",
+          "example": "यदि कोई व्यक्ति शारीरिक गतिविधि करता है, तो भोजन से प्राप्त ऊर्जा उसके शरीर के काम करने में उपयोग होती है।",
+          "keyPoints": [
+            "कार्बोहाइड्रेट का प्रमुख कार्य ऊर्जा प्रदान करना है।",
+            "अनाज और कई कंद कार्बोहाइड्रेट के महत्वपूर्ण स्रोत हैं।",
+            "कार्बोहाइड्रेट को केवल 'मीठी चीज' समझना सही नहीं है।"
+          ]
+        },
+        {
+          "title": "वसा — ऊर्जा का सघन स्रोत",
+          "concept": "वसा भी शरीर को ऊर्जा प्रदान करती है। यह भोजन में ऊर्जा का एक महत्वपूर्ण स्रोत है और शरीर के लिए आवश्यक है, लेकिन इसका सेवन संतुलित मात्रा में होना चाहिए।",
+          "example": "तेल, घी, मक्खन, मेवे और कुछ बीज वसा के स्रोत हो सकते हैं।",
+          "keyPoints": [
+            "वसा ऊर्जा प्रदान करती है।",
+            "तेल और घी जैसे खाद्य पदार्थ वसा के स्रोत हैं।",
+            "वसा को पूरी तरह हानिकारक समझना गलत है; शरीर को इसकी आवश्यकता होती है।"
+          ]
+        },
+        {
+          "title": "प्रोटीन — वृद्धि और मरम्मत",
+          "concept": "प्रोटीन शरीर की वृद्धि और ऊतकों की मरम्मत के लिए महत्वपूर्ण पोषक तत्व है। बच्चों और बढ़ते शरीर के लिए पर्याप्त प्रोटीन विशेष रूप से महत्वपूर्ण है।",
+          "example": "दालें, चना, राजमा, सोयाबीन, दूध, पनीर, अंडे और कुछ अन्य खाद्य पदार्थ प्रोटीन के स्रोत हो सकते हैं।",
+          "keyPoints": [
+            "प्रोटीन शरीर की वृद्धि में सहायता करता है।",
+            "प्रोटीन शरीर के ऊतकों की मरम्मत में भी महत्वपूर्ण है।",
+            "केवल मांसाहारी भोजन ही प्रोटीन का स्रोत नहीं है; अनेक पौध-आधारित खाद्य पदार्थ भी प्रोटीन देते हैं।"
+          ]
+        },
+        {
+          "title": "विटामिन — कम मात्रा, महत्वपूर्ण भूमिका",
+          "concept": "विटामिन शरीर को स्वस्थ रखने के लिए आवश्यक सूक्ष्म पोषक तत्व हैं। इनकी आवश्यकता अपेक्षाकृत कम मात्रा में होती है, लेकिन इनकी कमी से स्वास्थ्य संबंधी समस्याएँ हो सकती हैं।",
+          "example": "फल और हरी सब्जियाँ कई प्रकार के विटामिन और अन्य उपयोगी पोषक तत्व प्रदान कर सकती हैं।",
+          "keyPoints": [
+            "विटामिन शरीर के सामान्य कार्यों के लिए आवश्यक हैं।",
+            "विभिन्न विटामिन के अलग-अलग कार्य होते हैं।",
+            "एक विटामिन दूसरे विटामिन का पूरा विकल्प नहीं है।"
+          ]
+        },
+        {
+          "title": "खनिज — शरीर के लिए आवश्यक तत्व",
+          "concept": "खनिज लवण शरीर को कम मात्रा में आवश्यक होते हैं, लेकिन वे कई महत्वपूर्ण शारीरिक कार्यों में भूमिका निभाते हैं।",
+          "example": "दूध, हरी सब्जियाँ, दालें और अन्य खाद्य पदार्थ विभिन्न खनिज प्रदान कर सकते हैं।",
+          "keyPoints": [
+            "खनिजों की आवश्यकता कम मात्रा में हो सकती है, लेकिन उनका महत्व बहुत अधिक है।",
+            "अलग-अलग खनिज शरीर में अलग-अलग भूमिकाएँ निभाते हैं।",
+            "खनिजों की कमी से विशेष प्रकार की स्वास्थ्य समस्याएँ हो सकती हैं।"
+          ]
+        },
+        {
+          "title": "आहारीय रेशा — भोजन का जरूरी हिस्सा",
+          "concept": "आहारीय रेशा या रफेज भोजन का ऐसा घटक है जो पाचन तंत्र के सामान्य काम में सहायता करता है। यह मुख्य पोषक तत्वों की तरह ऊर्जा देने वाला घटक नहीं माना जाता, लेकिन संतुलित आहार का महत्वपूर्ण हिस्सा है।",
+          "example": "साबुत अनाज, फल और सब्जियाँ आहारीय रेशे के अच्छे स्रोत हो सकते हैं।",
+          "keyPoints": [
+            "रफेज को भोजन में शामिल करना उपयोगी है।",
+            "फल और सब्जियाँ रेशे के स्रोत हो सकते हैं।",
+            "रफेज और पोषक तत्वों को एक ही चीज समझना सही नहीं है।"
+          ]
+        },
+        {
+          "title": "जल — भोजन और शरीर का महत्वपूर्ण घटक",
+          "concept": "जल शरीर के लिए अत्यंत आवश्यक है। शरीर के अनेक कार्यों के लिए पर्याप्त जल आवश्यक होता है। भोजन से भी कुछ मात्रा में जल प्राप्त हो सकता है।",
+          "example": "फल और सब्जियों में भी जल की पर्याप्त मात्रा हो सकती है।",
+          "keyPoints": [
+            "जल शरीर के लिए आवश्यक है।",
+            "जल केवल पेय पदार्थों से ही नहीं, कुछ खाद्य पदार्थों से भी प्राप्त होता है।",
+            "जल को नजरअंदाज करके संतुलित आहार की कल्पना नहीं की जा सकती।"
+          ]
+        },
+        {
+          "title": "संतुलित आहार",
+          "concept": "ऐसा आहार जिसमें शरीर की आवश्यकताओं के अनुसार विभिन्न पोषक तत्व उचित मात्रा में शामिल हों, संतुलित आहार कहलाता है। केवल एक प्रकार का भोजन बार-बार खाने से सभी आवश्यक पोषक तत्व मिलना जरूरी नहीं है।",
+          "example": "अनाज के साथ दाल, सब्जी, फल और अन्य उपयुक्त खाद्य पदार्थों का संयोजन भोजन को अधिक विविध और पोषक बना सकता है।",
+          "keyPoints": [
+            "संतुलित आहार का अर्थ केवल अधिक खाना नहीं है।",
+            "संतुलित आहार में विभिन्न पोषक तत्वों का उचित संयोजन होता है।",
+            "व्यक्ति की आयु, गतिविधि और आवश्यकता के अनुसार भोजन की जरूरत अलग हो सकती है।"
+          ]
+        },
+        {
+          "title": "अभावजन्य रोग",
+          "concept": "जब लंबे समय तक किसी आवश्यक पोषक तत्व की पर्याप्त मात्रा शरीर को नहीं मिलती, तो उस पोषक तत्व की कमी से संबंधित स्वास्थ्य समस्या या अभावजन्य रोग हो सकता है।",
+          "example": "आहार में आवश्यक विटामिन या खनिज की लगातार कमी होने पर उससे संबंधित deficiency disease हो सकती है।",
+          "keyPoints": [
+            "अभावजन्य रोग पोषक तत्व की कमी से जुड़े होते हैं।",
+            "किस पोषक तत्व की कमी है, यह पहचानना महत्वपूर्ण है।",
+            "हर कमजोरी या बीमारी को किसी एक पोषक तत्व की कमी मान लेना सही नहीं है।"
+          ]
+        }
       ],
-      "quickRevision": "याद रखें: ऊर्जा के लिए कार्बोहाइड्रेट/वसा, वृद्धि के लिए प्रोटीन, सुरक्षा के लिए विटामिन/खनिज।"
+
+      "keyPoints": [
+        "भोजन में एक से अधिक पोषक तत्व हो सकते हैं।",
+        "कार्बोहाइड्रेट और वसा मुख्य रूप से ऊर्जा प्रदान करते हैं।",
+        "प्रोटीन वृद्धि और शरीर के ऊतकों की मरम्मत में महत्वपूर्ण है।",
+        "विटामिन और खनिज शरीर के सामान्य कार्यों और स्वास्थ्य के लिए आवश्यक हैं।",
+        "आहारीय रेशा संतुलित आहार का महत्वपूर्ण हिस्सा है।",
+        "जल शरीर के लिए आवश्यक घटक है।",
+        "संतुलित आहार में विभिन्न पोषक तत्व उचित मात्रा और विविधता के साथ शामिल होते हैं।",
+        "लंबे समय तक आवश्यक पोषक तत्व की कमी से अभावजन्य रोग हो सकते हैं।"
+      ],
+
+      "examFocus": [
+        "किस पोषक तत्व का प्रमुख कार्य ऊर्जा प्रदान करना है?",
+        "प्रोटीन का शरीर में मुख्य कार्य क्या है?",
+        "किसी खाद्य पदार्थ में एक से अधिक पोषक तत्व होने की संभावना को पहचानना।",
+        "संतुलित आहार की सही परिभाषा पहचानना।",
+        "पोषक तत्व और उनके प्रमुख कार्य का सही मिलान करना।",
+        "विटामिन/खनिज की कमी से जुड़े रोगों को पहचानना।",
+        "रफेज और जल की भूमिका को मुख्य पोषक तत्वों से अलग समझना।"
+      ],
+
+      "examTraps": [
+        {
+          "title": "ऊर्जा = केवल कार्बोहाइड्रेट?",
+          "fact": "कार्बोहाइड्रेट ऊर्जा का प्रमुख स्रोत हैं, लेकिन वसा भी शरीर को ऊर्जा प्रदान करती है।",
+          "confusion": "यदि option में 'ऊर्जा देने वाला पोषक तत्व' पूछा जाए, तो केवल कार्बोहाइड्रेट देखकर तुरंत answer mark न करें; question की exact wording पढ़ें।"
+        },
+        {
+          "title": "प्रोटीन = केवल शरीर बनाना?",
+          "fact": "प्रोटीन वृद्धि के साथ-साथ शरीर के ऊतकों की मरम्मत में भी महत्वपूर्ण है।",
+          "confusion": "Growth और repair दोनों को protein से जोड़कर याद रखें।"
+        },
+        {
+          "title": "विटामिन और खनिज एक ही चीज हैं?",
+          "fact": "दोनों आवश्यक सूक्ष्म पोषक तत्व हैं, लेकिन विटामिन और खनिज अलग-अलग प्रकार के पदार्थ हैं।",
+          "confusion": "Question में 'vitamin' और 'mineral' को interchangeable मानकर answer न करें।"
+        },
+        {
+          "title": "रफेज = ऊर्जा देने वाला nutrient?",
+          "fact": "आहारीय रेशा भोजन का महत्वपूर्ण घटक है, लेकिन इसे ऊर्जा देने वाले मुख्य पोषक तत्व की तरह नहीं समझना चाहिए।",
+          "confusion": "Food component और energy-giving nutrient के बीच अंतर समझें।"
+        },
+        {
+          "title": "Balanced diet = ज्यादा खाना?",
+          "fact": "संतुलित आहार का अर्थ पर्याप्त विविधता और उचित मात्रा में आवश्यक पोषक तत्व प्राप्त करना है।",
+          "confusion": "Quantity और balance एक ही बात नहीं हैं।"
+        },
+        {
+          "title": "एक food = एक nutrient?",
+          "fact": "किसी खाद्य पदार्थ में एक से अधिक पोषक तत्व हो सकते हैं।",
+          "confusion": "Question में दिए food को देखकर सिर्फ एक nutrient पर तुरंत निष्कर्ष न निकालें।"
+        }
+      ],
+
+      "thinkBeforeAnswer": [
+        "Question में 'मुख्य कार्य' लिखा है या 'एक कार्य'? दोनों को एक जैसा न समझें।",
+        "क्या question किसी पोषक तत्व का नाम पूछ रहा है या उसके स्रोत का?",
+        "क्या option में पोषक तत्व और उसका कार्य सही pair में दिए गए हैं?",
+        "क्या question deficiency disease पूछ रहा है या deficiency का nutrient?",
+        "क्या 'balanced diet' की बात हो रही है या केवल 'energy-rich food' की?",
+        "यदि दो options सही लग रहे हों, तो question की exact wording और scope दोबारा पढ़ें।"
+      ],
+
+      "memoryTricks": [
+        "कार्बोहाइड्रेट + वसा → Energy",
+        "प्रोटीन → Growth + Repair",
+        "विटामिन + खनिज → Body functions + Health",
+        "रफेज → भोजन का जरूरी non-energy हिस्सा",
+        "जल → शरीर के लिए आवश्यक",
+        "Shortcut: 'Energy – Build/Repair – Protect/Regulate' को अलग-अलग roles के रूप में सोचें।",
+        "Protein को केवल 'body building' तक सीमित न करें—'growth + repair' दोनों याद रखें।"
+      ],
+
+      "pyqSignals": [
+        "पोषक तत्वों और उनके कार्यों का मिलान objective exam में महत्वपूर्ण pattern है।",
+        "कार्बोहाइड्रेट और वसा के energy role पर direct तथा statement-based questions बन सकते हैं।",
+        "प्रोटीन के growth और repair role पर प्रश्न बन सकता है।",
+        "संतुलित आहार की परिभाषा और उसके components पर प्रश्न बन सकता है।",
+        "आहारीय रेशा और जल को food components के रूप में पहचानना महत्वपूर्ण है।",
+        "Deficiency disease में nutrient-disease relationship को पहचानना high-value revision point है।"
+      ],
+
+      "mustRemember": [
+        "Carbohydrates → मुख्य ऊर्जा स्रोत",
+        "Fats → ऊर्जा का महत्वपूर्ण स्रोत",
+        "Proteins → वृद्धि और ऊतकों की मरम्मत",
+        "Vitamins → शरीर के सामान्य कार्यों और स्वास्थ्य के लिए आवश्यक",
+        "Minerals → शरीर के लिए आवश्यक तत्व",
+        "Roughage → आहार का महत्वपूर्ण रेशेदार भाग",
+        "Water → शरीर के लिए आवश्यक",
+        "Balanced diet → आवश्यक पोषक तत्वों का उचित संतुलन",
+        "Deficiency disease → आवश्यक पोषक तत्व की लंबे समय तक कमी से संबंधित रोग"
+      ],
+
+      "quickRevision": "30 सेकंड में Chapter याद करें: भोजन → पोषक तत्व → कार्बोहाइड्रेट/वसा = ऊर्जा → प्रोटीन = वृद्धि व मरम्मत → विटामिन/खनिज = शरीर के सामान्य कार्य व स्वास्थ्य → रफेज = आहार का रेशेदार भाग → जल = आवश्यक → सभी को उचित मात्रा/विविधता में लेना = संतुलित आहार → किसी आवश्यक पोषक तत्व की कमी = अभावजन्य रोग।"
     },
+
     "en": {
-      "concept": "Nutrients present in food — carbohydrates, fats, proteins, vitamins, minerals and water — give our body energy, growth and protection. Each nutrient performs a distinct role in the body.",
-      "example": "Example: Rice and potatoes provide carbohydrates for energy, while pulses and eggs provide protein that helps the body grow.",
-      "keyPoints": [
-        "Carbohydrates and fats provide energy to the body",
-        "Proteins help in growth and repair of the body",
-        "Vitamins and minerals protect the body from diseases",
-        "A balanced diet contains all nutrients in the right amount",
-        "Lack of a nutrient causes a deficiency disease"
+      "concept": "The food we eat contains several components. Major nutrients include carbohydrates, proteins, fats, vitamins and minerals. Dietary fibre and water are also important components of our diet. Different nutrients perform different functions in the body: some mainly provide energy, some support growth and repair, while others help maintain normal body functions and health. Therefore, eating enough food is not the same as eating a balanced diet; variety and appropriate amounts of essential nutrients matter.",
+      
+      "example": "A meal containing rice or chapati may provide carbohydrates, pulses may provide protein, oil or ghee may provide fat, vegetables and fruits may provide vitamins and minerals, while water may come from both drinks and foods. Combining different foods helps provide a wider range of nutrients.",
+      
+      "sections": [
+        {
+          "title": "What are Nutrients?",
+          "concept": "Nutrients are components of food that the body needs for energy, growth, repair, maintenance and normal functioning.",
+          "example": "Different foods such as cereals, pulses, milk, fruits and vegetables provide different nutrients.",
+          "keyPoints": [
+            "One food can contain more than one nutrient.",
+            "Different nutrients perform different functions.",
+            "A varied diet helps provide a wider range of nutrients."
+          ]
+        },
+        {
+          "title": "Carbohydrates — Major Energy Source",
+          "concept": "Carbohydrates are nutrients that mainly provide energy to the body. Cereals, rice, wheat, maize and potatoes are common sources.",
+          "example": "Energy obtained from food helps the body perform daily physical and mental activities.",
+          "keyPoints": [
+            "Carbohydrates mainly provide energy.",
+            "Cereals and several starchy foods are common sources.",
+            "Carbohydrates are not limited to sweet foods."
+          ]
+        },
+        {
+          "title": "Fats — Important Energy Source",
+          "concept": "Fats provide energy and are an important part of the diet when consumed in appropriate amounts.",
+          "example": "Oils, ghee, butter, nuts and some seeds are sources of fat.",
+          "keyPoints": [
+            "Fats provide energy.",
+            "Oils and ghee are common sources.",
+            "Fat should not automatically be treated as completely harmful; the body needs it in appropriate amounts."
+          ]
+        },
+        {
+          "title": "Proteins — Growth and Repair",
+          "concept": "Proteins are important for growth and repair of body tissues. Adequate protein is especially important during growth.",
+          "example": "Pulses, gram, beans, soybean, milk, paneer and eggs can provide protein.",
+          "keyPoints": [
+            "Proteins support growth.",
+            "Proteins help in tissue repair.",
+            "Plant foods can also provide protein."
+          ]
+        },
+        {
+          "title": "Vitamins — Needed in Small Amounts",
+          "concept": "Vitamins are micronutrients required for maintaining health and normal body functions. Different vitamins have different roles.",
+          "example": "Fruits and green vegetables can provide several vitamins and other useful nutrients.",
+          "keyPoints": [
+            "Vitamins are required in relatively small amounts.",
+            "Different vitamins have different functions.",
+            "Deficiency of a vitamin can cause specific health problems."
+          ]
+        },
+        {
+          "title": "Minerals — Essential Elements",
+          "concept": "Minerals are required by the body in small amounts but are important for several body functions.",
+          "example": "Milk, green vegetables, pulses and other foods can provide different minerals.",
+          "keyPoints": [
+            "Minerals may be required in small amounts.",
+            "Different minerals perform different roles.",
+            "Mineral deficiencies can lead to specific health problems."
+          ]
+        },
+        {
+          "title": "Dietary Fibre",
+          "concept": "Dietary fibre or roughage is an important part of the diet and supports normal digestive function. It is not treated like the main energy-giving nutrients.",
+          "example": "Whole grains, fruits and vegetables can be sources of dietary fibre.",
+          "keyPoints": [
+            "Roughage is an important part of a balanced diet.",
+            "Fruits and vegetables can provide fibre.",
+            "Roughage should not be confused with energy-giving nutrients."
+          ]
+        },
+        {
+          "title": "Water",
+          "concept": "Water is essential for the body and many normal body processes depend on adequate water. Some foods also contain significant amounts of water.",
+          "example": "Fruits and vegetables can contribute water to the diet.",
+          "keyPoints": [
+            "Water is essential for the body.",
+            "Water can come from both drinks and foods.",
+            "Adequate water is an important part of a healthy diet."
+          ]
+        },
+        {
+          "title": "Balanced Diet",
+          "concept": "A balanced diet provides the nutrients the body needs in appropriate amounts and variety. Eating more food does not automatically mean eating a balanced diet.",
+          "example": "A meal combining cereals with pulses, vegetables, fruits and other suitable foods can provide a wider range of nutrients.",
+          "keyPoints": [
+            "A balanced diet is about appropriate variety and amounts.",
+            "Different foods can complement each other nutritionally.",
+            "Food requirements vary with age, activity and individual needs."
+          ]
+        },
+        {
+          "title": "Deficiency Diseases",
+          "concept": "When the body does not receive enough of an essential nutrient for a prolonged period, deficiency-related health problems may occur.",
+          "example": "A prolonged lack of a particular vitamin or mineral can result in a deficiency disease associated with that nutrient.",
+          "keyPoints": [
+            "Deficiency diseases are associated with inadequate nutrients.",
+            "Identifying the missing nutrient is important.",
+            "Not every feeling of weakness should automatically be attributed to one nutrient deficiency."
+          ]
+        }
       ],
-      "quickRevision": "Remember: Carbs/fats for energy, protein for growth, vitamins/minerals for protection."
+
+      "keyPoints": [
+        "A food item can contain more than one nutrient.",
+        "Carbohydrates and fats mainly provide energy.",
+        "Proteins support growth and tissue repair.",
+        "Vitamins and minerals are essential for normal body functions and health.",
+        "Dietary fibre is an important part of a balanced diet.",
+        "Water is essential for the body.",
+        "A balanced diet provides essential nutrients in appropriate amounts and variety.",
+        "Prolonged deficiency of an essential nutrient may lead to a deficiency disease."
+      ],
+
+      "examFocus": [
+        "Identify the nutrient mainly associated with energy.",
+        "Identify the main functions of proteins.",
+        "Recognise that one food item can contain multiple nutrients.",
+        "Identify the correct meaning of a balanced diet.",
+        "Match nutrients with their major functions.",
+        "Identify deficiency-related questions correctly.",
+        "Distinguish dietary fibre and water from the main energy-giving nutrients."
+      ],
+
+      "examTraps": [
+        {
+          "title": "Energy = Only Carbohydrates?",
+          "fact": "Carbohydrates are a major source of energy, but fats also provide energy.",
+          "confusion": "Read the exact wording of the question instead of automatically selecting carbohydrates whenever 'energy' appears."
+        },
+        {
+          "title": "Protein = Only Body Building?",
+          "fact": "Protein supports both growth and repair of body tissues.",
+          "confusion": "Remember both growth and repair."
+        },
+        {
+          "title": "Vitamins and Minerals Are the Same?",
+          "fact": "Both are important micronutrients, but vitamins and minerals are different categories of substances.",
+          "confusion": "Do not treat vitamin and mineral as interchangeable terms."
+        },
+        {
+          "title": "Roughage = Energy Nutrient?",
+          "fact": "Dietary fibre is an important food component but should not be treated as a major energy-giving nutrient.",
+          "confusion": "Distinguish food components from major energy-giving nutrients."
+        },
+        {
+          "title": "Balanced Diet = Eating More?",
+          "fact": "A balanced diet means appropriate variety and amounts of essential nutrients.",
+          "confusion": "Quantity and balance are not the same thing."
+        },
+        {
+          "title": "One Food = One Nutrient?",
+          "fact": "A food item can contain multiple nutrients.",
+          "confusion": "Do not assign only one nutrient to a food item without considering the question."
+        }
+      ],
+
+      "thinkBeforeAnswer": [
+        "Does the question ask for the main function or just one function?",
+        "Is the question asking for a nutrient or a food source?",
+        "Is the nutrient-function pair actually correct?",
+        "Is the question asking about a deficiency disease or the deficient nutrient?",
+        "Is the question about a balanced diet or an energy-rich food?",
+        "If two options look correct, reread the exact wording and scope of the question."
+      ],
+
+      "memoryTricks": [
+        "Carbohydrates + Fats → Energy",
+        "Proteins → Growth + Repair",
+        "Vitamins + Minerals → Health + Normal Body Functions",
+        "Roughage → Important dietary fibre",
+        "Water → Essential for the body",
+        "Think in three broad roles: Energy — Build/Repair — Maintain/Regulate.",
+        "Never reduce protein to only 'body building'; remember growth + repair."
+      ],
+
+      "pyqSignals": [
+        "Matching nutrients with their functions is a useful objective-question pattern.",
+        "Energy-related questions may involve both carbohydrates and fats.",
+        "Protein questions commonly test growth and repair.",
+        "Balanced-diet questions test the idea of appropriate variety and amounts.",
+        "Dietary fibre and water may be tested as important components of the diet.",
+        "Deficiency questions may test the relationship between a nutrient and its deficiency condition."
+      ],
+
+      "mustRemember": [
+        "Carbohydrates → Major energy source",
+        "Fats → Important energy source",
+        "Proteins → Growth and tissue repair",
+        "Vitamins → Essential for health and normal body functions",
+        "Minerals → Essential elements required by the body",
+        "Roughage → Important dietary fibre",
+        "Water → Essential for the body",
+        "Balanced diet → Appropriate balance of essential nutrients",
+        "Deficiency disease → Health problem associated with prolonged lack of an essential nutrient"
+      ],
+
+      "quickRevision": "30-second revision: Food → Nutrients → Carbohydrates/Fats = Energy → Proteins = Growth + Repair → Vitamins/Minerals = Health + Normal Functions → Roughage = Dietary Fibre → Water = Essential → Appropriate variety and amounts = Balanced Diet → Prolonged nutrient deficiency = Deficiency Disease."
     }
   }
 }
