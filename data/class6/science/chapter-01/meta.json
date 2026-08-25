@@ -1,0 +1,42 @@
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": { "hi": "विज्ञान", "en": "Science" },
+  "chapter": "chapter-01",
+  "chapterNumber": 1,
+  "chapterName": { "hi": "भोजन के घटक", "en": "Components of Food" },
+  "topics": [
+    { "id": "nutrients-overview", "name": { "hi": "पोषक तत्वों का परिचय", "en": "Introduction to Nutrients" } },
+    { "id": "carbohydrates-fats", "name": { "hi": "कार्बोहाइड्रेट व वसा", "en": "Carbohydrates & Fats" } },
+    { "id": "proteins", "name": { "hi": "प्रोटीन", "en": "Proteins" } },
+    { "id": "vitamins-minerals", "name": { "hi": "विटामिन व खनिज", "en": "Vitamins & Minerals" } },
+    { "id": "balanced-diet", "name": { "hi": "संतुलित आहार", "en": "Balanced Diet" } },
+    { "id": "deficiency-diseases", "name": { "hi": "अभावजन्य रोग", "en": "Deficiency Diseases" } }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "भोजन में मौजूद पोषक तत्व — कार्बोहाइड्रेट, वसा, प्रोटीन, विटामिन, खनिज और जल — हमारे शरीर को ऊर्जा, वृद्धि और सुरक्षा प्रदान करते हैं। हर पोषक तत्व का शरीर में एक अलग काम होता है।",
+      "example": "उदाहरण: चावल और आलू से कार्बोहाइड्रेट मिलता है जो ऊर्जा देता है, जबकि दाल और अंडा प्रोटीन देते हैं जो शरीर की वृद्धि में मदद करता है।",
+      "keyPoints": [
+        "कार्बोहाइड्रेट व वसा शरीर को ऊर्जा देते हैं",
+        "प्रोटीन शरीर की वृद्धि व मरम्मत करता है",
+        "विटामिन व खनिज शरीर को रोगों से बचाते हैं",
+        "संतुलित आहार में सभी पोषक तत्व सही मात्रा में होते हैं",
+        "किसी पोषक तत्व की कमी से अभावजन्य रोग होते हैं"
+      ],
+      "quickRevision": "याद रखें: ऊर्जा के लिए कार्बोहाइड्रेट/वसा, वृद्धि के लिए प्रोटीन, सुरक्षा के लिए विटामिन/खनिज।"
+    },
+    "en": {
+      "concept": "Nutrients present in food — carbohydrates, fats, proteins, vitamins, minerals and water — give our body energy, growth and protection. Each nutrient performs a distinct role in the body.",
+      "example": "Example: Rice and potatoes provide carbohydrates for energy, while pulses and eggs provide protein that helps the body grow.",
+      "keyPoints": [
+        "Carbohydrates and fats provide energy to the body",
+        "Proteins help in growth and repair of the body",
+        "Vitamins and minerals protect the body from diseases",
+        "A balanced diet contains all nutrients in the right amount",
+        "Lack of a nutrient causes a deficiency disease"
+      ],
+      "quickRevision": "Remember: Carbs/fats for energy, protein for growth, vitamins/minerals for protection."
+    }
+  }
+}
