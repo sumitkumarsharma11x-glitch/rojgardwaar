@@ -9,7 +9,7 @@
   },
   "questions": [
     {
-      "id": "ch03-q001",
+      "id": "SCI6-CH03-Q001",
       "topic": "variety-in-fabrics",
       "question": {
         "hi": "कपड़ा मुख्यतः किससे बना होता है?",
@@ -29,14 +29,24 @@
           "Only paper"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "रेशों से सूत और सूत से वस्त्र/कपड़ा बनाया जाता है।",
         "en": "Fibres are converted into yarn, and yarn is used to make fabric."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "variety-in-fabrics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q002",
+      "id": "SCI6-CH03-Q002",
       "topic": "fibres",
       "question": {
         "hi": "निम्न में से कौन-सा प्राकृतिक पादप रेशा है?",
@@ -56,14 +66,24 @@
           "Acrylic"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "कपास पौधे से प्राप्त प्राकृतिक रेशा है।",
         "en": "Cotton is a natural fibre obtained from a plant."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q003",
+      "id": "SCI6-CH03-Q003",
       "topic": "fibres",
       "question": {
         "hi": "निम्न में से कौन-सा सिंथेटिक रेशे का उदाहरण है?",
@@ -83,14 +103,24 @@
           "Jute"
         ]
       },
-      "answer": 2,
       "explanation": {
         "hi": "नायलॉन मानव द्वारा बनाया गया सिंथेटिक रेशा है।",
         "en": "Nylon is a synthetic fibre made by humans."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 2,
+      "tags": [
+        "fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q004",
+      "id": "SCI6-CH03-Q004",
       "topic": "plant-fibres",
       "question": {
         "hi": "कपास के रेशे कहाँ पाए जाते हैं?",
@@ -110,14 +140,24 @@
           "In silk leaves"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "कपास की परिपक्व फलियों में बीजों के चारों ओर कपास के रेशे पाए जाते हैं।",
         "en": "Cotton fibres are found around the seeds inside mature cotton bolls."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "plant-fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q005",
+      "id": "SCI6-CH03-Q005",
       "topic": "plant-fibres",
       "question": {
         "hi": "जूट का रेशा पौधे के किस भाग से प्राप्त होता है?",
@@ -137,14 +177,24 @@
           "Fruit"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "जूट का रेशा जूट के पौधे के तने से प्राप्त होता है।",
         "en": "Jute fibre is obtained from the stem of the jute plant."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "plant-fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q006",
+      "id": "SCI6-CH03-Q006",
       "topic": "plant-fibres",
       "question": {
         "hi": "कपास के रेशों को बीजों से अलग करने की प्रक्रिया क्या कहलाती है?",
@@ -164,14 +214,24 @@
           "Knitting"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "कपास के रेशों को बीजों से अलग करने की प्रक्रिया ginning कहलाती है।",
         "en": "The separation of cotton fibres from seeds is called ginning."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "plant-fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q007",
+      "id": "SCI6-CH03-Q007",
       "topic": "spinning-cotton-yarn",
       "question": {
         "hi": "रेशों से सूत बनाने की प्रक्रिया क्या कहलाती है?",
@@ -191,14 +251,24 @@
           "Knitting"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "रेशों को खींचकर और मोड़कर/ऐंठकर सूत बनाने की प्रक्रिया spinning कहलाती है।",
         "en": "Drawing and twisting fibres together to make yarn is called spinning."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "spinning-cotton-yarn"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q008",
+      "id": "SCI6-CH03-Q008",
       "topic": "spinning-cotton-yarn",
       "question": {
         "hi": "निम्न में से कौन-सा कताई का पारंपरिक उपकरण है?",
@@ -218,14 +288,24 @@
           "Needle"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "तकली हाथ से कताई के लिए प्रयोग होने वाला पारंपरिक उपकरण है।",
         "en": "Takli is a traditional hand-operated device used for spinning."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "spinning-cotton-yarn"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q009",
+      "id": "SCI6-CH03-Q009",
       "topic": "spinning-cotton-yarn",
       "question": {
         "hi": "चरखा मुख्यतः किस काम के लिए प्रयोग किया जाता है?",
@@ -245,14 +325,24 @@
           "Dyeing"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "चरखा रेशों से सूत बनाने के लिए कताई में उपयोग किया जाता है।",
         "en": "A charkha is used for spinning fibres into yarn."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "spinning-cotton-yarn"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q010",
+      "id": "SCI6-CH03-Q010",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "सूत से कपड़ा बनाने की मुख्य प्रक्रियाएँ कौन-सी हैं?",
@@ -272,14 +362,24 @@
           "Filtering and drying"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "सूत से fabric बनाने की मुख्य प्रक्रियाएँ weaving और knitting हैं।",
         "en": "The main processes of making fabric from yarn are weaving and knitting."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q011",
+      "id": "SCI6-CH03-Q011",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "Weaving में सामान्यतः कितने sets of yarn व्यवस्थित किए जाते हैं?",
@@ -299,14 +399,24 @@
           "None"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "Weaving में दो sets of yarn को व्यवस्थित करके fabric बनाया जाता है।",
         "en": "Weaving arranges two sets of yarn to make fabric."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q012",
+      "id": "SCI6-CH03-Q012",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "Knitting में सामान्यतः किसका उपयोग करके fabric बनाया जा सकता है?",
@@ -326,14 +436,24 @@
           "Only seeds"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "Knitting में एक yarn को loop करके fabric बनाया जा सकता है।",
         "en": "Knitting can make fabric by forming loops with a single yarn."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q013",
+      "id": "SCI6-CH03-Q013",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "करघा (loom) किस प्रक्रिया में उपयोगी है?",
@@ -353,14 +473,24 @@
           "Fibre separation"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "करघे पर yarn के sets को व्यवस्थित करके fabric बनाया जाता है।",
         "en": "A loom arranges sets of yarn to make fabric by weaving."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q014",
+      "id": "SCI6-CH03-Q014",
       "topic": "history-of-clothing-material",
       "question": {
         "hi": "प्राचीन समय में लोग शरीर ढकने के लिए इनमें से किसका उपयोग करते थे?",
@@ -380,14 +510,24 @@
           "Only plastic"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "प्राचीन लोग पेड़ों की छाल, बड़े पत्ते, पशुओं की खाल और फर आदि का उपयोग करते थे।",
         "en": "Ancient people used tree bark, large leaves, animal skins and furs."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "easy",
+      "type": "factual",
+      "correctAnswer": 0,
+      "tags": [
+        "history-of-clothing-material"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q015",
+      "id": "SCI6-CH03-Q015",
       "topic": "history-of-clothing-material",
       "question": {
         "hi": "सिलाई की सुई के आविष्कार ने किसके विकास में सहायता की?",
@@ -407,14 +547,24 @@
           "Ginning"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "सिलाई की सुई ने कपड़े के टुकड़ों को सिलकर वस्त्र बनाने में सहायता की।",
         "en": "The sewing needle helped people make stitched clothes."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "history-of-clothing-material"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q016",
+      "id": "SCI6-CH03-Q016",
       "topic": "fibres",
       "question": {
         "hi": "निम्न में से कौन-सा animal fibre है?",
@@ -434,14 +584,24 @@
           "Nylon"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "ऊन जन्तु से प्राप्त प्राकृतिक रेशा है।",
         "en": "Wool is a natural fibre obtained from an animal."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q017",
+      "id": "SCI6-CH03-Q017",
       "topic": "fibres",
       "question": {
         "hi": "रेशम (silk) किस प्रकार का रेशा है?",
@@ -461,14 +621,24 @@
           "Artificial mineral"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "रेशम एक प्राकृतिक जन्तु रेशा है।",
         "en": "Silk is a natural animal fibre."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q018",
+      "id": "SCI6-CH03-Q018",
       "topic": "plant-fibres",
       "question": {
         "hi": "कपास और जूट में क्या समानता है?",
@@ -488,14 +658,24 @@
           "Both are metals"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "कपास और जूट दोनों पौधों से प्राप्त प्राकृतिक रेशे हैं।",
         "en": "Cotton and jute are both natural fibres obtained from plants."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "plant-fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q019",
+      "id": "SCI6-CH03-Q019",
       "topic": "spinning-cotton-yarn",
       "question": {
         "hi": "Spinning के दौरान fibres के साथ क्या किया जाता है?",
@@ -515,14 +695,24 @@
           "They are melted"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "Spinning में fibres को draw और twist करके yarn बनाया जाता है।",
         "en": "During spinning, fibres are drawn and twisted together to form yarn."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "spinning-cotton-yarn"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q020",
+      "id": "SCI6-CH03-Q020",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "Fibre से fabric तक सही क्रम कौन-सा है?",
@@ -542,14 +732,24 @@
           "Fabric → Yarn → Fibre"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "पहले fibres से yarn बनता है और फिर yarn से fabric।",
         "en": "First fibres are converted into yarn, and then yarn is made into fabric."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q021",
+      "id": "SCI6-CH03-Q021",
       "topic": "plant-fibres",
       "question": {
         "hi": "जूट के तनों को पानी में भिगोने का उद्देश्य क्या है?",
@@ -569,14 +769,24 @@
           "To make the fibre synthetic"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "जूट के तनों को पानी में भिगोने से रेशों को अलग करना आसान होता है।",
         "en": "Immersing jute stems in water helps in separating the fibres."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "plant-fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q022",
+      "id": "SCI6-CH03-Q022",
       "topic": "variety-in-fabrics",
       "question": {
         "hi": "किसी fabric को ध्यान से देखने पर क्या दिखाई दे सकता है?",
@@ -596,14 +806,24 @@
           "Only leaves"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "Fabric सूत/yarn से बना होता है, इसलिए उसकी संरचना में yarn दिखाई दे सकता है।",
         "en": "Since fabric is made from yarn, its yarn structure can be observed closely."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "variety-in-fabrics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q023",
+      "id": "SCI6-CH03-Q023",
       "topic": "history-of-clothing-material",
       "question": {
         "hi": "निम्न में से कौन-सा unstitched clothing का उदाहरण हो सकता है?",
@@ -623,14 +843,24 @@
           "Stitched trousers"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "साड़ी को सामान्यतः एक लंबे, बिना सिले कपड़े के रूप में पहना जाता है।",
         "en": "A saree is commonly worn as a long, unstitched piece of fabric."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "history-of-clothing-material"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q024",
+      "id": "SCI6-CH03-Q024",
       "topic": "fibres",
       "question": {
         "hi": "निम्न में से कौन-सा pair सही है?",
@@ -650,14 +880,24 @@
           "Jute—metal"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "कपास पौधे से प्राप्त प्राकृतिक पादप रेशा है।",
         "en": "Cotton is a natural plant fibre."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q025",
+      "id": "SCI6-CH03-Q025",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "यदि yarn के दो sets को आपस में व्यवस्थित किया जाए, तो यह किस प्रक्रिया का संकेत है?",
@@ -677,14 +917,24 @@
           "Spinning"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "दो sets of yarn को व्यवस्थित करके fabric बनाना weaving है।",
         "en": "Arranging two sets of yarn to make fabric is weaving."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "hard",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q026",
+      "id": "SCI6-CH03-Q026",
       "topic": "yarn-to-fabric",
       "question": {
         "hi": "एक yarn से loops बनाकर fabric बनाने की प्रक्रिया कौन-सी है?",
@@ -704,14 +954,24 @@
           "Spinning"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "Knitting में yarn के loops बनाकर fabric तैयार किया जाता है।",
         "en": "Knitting makes fabric by forming loops with yarn."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "hard",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "yarn-to-fabric"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q027",
+      "id": "SCI6-CH03-Q027",
       "topic": "spinning-cotton-yarn",
       "question": {
         "hi": "निम्न में से कौन-सा sequence सही है?",
@@ -731,14 +991,24 @@
           "Jute → Knitting → Seeds"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "Spinning में fibre को yarn में बदला जाता है।",
         "en": "Spinning converts fibre into yarn."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "hard",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "spinning-cotton-yarn"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q028",
+      "id": "SCI6-CH03-Q028",
       "topic": "plant-fibres",
       "question": {
         "hi": "निम्न में से कौन-सा cotton से संबंधित सही statement है?",
@@ -758,14 +1028,24 @@
           "Cotton is an animal fibre"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "कपास की फलियों में बीजों के आसपास cotton fibres पाए जाते हैं।",
         "en": "Cotton fibres are found around the seeds in cotton bolls."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "hard",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "plant-fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q029",
+      "id": "SCI6-CH03-Q029",
       "topic": "fibres",
       "question": {
         "hi": "यदि किसी रेशे का स्रोत पौधा या जन्तु है, तो वह किस श्रेणी में आएगा?",
@@ -785,14 +1065,24 @@
           "Mineral fibre"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "पौधों और जन्तुओं से प्राप्त रेशे प्राकृतिक रेशे कहलाते हैं।",
         "en": "Fibres obtained from plants or animals are natural fibres."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "hard",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "fibres"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     },
     {
-      "id": "ch03-q030",
+      "id": "SCI6-CH03-Q030",
       "topic": "history-of-clothing-material",
       "question": {
         "hi": "प्राचीन लोगों द्वारा उपयोग की जाने वाली clothing material में क्या शामिल था?",
@@ -812,11 +1102,21 @@
           "Rayon"
         ]
       },
-      "answer": 0,
       "explanation": {
         "hi": "प्राचीन समय में पशुओं की खाल और फर जैसे प्राकृतिक पदार्थों का उपयोग किया जाता था।",
         "en": "Natural materials such as animal skins and furs were used in ancient times."
-      }
+      },
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-03",
+      "difficulty": "hard",
+      "type": "conceptual",
+      "correctAnswer": 0,
+      "tags": [
+        "history-of-clothing-material"
+      ],
+      "verified": true,
+      "railwayRelevant": false
     }
   ]
 }
