@@ -471,3 +471,62 @@
     }
   }
 }
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-01",
+  "chapterNumber": 1,
+  "chapterName": {
+    "hi": "भोजन के घटक",
+    "en": "Components of Food"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "nutrients-overview",
+      "name": {
+        "hi": "पोषक तत्वों का परिचय",
+        "en": "Introduction to Nutrients"
+      }
+    },
+    {
+      "id": "carbohydrates-fats",
+      "name": {
+        "hi": "कार्बोहाइड्रेट व वसा",
+        "en": "Carbohydrates & Fats"
+      }
+    },
+    {
+      "id": "proteins",
+      "name": {
+        "hi": "प्रोटीन",
+        "en": "Proteins"
+      }
+    },
+    {
+      "id": "vitamins-minerals",
+      "name": {
+        "hi": "विटामिन व खनिज",
+        "en": "Vitamins & Minerals"
+      }
+    },
+    {
+      "id": "balanced-diet",
+      "name": {
+        "hi": "संतुलित आहार",
+        "en": "Balanced Diet"
+      }
+    },
+    {
+      "id": "deficiency-diseases",
+      "name": {
+        "hi": "अभावजन्य रोग",
+        "en": "Deficiency Diseases"
+      }
+    }
+  ]
+}
