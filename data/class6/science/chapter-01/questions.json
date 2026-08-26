@@ -1,1843 +1,290 @@
-{
-  "questions": [
-    {
-      "id": "SCI6-CH01-Q001",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "what-are-nutrients",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "भोजन के उन घटकों को क्या कहते हैं जो शरीर को पोषण देते हैं?",
-        "en": "The components of food that provide nourishment to the body are called?"
-      },
-      "options": {
-        "hi": [
-          "पोषक तत्व",
-          "खनिज पदार्थ",
-          "विटामिन",
-          "रेशे"
-        ],
-        "en": [
-          "Nutrients",
-          "Minerals",
-          "Vitamins",
-          "Fibres"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "भोजन में मौजूद पोषण देने वाले घटकों को पोषक तत्व (nutrients) कहते हैं।",
-        "en": "The nourishing components present in food are called nutrients."
-      },
-      "tags": [
-        "basics"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+[
+  {
+    "id": "ch1_q101",
+    "topic": "nutrients-overview",
+    "difficulty": "easy",
+    "question": {
+      "hi": "हमारे भोजन में उपस्थित वे मुख्य घटक जो शरीर की वृद्धि, ऊर्जा और सामान्य कार्यों के लिए आवश्यक होते हैं, क्या कहलाते हैं?",
+      "en": "What are the major components present in our food that are essential for body growth, energy, and normal functions called?"
     },
-    {
-      "id": "SCI6-CH01-Q002",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "components-of-food",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "निम्नलिखित में से कौन भोजन का मुख्य पोषक तत्व नहीं है?",
-        "en": "Which of the following is NOT a major nutrient of food?"
-      },
-      "options": {
-        "hi": [
-          "कार्बोहाइड्रेट",
-          "प्रोटीन",
-          "प्लास्टिक",
-          "वसा"
-        ],
-        "en": [
-          "Carbohydrate",
-          "Protein",
-          "Plastic",
-          "Fat"
-        ]
-      },
-      "correctAnswer": 2,
-      "explanation": {
-        "hi": "प्लास्टिक भोजन का पोषक तत्व नहीं है; यह शरीर द्वारा उपयोग नहीं किया जाता।",
-        "en": "Plastic is not a nutrient; it cannot be used by the body."
-      },
-      "tags": [
-        "basics"
+    "options": {
+      "hi": [
+        "पोषक तत्व (Nutrients)",
+        "केवल कचरा",
+        "अपशिष्ट पदार्थ",
+        "इनमें से कोई नहीं"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Nutrients",
+        "Only waste",
+        "Waste material",
+        "None of these"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q003",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "testing-methods",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "स्टार्च की उपस्थिति जांचने के लिए किस विलयन का उपयोग किया जाता है?",
-        "en": "Which solution is used to test the presence of starch?"
-      },
-      "options": {
-        "hi": [
-          "आयोडीन विलयन",
-          "कॉपर सल्फेट विलयन",
-          "नमक का घोल",
-          "नींबू का रस"
-        ],
-        "en": [
-          "Iodine solution",
-          "Copper sulphate solution",
-          "Salt solution",
-          "Lemon juice"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "आयोडीन विलयन डालने पर स्टार्च नीला-काला रंग दिखाता है, जिससे इसकी उपस्थिति पता चलती है।",
-        "en": "Starch turns blue-black when iodine solution is added, confirming its presence."
-      },
-      "tags": [
-        "experiment"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q102",
+    "topic": "nutrients-overview",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या एक ही खाद्य पदार्थ में एक से अधिक पोषक तत्व हो सकते हैं?",
+      "en": "Can a single food item contain more than one nutrient?"
     },
-    {
-      "id": "SCI6-CH01-Q004",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "testing-methods",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "राम ने आलू के टुकड़े पर आयोडीन विलयन डाला और रंग नीला-काला हो गया। इससे क्या पता चलता है?",
-        "en": "Ram put iodine solution on a piece of potato and the colour turned blue-black. What does this indicate?"
-      },
-      "options": {
-        "hi": [
-          "आलू में स्टार्च है",
-          "आलू में प्रोटीन है",
-          "आलू में वसा है",
-          "आलू में पानी नहीं है"
-        ],
-        "en": [
-          "Potato contains starch",
-          "Potato contains protein",
-          "Potato contains fat",
-          "Potato has no water"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "नीला-काला रंग स्टार्च की उपस्थिति दर्शाता है, इसलिए आलू में स्टार्च मौजूद है।",
-        "en": "A blue-black colour indicates the presence of starch, so the potato contains starch."
-      },
-      "tags": [
-        "experiment",
-        "daily-life"
+    "options": {
+      "hi": [
+        "हाँ, हो सकते हैं",
+        "नहीं, कभी नहीं",
+        "केवल दूध में ही हो सकते हैं",
+        "इनमें से कोई नहीं"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Yes, it can",
+        "No, never",
+        "Only in milk",
+        "None of these"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q005",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "testing-methods",
-      "difficulty": "hard",
-      "type": "reasoning",
-      "question": {
-        "hi": "प्रोटीन की जांच में कॉपर सल्फेट और कॉस्टिक सोडा मिलाने पर बैंगनी रंग क्यों प्रकट होता है?",
-        "en": "Why does a violet colour appear when copper sulphate and caustic soda are added while testing for protein?"
-      },
-      "options": {
-        "hi": [
-          "क्योंकि यह प्रोटीन की विशेष पहचान अभिक्रिया है",
-          "क्योंकि पानी वाष्पित हो जाता है",
-          "क्योंकि स्टार्च टूट जाता है",
-          "क्योंकि यह एक रंग बदलने वाला अम्ल है"
-        ],
-        "en": [
-          "Because it is a specific identification reaction for protein",
-          "Because water evaporates",
-          "Because starch breaks down",
-          "Because it is a colour-changing acid"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "कॉपर सल्फेट व कॉस्टिक सोडा प्रोटीन के साथ अभिक्रिया करके विशिष्ट बैंगनी रंग देते हैं, यह प्रोटीन की पहचान की मानक विधि है।",
-        "en": "Copper sulphate and caustic soda react specifically with protein to give a violet colour — this is the standard test for identifying protein."
-      },
-      "tags": [
-        "experiment"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q103",
+    "topic": "carbohydrates-fats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्नलिखित में से कौन से पोषक तत्व मुख्य रूप से हमारे शरीर को ऊर्जा प्रदान करते हैं?",
+      "en": "Which of the following nutrients mainly provide energy to our body?"
     },
-    {
-      "id": "SCI6-CH01-Q006",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "food-sources",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "निम्न में से कौन सा भोजन मुख्यतः पौधों से प्राप्त होता है?",
-        "en": "Which of these foods is mainly obtained from plants?"
-      },
-      "options": {
-        "hi": [
-          "चावल",
-          "अंडा",
-          "दूध",
-          "मछली"
-        ],
-        "en": [
-          "Rice",
-          "Egg",
-          "Milk",
-          "Fish"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "चावल एक पादप स्रोत है, जबकि अंडा, दूध व मछली जंतु स्रोत हैं।",
-        "en": "Rice is a plant source, while egg, milk and fish are animal sources."
-      },
-      "tags": [
-        "food-sources"
+    "options": {
+      "hi": [
+        "कार्बोहाइड्रेट और वसा",
+        "केवल प्रोटीन",
+        "केवल विटामिन",
+        "खनिज लवण"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Carbohydrates and fats",
+        "Only proteins",
+        "Only vitamins",
+        "Minerals"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q007",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "food-sources",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "सीमा शाकाहारी है। उसे प्रोटीन प्राप्त करने के लिए निम्न में से क्या खाना चाहिए?",
-        "en": "Seema is a vegetarian. Which of the following should she eat to get protein?"
-      },
-      "options": {
-        "hi": [
-          "दाल",
-          "चावल",
-          "आलू",
-          "चीनी"
-        ],
-        "en": [
-          "Pulses (dal)",
-          "Rice",
-          "Potato",
-          "Sugar"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "दालें प्रोटीन का एक अच्छा शाकाहारी स्रोत हैं।",
-        "en": "Pulses are a good vegetarian source of protein."
-      },
-      "tags": [
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q104",
+    "topic": "carbohydrates-fats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चावल, गेहूँ, मक्का और आलू मुख्य रूप से किसके स्रोत हैं?",
+      "en": "Rice, wheat, maize, and potatoes are mainly sources of which nutrient?"
     },
-    {
-      "id": "SCI6-CH01-Q008",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "nutrients-overview",
-      "subtopic": "food-sources",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "एक भोजन में चावल, दाल, सब्जी और दही शामिल है। इसमें किन-किन मुख्य पोषक तत्वों की संभावना सबसे अधिक है?",
-        "en": "A meal contains rice, dal, vegetables and curd. Which main nutrients are most likely present?"
-      },
-      "options": {
-        "hi": [
-          "कार्बोहाइड्रेट, प्रोटीन, विटामिन-खनिज",
-          "केवल वसा",
-          "केवल जल",
-          "केवल रेशे"
-        ],
-        "en": [
-          "Carbohydrates, proteins, vitamins-minerals",
-          "Only fats",
-          "Only water",
-          "Only fibres"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "चावल कार्बोहाइड्रेट, दाल व दही प्रोटीन, और सब्जियाँ विटामिन-खनिज प्रदान करती हैं — यह एक संतुलित थाली का उदाहरण है।",
-        "en": "Rice gives carbohydrates, dal and curd give protein, and vegetables give vitamins-minerals — this is an example of a balanced plate."
-      },
-      "tags": [
-        "daily-life",
-        "balanced-diet"
+    "options": {
+      "hi": [
+        "कार्बोहाइड्रेट",
+        "प्रोटीन",
+        "विटामिन डी",
+        "आयोडीन"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Carbohydrates",
+        "Protein",
+        "Vitamin D",
+        "Iodine"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q009",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "function",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "कार्बोहाइड्रेट का शरीर में मुख्य कार्य क्या है?",
-        "en": "What is the main function of carbohydrates in the body?"
-      },
-      "options": {
-        "hi": [
-          "ऊर्जा प्रदान करना",
-          "शरीर की वृद्धि",
-          "रोगों से रक्षा",
-          "हड्डियाँ मजबूत करना"
-        ],
-        "en": [
-          "Provide energy",
-          "Body growth",
-          "Protect from diseases",
-          "Strengthen bones"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "कार्बोहाइड्रेट शरीर को ऊर्जा प्रदान करने का मुख्य स्रोत हैं।",
-        "en": "Carbohydrates are the main source of energy for the body."
-      },
-      "tags": [
-        "function"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q105",
+    "topic": "proteins",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शरीर की वृद्धि तथा क्षतिग्रस्त ऊतकों की मरम्मत के लिए कौन सा पोषक तत्व सबसे अधिक महत्वपूर्ण है?",
+      "en": "Which nutrient is most important for body growth and repair of damaged tissues?"
     },
-    {
-      "id": "SCI6-CH01-Q010",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "sources",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "निम्न में से कार्बोहाइड्रेट का समृद्ध स्रोत कौन सा है?",
-        "en": "Which of these is a rich source of carbohydrates?"
-      },
-      "options": {
-        "hi": [
-          "चावल",
-          "अंडे का सफेद भाग",
-          "घी",
-          "पनीर"
-        ],
-        "en": [
-          "Rice",
-          "Egg white",
-          "Ghee",
-          "Paneer"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "चावल, गेहूं जैसे अनाज कार्बोहाइड्रेट के समृद्ध स्रोत हैं।",
-        "en": "Cereals like rice and wheat are rich sources of carbohydrates."
-      },
-      "tags": [
-        "food-sources"
+    "options": {
+      "hi": [
+        "प्रोटीन (Proteins)",
+        "कार्बोहाइड्रेट",
+        "रफेज",
+        "जल"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Proteins",
+        "Carbohydrates",
+        "Roughage",
+        "Water"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q011",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "comparison",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "समान मात्रा में वसा और कार्बोहाइड्रेट में से कौन अधिक ऊर्जा देता है?",
-        "en": "For the same amount, which gives more energy — fat or carbohydrate?"
-      },
-      "options": {
-        "hi": [
-          "वसा",
-          "कार्बोहाइड्रेट",
-          "दोनों बराबर",
-          "कोई ऊर्जा नहीं देता"
-        ],
-        "en": [
-          "Fat",
-          "Carbohydrate",
-          "Both equal",
-          "Neither gives energy"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "समान मात्रा में वसा, कार्बोहाइड्रेट की तुलना में अधिक ऊर्जा देती है।",
-        "en": "For the same quantity, fat provides more energy than carbohydrate."
-      },
-      "tags": [
-        "comparison"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q106",
+    "topic": "proteins",
+    "difficulty": "medium",
+    "question": {
+      "hi": "दालें, सोयाबीन, पनीर और अंडे निम्नलिखित में से किस मुख्य पोषक तत्व के अच्छे स्रोत हैं?",
+      "en": "Pulses, soybean, paneer, and eggs are good sources of which major nutrient?"
     },
-    {
-      "id": "SCI6-CH01-Q012",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "daily-life",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "सर्दियों में लोग अक्सर घी/मक्खन युक्त भोजन अधिक खाते हैं। इसका मुख्य कारण क्या है?",
-        "en": "In winters, people often eat more ghee/butter-rich food. What is the main reason?"
-      },
-      "options": {
-        "hi": [
-          "वसा शरीर को अधिक ऊर्जा व गर्मी देती है",
-          "वसा से हड्डियाँ मजबूत होती हैं",
-          "वसा पानी की कमी पूरी करती है",
-          "वसा रोगों से बचाती है"
-        ],
-        "en": [
-          "Fat provides more energy and warmth to the body",
-          "Fat strengthens bones",
-          "Fat fulfils water deficiency",
-          "Fat protects from diseases"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "वसा अधिक ऊर्जा प्रदान करती है, जो सर्दियों में शरीर को गर्म रखने में मदद करती है।",
-        "en": "Fat provides more energy, which helps keep the body warm in winter."
-      },
-      "tags": [
-        "daily-life"
+    "options": {
+      "hi": [
+        "प्रोटीन",
+        "वसा",
+        "कार्बोहाइड्रेट",
+        "विटामिन सी"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Protein",
+        "Fat",
+        "Carbohydrate",
+        "Vitamin C"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q013",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "test",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "किसी खाद्य पदार्थ को कागज पर रगड़ने से पारदर्शी (translucent) चिकना धब्बा बनता है। यह किसकी उपस्थिति दर्शाता है?",
-        "en": "Rubbing a food item on paper leaves a translucent greasy spot. What does this indicate?"
-      },
-      "options": {
-        "hi": [
-          "वसा की उपस्थिति",
-          "स्टार्च की उपस्थिति",
-          "प्रोटीन की उपस्थिति",
-          "जल की उपस्थिति"
-        ],
-        "en": [
-          "Presence of fat",
-          "Presence of starch",
-          "Presence of protein",
-          "Presence of water"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "वसा कागज पर पारदर्शी चिकना धब्बा छोड़ती है, यह वसा की पहचान की सरल विधि है।",
-        "en": "Fat leaves a translucent greasy spot on paper — this is a simple way to test for fat."
-      },
-      "tags": [
-        "experiment"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q107",
+    "topic": "vitamins-minerals",
+    "difficulty": "easy",
+    "question": {
+      "hi": "शरीर को रोगों से बचाने और स्वस्थ रखने के लिए अल्प मात्रा में किसकी आवश्यकता होती है?",
+      "en": "What is required in small quantities to protect the body from diseases and keep it healthy?"
     },
-    {
-      "id": "SCI6-CH01-Q014",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "excess",
-      "difficulty": "hard",
-      "type": "reasoning",
-      "question": {
-        "hi": "अत्यधिक वसा युक्त भोजन खाने से क्या समस्या हो सकती है?",
-        "en": "What problem can arise from eating excess fatty food?"
-      },
-      "options": {
-        "hi": [
-          "मोटापा (obesity)",
-          "रतौंधी",
-          "बेरी-बेरी",
-          "रिकेट्स"
-        ],
-        "en": [
-          "Obesity",
-          "Night blindness",
-          "Beri-beri",
-          "Rickets"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "अधिक वसा शरीर में जमा होकर मोटापे का कारण बन सकती है।",
-        "en": "Excess fat gets stored in the body and can lead to obesity."
-      },
-      "tags": [
-        "health"
+    "options": {
+      "hi": [
+        "विटामिन और खनिज",
+        "केवल वसा",
+        "केवल चीनी",
+        "अतिरिक्त अनाज"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Vitamins and minerals",
+        "Only fats",
+        "Only sugar",
+        "Extra grains"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q015",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "types",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "निम्न में से कौन सा जटिल कार्बोहाइड्रेट (complex carbohydrate) का उदाहरण है?",
-        "en": "Which of these is an example of a complex carbohydrate?"
-      },
-      "options": {
-        "hi": [
-          "स्टार्च",
-          "चीनी (ग्लूकोज)",
-          "शहद",
-          "मीठा फल"
-        ],
-        "en": [
-          "Starch",
-          "Sugar (glucose)",
-          "Honey",
-          "Sweet fruit"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "स्टार्च एक जटिल कार्बोहाइड्रेट है, जबकि चीनी/ग्लूकोज सरल कार्बोहाइड्रेट है।",
-        "en": "Starch is a complex carbohydrate, while sugar/glucose is a simple carbohydrate."
-      },
-      "tags": [
-        "conceptual"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q108",
+    "topic": "vitamins-minerals",
+    "difficulty": "hard",
+    "question": {
+      "hi": "हमारे शरीर को कैल्सियम की आवश्यकता किसके लिए होती है?",
+      "en": "What does our body need calcium for?"
     },
-    {
-      "id": "SCI6-CH01-Q016",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "carbohydrates-fats",
-      "subtopic": "real-life",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "एक एथलीट को तुरंत ऊर्जा चाहिए। उसे तुरंत क्या खाना बेहतर होगा?",
-        "en": "An athlete needs instant energy. What would be better for him to eat immediately?"
-      },
-      "options": {
-        "hi": [
-          "ग्लूकोज/फल जैसा सरल कार्बोहाइड्रेट",
-          "घी जैसा वसा",
-          "पनीर जैसा प्रोटीन",
-          "रेशे युक्त भोजन"
-        ],
-        "en": [
-          "A simple carbohydrate like glucose/fruit",
-          "A fat like ghee",
-          "A protein like paneer",
-          "Fibre-rich food"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "सरल कार्बोहाइड्रेट (जैसे ग्लूकोज) तेजी से पचकर तुरंत ऊर्जा देते हैं, जबकि वसा को पचने में अधिक समय लगता है।",
-        "en": "Simple carbohydrates like glucose digest quickly and provide instant energy, while fat takes longer to digest."
-      },
-      "tags": [
-        "daily-life",
-        "application"
+    "options": {
+      "hi": [
+        "मजबूत हड्डियों और दांतों के लिए",
+        "केवल ऊर्जा के लिए",
+        "वजन बढ़ाने के लिए",
+        "पाचन रोकने के लिए"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "For strong bones and teeth",
+        "Only for energy",
+        "To increase weight",
+        "To stop digestion"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q017",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "function",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "प्रोटीन का शरीर में मुख्य कार्य क्या है?",
-        "en": "What is the main function of protein in the body?"
-      },
-      "options": {
-        "hi": [
-          "शरीर की वृद्धि व मरम्मत",
-          "ऊर्जा देना",
-          "केवल स्वाद बढ़ाना",
-          "शरीर को ठंडा रखना"
-        ],
-        "en": [
-          "Growth and repair of the body",
-          "Providing energy",
-          "Only enhancing taste",
-          "Keeping the body cool"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "प्रोटीन को 'बॉडी बिल्डिंग फूड' कहा जाता है क्योंकि यह वृद्धि और शरीर के ऊतकों की मरम्मत में मदद करता है।",
-        "en": "Protein is called a 'body-building food' because it helps in growth and repair of body tissues."
-      },
-      "tags": [
-        "function"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q109",
+    "topic": "balanced-diet",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ऐसा आहार जिसमें शरीर के लिए सभी आवश्यक पोषक तत्व, उचित मात्रा में रफेज और जल मौजूद हों, उसे क्या कहा जाता है?",
+      "en": "What is a diet called that contains all essential nutrients, appropriate amounts of roughage, and water for the body?"
     },
-    {
-      "id": "SCI6-CH01-Q018",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "sources",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "निम्न में से प्रोटीन का समृद्ध स्रोत कौन सा है?",
-        "en": "Which of these is a rich source of protein?"
-      },
-      "options": {
-        "hi": [
-          "दाल",
-          "चावल",
-          "आलू",
-          "चीनी"
-        ],
-        "en": [
-          "Pulses (dal)",
-          "Rice",
-          "Potato",
-          "Sugar"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "दालें प्रोटीन का समृद्ध शाकाहारी स्रोत हैं।",
-        "en": "Pulses are a rich vegetarian source of protein."
-      },
-      "tags": [
-        "food-sources"
+    "options": {
+      "hi": [
+        "संतुलित आहार (Balanced Diet)",
+        "असंतुलित भोजन",
+        "केवल वसायुक्त आहार",
+        "उपवास"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Balanced Diet",
+        "Unbalanced diet",
+        "Only fatty diet",
+        "Fasting"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q019",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "sources",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "निम्न में से कौन सा जंतु-स्रोत प्रोटीन का उदाहरण नहीं है?",
-        "en": "Which of these is NOT an example of animal-source protein?"
-      },
-      "options": {
-        "hi": [
-          "सेब",
-          "अंडा",
-          "मछली",
-          "दूध"
-        ],
-        "en": [
-          "Apple",
-          "Egg",
-          "Fish",
-          "Milk"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "सेब एक फल है और यह मुख्यतः विटामिन व रेशे देता है, प्रोटीन का समृद्ध स्रोत नहीं है।",
-        "en": "Apple is a fruit and mainly provides vitamins and fibre, not a rich source of protein."
-      },
-      "tags": [
-        "food-sources"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q110",
+    "topic": "balanced-diet",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या संतुलित आहार की आवश्यकता सभी आयु के लोगों के लिए एक जैसी होती है?",
+      "en": "Is the requirement of a balanced diet the same for people of all ages?"
     },
-    {
-      "id": "SCI6-CH01-Q020",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "deficiency",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "किसी बच्चे के शरीर व पेट में सूजन तथा वृद्धि रुक जाना किस पोषक तत्व की कमी का लक्षण हो सकता है?",
-        "en": "Swelling of body/belly and stunted growth in a child can be a symptom of deficiency of which nutrient?"
-      },
-      "options": {
-        "hi": [
-          "प्रोटीन",
-          "कार्बोहाइड्रेट",
-          "जल",
-          "रेशे"
-        ],
-        "en": [
-          "Protein",
-          "Carbohydrate",
-          "Water",
-          "Fibre"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "प्रोटीन की गंभीर कमी से क्वाशिओरकर (kwashiorkor) रोग होता है जिसमें पेट में सूजन व वृद्धि रुकना जैसे लक्षण दिखते हैं।",
-        "en": "Severe protein deficiency causes kwashiorkor, which shows symptoms like belly swelling and stunted growth."
-      },
-      "tags": [
-        "deficiency",
-        "health"
+    "options": {
+      "hi": [
+        "नहीं, यह आयु और शारीरिक श्रम पर निर्भर करती है",
+        "हाँ, सबकी आवश्यकता बिल्कुल समान होती है",
+        "यह केवल बच्चों के लिए है",
+        "यह केवल बुजुर्गों के लिए है"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "No, it depends on age and physical labour",
+        "Yes, everyone's requirement is exactly the same",
+        "It is only for children",
+        "It is only for elderly people"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q021",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "test",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "किसी खाद्य पदार्थ में कॉपर सल्फेट व कॉस्टिक सोडा डालने पर रंग बैंगनी हो जाता है। इसमें कौन सा पोषक तत्व मौजूद है?",
-        "en": "Adding copper sulphate and caustic soda to a food item turns it violet. Which nutrient is present?"
-      },
-      "options": {
-        "hi": [
-          "प्रोटीन",
-          "स्टार्च",
-          "वसा",
-          "जल"
-        ],
-        "en": [
-          "Protein",
-          "Starch",
-          "Fat",
-          "Water"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "यह प्रोटीन की पहचान की मानक विधि है — बैंगनी रंग प्रोटीन की उपस्थिति दर्शाता है।",
-        "en": "This is the standard test for protein — a violet colour indicates the presence of protein."
-      },
-      "tags": [
-        "experiment"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q111",
+    "topic": "deficiency-diseases",
+    "difficulty": "hard",
+    "question": {
+      "hi": "यदि किसी व्यक्ति के भोजन में लंबे समय तक किसी आवश्यक पोषक तत्व की कमी रहे, तो उससे उत्पन्न होने वाली समस्याओं को क्या कहते हैं?",
+      "en": "What are the problems caused by a prolonged lack of an essential nutrient in a person's diet called?"
     },
-    {
-      "id": "SCI6-CH01-Q022",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "growth-age",
-      "difficulty": "hard",
-      "type": "reasoning",
-      "question": {
-        "hi": "बढ़ते बच्चों और गर्भवती महिलाओं को सामान्य से अधिक प्रोटीन की आवश्यकता क्यों होती है?",
-        "en": "Why do growing children and pregnant women need more protein than usual?"
-      },
-      "options": {
-        "hi": [
-          "शरीर के नए ऊतकों के निर्माण के लिए",
-          "क्योंकि प्रोटीन स्वाद बढ़ाता है",
-          "क्योंकि प्रोटीन पानी की कमी पूरी करता है",
-          "क्योंकि प्रोटीन पचाने में आसान होता है"
-        ],
-        "en": [
-          "To build new body tissues",
-          "Because protein enhances taste",
-          "Because protein fulfils water deficiency",
-          "Because protein is easy to digest"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "प्रोटीन नई कोशिकाओं व ऊतकों के निर्माण में उपयोग होता है, इसलिए वृद्धि की अवस्था में इसकी आवश्यकता बढ़ जाती है।",
-        "en": "Protein is used to build new cells and tissues, so the requirement increases during growth stages."
-      },
-      "tags": [
-        "conceptual"
+    "options": {
+      "hi": [
+        "अभावजन्य रोग (Deficiency Diseases)",
+        "संक्रामक रोग",
+        "सामान्य जुकाम",
+        "वंशानुगत रोग"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Deficiency Diseases",
+        "Infectious diseases",
+        "Common cold",
+        "Hereditary diseases"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q023",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "balanced-meal",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "एक शाकाहारी थाली में पर्याप्त प्रोटीन सुनिश्चित करने के लिए सबसे अच्छा संयोजन कौन सा है?",
-        "en": "What is the best combination to ensure adequate protein in a vegetarian meal?"
-      },
-      "options": {
-        "hi": [
-          "दाल-चावल के साथ दूध या दही",
-          "केवल चावल",
-          "केवल आलू की सब्जी",
-          "केवल चीनी और घी"
-        ],
-        "en": [
-          "Dal-rice with milk or curd",
-          "Only rice",
-          "Only potato curry",
-          "Only sugar and ghee"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "दाल-चावल के साथ दूध/दही मिलाने से प्रोटीन की गुणवत्ता व मात्रा दोनों बेहतर होती है।",
-        "en": "Combining dal-rice with milk/curd improves both the quality and quantity of protein intake."
-      },
-      "tags": [
-        "daily-life",
-        "balanced-diet"
-      ],
-      "verified": true,
-      "railwayRelevant": false
+    "correct": 0
+  },
+  {
+    "id": "ch1_q112",
+    "topic": "deficiency-diseases",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विटामिन 'ए' की कमी से हमारे शरीर में कौन सा रोग या लक्षण उत्पन्न हो सकता है?",
+      "en": "Which disease or symptom can be caused by the deficiency of Vitamin 'A' in our body?"
     },
-    {
-      "id": "SCI6-CH01-Q024",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "proteins",
-      "subtopic": "kids",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "अंडा किस पोषक तत्व का बहुत अच्छा स्रोत माना जाता है?",
-        "en": "Egg is considered a very good source of which nutrient?"
-      },
-      "options": {
-        "hi": [
-          "प्रोटीन",
-          "रेशे",
-          "स्टार्च",
-          "शर्करा"
-        ],
-        "en": [
-          "Protein",
-          "Fibre",
-          "Starch",
-          "Sugar"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "अंडा उच्च गुणवत्ता वाले प्रोटीन का बहुत अच्छा स्रोत है।",
-        "en": "Egg is a very good source of high-quality protein."
-      },
-      "tags": [
-        "food-sources"
+    "options": {
+      "hi": [
+        "क्षीण दृष्टि (अंधيपन)",
+        "बेरी-बेरी",
+        "स्कर्वी",
+        "रिकेट्स"
       ],
-      "verified": true,
-      "railwayRelevant": false
+      "en": [
+        "Loss of vision (Night blindness)",
+        "Beriberi",
+        "Scurvy",
+        "Rickets"
+      ]
     },
-    {
-      "id": "SCI6-CH01-Q025",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "function",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "विटामिन व खनिज शरीर में मुख्यतः क्या कार्य करते हैं?",
-        "en": "What is the main function of vitamins and minerals in the body?"
-      },
-      "options": {
-        "hi": [
-          "शरीर को रोगों से बचाना",
-          "ऊर्जा प्रदान करना",
-          "शरीर की वृद्धि करना",
-          "केवल स्वाद बढ़ाना"
-        ],
-        "en": [
-          "Protecting the body from diseases",
-          "Providing energy",
-          "Growing the body",
-          "Only enhancing taste"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन व खनिज शरीर की सुरक्षा करते हैं और इन्हें 'सुरक्षात्मक भोजन' कहा जाता है।",
-        "en": "Vitamins and minerals protect the body and are called 'protective foods'."
-      },
-      "tags": [
-        "function"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q026",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "vitamin-a",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "आँखों की रोशनी के लिए कौन सा विटामिन आवश्यक है?",
-        "en": "Which vitamin is essential for eyesight?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन A",
-          "विटामिन C",
-          "विटामिन D",
-          "विटामिन K"
-        ],
-        "en": [
-          "Vitamin A",
-          "Vitamin C",
-          "Vitamin D",
-          "Vitamin K"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन A आँखों की रोशनी बनाए रखने में सहायक है; इसकी कमी से रतौंधी होती है।",
-        "en": "Vitamin A helps maintain eyesight; its deficiency causes night blindness."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q027",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "vitamin-c",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "मोहन के मसूड़ों से खून आता है और घाव जल्दी नहीं भरते। यह किस विटामिन की कमी का संकेत है?",
-        "en": "Mohan's gums bleed and wounds heal slowly. This indicates deficiency of which vitamin?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन C",
-          "विटामिन A",
-          "विटामिन D",
-          "विटामिन B1"
-        ],
-        "en": [
-          "Vitamin C",
-          "Vitamin A",
-          "Vitamin D",
-          "Vitamin B1"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन C की कमी से स्कर्वी रोग होता है, जिसमें मसूड़ों से खून आना व घाव देर से भरना शामिल है।",
-        "en": "Vitamin C deficiency causes scurvy, which includes bleeding gums and slow wound healing."
-      },
-      "tags": [
-        "deficiency",
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q028",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "vitamin-d",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "बच्चों की हड्डियाँ कमजोर व टेढ़ी होना (रिकेट्स) किस पोषक तत्व की कमी से होता है?",
-        "en": "Weak and bent bones in children (rickets) is caused by deficiency of which nutrient?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन D और कैल्शियम",
-          "विटामिन C",
-          "प्रोटीन",
-          "कार्बोहाइड्रेट"
-        ],
-        "en": [
-          "Vitamin D and Calcium",
-          "Vitamin C",
-          "Protein",
-          "Carbohydrate"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन D कैल्शियम के अवशोषण में मदद करता है; इसकी कमी से रिकेट्स रोग होता है।",
-        "en": "Vitamin D helps in calcium absorption; its deficiency causes rickets."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q029",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "iodine",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "थायराइड ग्रंथि के सही कार्य के लिए कौन सा खनिज आवश्यक है?",
-        "en": "Which mineral is essential for the proper functioning of the thyroid gland?"
-      },
-      "options": {
-        "hi": [
-          "आयोडीन",
-          "लोहा (आयरन)",
-          "कैल्शियम",
-          "सोडियम"
-        ],
-        "en": [
-          "Iodine",
-          "Iron",
-          "Calcium",
-          "Sodium"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "आयोडीन थायराइड ग्रंथि के सही कार्य के लिए आवश्यक है; इसकी कमी से घेंघा (गॉइटर) रोग होता है।",
-        "en": "Iodine is essential for proper thyroid function; its deficiency causes goitre."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q030",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "iron",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "अनीता को थकान और कमजोरी महसूस होती है, डॉक्टर कहते हैं उसे एनीमिया है। उसे किस खनिज युक्त भोजन अधिक खाना चाहिए?",
-        "en": "Anita feels tired and weak; the doctor says she has anaemia. Which mineral-rich food should she eat more?"
-      },
-      "options": {
-        "hi": [
-          "लोहा (आयरन) युक्त भोजन जैसे पालक",
-          "कैल्शियम युक्त भोजन जैसे दूध",
-          "आयोडीन युक्त भोजन जैसे नमक",
-          "वसा युक्त भोजन जैसे घी"
-        ],
-        "en": [
-          "Iron-rich food like spinach",
-          "Calcium-rich food like milk",
-          "Iodine-rich food like salt",
-          "Fat-rich food like ghee"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "लोहे (आयरन) की कमी से एनीमिया होता है; पालक जैसे आयरन युक्त भोजन से इसे ठीक करने में मदद मिलती है।",
-        "en": "Iron deficiency causes anaemia; iron-rich foods like spinach help correct it."
-      },
-      "tags": [
-        "deficiency",
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q031",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "sunlight",
-      "difficulty": "hard",
-      "type": "reasoning",
-      "question": {
-        "hi": "सुबह की धूप में कुछ देर बैठना क्यों फायदेमंद माना जाता है?",
-        "en": "Why is sitting in the morning sunlight for some time considered beneficial?"
-      },
-      "options": {
-        "hi": [
-          "शरीर विटामिन D बनाता है जो हड्डियों के लिए जरूरी है",
-          "धूप से प्रोटीन बनता है",
-          "धूप से कार्बोहाइड्रेट बनता है",
-          "धूप शरीर को ठंडा रखती है"
-        ],
-        "en": [
-          "The body produces Vitamin D which is needed for bones",
-          "Sunlight produces protein",
-          "Sunlight produces carbohydrate",
-          "Sunlight keeps the body cool"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "त्वचा सूर्य के प्रकाश से विटामिन D का निर्माण करती है, जो कैल्शियम अवशोषण व मजबूत हड्डियों के लिए आवश्यक है।",
-        "en": "Skin synthesises Vitamin D from sunlight, which is essential for calcium absorption and strong bones."
-      },
-      "tags": [
-        "conceptual",
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q032",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "vitamins-minerals",
-      "subtopic": "overview",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "एक व्यक्ति को रतौंधी, मसूड़ों से खून और थकान — तीनों समस्याएँ हैं। संभवतः किन-किन पोषक तत्वों की कमी है?",
-        "en": "A person has night blindness, bleeding gums and tiredness — all three problems. Which nutrients are likely deficient?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन A, विटामिन C और आयरन",
-          "केवल कार्बोहाइड्रेट",
-          "केवल वसा",
-          "केवल प्रोटीन"
-        ],
-        "en": [
-          "Vitamin A, Vitamin C and Iron",
-          "Only carbohydrate",
-          "Only fat",
-          "Only protein"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "रतौंधी विटामिन A, मसूड़ों से खून विटामिन C, और थकान आयरन (एनीमिया) की कमी से जुड़ी है — तीनों की कमी एक साथ हो सकती है।",
-        "en": "Night blindness links to Vitamin A, bleeding gums to Vitamin C, and tiredness to iron (anaemia) — deficiency of all three can occur together."
-      },
-      "tags": [
-        "deficiency",
-        "challenge"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q033",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "balanced-diet",
-      "subtopic": "definition",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "संतुलित आहार किसे कहते हैं?",
-        "en": "What is called a balanced diet?"
-      },
-      "options": {
-        "hi": [
-          "जिसमें सभी पोषक तत्व सही मात्रा में हों",
-          "जिसमें केवल प्रोटीन हो",
-          "जिसमें केवल कार्बोहाइड्रेट हो",
-          "जिसमें केवल फल हों"
-        ],
-        "en": [
-          "A diet containing all nutrients in the right amount",
-          "A diet with only protein",
-          "A diet with only carbohydrates",
-          "A diet with only fruits"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "संतुलित आहार में शरीर को आवश्यक सभी पोषक तत्व सही अनुपात में होते हैं।",
-        "en": "A balanced diet contains all nutrients required by the body in the right proportion."
-      },
-      "tags": [
-        "definition"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q034",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "balanced-diet",
-      "subtopic": "components",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "एक संतुलित थाली में सामान्यतः किन खाद्य समूहों को शामिल किया जाता है?",
-        "en": "Which food groups are generally included in a balanced plate?"
-      },
-      "options": {
-        "hi": [
-          "अनाज, दाल, सब्जी-फल, दूध उत्पाद",
-          "केवल मिठाई",
-          "केवल तला हुआ भोजन",
-          "केवल पैकेट वाला भोजन"
-        ],
-        "en": [
-          "Cereals, pulses, fruits-vegetables, dairy",
-          "Only sweets",
-          "Only fried food",
-          "Only packaged food"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "संतुलित थाली में अनाज (कार्बोहाइड्रेट), दाल (प्रोटीन), फल-सब्जी (विटामिन-खनिज) और दूध उत्पाद शामिल होते हैं।",
-        "en": "A balanced plate includes cereals (carbs), pulses (protein), fruits-vegetables (vitamins-minerals) and dairy."
-      },
-      "tags": [
-        "conceptual"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q035",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "balanced-diet",
-      "subtopic": "junk-food",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "रोहन रोज चिप्स और कोल्ड ड्रिंक पीता है, सब्जी-फल नहीं खाता। उसे भविष्य में क्या समस्या हो सकती है?",
-        "en": "Rohan eats chips and drinks cold drinks daily but avoids fruits-vegetables. What problem could he face later?"
-      },
-      "options": {
-        "hi": [
-          "पोषक तत्वों की कमी व मोटापा",
-          "अधिक ऊँचाई बढ़ना",
-          "आँखों की रोशनी तेज होना",
-          "हड्डियाँ अधिक मजबूत होना"
-        ],
-        "en": [
-          "Nutrient deficiency and obesity",
-          "Increased height",
-          "Sharper eyesight",
-          "Stronger bones"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "जंक फूड में पोषक तत्व कम व वसा/शर्करा अधिक होती है, जिससे पोषक तत्वों की कमी और मोटापा दोनों हो सकते हैं।",
-        "en": "Junk food has fewer nutrients and more fat/sugar, which can cause both nutrient deficiency and obesity."
-      },
-      "tags": [
-        "daily-life",
-        "health"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q036",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "balanced-diet",
-      "subtopic": "age-factors",
-      "difficulty": "hard",
-      "type": "reasoning",
-      "question": {
-        "hi": "एक एथलीट और एक ऑफिस में बैठकर काम करने वाले व्यक्ति की आहार आवश्यकता अलग क्यों होती है?",
-        "en": "Why do an athlete and a person doing a sitting office job have different dietary needs?"
-      },
-      "options": {
-        "hi": [
-          "शारीरिक गतिविधि के अनुसार ऊर्जा आवश्यकता अलग होती है",
-          "दोनों को समान भोजन चाहिए",
-          "एथलीट को भोजन की जरूरत नहीं",
-          "ऑफिस कर्मी को अधिक वसा चाहिए"
-        ],
-        "en": [
-          "Energy requirement differs based on physical activity",
-          "Both need identical food",
-          "Athletes don't need food",
-          "Office workers need more fat"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "अधिक शारीरिक गतिविधि वाले व्यक्ति को अधिक ऊर्जा (कार्बोहाइड्रेट/वसा) चाहिए, जबकि कम सक्रिय व्यक्ति को कम ऊर्जा की जरूरत होती है।",
-        "en": "A person with more physical activity needs more energy (carbs/fat), while a less active person needs less energy."
-      },
-      "tags": [
-        "conceptual",
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q037",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "balanced-diet",
-      "subtopic": "planning",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "एक दिन के लिए सबसे संतुलित नाश्ता कौन सा होगा?",
-        "en": "Which would be the most balanced breakfast for a day?"
-      },
-      "options": {
-        "hi": [
-          "दलिया, दूध और एक फल",
-          "केवल बिस्किट",
-          "केवल चाय",
-          "केवल तले हुए समोसे"
-        ],
-        "en": [
-          "Porridge (daliya), milk and a fruit",
-          "Only biscuits",
-          "Only tea",
-          "Only fried samosas"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "दलिया कार्बोहाइड्रेट, दूध प्रोटीन-कैल्शियम, और फल विटामिन देता है — यह एक संतुलित नाश्ता बनाता है।",
-        "en": "Porridge gives carbs, milk gives protein-calcium, and fruit gives vitamins — making this a balanced breakfast."
-      },
-      "tags": [
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q038",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "balanced-diet",
-      "subtopic": "fibre-water",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "रेशे (fibre) और जल भोजन में क्यों आवश्यक माने जाते हैं, भले ही ये पोषक तत्व न हों?",
-        "en": "Why are fibre and water considered important in food, even though they are not exactly nutrients?"
-      },
-      "options": {
-        "hi": [
-          "रेशे पाचन में मदद करता है, जल शरीर के कार्यों के लिए आवश्यक है",
-          "दोनों ऊर्जा देते हैं",
-          "दोनों प्रोटीन बनाते हैं",
-          "दोनों हड्डियाँ मजबूत करते हैं"
-        ],
-        "en": [
-          "Fibre aids digestion; water is essential for body functions",
-          "Both provide energy",
-          "Both build protein",
-          "Both strengthen bones"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "रेशे पाचन तंत्र को सुचारू रखने में मदद करता है, और जल शरीर की लगभग हर प्रक्रिया के लिए आवश्यक है।",
-        "en": "Fibre helps keep the digestive system smooth, and water is essential for almost every body process."
-      },
-      "tags": [
-        "conceptual"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q039",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "definition",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "किसी पोषक तत्व की लंबे समय तक कमी से होने वाले रोग को क्या कहते हैं?",
-        "en": "A disease caused by long-term deficiency of a nutrient is called?"
-      },
-      "options": {
-        "hi": [
-          "अभावजन्य रोग",
-          "संक्रामक रोग",
-          "आनुवंशिक रोग",
-          "मौसमी रोग"
-        ],
-        "en": [
-          "Deficiency disease",
-          "Infectious disease",
-          "Genetic disease",
-          "Seasonal disease"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "जब भोजन में किसी पोषक तत्व की लंबे समय तक कमी रहती है, तो उससे होने वाले रोग को अभावजन्य रोग कहते हैं।",
-        "en": "When a nutrient is missing from food for a long time, the resulting disease is called a deficiency disease."
-      },
-      "tags": [
-        "definition"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q040",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "scurvy",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "स्कर्वी रोग किस विटामिन की कमी से होता है?",
-        "en": "Scurvy disease is caused by the deficiency of which vitamin?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन C",
-          "विटामिन A",
-          "विटामिन D",
-          "विटामिन B1"
-        ],
-        "en": [
-          "Vitamin C",
-          "Vitamin A",
-          "Vitamin D",
-          "Vitamin B1"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन C की कमी से स्कर्वी रोग होता है, जिसमें मसूड़ों से खून आता है।",
-        "en": "Vitamin C deficiency causes scurvy, in which the gums bleed."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q041",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "beriberi",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "बेरी-बेरी रोग किस विटामिन की कमी से होता है?",
-        "en": "Beri-beri disease is caused by the deficiency of which vitamin?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन B1",
-          "विटामिन A",
-          "विटामिन C",
-          "विटामिन K"
-        ],
-        "en": [
-          "Vitamin B1",
-          "Vitamin A",
-          "Vitamin C",
-          "Vitamin K"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन B1 (थायमिन) की कमी से बेरी-बेरी रोग होता है, जिसमें मांसपेशियों में कमजोरी आती है।",
-        "en": "Vitamin B1 (thiamine) deficiency causes beri-beri, which causes muscle weakness."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q042",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "goitre",
-      "difficulty": "medium",
-      "type": "conceptual",
-      "question": {
-        "hi": "घेंघा (गॉइटर) रोग में गर्दन में सूजन किस खनिज की कमी के कारण होती है?",
-        "en": "In goitre disease, the swelling in the neck is due to deficiency of which mineral?"
-      },
-      "options": {
-        "hi": [
-          "आयोडीन",
-          "लोहा",
-          "कैल्शियम",
-          "सोडियम"
-        ],
-        "en": [
-          "Iodine",
-          "Iron",
-          "Calcium",
-          "Sodium"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "आयोडीन की कमी से थायराइड ग्रंथि बढ़ जाती है, जिससे गर्दन में सूजन (घेंघा) होती है।",
-        "en": "Iodine deficiency causes the thyroid gland to enlarge, resulting in swelling in the neck (goitre)."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q043",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "kwashiorkor",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "किसी क्षेत्र में बच्चों में प्रोटीन की गंभीर कमी पाई गई। इससे उन्हें कौन सा रोग होने की संभावना है?",
-        "en": "Severe protein deficiency was found in children of a region. Which disease are they likely to develop?"
-      },
-      "options": {
-        "hi": [
-          "क्वाशिओरकर",
-          "रतौंधी",
-          "घेंघा",
-          "रिकेट्स"
-        ],
-        "en": [
-          "Kwashiorkor",
-          "Night blindness",
-          "Goitre",
-          "Rickets"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "प्रोटीन की गंभीर कमी से बच्चों में क्वाशिओरकर रोग होता है।",
-        "en": "Severe protein deficiency in children causes kwashiorkor."
-      },
-      "tags": [
-        "deficiency",
-        "application"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q044",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "prevention",
-      "difficulty": "hard",
-      "type": "reasoning",
-      "question": {
-        "hi": "अभावजन्य रोगों को रोकने का सबसे प्रभावी तरीका क्या है?",
-        "en": "What is the most effective way to prevent deficiency diseases?"
-      },
-      "options": {
-        "hi": [
-          "संतुलित आहार का सेवन",
-          "केवल दवाइयाँ लेना",
-          "केवल व्यायाम करना",
-          "भोजन कम करना"
-        ],
-        "en": [
-          "Eating a balanced diet",
-          "Only taking medicines",
-          "Only exercising",
-          "Reducing food intake"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "संतुलित आहार में सभी आवश्यक पोषक तत्व सही मात्रा में मिलते हैं, इसलिए यह अभावजन्य रोगों को रोकने का सबसे प्रभावी उपाय है।",
-        "en": "A balanced diet supplies all necessary nutrients in the right amount, making it the most effective way to prevent deficiency diseases."
-      },
-      "tags": [
-        "conceptual",
-        "balanced-diet"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q045",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "case-study",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "एक गाँव में ज्यादातर बच्चों की गर्दन में सूजन देखी गई। सबसे संभावित उपाय क्या होगा?",
-        "en": "In a village, most children showed neck swelling. What is the most likely solution?"
-      },
-      "options": {
-        "hi": [
-          "आयोडीन-युक्त नमक का उपयोग बढ़ाना",
-          "अधिक चीनी खिलाना",
-          "केवल पानी अधिक पिलाना",
-          "अधिक वसा युक्त भोजन देना"
-        ],
-        "en": [
-          "Increasing the use of iodised salt",
-          "Feeding more sugar",
-          "Only giving more water",
-          "Giving more fatty food"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "गर्दन में सूजन (घेंघा) आयोडीन की कमी का संकेत है; आयोडीन-युक्त नमक का उपयोग इसे रोकने में मदद करता है।",
-        "en": "Neck swelling (goitre) indicates iodine deficiency; using iodised salt helps prevent it."
-      },
-      "tags": [
-        "daily-life",
-        "application"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q046",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "balanced-solution",
-      "difficulty": "medium",
-      "type": "application",
-      "question": {
-        "hi": "नाइट ब्लाइंडनेस (रतौंधी) से बचाव के लिए किस खाद्य पदार्थ को आहार में शामिल करना चाहिए?",
-        "en": "Which food should be included in the diet to prevent night blindness?"
-      },
-      "options": {
-        "hi": [
-          "गाजर व पपीता जैसे विटामिन A युक्त भोजन",
-          "केवल चावल",
-          "केवल चीनी",
-          "केवल नमक"
-        ],
-        "en": [
-          "Vitamin A-rich foods like carrot and papaya",
-          "Only rice",
-          "Only sugar",
-          "Only salt"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "गाजर व पपीता जैसे विटामिन A युक्त भोजन रतौंधी को रोकने में मदद करते हैं।",
-        "en": "Vitamin A-rich foods like carrot and papaya help prevent night blindness."
-      },
-      "tags": [
-        "daily-life"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q047",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "recap",
-      "difficulty": "easy",
-      "type": "factual",
-      "question": {
-        "hi": "रिकेट्स रोग मुख्यतः किसकी कमी से होता है?",
-        "en": "Rickets disease is mainly caused by deficiency of?"
-      },
-      "options": {
-        "hi": [
-          "विटामिन D व कैल्शियम",
-          "विटामिन C",
-          "आयोडीन",
-          "प्रोटीन"
-        ],
-        "en": [
-          "Vitamin D and Calcium",
-          "Vitamin C",
-          "Iodine",
-          "Protein"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "विटामिन D और कैल्शियम की कमी से हड्डियाँ कमजोर होकर रिकेट्स रोग होता है।",
-        "en": "Deficiency of Vitamin D and Calcium weakens bones, causing rickets."
-      },
-      "tags": [
-        "deficiency"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    },
-    {
-      "id": "SCI6-CH01-Q048",
-      "class": 6,
-      "subject": "science",
-      "chapter": "chapter-01",
-      "topic": "deficiency-diseases",
-      "subtopic": "overview",
-      "difficulty": "hard",
-      "type": "challenge",
-      "question": {
-        "hi": "निम्नलिखित को सही ढंग से मिलाएँ — कमी और रोग: (1) आयोडीन (2) विटामिन A (3) विटामिन C (4) प्रोटीन — रोग: (a) रतौंधी (b) घेंघा (c) क्वाशिओरकर (d) स्कर्वी",
-        "en": "Match correctly — deficiency and disease: (1) Iodine (2) Vitamin A (3) Vitamin C (4) Protein — disease: (a) Night blindness (b) Goitre (c) Kwashiorkor (d) Scurvy"
-      },
-      "options": {
-        "hi": [
-          "1-b, 2-a, 3-d, 4-c",
-          "1-a, 2-b, 3-c, 4-d",
-          "1-c, 2-d, 3-a, 4-b",
-          "1-d, 2-c, 3-b, 4-a"
-        ],
-        "en": [
-          "1-b, 2-a, 3-d, 4-c",
-          "1-a, 2-b, 3-c, 4-d",
-          "1-c, 2-d, 3-a, 4-b",
-          "1-d, 2-c, 3-b, 4-a"
-        ]
-      },
-      "correctAnswer": 0,
-      "explanation": {
-        "hi": "आयोडीन की कमी से घेंघा, विटामिन A की कमी से रतौंधी, विटामिन C की कमी से स्कर्वी, और प्रोटीन की कमी से क्वाशिओरकर होता है।",
-        "en": "Iodine deficiency causes goitre, Vitamin A deficiency causes night blindness, Vitamin C deficiency causes scurvy, and protein deficiency causes kwashiorkor."
-      },
-      "tags": [
-        "challenge",
-        "recap"
-      ],
-      "verified": true,
-      "railwayRelevant": false
-    }
-  ]
-}
+    "correct": 0
+  }
+]
