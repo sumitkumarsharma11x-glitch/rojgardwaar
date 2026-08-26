@@ -1,1 +1,444 @@
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-02",
+  "chapterNumber": 2,
+  "chapterName": {
+    "hi": "वस्तुओं का समूहों में वर्गीकरण",
+    "en": "Sorting Materials into Groups"
+  },
+  "topics": [
+    {
+      "id": "objects-and-materials",
+      "name": {
+        "hi": "वस्तु और पदार्थ",
+        "en": "Objects and Materials"
+      }
+    },
+    {
+      "id": "properties-of-materials",
+      "name": {
+        "hi": "पदार्थों के गुण",
+        "en": "Properties of Materials"
+      }
+    },
+    {
+      "id": "hardness-and-softness",
+      "name": {
+        "hi": "कठोरता व मृदुलता",
+        "en": "Hardness and Softness"
+      }
+    },
+    {
+      "id": "roughness-and-smoothness",
+      "name": {
+        "hi": "खुरदरापन व चिकनापन",
+        "en": "Roughness and Smoothness"
+      }
+    },
+    {
+      "id": "solubility",
+      "name": {
+        "hi": "घुलनशीलता",
+        "en": "Solubility"
+      }
+    },
+    {
+      "id": "floating-and-sinking",
+      "name": {
+        "hi": "तैरना व डूबना",
+        "en": "Floating and Sinking"
+      }
+    },
+    {
+      "id": "transparency-translucency-opacity",
+      "name": {
+        "hi": "पारदर्शिता, पारभासिता व अपारदर्शिता",
+        "en": "Transparency, Translucency and Opacity"
+      }
+    },
+    {
+      "id": "grouping-of-materials",
+      "name": {
+        "hi": "पदार्थों का वर्गीकरण",
+        "en": "Grouping of Materials"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "हमारे चारों ओर अनेक वस्तुएँ हैं और प्रत्येक वस्तु किसी न किसी पदार्थ या पदार्थों के संयोजन से बनी होती है। एक ही वस्तु अलग-अलग पदार्थों से तथा एक ही पदार्थ से अनेक भिन्न वस्तुएँ बनाई जा सकती हैं। पदार्थों को उनके गुणों जैसे कठोरता, मृदुलता, खुरदरापन, चिकनापन, घुलनशीलता, जल में तैरना या डूबना, तथा पारदर्शिता के आधार पर समूहों में वर्गीकृत किया जा सकता है। वर्गीकरण से पदार्थों का अध्ययन तथा तुलना करना आसान हो जाता है।",
+
+      "example": "जैसे, एक कुर्सी लकड़ी, प्लास्टिक या धातु — किसी भी पदार्थ से बनाई जा सकती है, जबकि लकड़ी से कुर्सी, मेज, दरवाज़ा जैसी कई वस्तुएँ बनाई जा सकती हैं।",
+
+      "sections": [
+        {
+          "title": "वस्तु और पदार्थ",
+          "concept": "हमारे आस-पास की प्रत्येक वस्तु किसी पदार्थ अथवा एक से अधिक पदार्थों के मेल से बनी होती है। जिस चीज से कोई वस्तु बनी होती है, उसे पदार्थ कहते हैं।",
+          "example": "मेज लकड़ी से बनी हो सकती है, जबकि बाल्टी प्लास्टिक या धातु से बनाई जा सकती है।",
+          "keyPoints": [
+            "एक वस्तु एक से अधिक पदार्थों से बन सकती है।",
+            "एक ही पदार्थ से कई भिन्न वस्तुएँ बनाई जा सकती हैं।",
+            "वस्तु और पदार्थ को एक समान समझना गलत है।"
+          ]
+        },
+        {
+          "title": "पदार्थों के गुण",
+          "concept": "पदार्थों की पहचान और तुलना उनके गुणों के आधार पर की जाती है, जैसे रूप-रंग (चमक), कठोरता, मृदुलता, खुरदरापन, चिकनापन, घुलनशीलता, जल में तैरना/डूबना और पारदर्शिता। इन गुणों के आधार पर पदार्थों को समूहों में बाँटा जाता है।",
+          "example": "लोहे में चमक होती है और यह कठोर होता है, जबकि रुई मुलायम होती है और उसमें चमक नहीं होती।",
+          "keyPoints": [
+            "हर पदार्थ के अपने विशिष्ट गुण होते हैं।",
+            "गुणों की तुलना करके पदार्थों को समूहों में बाँटा जाता है।",
+            "एक पदार्थ में एक से अधिक गुण एक साथ हो सकते हैं।"
+          ]
+        },
+        {
+          "title": "कठोरता व मृदुलता",
+          "concept": "जो पदार्थ आसानी से दबाने या मोड़ने पर अपना आकार नहीं बदलते और कठिनाई से टूटते हैं, वे कठोर कहलाते हैं; जबकि जो पदार्थ आसानी से दबाए या मोड़े जा सकते हैं, वे मृदु (मुलायम) कहलाते हैं।",
+          "example": "लोहा और पत्थर कठोर पदार्थ हैं, जबकि रुई और स्पंज मृदु पदार्थ हैं।",
+          "keyPoints": [
+            "कठोरता और मृदुलता स्पर्श व दबाव द्वारा जाँची जाती है।",
+            "एक ही पदार्थ अलग-अलग स्थिति में अलग कठोरता दिखा सकता है (जैसे मोम)।",
+            "कठोर होने का अर्थ भारी होना नहीं है।"
+          ]
+        },
+        {
+          "title": "खुरदरापन व चिकनापन",
+          "concept": "पदार्थ की सतह को छूने पर यदि वह असमान अनुभव हो तो उसे खुरदरा कहते हैं, और यदि सतह समतल अनुभव हो तो उसे चिकना कहते हैं।",
+          "example": "सैंडपेपर की सतह खुरदरी होती है जबकि काँच की सतह चिकनी होती है।",
+          "keyPoints": [
+            "सतह की बनावट स्पर्श द्वारा पहचानी जाती है।",
+            "खुरदरापन/चिकनापन कठोरता से अलग गुण है।",
+            "एक ही पदार्थ की अलग सतहें अलग बनावट की हो सकती हैं।"
+          ]
+        },
+        {
+          "title": "घुलनशीलता",
+          "concept": "जब कोई पदार्थ किसी द्रव (जैसे जल) में मिलकर पूरी तरह घुल जाता है और घोल एकसार दिखाई देता है, तो वह पदार्थ उस द्रव में घुलनशील कहलाता है; यदि पदार्थ नहीं घुलता, तो वह अघुलनशील कहलाता है।",
+          "example": "चीनी और नमक जल में घुलनशील हैं, जबकि रेत और चॉक जल में अघुलनशील हैं।",
+          "keyPoints": [
+            "घुलनशीलता पदार्थ और द्रव दोनों पर निर्भर करती है।",
+            "कुछ पदार्थ एक द्रव में घुलनशील परंतु दूसरे द्रव में अघुलनशील हो सकते हैं।",
+            "घुलने के बाद घोल का साफ/एकसार दिखना घुलनशीलता का संकेत है।"
+          ]
+        },
+        {
+          "title": "तैरना व डूबना",
+          "concept": "जल में डालने पर कुछ वस्तुएँ या पदार्थ जल की सतह पर तैरते हैं, जबकि कुछ जल में डूब जाते हैं। यह गुण पदार्थ की प्रकृति पर निर्भर करता है।",
+          "example": "लकड़ी का टुकड़ा जल में तैरता है, जबकि लोहे की कील जल में डूब जाती है।",
+          "keyPoints": [
+            "तैरना/डूबना पदार्थ का एक पहचान योग्य गुण है।",
+            "एक ही आकार की अलग-अलग पदार्थों की वस्तुएँ अलग व्यवहार दिखा सकती हैं।",
+            "खोखली वस्तुएँ (जैसे बर्तन) सामान्यतः तैर सकती हैं, भले ही उनका पदार्थ भारी हो।"
+          ]
+        },
+        {
+          "title": "पारदर्शिता, पारभासिता व अपारदर्शिता",
+          "concept": "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी (transparent) कहलाते हैं; जिनके आर-पार कुछ भी दिखाई नहीं देता, वे अपारदर्शी (opaque) कहलाते हैं; और जिनके आर-पार धुंधला दिखाई देता है, वे पारभासी (translucent) कहलाते हैं।",
+          "example": "काँच पारदर्शी है, लकड़ी अपारदर्शी है, और तेल लगा कागज पारभासी है।",
+          "keyPoints": [
+            "पारदर्शिता तीन श्रेणियों में बाँटी जाती है: पारदर्शी, अपारदर्शी, पारभासी।",
+            "एक ही पदार्थ की मोटाई बदलने पर पारदर्शिता बदल सकती है।",
+            "पारभासी और अपारदर्शी को एक समान न समझें।"
+          ]
+        },
+        {
+          "title": "पदार्थों का वर्गीकरण",
+          "concept": "पदार्थों को उनके एक या अधिक समान गुणों के आधार पर समूहों में बाँटने की प्रक्रिया वर्गीकरण कहलाती है। वर्गीकरण से पदार्थों का अध्ययन, तुलना और उपयोग समझना आसान हो जाता है।",
+          "example": "सभी कठोर व चमकदार पदार्थों (जैसे लोहा, ताँबा) को एक समूह में तथा सभी मुलायम पदार्थों (जैसे रुई, स्पंज) को दूसरे समूह में रखा जा सकता है।",
+          "keyPoints": [
+            "वर्गीकरण एक या अधिक गुणों के आधार पर किया जा सकता है।",
+            "अलग-अलग गुणों के आधार पर एक ही पदार्थ अलग समूहों में आ सकता है।",
+            "वर्गीकरण का उद्देश्य अध्ययन को सरल और व्यवस्थित बनाना है।"
+          ]
+        }
+      ],
+
+      "keyPoints": [
+        "प्रत्येक वस्तु किसी पदार्थ या पदार्थों के संयोजन से बनी होती है।",
+        "एक ही पदार्थ से कई भिन्न वस्तुएँ बनाई जा सकती हैं।",
+        "पदार्थों को कठोरता, मृदुलता, खुरदरापन, चिकनापन के आधार पर पहचाना जा सकता है।",
+        "घुलनशीलता पदार्थ के जल में घुलने या न घुलने की क्षमता को दर्शाती है।",
+        "वस्तुएँ जल में तैर सकती हैं या डूब सकती हैं, यह पदार्थ की प्रकृति पर निर्भर करता है।",
+        "पदार्थों को पारदर्शी, अपारदर्शी और पारभासी में बाँटा जाता है।",
+        "वर्गीकरण एक या अधिक समान गुणों के आधार पर किया जाता है।",
+        "वर्गीकरण से पदार्थों का अध्ययन और तुलना करना आसान हो जाता है।"
+      ],
+
+      "examFocus": [
+        "दिए गए पदार्थों को कठोर/मृदु के आधार पर पहचानना।",
+        "खुरदरी और चिकनी सतह वाले पदार्थों की पहचान करना।",
+        "जल में घुलनशील और अघुलनशील पदार्थों को पहचानना।",
+        "जल में तैरने और डूबने वाली वस्तुओं को पहचानना।",
+        "पारदर्शी, अपारदर्शी और पारभासी पदार्थों में अंतर करना।",
+        "किसी वस्तु के लिए उपयुक्त पदार्थ चुनने का तर्क समझना।",
+        "एक से अधिक गुणों के आधार पर वर्गीकरण करना।"
+      ],
+
+      "examTraps": [
+        {
+          "title": "कठोर = भारी?",
+          "fact": "कठोरता का संबंध पदार्थ के दबाव सहने की क्षमता से है, वजन से नहीं।",
+          "confusion": "किसी पदार्थ को भारी देखकर उसे कठोर मान लेना सही नहीं है।"
+        },
+        {
+          "title": "घुलनशील = तरल जैसा दिखना?",
+          "fact": "घुलनशील पदार्थ ठोस रूप में भी हो सकता है, जल में मिलकर घोल एकसार बन जाता है।",
+          "confusion": "घुलने का अर्थ पदार्थ का 'गायब' हो जाना नहीं, बल्कि एकसार घोल बनना है।"
+        },
+        {
+          "title": "अपारदर्शी = पारभासी?",
+          "fact": "अपारदर्शी पदार्थ के आर-पार कुछ नहीं दिखता, जबकि पारभासी पदार्थ के आर-पार धुंधला दिखाई देता है।",
+          "confusion": "दोनों को एक समान न समझें; उदाहरणों से अंतर स्पष्ट करें।"
+        },
+        {
+          "title": "तैरना = हल्का पदार्थ?",
+          "fact": "तैरना/डूबना पदार्थ की प्रकृति व वस्तु की बनावट (जैसे खोखलापन) दोनों पर निर्भर करता है।",
+          "confusion": "केवल वजन देखकर तैरने/डूबने का निष्कर्ष न निकालें।"
+        },
+        {
+          "title": "एक वस्तु = एक पदार्थ?",
+          "fact": "एक वस्तु एक से अधिक पदार्थों को मिलाकर भी बनाई जा सकती है।",
+          "confusion": "हर वस्तु को केवल एक पदार्थ से बना मान लेना गलत हो सकता है।"
+        },
+        {
+          "title": "वर्गीकरण का एक ही सही तरीका होता है?",
+          "fact": "पदार्थों को अलग-अलग गुणों के आधार पर कई तरीकों से समूहों में बाँटा जा सकता है।",
+          "confusion": "वर्गीकरण का आधार प्रश्न में दिए गए गुण के अनुसार बदल सकता है।"
+        }
+      ],
+
+      "thinkBeforeAnswer": [
+        "क्या प्रश्न वस्तु के बारे में पूछ रहा है या पदार्थ के बारे में?",
+        "क्या गुण की पहचान भार से जुड़ी है या दबाव सहने की क्षमता से?",
+        "क्या 'घुलना' और 'पिघलना' को गलती से एक समझा जा रहा है?",
+        "क्या तैरने/डूबने का कारण पदार्थ है या वस्तु की बनावट (खोखलापन)?",
+        "क्या पारदर्शी, अपारदर्शी और पारभासी में से सही श्रेणी चुनी जा रही है?",
+        "क्या वर्गीकरण का आधार प्रश्न में स्पष्ट रूप से दिया गया गुण है?"
+      ],
+
+      "memoryTricks": [
+        "कठोर-मृदु → दबाव सहने की क्षमता याद रखें, वजन नहीं।",
+        "खुरदरा-चिकना → सतह की बनावट से पहचानें।",
+        "घुलनशील-अघुलनशील → जल में मिलाकर घोल एकसार बनता है या नहीं, यह देखें।",
+        "तैरना-डूबना → पदार्थ + वस्तु की बनावट दोनों याद रखें।",
+        "पारदर्शी-अपारदर्शी-पारभासी → 'साफ दिखे-कुछ न दिखे-धुंधला दिखे' क्रम याद रखें।",
+        "एक पदार्थ → कई वस्तुएँ; एक वस्तु → कई पदार्थ (दोनों दिशा याद रखें)।",
+        "वर्गीकरण = समान गुणों के आधार पर समूह बनाना।"
+      ],
+
+      "pyqSignals": [
+        "कठोर व मृदु पदार्थों के उदाहरण पहचानने पर आधारित प्रश्न बन सकते हैं।",
+        "घुलनशील व अघुलनशील पदार्थों की सूची से जुड़े प्रश्न सामान्य हैं।",
+        "जल में तैरने/डूबने वाली वस्तुओं के उदाहरण पर प्रश्न बन सकते हैं।",
+        "पारदर्शी, अपारदर्शी, पारभासी पदार्थों के उदाहरणों पर वर्गीकरण-आधारित प्रश्न बन सकते हैं।",
+        "किसी वस्तु के लिए उपयुक्त पदार्थ चुनने के तर्क पर प्रश्न बन सकते हैं।",
+        "एक से अधिक गुणों के आधार पर वर्गीकरण करने के तरीके पर प्रश्न बन सकते हैं।"
+      ],
+
+      "mustRemember": [
+        "कठोर पदार्थ → आसानी से आकार नहीं बदलते (जैसे लोहा, पत्थर)।",
+        "मृदु पदार्थ → आसानी से दबाए/मोड़े जा सकते हैं (जैसे रुई, स्पंज)।",
+        "खुरदरी सतह → असमान अनुभव; चिकनी सतह → समतल अनुभव।",
+        "घुलनशील पदार्थ → जल में मिलकर एकसार घोल बनाते हैं (जैसे चीनी, नमक)।",
+        "अघुलनशील पदार्थ → जल में नहीं घुलते (जैसे रेत, चॉक)।",
+        "जल में तैरने वाली वस्तुएँ → जैसे लकड़ी; डूबने वाली वस्तुएँ → जैसे लोहे की कील।",
+        "पारदर्शी → आर-पार स्पष्ट दिखे (जैसे काँच)।",
+        "अपारदर्शी → आर-पार कुछ न दिखे (जैसे लकड़ी); पारभासी → धुंधला दिखे (जैसे तेल लगा कागज)।",
+        "वर्गीकरण → समान गुणों के आधार पर पदार्थों को समूहों में बाँटना।"
+      ],
+
+      "quickRevision": "30 सेकंड में Chapter याद करें: वस्तु → पदार्थ से बनी → गुण (कठोर/मृदु, खुरदरा/चिकना, घुलनशील/अघुलनशील, तैरना/डूबना, पारदर्शी/अपारदर्शी/पारभासी) → इन्हीं गुणों के आधार पर वर्गीकरण किया जाता है → वर्गीकरण से अध्ययन और तुलना आसान होती है।"
+    },
+
+    "en": {
+      "concept": "The objects around us are made of one or more materials. The same material can be used to make many different objects, and the same object can be made using different materials. Materials can be sorted into groups based on properties such as hardness, softness, roughness, smoothness, solubility, floating or sinking in water, and transparency. Grouping materials makes it easier to study and compare them.",
+
+      "example": "For example, a chair can be made of wood, plastic or metal, while wood alone can be used to make a chair, a table or a door.",
+
+      "sections": [
+        {
+          "title": "Objects and Materials",
+          "concept": "Every object around us is made up of one or more materials. The substance from which an object is made is called a material.",
+          "example": "A table may be made of wood, while a bucket may be made of plastic or metal.",
+          "keyPoints": [
+            "An object can be made of more than one material.",
+            "The same material can be used to make many different objects.",
+            "Object and material should not be treated as the same thing."
+          ]
+        },
+        {
+          "title": "Properties of Materials",
+          "concept": "Materials are identified and compared on the basis of properties such as appearance (lustre), hardness, softness, roughness, smoothness, solubility, floating or sinking in water, and transparency. Materials are grouped based on these properties.",
+          "example": "Iron is lustrous and hard, while cotton is soft and does not have lustre.",
+          "keyPoints": [
+            "Every material has its own specific properties.",
+            "Materials are grouped by comparing their properties.",
+            "A material can show more than one property at the same time."
+          ]
+        },
+        {
+          "title": "Hardness and Softness",
+          "concept": "Materials that do not easily change shape on pressing or bending, and are difficult to break, are called hard; materials that can be pressed or bent easily are called soft.",
+          "example": "Iron and stone are hard materials, while cotton and sponge are soft materials.",
+          "keyPoints": [
+            "Hardness and softness are checked by touch and pressure.",
+            "The same material may show different hardness under different conditions (such as wax).",
+            "Being hard does not mean being heavy."
+          ]
+        },
+        {
+          "title": "Roughness and Smoothness",
+          "concept": "If the surface of a material feels uneven on touching, it is called rough; if the surface feels even, it is called smooth.",
+          "example": "The surface of sandpaper is rough, while the surface of glass is smooth.",
+          "keyPoints": [
+            "Surface texture is identified by touch.",
+            "Roughness/smoothness is a different property from hardness.",
+            "Different surfaces of the same material can have different textures."
+          ]
+        },
+        {
+          "title": "Solubility",
+          "concept": "When a material mixes completely with a liquid (such as water) and the mixture looks uniform, the material is said to be soluble in that liquid; if the material does not dissolve, it is called insoluble.",
+          "example": "Sugar and salt are soluble in water, while sand and chalk are insoluble in water.",
+          "keyPoints": [
+            "Solubility depends on both the material and the liquid.",
+            "A material may be soluble in one liquid but insoluble in another.",
+            "A clear, uniform mixture after mixing is a sign of solubility."
+          ]
+        },
+        {
+          "title": "Floating and Sinking",
+          "concept": "When placed in water, some objects or materials float on the surface, while others sink. This property depends on the nature of the material.",
+          "example": "A piece of wood floats in water, while an iron nail sinks in water.",
+          "keyPoints": [
+            "Floating/sinking is an identifiable property of a material.",
+            "Objects of the same shape made of different materials can behave differently.",
+            "Hollow objects (such as vessels) can often float even if their material is heavy."
+          ]
+        },
+        {
+          "title": "Transparency, Translucency and Opacity",
+          "concept": "Materials through which objects can be seen clearly are called transparent; materials through which nothing can be seen are called opaque; and materials through which objects appear blurred are called translucent.",
+          "example": "Glass is transparent, wood is opaque, and oiled paper is translucent.",
+          "keyPoints": [
+            "Transparency is classified into three categories: transparent, opaque and translucent.",
+            "Changing the thickness of the same material can change its transparency.",
+            "Translucent and opaque should not be treated as the same."
+          ]
+        },
+        {
+          "title": "Grouping of Materials",
+          "concept": "Sorting materials into groups based on one or more common properties is called classification. Classification makes it easier to study, compare and understand the uses of materials.",
+          "example": "All hard and lustrous materials (such as iron, copper) can be placed in one group, and all soft materials (such as cotton, sponge) can be placed in another group.",
+          "keyPoints": [
+            "Classification can be done using one or more properties.",
+            "The same material may fall into different groups depending on the property used.",
+            "The purpose of classification is to make study simple and organised."
+          ]
+        }
+      ],
+
+      "keyPoints": [
+        "Every object is made of one or more materials.",
+        "The same material can be used to make many different objects.",
+        "Materials can be identified based on hardness, softness, roughness and smoothness.",
+        "Solubility shows whether a material dissolves in water or not.",
+        "Objects may float or sink in water depending on the nature of the material.",
+        "Materials are grouped as transparent, opaque and translucent.",
+        "Classification is done using one or more common properties.",
+        "Classification makes it easier to study and compare materials."
+      ],
+
+      "examFocus": [
+        "Identify materials as hard or soft from given examples.",
+        "Identify materials with rough or smooth surfaces.",
+        "Identify soluble and insoluble materials in water.",
+        "Identify objects that float or sink in water.",
+        "Distinguish between transparent, opaque and translucent materials.",
+        "Understand the reasoning behind choosing a suitable material for an object.",
+        "Classify materials using more than one property."
+      ],
+
+      "examTraps": [
+        {
+          "title": "Hard = Heavy?",
+          "fact": "Hardness is related to a material's ability to resist pressure, not its weight.",
+          "confusion": "Do not assume a material is hard just because it looks heavy."
+        },
+        {
+          "title": "Soluble = Looks Like a Liquid?",
+          "fact": "A soluble material can be solid in form; on mixing with water, it forms a uniform solution.",
+          "confusion": "Dissolving does not mean the material 'disappears' — it forms a uniform mixture."
+        },
+        {
+          "title": "Opaque = Translucent?",
+          "fact": "Nothing can be seen through an opaque material, while objects appear blurred through a translucent material.",
+          "confusion": "Do not treat the two as the same; clarify with examples."
+        },
+        {
+          "title": "Floating = Light Material?",
+          "fact": "Floating or sinking depends on both the nature of the material and the shape of the object, such as being hollow.",
+          "confusion": "Do not conclude floating or sinking based on weight alone."
+        },
+        {
+          "title": "One Object = One Material?",
+          "fact": "An object can be made by combining more than one material.",
+          "confusion": "Assuming every object is made of only one material can be incorrect."
+        },
+        {
+          "title": "Is There Only One Correct Way to Classify?",
+          "fact": "Materials can be grouped in several ways depending on the property used.",
+          "confusion": "The basis of classification can change according to the property mentioned in the question."
+        }
+      ],
+
+      "thinkBeforeAnswer": [
+        "Is the question about the object or about the material it is made of?",
+        "Is the property related to weight or to the ability to resist pressure?",
+        "Is 'dissolving' being confused with 'melting'?",
+        "Is floating/sinking caused by the material or by the shape of the object (such as being hollow)?",
+        "Is the correct category being chosen among transparent, opaque and translucent?",
+        "Is the basis of classification clearly stated in the question?"
+      ],
+
+      "memoryTricks": [
+        "Hard-Soft → Remember resistance to pressure, not weight.",
+        "Rough-Smooth → Identify by surface texture.",
+        "Soluble-Insoluble → Check whether mixing with water forms a uniform solution.",
+        "Floating-Sinking → Remember both material and shape of the object.",
+        "Transparent-Opaque-Translucent → Remember the order: 'clear view - no view - blurred view'.",
+        "One material → many objects; one object → many materials (remember both directions).",
+        "Classification = grouping based on common properties."
+      ],
+
+      "pyqSignals": [
+        "Identifying examples of hard and soft materials is a common question pattern.",
+        "Questions related to lists of soluble and insoluble materials are common.",
+        "Questions may be based on examples of objects that float or sink in water.",
+        "Classification-based questions may use examples of transparent, opaque and translucent materials.",
+        "Questions may test the reasoning behind choosing a suitable material for an object.",
+        "Questions may test classification of materials using more than one property."
+      ],
+
+      "mustRemember": [
+        "Hard materials → Do not easily change shape (such as iron, stone).",
+        "Soft materials → Can be pressed or bent easily (such as cotton, sponge).",
+        "Rough surface → Feels uneven; smooth surface → feels even.",
+        "Soluble materials → Form a uniform solution with water (such as sugar, salt).",
+        "Insoluble materials → Do not dissolve in water (such as sand, chalk).",
+        "Objects that float in water → such as wood; objects that sink → such as an iron nail.",
+        "Transparent → clearly seen through (such as glass).",
+        "Opaque → cannot be seen through (such as wood); translucent → blurred view (such as oiled paper).",
+        "Classification → sorting materials into groups based on common properties."
+      ],
+
+      "quickRevision": "30-second revision: Object → made of Material → Properties (Hard/Soft, Rough/Smooth, Soluble/Insoluble, Floating/Sinking, Transparent/Opaque/Translucent) → Materials are grouped based on these properties → Classification makes study and comparison easier."
+    }
+  }
+}
 
