@@ -11,6 +11,7 @@
     "hi": "तंतु से वस्त्र तक",
     "en": "Fibre to Fabric"
   },
+  "mockQuestionCount": 30,
   "topics": [
     {
       "id": "variety-in-fabrics",
