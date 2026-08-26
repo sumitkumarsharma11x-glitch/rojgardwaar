@@ -11,6 +11,9 @@
     "hi": "भोजन के घटक",
     "en": "Components of Food"
   },
+
+  "mockQuestionCount": 30,
+
   "topics": [
     {
       "id": "nutrients-overview",
@@ -55,12 +58,13 @@
       }
     }
   ],
+
   "notes": {
     "hi": {
       "concept": "हम जो भोजन खाते हैं, उसमें कई अलग-अलग घटक होते हैं। इनमें कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज प्रमुख पोषक तत्व हैं। इसके अलावा आहारीय रेशा (रफेज) और जल भी हमारे आहार के महत्वपूर्ण घटक हैं। अलग-अलग पोषक तत्व शरीर में अलग-अलग कार्य करते हैं—कुछ मुख्य रूप से ऊर्जा देते हैं, कुछ शरीर की वृद्धि और ऊतकों की मरम्मत में सहायता करते हैं और कुछ शरीर को स्वस्थ रखने तथा विभिन्न कार्यों को सुचारु रूप से चलाने में मदद करते हैं। इसलिए केवल पेट भरना पर्याप्त नहीं है; भोजन में आवश्यक पोषक तत्वों का उचित संतुलन भी जरूरी है।",
       
       "example": "एक भोजन की थाली में चावल या रोटी से कार्बोहाइड्रेट, दाल से प्रोटीन, थोड़ी मात्रा में तेल या घी से वसा, सब्जियों और फलों से विभिन्न विटामिन व खनिज तथा जल प्राप्त हो सकता है। यही कारण है कि अलग-अलग प्रकार के खाद्य पदार्थों को मिलाकर खाना अधिक उपयोगी होता है।",
-      
+
       "sections": [
         {
           "title": "पोषक तत्व क्या हैं?",
@@ -263,9 +267,9 @@
 
     "en": {
       "concept": "The food we eat contains several components. Major nutrients include carbohydrates, proteins, fats, vitamins and minerals. Dietary fibre and water are also important components of our diet. Different nutrients perform different functions in the body: some mainly provide energy, some support growth and repair, while others help maintain normal body functions and health. Therefore, eating enough food is not the same as eating a balanced diet; variety and appropriate amounts of essential nutrients matter.",
-      
+
       "example": "A meal containing rice or chapati may provide carbohydrates, pulses may provide protein, oil or ghee may provide fat, vegetables and fruits may provide vitamins and minerals, while water may come from both drinks and foods. Combining different foods helps provide a wider range of nutrients.",
-      
+
       "sections": [
         {
           "title": "What are Nutrients?",
