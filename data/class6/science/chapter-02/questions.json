@@ -1,0 +1,2066 @@
+{
+  "questions": [
+    {
+      "id": "SCI6-CH02-Q001",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "objects-and-materials",
+      "subtopic": "what-is-material",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "किसी वस्तु को बनाने में प्रयुक्त पदार्थ को क्या कहते हैं?",
+        "en": "The substance used to make an object is called?"
+      },
+      "options": {
+        "hi": [
+          "पदार्थ",
+          "आकार",
+          "रंग",
+          "भार"
+        ],
+        "en": [
+          "Material",
+          "Shape",
+          "Colour",
+          "Weight"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जिस चीज़ से कोई वस्तु बनी होती है, उसे पदार्थ कहते हैं।",
+        "en": "The substance from which an object is made is called a material."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q002",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "objects-and-materials",
+      "subtopic": "object-vs-material",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से कौन एक वस्तु (object) है, पदार्थ नहीं?",
+        "en": "Which of the following is an object, not a material?"
+      },
+      "options": {
+        "hi": [
+          "कुर्सी",
+          "लकड़ी",
+          "प्लास्टिक",
+          "धातु"
+        ],
+        "en": [
+          "Chair",
+          "Wood",
+          "Plastic",
+          "Metal"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "कुर्सी एक वस्तु है जो लकड़ी, प्लास्टिक या धातु जैसे पदार्थों से बनाई जा सकती है।",
+        "en": "A chair is an object which can be made from materials like wood, plastic or metal."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q003",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "objects-and-materials",
+      "subtopic": "one-material-many-objects",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "लकड़ी से कुर्सी, मेज और दरवाज़ा बनाया जा सकता है। यह किस तथ्य को दर्शाता है?",
+        "en": "Wood can be used to make a chair, a table and a door. What does this show?"
+      },
+      "options": {
+        "hi": [
+          "एक ही पदार्थ से कई भिन्न वस्तुएँ बनाई जा सकती हैं",
+          "सभी वस्तुएँ एक जैसी होती हैं",
+          "लकड़ी घुलनशील पदार्थ है",
+          "लकड़ी पारदर्शी होती है"
+        ],
+        "en": [
+          "The same material can be used to make many different objects",
+          "All objects are identical",
+          "Wood is a soluble material",
+          "Wood is transparent"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "एक ही पदार्थ (लकड़ी) से कुर्सी, मेज, दरवाज़ा जैसी अनेक भिन्न वस्तुएँ बनाई जा सकती हैं।",
+        "en": "The same material (wood) can be used to make many different objects like a chair, table and door."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q004",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "objects-and-materials",
+      "subtopic": "one-object-many-materials",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "एक बाल्टी प्लास्टिक की भी बन सकती है और धातु की भी। इससे क्या पता चलता है?",
+        "en": "A bucket can be made of plastic as well as metal. What does this indicate?"
+      },
+      "options": {
+        "hi": [
+          "एक ही वस्तु अलग-अलग पदार्थों से बनाई जा सकती है",
+          "बाल्टी हमेशा घुलनशील होती है",
+          "बाल्टी पारदर्शी होती है",
+          "प्लास्टिक और धातु एक ही पदार्थ हैं"
+        ],
+        "en": [
+          "The same object can be made from different materials",
+          "A bucket is always soluble",
+          "A bucket is always transparent",
+          "Plastic and metal are the same material"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "एक ही वस्तु (बाल्टी) को अलग-अलग पदार्थों (प्लास्टिक, धातु) से बनाया जा सकता है।",
+        "en": "The same object (bucket) can be made using different materials (plastic, metal)."
+      },
+      "tags": [
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q005",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "objects-and-materials",
+      "subtopic": "identify-material",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "काँच का गिलास मुख्यतः किस पदार्थ से बना होता है?",
+        "en": "A glass tumbler is mainly made of which material?"
+      },
+      "options": {
+        "hi": [
+          "काँच",
+          "प्लास्टिक",
+          "रबर",
+          "कागज़"
+        ],
+        "en": [
+          "Glass",
+          "Plastic",
+          "Rubber",
+          "Paper"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "काँच का गिलास काँच नामक पदार्थ से बनाया जाता है।",
+        "en": "A glass tumbler is made of the material called glass."
+      },
+      "tags": [
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q006",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "objects-and-materials",
+      "subtopic": "misconception-trap",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "एक छात्र कहता है 'कुर्सी और लकड़ी एक ही चीज़ हैं'। इस कथन में क्या गलती है?",
+        "en": "A student says, 'A chair and wood are the same thing.' What is wrong with this statement?"
+      },
+      "options": {
+        "hi": [
+          "कुर्सी वस्तु है और लकड़ी वह पदार्थ है जिससे यह बनी है, दोनों एक समान नहीं",
+          "कथन पूरी तरह सही है",
+          "लकड़ी एक वस्तु है और कुर्सी एक पदार्थ है",
+          "दोनों पारदर्शी पदार्थ हैं"
+        ],
+        "en": [
+          "A chair is an object and wood is the material it is made of; the two are not the same",
+          "The statement is completely correct",
+          "Wood is an object and chair is a material",
+          "Both are transparent materials"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "वस्तु और पदार्थ को एक समान समझना गलत है — वस्तु किसी पदार्थ से बनाई जाती है, दोनों अलग हैं।",
+        "en": "Treating an object and a material as the same thing is incorrect — an object is made of a material, and the two are different concepts."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q007",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "definition",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "पदार्थों की पहचान और तुलना किसके आधार पर की जाती है?",
+        "en": "Materials are identified and compared on the basis of?"
+      },
+      "options": {
+        "hi": [
+          "उनके गुणों",
+          "उनके नाम",
+          "उनकी कीमत",
+          "उनके आकार का रंग"
+        ],
+        "en": [
+          "Their properties",
+          "Their names",
+          "Their price",
+          "The colour of their shape"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "पदार्थों की पहचान व तुलना उनके गुणों (जैसे कठोरता, चमक, घुलनशीलता आदि) के आधार पर की जाती है।",
+        "en": "Materials are identified and compared on the basis of their properties (such as hardness, lustre, solubility, etc.)."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q008",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "lustre",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "किसी पदार्थ की चमक (लस्टर) होना किस उदाहरण में सही है?",
+        "en": "Which of the following materials shows lustre (shine)?"
+      },
+      "options": {
+        "hi": [
+          "लोहा",
+          "रुई",
+          "कागज़",
+          "लकड़ी का बुरादा"
+        ],
+        "en": [
+          "Iron",
+          "Cotton",
+          "Paper",
+          "Sawdust"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लोहे में चमक (लस्टर) होती है, जबकि रुई, कागज़ और बुरादे में चमक नहीं होती।",
+        "en": "Iron has lustre (shine), while cotton, paper and sawdust do not have lustre."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q009",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "comparing-properties",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "लोहे और रुई की तुलना में सही कथन कौन सा है?",
+        "en": "Which statement correctly compares iron and cotton?"
+      },
+      "options": {
+        "hi": [
+          "लोहे में चमक है और यह कठोर है, रुई मुलायम है और चमकहीन है",
+          "दोनों में चमक होती है",
+          "दोनों समान रूप से कठोर हैं",
+          "रुई में चमक है और लोहा मुलायम है"
+        ],
+        "en": [
+          "Iron has lustre and is hard; cotton is soft and has no lustre",
+          "Both have lustre",
+          "Both are equally hard",
+          "Cotton has lustre and iron is soft"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लोहे में चमक होती है और यह कठोर होता है, जबकि रुई मुलायम होती है और उसमें चमक नहीं होती।",
+        "en": "Iron is lustrous and hard, while cotton is soft and does not have lustre."
+      },
+      "tags": [
+        "comparison"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q010",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "multiple-properties",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "क्या एक ही पदार्थ में एक से अधिक गुण एक साथ हो सकते हैं?",
+        "en": "Can a single material show more than one property at the same time?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, जैसे लोहा कठोर भी है और चमकदार भी",
+          "नहीं, हर पदार्थ में केवल एक ही गुण होता है",
+          "केवल तरल पदार्थों में यह संभव है",
+          "केवल पारदर्शी पदार्थों में यह संभव है"
+        ],
+        "en": [
+          "Yes, for example iron is both hard and lustrous",
+          "No, every material has only one property",
+          "This is possible only for liquids",
+          "This is possible only for transparent materials"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "एक पदार्थ में एक साथ कई गुण हो सकते हैं; जैसे लोहा कठोर भी है और चमकदार भी।",
+        "en": "A material can show more than one property at the same time; for example, iron is both hard and lustrous."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q011",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "application-daily-life",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "रमेश दो वस्तुओं को देखकर पता लगाता है कि कौन-सी वस्तु अधिक चमकती है। वह किस गुण की जाँच कर रहा है?",
+        "en": "Ramesh looks at two objects to see which one shines more. Which property is he checking?"
+      },
+      "options": {
+        "hi": [
+          "चमक (लस्टर)",
+          "घुलनशीलता",
+          "कठोरता",
+          "पारदर्शिता"
+        ],
+        "en": [
+          "Lustre",
+          "Solubility",
+          "Hardness",
+          "Transparency"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "वस्तु के चमकने के गुण को चमक या लस्टर कहते हैं।",
+        "en": "The property related to shine in an object is called lustre."
+      },
+      "tags": [
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q012",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "importance",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "पदार्थों के गुणों का अध्ययन करना क्यों उपयोगी है?",
+        "en": "Why is it useful to study the properties of materials?"
+      },
+      "options": {
+        "hi": [
+          "इससे किसी वस्तु के लिए उपयुक्त पदार्थ चुनना आसान हो जाता है",
+          "इससे पदार्थ का रंग बदल जाता है",
+          "इससे पदार्थ महंगा हो जाता है",
+          "इसका कोई उपयोग नहीं है"
+        ],
+        "en": [
+          "It becomes easier to choose a suitable material for a given object",
+          "It changes the colour of the material",
+          "It makes the material expensive",
+          "It has no use"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "गुणों की जानकारी से यह तय करना आसान होता है कि किसी वस्तु के लिए कौन-सा पदार्थ उपयुक्त रहेगा।",
+        "en": "Knowing the properties makes it easier to decide which material is suitable for making a particular object."
+      },
+      "tags": [
+        "conceptual",
+        "application"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q013",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "properties-of-materials",
+      "subtopic": "recap-match",
+      "difficulty": "hard",
+      "type": "challenge",
+      "question": {
+        "hi": "निम्नलिखित को सुमेलित करें — पदार्थ और गुण: (1) लोहा (2) रुई (3) काँच (4) रेत — गुण: (a) पारदर्शी (b) अघुलनशील (c) चमकदार व कठोर (d) मुलायम",
+        "en": "Match correctly — material and property: (1) Iron (2) Cotton (3) Glass (4) Sand — property: (a) Transparent (b) Insoluble (c) Lustrous and hard (d) Soft"
+      },
+      "options": {
+        "hi": [
+          "1-c, 2-d, 3-a, 4-b",
+          "1-a, 2-b, 3-c, 4-d",
+          "1-b, 2-c, 3-d, 4-a",
+          "1-d, 2-a, 3-b, 4-c"
+        ],
+        "en": [
+          "1-c, 2-d, 3-a, 4-b",
+          "1-a, 2-b, 3-c, 4-d",
+          "1-b, 2-c, 3-d, 4-a",
+          "1-d, 2-a, 3-b, 4-c"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लोहा चमकदार व कठोर है, रुई मुलायम है, काँच पारदर्शी है और रेत जल में अघुलनशील है।",
+        "en": "Iron is lustrous and hard, cotton is soft, glass is transparent, and sand is insoluble in water."
+      },
+      "tags": [
+        "challenge",
+        "recap"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q014",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "definition",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "वे पदार्थ जो दबाने या मोड़ने पर आसानी से आकार नहीं बदलते, क्या कहलाते हैं?",
+        "en": "Materials that do not easily change shape on pressing or bending are called?"
+      },
+      "options": {
+        "hi": [
+          "कठोर पदार्थ",
+          "मृदु पदार्थ",
+          "घुलनशील पदार्थ",
+          "पारदर्शी पदार्थ"
+        ],
+        "en": [
+          "Hard materials",
+          "Soft materials",
+          "Soluble materials",
+          "Transparent materials"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जो पदार्थ दबाने या मोड़ने पर आसानी से आकार नहीं बदलते और कठिनाई से टूटते हैं, वे कठोर कहलाते हैं।",
+        "en": "Materials that do not easily change shape on pressing or bending, and are difficult to break, are called hard."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q015",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "examples",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा पदार्थ मृदु (मुलायम) है?",
+        "en": "Which of the following materials is soft?"
+      },
+      "options": {
+        "hi": [
+          "रुई",
+          "लोहा",
+          "पत्थर",
+          "ईंट"
+        ],
+        "en": [
+          "Cotton",
+          "Iron",
+          "Stone",
+          "Brick"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "रुई एक मृदु पदार्थ है जिसे आसानी से दबाया जा सकता है, जबकि लोहा, पत्थर व ईंट कठोर हैं।",
+        "en": "Cotton is a soft material that can be pressed easily, while iron, stone and brick are hard."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q016",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "hard-not-heavy-trap",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "क्या कठोर पदार्थ का अर्थ यह है कि वह भारी भी होता है?",
+        "en": "Does being a hard material also mean that it is heavy?"
+      },
+      "options": {
+        "hi": [
+          "नहीं, कठोरता दबाव सहने की क्षमता से संबंधित है, वजन से नहीं",
+          "हाँ, हर कठोर पदार्थ भारी होता है",
+          "हाँ, लेकिन केवल धातुओं में",
+          "कठोरता और भार एक ही गुण हैं"
+        ],
+        "en": [
+          "No, hardness is related to the ability to resist pressure, not weight",
+          "Yes, every hard material is heavy",
+          "Yes, but only for metals",
+          "Hardness and weight are the same property"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "कठोरता का संबंध पदार्थ के दबाव सहने की क्षमता से है, वजन से नहीं; इसलिए कठोर होने का अर्थ भारी होना नहीं है।",
+        "en": "Hardness is related to a material's ability to resist pressure, not its weight; so being hard does not mean being heavy."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q017",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "testing-by-touch",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "किसी पदार्थ की कठोरता या मृदुलता जाँचने का सबसे सरल तरीका क्या है?",
+        "en": "What is the simplest way to check whether a material is hard or soft?"
+      },
+      "options": {
+        "hi": [
+          "उसे हाथ से दबाकर या मोड़कर देखना",
+          "उसे जल में डालना",
+          "उसे प्रकाश में रखना",
+          "उसका रंग देखना"
+        ],
+        "en": [
+          "Pressing or bending it by hand",
+          "Putting it in water",
+          "Placing it in light",
+          "Looking at its colour"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "कठोरता और मृदुलता स्पर्श व दबाव द्वारा जाँची जाती है — पदार्थ को दबाकर या मोड़कर देखा जाता है।",
+        "en": "Hardness and softness are checked by touch and pressure — by pressing or bending the material."
+      },
+      "tags": [
+        "experiment"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q018",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "wax-example",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "मोम कमरे के तापमान पर आसानी से मुड़ जाता है, पर ठंडा होने पर सख्त हो सकता है। इससे क्या पता चलता है?",
+        "en": "Wax bends easily at room temperature but can become stiff when cold. What does this show?"
+      },
+      "options": {
+        "hi": [
+          "एक ही पदार्थ अलग-अलग परिस्थितियों में अलग कठोरता दिखा सकता है",
+          "मोम हमेशा कठोर पदार्थ है",
+          "मोम जल में घुलनशील है",
+          "कठोरता तापमान से कभी प्रभावित नहीं होती"
+        ],
+        "en": [
+          "The same material can show different hardness under different conditions",
+          "Wax is always a hard material",
+          "Wax is soluble in water",
+          "Hardness is never affected by temperature"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "मोम जैसे पदार्थ अलग-अलग परिस्थितियों (जैसे तापमान) में अलग कठोरता दिखा सकते हैं।",
+        "en": "Materials like wax can show different hardness under different conditions, such as temperature."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q019",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "daily-life-choice",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "फर्श साफ करने वाले पोंछे (मॉप) के लिए कठोर पदार्थ के बजाय मृदु पदार्थ का उपयोग क्यों किया जाता है?",
+        "en": "Why is a soft material used for a floor mop instead of a hard material?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि मृदु पदार्थ आसानी से मुड़कर सतह की सफाई कर सकता है",
+          "क्योंकि मृदु पदार्थ महंगा होता है",
+          "क्योंकि मृदु पदार्थ जल में घुल जाता है",
+          "क्योंकि मृदु पदार्थ पारदर्शी होता है"
+        ],
+        "en": [
+          "Because a soft material can bend easily to clean the surface",
+          "Because a soft material is expensive",
+          "Because a soft material dissolves in water",
+          "Because a soft material is transparent"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "मृदु पदार्थ आसानी से मुड़ और दबकर सतह की सफाई में उपयोगी होता है, इसलिए मॉप जैसे कार्यों में इसका उपयोग होता है।",
+        "en": "A soft material can bend and press easily to clean a surface, which is why it is used for tasks like mopping."
+      },
+      "tags": [
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q020",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "hardness-and-softness",
+      "subtopic": "recap",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा पदार्थ कठोर है?",
+        "en": "Which of the following is a hard material?"
+      },
+      "options": {
+        "hi": [
+          "पत्थर",
+          "स्पंज",
+          "रुई",
+          "फोम"
+        ],
+        "en": [
+          "Stone",
+          "Sponge",
+          "Cotton",
+          "Foam"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "पत्थर एक कठोर पदार्थ है, जबकि स्पंज, रुई और फोम मृदु पदार्थ हैं।",
+        "en": "Stone is a hard material, while sponge, cotton and foam are soft materials."
+      },
+      "tags": [
+        "recap"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q021",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "roughness-and-smoothness",
+      "subtopic": "definition",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "पदार्थ की सतह जिसे छूने पर असमान अनुभव हो, उसे क्या कहते हैं?",
+        "en": "A material surface that feels uneven on touching is called?"
+      },
+      "options": {
+        "hi": [
+          "खुरदरी सतह",
+          "चिकनी सतह",
+          "पारदर्शी सतह",
+          "घुलनशील सतह"
+        ],
+        "en": [
+          "Rough surface",
+          "Smooth surface",
+          "Transparent surface",
+          "Soluble surface"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जिस सतह को छूने पर असमान अनुभव हो, वह खुरदरी सतह कहलाती है।",
+        "en": "A surface that feels uneven on touching is called a rough surface."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q022",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "roughness-and-smoothness",
+      "subtopic": "examples",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से किसकी सतह चिकनी होती है?",
+        "en": "Which of the following has a smooth surface?"
+      },
+      "options": {
+        "hi": [
+          "काँच",
+          "सैंडपेपर",
+          "ईंट",
+          "छाल (पेड़ की)"
+        ],
+        "en": [
+          "Glass",
+          "Sandpaper",
+          "Brick",
+          "Tree bark"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "काँच की सतह चिकनी होती है, जबकि सैंडपेपर, ईंट और पेड़ की छाल की सतह खुरदरी होती है।",
+        "en": "The surface of glass is smooth, while the surfaces of sandpaper, brick and tree bark are rough."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q023",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "roughness-and-smoothness",
+      "subtopic": "distinct-from-hardness",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "क्या खुरदरापन और कठोरता एक ही गुण हैं?",
+        "en": "Are roughness and hardness the same property?"
+      },
+      "options": {
+        "hi": [
+          "नहीं, ये अलग-अलग गुण हैं; सैंडपेपर खुरदरा है पर उतना कठोर नहीं",
+          "हाँ, दोनों एक ही गुण हैं",
+          "हाँ, हर कठोर पदार्थ खुरदरा होता है",
+          "हाँ, हर खुरदरा पदार्थ कठोर होता है"
+        ],
+        "en": [
+          "No, they are different properties; sandpaper is rough but not very hard",
+          "Yes, both are the same property",
+          "Yes, every hard material is rough",
+          "Yes, every rough material is hard"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "खुरदरापन/चिकनापन कठोरता से अलग गुण है — इन्हें एक-दूसरे से जोड़कर नहीं समझना चाहिए।",
+        "en": "Roughness/smoothness is a property different from hardness, and the two should not be confused with each other."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q024",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "roughness-and-smoothness",
+      "subtopic": "same-material-different-surfaces",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "एक ही पेड़ की छाल कुछ जगह खुरदरी और कुछ जगह अपेक्षाकृत चिकनी हो सकती है। यह किस तथ्य को दर्शाता है?",
+        "en": "The bark of the same tree can be rough in some places and relatively smooth in others. What does this show?"
+      },
+      "options": {
+        "hi": [
+          "एक ही पदार्थ की अलग-अलग सतहें अलग बनावट की हो सकती हैं",
+          "छाल हमेशा एक समान होती है",
+          "छाल जल में घुलनशील है",
+          "छाल पारदर्शी पदार्थ है"
+        ],
+        "en": [
+          "Different surfaces of the same material can have different textures",
+          "Bark is always uniform everywhere",
+          "Bark is soluble in water",
+          "Bark is a transparent material"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "एक ही पदार्थ की अलग-अलग सतहें अलग बनावट (खुरदरी/चिकनी) की हो सकती हैं।",
+        "en": "Different surfaces of the same material can have different textures (rough/smooth)."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q025",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "roughness-and-smoothness",
+      "subtopic": "testing-method",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "सतह खुरदरी है या चिकनी, यह जानने का सबसे सामान्य तरीका क्या है?",
+        "en": "What is the most common way to find out if a surface is rough or smooth?"
+      },
+      "options": {
+        "hi": [
+          "उसे उंगलियों से स्पर्श करना",
+          "उसे जल में डालना",
+          "उसे तराजू पर तौलना",
+          "उसे प्रकाश के सामने रखना"
+        ],
+        "en": [
+          "Touching it with fingers",
+          "Putting it in water",
+          "Weighing it on a balance",
+          "Holding it in front of light"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "सतह की बनावट (खुरदरी/चिकनी) स्पर्श द्वारा पहचानी जाती है।",
+        "en": "Surface texture (rough/smooth) is identified by touch."
+      },
+      "tags": [
+        "experiment"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q026",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "roughness-and-smoothness",
+      "subtopic": "recap",
+      "difficulty": "hard",
+      "type": "challenge",
+      "question": {
+        "hi": "निम्न में से कौन सा युग्म गलत रूप से मिलाया गया है?",
+        "en": "Which of the following pairs is incorrectly matched?"
+      },
+      "options": {
+        "hi": [
+          "सैंडपेपर – चिकनी सतह",
+          "काँच – चिकनी सतह",
+          "ईंट – खुरदरी सतह",
+          "पेड़ की छाल – खुरदरी सतह"
+        ],
+        "en": [
+          "Sandpaper – smooth surface",
+          "Glass – smooth surface",
+          "Brick – rough surface",
+          "Tree bark – rough surface"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "सैंडपेपर की सतह खुरदरी होती है, चिकनी नहीं, इसलिए यह युग्म गलत है।",
+        "en": "The surface of sandpaper is rough, not smooth, so this pair is incorrectly matched."
+      },
+      "tags": [
+        "challenge",
+        "recap"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q027",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "definition",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "जब कोई पदार्थ जल में पूरी तरह घुल जाता है और घोल एकसार दिखता है, तो पदार्थ को क्या कहते हैं?",
+        "en": "When a material dissolves completely in water and the mixture looks uniform, the material is called?"
+      },
+      "options": {
+        "hi": [
+          "घुलनशील पदार्थ",
+          "अघुलनशील पदार्थ",
+          "कठोर पदार्थ",
+          "पारदर्शी पदार्थ"
+        ],
+        "en": [
+          "Soluble material",
+          "Insoluble material",
+          "Hard material",
+          "Transparent material"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जो पदार्थ जल में मिलकर पूरी तरह घुल जाता है और घोल एकसार दिखता है, वह घुलनशील कहलाता है।",
+        "en": "A material that mixes completely with water and forms a uniform mixture is called soluble."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q028",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "examples",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा पदार्थ जल में अघुलनशील है?",
+        "en": "Which of the following materials is insoluble in water?"
+      },
+      "options": {
+        "hi": [
+          "रेत",
+          "चीनी",
+          "नमक",
+          "फिटकरी"
+        ],
+        "en": [
+          "Sand",
+          "Sugar",
+          "Salt",
+          "Alum"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "रेत जल में नहीं घुलती, इसलिए यह अघुलनशील है; चीनी, नमक व फिटकरी जल में घुलनशील हैं।",
+        "en": "Sand does not dissolve in water, so it is insoluble; sugar, salt and alum are soluble in water."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q029",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "dissolving-vs-melting-trap",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "क्या 'घुलना' और 'पिघलना' एक ही प्रक्रिया है?",
+        "en": "Are 'dissolving' and 'melting' the same process?"
+      },
+      "options": {
+        "hi": [
+          "नहीं, घुलना जल में मिलकर एकसार घोल बनाना है, पिघलना ठोस का द्रव में बदलना है",
+          "हाँ, दोनों एक ही प्रक्रिया हैं",
+          "हाँ, दोनों में पदार्थ गायब हो जाता है",
+          "घुलना केवल गर्म करने पर होता है"
+        ],
+        "en": [
+          "No, dissolving means mixing with a liquid to form a uniform solution, while melting means a solid changing into liquid",
+          "Yes, both are the same process",
+          "Yes, in both the material disappears",
+          "Dissolving only happens on heating"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "घुलना (dissolving) और पिघलना (melting) दो अलग प्रक्रियाएँ हैं; इन्हें एक समान समझना एक सामान्य भ्रम है।",
+        "en": "Dissolving and melting are two different processes; confusing the two is a common mistake."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q030",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "depends-on-liquid",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "क्या एक पदार्थ जल में घुलनशील हो सकता है परंतु किसी अन्य द्रव में अघुलनशील?",
+        "en": "Can a material be soluble in water but insoluble in some other liquid?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, घुलनशीलता पदार्थ और द्रव दोनों पर निर्भर करती है",
+          "नहीं, घुलनशीलता हमेशा स्थिर रहती है",
+          "नहीं, हर पदार्थ हर द्रव में घुलनशील होता है",
+          "यह केवल गैसों के लिए सही है"
+        ],
+        "en": [
+          "Yes, solubility depends on both the material and the liquid",
+          "No, solubility is always fixed",
+          "No, every material is soluble in every liquid",
+          "This is true only for gases"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "घुलनशीलता पदार्थ और द्रव दोनों पर निर्भर करती है; एक पदार्थ एक द्रव में घुलनशील और दूसरे में अघुलनशील हो सकता है।",
+        "en": "Solubility depends on both the material and the liquid; a material may be soluble in one liquid but insoluble in another."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q031",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "experiment",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "मीना ने एक चम्मच नमक जल में डालकर हिलाया और घोल साफ हो गया। इससे क्या पता चलता है?",
+        "en": "Meena added a spoon of salt to water and stirred; the mixture became clear. What does this show?"
+      },
+      "options": {
+        "hi": [
+          "नमक जल में घुलनशील है",
+          "नमक जल में अघुलनशील है",
+          "नमक पारदर्शी पदार्थ है",
+          "नमक जल में तैरता है"
+        ],
+        "en": [
+          "Salt is soluble in water",
+          "Salt is insoluble in water",
+          "Salt is a transparent material",
+          "Salt floats in water"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जल में मिलकर घोल का साफ/एकसार दिखना यह दर्शाता है कि पदार्थ (नमक) घुलनशील है।",
+        "en": "A clear, uniform mixture after mixing with water shows that the material (salt) is soluble."
+      },
+      "tags": [
+        "experiment",
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q032",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "disappear-misconception",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "घुलने के बाद पदार्थ 'गायब' हो जाता है — यह कथन कितना सही है?",
+        "en": "After dissolving, the material 'disappears' — how correct is this statement?"
+      },
+      "options": {
+        "hi": [
+          "गलत है; पदार्थ गायब नहीं होता, वह एकसार घोल का भाग बन जाता है",
+          "पूरी तरह सही है, पदार्थ पूरी तरह समाप्त हो जाता है",
+          "यह केवल ठोस पदार्थों के लिए सही है",
+          "यह केवल तरल पदार्थों के लिए सही है"
+        ],
+        "en": [
+          "Incorrect; the material does not disappear, it becomes part of a uniform solution",
+          "Completely correct, the material is fully destroyed",
+          "This is true only for solids",
+          "This is true only for liquids"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "घुलने का अर्थ पदार्थ का 'गायब' हो जाना नहीं, बल्कि जल के साथ मिलकर एकसार घोल बनाना है।",
+        "en": "Dissolving does not mean the material disappears — it means the material mixes with water to form a uniform solution."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q033",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "solubility",
+      "subtopic": "recap-classification",
+      "difficulty": "hard",
+      "type": "challenge",
+      "question": {
+        "hi": "निम्नलिखित में से घुलनशील और अघुलनशील पदार्थों का कौन सा समूह सही है?",
+        "en": "Which of the following correctly groups soluble and insoluble materials?"
+      },
+      "options": {
+        "hi": [
+          "घुलनशील: चीनी, नमक; अघुलनशील: रेत, चॉक",
+          "घुलनशील: रेत, चॉक; अघुलनशील: चीनी, नमक",
+          "घुलनशील: लोहा, पत्थर; अघुलनशील: चीनी, नमक",
+          "घुलनशील: सभी पदार्थ; अघुलनशील: कोई नहीं"
+        ],
+        "en": [
+          "Soluble: sugar, salt; Insoluble: sand, chalk",
+          "Soluble: sand, chalk; Insoluble: sugar, salt",
+          "Soluble: iron, stone; Insoluble: sugar, salt",
+          "Soluble: all materials; Insoluble: none"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "चीनी और नमक जल में घुलनशील हैं, जबकि रेत और चॉक जल में अघुलनशील हैं।",
+        "en": "Sugar and salt are soluble in water, while sand and chalk are insoluble in water."
+      },
+      "tags": [
+        "challenge",
+        "recap"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q034",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "definition",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "जल में डालने पर जो वस्तुएँ जल की सतह पर बनी रहती हैं, उन्हें क्या कहते हैं?",
+        "en": "Objects that remain on the surface of water when placed in it are said to?"
+      },
+      "options": {
+        "hi": [
+          "तैरना",
+          "डूबना",
+          "घुलना",
+          "पिघलना"
+        ],
+        "en": [
+          "Float",
+          "Sink",
+          "Dissolve",
+          "Melt"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जो वस्तुएँ जल की सतह पर बनी रहती हैं, वे तैरती हैं।",
+        "en": "Objects that remain on the surface of water are said to float."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q035",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "examples",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सी वस्तु जल में डूब जाती है?",
+        "en": "Which of the following objects sinks in water?"
+      },
+      "options": {
+        "hi": [
+          "लोहे की कील",
+          "लकड़ी का टुकड़ा",
+          "प्लास्टिक की गेंद",
+          "सूखा पत्ता"
+        ],
+        "en": [
+          "Iron nail",
+          "Piece of wood",
+          "Plastic ball",
+          "Dry leaf"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लोहे की कील जल में डूब जाती है, जबकि लकड़ी, प्लास्टिक की गेंद और सूखा पत्ता जल में तैरते हैं।",
+        "en": "An iron nail sinks in water, while wood, a plastic ball and a dry leaf float in water."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q036",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "hollow-object-trap",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "लोहे का बड़ा जहाज़ जल में तैरता है जबकि लोहे की एक छोटी कील डूब जाती है। इसका कारण क्या है?",
+        "en": "A large iron ship floats in water while a small iron nail sinks. What is the reason for this?"
+      },
+      "options": {
+        "hi": [
+          "जहाज़ खोखला होता है, जिससे वह हल्का व्यवहार करता है और तैर सकता है",
+          "जहाज़ लोहे का नहीं बना होता",
+          "कील जल में घुल जाती है",
+          "जहाज़ पारदर्शी होता है"
+        ],
+        "en": [
+          "The ship is hollow, which allows it to behave lighter and float",
+          "The ship is not made of iron",
+          "The nail dissolves in water",
+          "The ship is transparent"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "खोखली वस्तुएँ (जैसे जहाज़) सामान्यतः तैर सकती हैं, भले ही उनका पदार्थ (लोहा) भारी हो, क्योंकि तैरना/डूबना पदार्थ और वस्तु की बनावट दोनों पर निर्भर करता है।",
+        "en": "Hollow objects (like a ship) can float even if their material (iron) is heavy, because floating/sinking depends on both the material and the shape of the object."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q037",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "weight-trap",
+      "difficulty": "medium",
+      "type": "reasoning",
+      "question": {
+        "hi": "क्या यह मान लेना सही है कि हल्की वस्तुएँ हमेशा तैरती हैं और भारी वस्तुएँ हमेशा डूबती हैं?",
+        "en": "Is it correct to assume that light objects always float and heavy objects always sink?"
+      },
+      "options": {
+        "hi": [
+          "नहीं, तैरना/डूबना पदार्थ की प्रकृति व वस्तु की बनावट (जैसे खोखलापन) दोनों पर निर्भर करता है",
+          "हाँ, यह हमेशा सत्य है",
+          "हाँ, लेकिन केवल धातुओं के लिए",
+          "वजन तैरने/डूबने से कोई संबंध नहीं रखता"
+        ],
+        "en": [
+          "No, floating/sinking depends on both the nature of the material and the shape of the object, such as being hollow",
+          "Yes, this is always true",
+          "Yes, but only for metals",
+          "Weight has no relation to floating/sinking"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "केवल वजन देखकर तैरने/डूबने का निष्कर्ष नहीं निकाला जा सकता; वस्तु की बनावट (जैसे खोखलापन) भी महत्वपूर्ण भूमिका निभाती है।",
+        "en": "Floating or sinking cannot be concluded from weight alone; the shape of the object (such as being hollow) also plays an important role."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q038",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "experiment-application",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "अनु ने एक प्लास्टिक की खाली बोतल और एक पत्थर को जल में डाला। सही परिणाम क्या होगा?",
+        "en": "Anu placed an empty plastic bottle and a stone in water. What will be the correct result?"
+      },
+      "options": {
+        "hi": [
+          "बोतल तैरेगी और पत्थर डूबेगा",
+          "दोनों तैरेंगे",
+          "दोनों डूबेंगे",
+          "बोतल डूबेगी और पत्थर तैरेगा"
+        ],
+        "en": [
+          "The bottle will float and the stone will sink",
+          "Both will float",
+          "Both will sink",
+          "The bottle will sink and the stone will float"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "खाली प्लास्टिक की बोतल खोखली और हल्की होने के कारण तैरती है, जबकि पत्थर भारी व ठोस होने के कारण डूब जाता है।",
+        "en": "An empty plastic bottle floats because it is hollow and light, while a stone sinks because it is heavy and solid."
+      },
+      "tags": [
+        "experiment",
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q039",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "same-shape-different-material",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "समान आकार की एक लकड़ी की गेंद और एक लोहे की गेंद को जल में डाला जाता है। क्या दोनों समान व्यवहार दिखाएँगी?",
+        "en": "A wooden ball and an iron ball of the same shape are placed in water. Will both behave the same way?"
+      },
+      "options": {
+        "hi": [
+          "नहीं, लकड़ी की गेंद तैरेगी और लोहे की गेंद डूबेगी",
+          "हाँ, दोनों तैरेंगी",
+          "हाँ, दोनों डूबेंगी",
+          "आकार समान होने के कारण दोनों का व्यवहार हमेशा समान होगा"
+        ],
+        "en": [
+          "No, the wooden ball will float and the iron ball will sink",
+          "Yes, both will float",
+          "Yes, both will sink",
+          "Since the shape is the same, both will always behave the same way"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "एक ही आकार की अलग-अलग पदार्थों की वस्तुएँ अलग व्यवहार दिखा सकती हैं — लकड़ी तैरती है जबकि लोहा डूबता है।",
+        "en": "Objects of the same shape made of different materials can behave differently — wood floats while iron sinks."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q040",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "floating-and-sinking",
+      "subtopic": "recap",
+      "difficulty": "hard",
+      "type": "challenge",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा युग्म सही सुमेलित नहीं है?",
+        "en": "Which of the following pairs is NOT correctly matched?"
+      },
+      "options": {
+        "hi": [
+          "लोहे की कील – तैरना",
+          "लकड़ी का टुकड़ा – तैरना",
+          "पत्थर – डूबना",
+          "खाली प्लास्टिक की बोतल – तैरना"
+        ],
+        "en": [
+          "Iron nail – floating",
+          "Piece of wood – floating",
+          "Stone – sinking",
+          "Empty plastic bottle – floating"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लोहे की कील जल में डूबती है, तैरती नहीं; इसलिए यह युग्म गलत है।",
+        "en": "An iron nail sinks in water, it does not float; hence this pair is incorrectly matched."
+      },
+      "tags": [
+        "challenge",
+        "recap"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q041",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "definition-transparent",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, उन्हें क्या कहते हैं?",
+        "en": "Materials through which objects can be seen clearly are called?"
+      },
+      "options": {
+        "hi": [
+          "पारदर्शी",
+          "अपारदर्शी",
+          "पारभासी",
+          "घुलनशील"
+        ],
+        "en": [
+          "Transparent",
+          "Opaque",
+          "Translucent",
+          "Soluble"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं।",
+        "en": "Materials through which objects can be seen clearly are called transparent."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q042",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "examples",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा पदार्थ अपारदर्शी है?",
+        "en": "Which of the following materials is opaque?"
+      },
+      "options": {
+        "hi": [
+          "लकड़ी",
+          "काँच",
+          "साफ जल",
+          "तेल लगा पतला कागज़"
+        ],
+        "en": [
+          "Wood",
+          "Glass",
+          "Clear water",
+          "Thin oiled paper"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लकड़ी के आर-पार कुछ भी दिखाई नहीं देता, इसलिए यह अपारदर्शी है।",
+        "en": "Nothing can be seen through wood, so it is opaque."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q043",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "translucent-example",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "तेल लगा हुआ कागज़ किस श्रेणी में आता है?",
+        "en": "Oiled paper falls under which category?"
+      },
+      "options": {
+        "hi": [
+          "पारभासी",
+          "पारदर्शी",
+          "अपारदर्शी",
+          "घुलनशील"
+        ],
+        "en": [
+          "Translucent",
+          "Transparent",
+          "Opaque",
+          "Soluble"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "तेल लगे कागज़ के आर-पार धुंधला दिखाई देता है, इसलिए यह पारभासी है।",
+        "en": "Objects appear blurred through oiled paper, so it is translucent."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q044",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "opaque-vs-translucent-trap",
+      "difficulty": "medium",
+      "type": "reasoning",
+      "question": {
+        "hi": "अपारदर्शी और पारभासी में मुख्य अंतर क्या है?",
+        "en": "What is the main difference between opaque and translucent materials?"
+      },
+      "options": {
+        "hi": [
+          "अपारदर्शी में कुछ नहीं दिखता, पारभासी में धुंधला दिखाई देता है",
+          "दोनों में आर-पार बिल्कुल स्पष्ट दिखाई देता है",
+          "दोनों एक ही गुण के अलग-अलग नाम हैं",
+          "अपारदर्शी में धुंधला दिखता है, पारभासी में कुछ नहीं दिखता"
+        ],
+        "en": [
+          "Nothing is visible through opaque materials, while a blurred view is seen through translucent materials",
+          "Both show a completely clear view through them",
+          "Both are different names for the same property",
+          "A blurred view is seen through opaque materials, and nothing through translucent"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "अपारदर्शी पदार्थ के आर-पार कुछ नहीं दिखता, जबकि पारभासी पदार्थ के आर-पार धुंधला दिखाई देता है — दोनों को एक समान न समझें।",
+        "en": "Nothing can be seen through an opaque material, while objects appear blurred through a translucent material; the two should not be treated as the same."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q045",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "thickness-effect",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "काँच की एक मोटी परत के आर-पार वस्तुएँ धुंधली दिखाई देने लगती हैं। इससे क्या पता चलता है?",
+        "en": "Through a thick layer of glass, objects start appearing blurred. What does this show?"
+      },
+      "options": {
+        "hi": [
+          "एक ही पदार्थ की मोटाई बदलने पर पारदर्शिता बदल सकती है",
+          "काँच हमेशा अपारदर्शी होता है",
+          "काँच जल में घुलनशील है",
+          "मोटाई का पारदर्शिता से कोई संबंध नहीं है"
+        ],
+        "en": [
+          "Changing the thickness of the same material can change its transparency",
+          "Glass is always opaque",
+          "Glass is soluble in water",
+          "Thickness has no relation to transparency"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "एक ही पदार्थ (काँच) की मोटाई बदलने पर उसकी पारदर्शिता बदल सकती है — पतले काँच से स्पष्ट, मोटे से धुंधला दिख सकता है।",
+        "en": "Changing the thickness of the same material (glass) can change its transparency — thin glass may look clear while thick glass may look blurred."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q046",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "daily-life-application",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "खिड़की के पर्दे के लिए किस प्रकार का पदार्थ प्रायः उपयुक्त माना जाता है ताकि हल्की रोशनी अंदर आए पर बाहर स्पष्ट न दिखे?",
+        "en": "Which type of material is generally considered suitable for a window curtain so that some light enters but the outside view is not clear?"
+      },
+      "options": {
+        "hi": [
+          "पारभासी पदार्थ",
+          "पारदर्शी पदार्थ",
+          "अपारदर्शी पदार्थ",
+          "घुलनशील पदार्थ"
+        ],
+        "en": [
+          "Translucent material",
+          "Transparent material",
+          "Opaque material",
+          "Soluble material"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "पारभासी पदार्थ से हल्की रोशनी अंदर आती है परंतु आर-पार का दृश्य धुंधला रहता है, इसलिए यह पर्दे के लिए उपयुक्त है।",
+        "en": "A translucent material allows some light to pass through but keeps the view blurred, making it suitable for curtains."
+      },
+      "tags": [
+        "daily-life"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q047",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "transparency-translucency-opacity",
+      "subtopic": "recap-classify",
+      "difficulty": "hard",
+      "type": "challenge",
+      "question": {
+        "hi": "निम्नलिखित को सही ढंग से वर्गीकृत करें — पदार्थ: (1) काँच (2) लकड़ी (3) तेल लगा कागज़ — श्रेणी: (a) पारदर्शी (b) अपारदर्शी (c) पारभासी",
+        "en": "Classify correctly — material: (1) Glass (2) Wood (3) Oiled paper — category: (a) Transparent (b) Opaque (c) Translucent"
+      },
+      "options": {
+        "hi": [
+          "1-a, 2-b, 3-c",
+          "1-b, 2-a, 3-c",
+          "1-c, 2-b, 3-a",
+          "1-a, 2-c, 3-b"
+        ],
+        "en": [
+          "1-a, 2-b, 3-c",
+          "1-b, 2-a, 3-c",
+          "1-c, 2-b, 3-a",
+          "1-a, 2-c, 3-b"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "काँच पारदर्शी है, लकड़ी अपारदर्शी है, और तेल लगा कागज़ पारभासी है।",
+        "en": "Glass is transparent, wood is opaque, and oiled paper is translucent."
+      },
+      "tags": [
+        "challenge",
+        "recap"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q048",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "definition",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "पदार्थों को उनके एक या अधिक समान गुणों के आधार पर समूहों में बाँटने की प्रक्रिया क्या कहलाती है?",
+        "en": "The process of sorting materials into groups based on one or more common properties is called?"
+      },
+      "options": {
+        "hi": [
+          "वर्गीकरण",
+          "घुलनशीलता",
+          "पारदर्शिता",
+          "मृदुलता"
+        ],
+        "en": [
+          "Classification",
+          "Solubility",
+          "Transparency",
+          "Softness"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "पदार्थों को समान गुणों के आधार पर समूहों में बाँटने की प्रक्रिया वर्गीकरण कहलाती है।",
+        "en": "Sorting materials into groups based on common properties is called classification."
+      },
+      "tags": [
+        "definition"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q049",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "purpose",
+      "difficulty": "easy",
+      "type": "factual",
+      "question": {
+        "hi": "वर्गीकरण करने का मुख्य उद्देश्य क्या है?",
+        "en": "What is the main purpose of classification?"
+      },
+      "options": {
+        "hi": [
+          "पदार्थों का अध्ययन और तुलना करना आसान बनाना",
+          "पदार्थों को महंगा बनाना",
+          "पदार्थों का रंग बदलना",
+          "पदार्थों को जल में घोलना"
+        ],
+        "en": [
+          "To make the study and comparison of materials easier",
+          "To make materials expensive",
+          "To change the colour of materials",
+          "To dissolve materials in water"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "वर्गीकरण से पदार्थों का अध्ययन, तुलना और उपयोग समझना आसान हो जाता है।",
+        "en": "Classification makes it easier to study, compare and understand the uses of materials."
+      },
+      "tags": [
+        "basics"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q050",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "example-grouping",
+      "difficulty": "medium",
+      "type": "conceptual",
+      "question": {
+        "hi": "लोहे और ताँबे को एक समूह में तथा रुई और स्पंज को दूसरे समूह में रखा गया है। यह वर्गीकरण किस गुण पर आधारित है?",
+        "en": "Iron and copper are placed in one group, and cotton and sponge are placed in another group. On which property is this classification based?"
+      },
+      "options": {
+        "hi": [
+          "कठोरता व मृदुलता",
+          "घुलनशीलता",
+          "पारदर्शिता",
+          "रंग"
+        ],
+        "en": [
+          "Hardness and softness",
+          "Solubility",
+          "Transparency",
+          "Colour"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "लोहा व ताँबा कठोर पदार्थ हैं जबकि रुई व स्पंज मृदु पदार्थ हैं, इसलिए यह वर्गीकरण कठोरता व मृदुलता पर आधारित है।",
+        "en": "Iron and copper are hard materials while cotton and sponge are soft materials, so this classification is based on hardness and softness."
+      },
+      "tags": [
+        "comparison"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q051",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "one-property-multiple-groups-trap",
+      "difficulty": "medium",
+      "type": "reasoning",
+      "question": {
+        "hi": "क्या एक ही पदार्थ अलग-अलग गुणों के आधार पर अलग-अलग समूहों में रखा जा सकता है?",
+        "en": "Can the same material be placed in different groups based on different properties?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, वर्गीकरण का आधार बदलने पर एक ही पदार्थ अलग समूह में आ सकता है",
+          "नहीं, एक पदार्थ हमेशा एक ही समूह में रहता है",
+          "नहीं, वर्गीकरण का केवल एक ही सही तरीका है",
+          "यह केवल तरल पदार्थों के लिए संभव है"
+        ],
+        "en": [
+          "Yes, changing the basis of classification can place the same material into a different group",
+          "No, a material always remains in the same group",
+          "No, there is only one correct way of classification",
+          "This is possible only for liquids"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "अलग-अलग गुणों के आधार पर एक ही पदार्थ अलग समूहों में आ सकता है; वर्गीकरण का आधार प्रश्न में दिए गए गुण के अनुसार बदल सकता है।",
+        "en": "The same material may fall into different groups depending on the property used; the basis of classification can change according to the property mentioned."
+      },
+      "tags": [
+        "conceptual"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q052",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "multi-property-classification",
+      "difficulty": "medium",
+      "type": "application",
+      "question": {
+        "hi": "यदि किसी वस्तु को कठोरता और पारदर्शिता दोनों के आधार पर वर्गीकृत करना है, तो काँच को किस समूह में रखा जाएगा?",
+        "en": "If an object is classified based on both hardness and transparency, in which group will glass be placed?"
+      },
+      "options": {
+        "hi": [
+          "कठोर व पारदर्शी",
+          "मृदु व अपारदर्शी",
+          "कठोर व अपारदर्शी",
+          "मृदु व पारदर्शी"
+        ],
+        "en": [
+          "Hard and transparent",
+          "Soft and opaque",
+          "Hard and opaque",
+          "Soft and transparent"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "काँच एक कठोर पदार्थ है और साथ ही पारदर्शी भी है, इसलिए इसे 'कठोर व पारदर्शी' समूह में रखा जाएगा।",
+        "en": "Glass is a hard material and is also transparent, so it will be placed in the 'hard and transparent' group."
+      },
+      "tags": [
+        "application"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q053",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "railway-style-recap",
+      "difficulty": "hard",
+      "type": "reasoning",
+      "question": {
+        "hi": "वर्गीकरण के बारे में निम्नलिखित में से कौन सा कथन असत्य है?",
+        "en": "Which of the following statements about classification is FALSE?"
+      },
+      "options": {
+        "hi": [
+          "वर्गीकरण का केवल एक ही निश्चित तरीका होता है जो कभी नहीं बदलता",
+          "वर्गीकरण एक या अधिक गुणों के आधार पर किया जा सकता है",
+          "वर्गीकरण से अध्ययन व तुलना आसान होती है",
+          "एक ही पदार्थ अलग आधार पर अलग समूह में आ सकता है"
+        ],
+        "en": [
+          "Classification has only one fixed method that never changes",
+          "Classification can be done using one or more properties",
+          "Classification makes study and comparison easier",
+          "The same material can fall into different groups on a different basis"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "वर्गीकरण का आधार बदलने पर तरीका भी बदल सकता है; यह कहना गलत है कि इसका केवल एक ही निश्चित तरीका होता है।",
+        "en": "The method of classification can change with the basis used; it is incorrect to say there is only one fixed method."
+      },
+      "tags": [
+        "conceptual",
+        "challenge"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    },
+    {
+      "id": "SCI6-CH02-Q054",
+      "class": 6,
+      "subject": "science",
+      "chapter": "chapter-02",
+      "topic": "grouping-of-materials",
+      "subtopic": "full-chapter-recap",
+      "difficulty": "hard",
+      "type": "challenge",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा क्रम पाठ की मुख्य अवधारणा को सही ढंग से दर्शाता है?",
+        "en": "Which of the following sequences correctly represents the main idea of the chapter?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु → पदार्थ से बनी → गुणों की पहचान → गुणों के आधार पर वर्गीकरण",
+          "वर्गीकरण → वस्तु → पदार्थ → गुण",
+          "गुण → वर्गीकरण → वस्तु → पदार्थ",
+          "पदार्थ → वर्गीकरण → गुण → वस्तु"
+        ],
+        "en": [
+          "Object → made of Material → identifying properties → classification based on properties",
+          "Classification → Object → Material → Properties",
+          "Properties → Classification → Object → Material",
+          "Material → Classification → Properties → Object"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "hi": "पाठ का मुख्य क्रम है: वस्तु किसी पदार्थ से बनी होती है, पदार्थ के गुणों की पहचान की जाती है, और फिर इन्हीं गुणों के आधार पर पदार्थों का वर्गीकरण किया जाता है।",
+        "en": "The main flow of the chapter is: an object is made of a material, the properties of the material are identified, and materials are then classified based on these properties."
+      },
+      "tags": [
+        "recap",
+        "challenge"
+      ],
+      "verified": true,
+      "railwayRelevant": false
+    }
+  ]
+}
