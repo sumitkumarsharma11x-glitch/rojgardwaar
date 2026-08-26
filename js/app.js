@@ -92,7 +92,7 @@
           ${bank.length}+
           ${LanguageManager.get("questions")}
           ·
-          ${TestGenerator.getConfigs().length}
+          ${TestGenerator.getConfigs(meta, bank).length}
           ${LanguageManager.get("mockTests")}
         </p>
 
@@ -418,7 +418,7 @@
 
                                 <p>
                                   ${trap.confusion}
-                                </p>
+                               </p>
 
                               </div>
                             `
@@ -1103,7 +1103,7 @@
   function renderMockTestHub(panel) {
 
     const configs =
-      TestGenerator.getConfigs();
+      TestGenerator.getConfigs(meta, bank);
 
     const wrongCount =
       WrongQuestionManager.getIds(
