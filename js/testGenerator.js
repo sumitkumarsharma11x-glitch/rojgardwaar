@@ -85,7 +85,7 @@ const TestGenerator = (function () {
   }
 
   // ---------------------------------------------------------------------
-  // Clean Question Bank (Removes duplicates)
+  // Clean Question Bank (Safe with missing IDs)
   // ---------------------------------------------------------------------
 
   function cleanBank(bank) {
@@ -95,11 +95,25 @@ const TestGenerator = (function () {
 
     const ids = new Set();
 
-    return bank.filter(function (q) {
-      if (!q || !q.id || ids.has(q.id)) {
+    return bank.filter(function (q, index) {
+      if (!q) {
         return false;
       }
-      ids.add(q.id);
+
+      // Fallback: Agar q.id nahi hai toh _id ya index use kar lo
+      const qId = q.id || q._id || `q-${index}`;
+
+      if (ids.has(qId)) {
+        return false;
+      }
+
+      ids.add(qId);
+
+      // Ensure question object has an id property for future matching
+      if (!q.id) {
+        q.id = qId;
+      }
+
       return true;
     });
   }
