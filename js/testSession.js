@@ -30,6 +30,9 @@ function initTestSession(rootEl) {
   const chapter =
     params.get("chapter") || "chapter-01";
 
+  // Standardized unique chapter storage key support
+  const chapterId = `${classNum}_${subject}_${chapter}`;
+
   const mode =
     params.get("mode") || "mock";
 
@@ -90,14 +93,16 @@ function initTestSession(rootEl) {
   }
 
   function persist() {
-    StorageManager.saveActiveSession(
-      sessionKey,
-      state
-    );
+    if (typeof StorageManager.saveActiveSession === 'function') {
+      StorageManager.saveActiveSession(
+        sessionKey,
+        state
+      );
+    }
   }
 
   // ---------------------------------------------------------------------
-  // Permanent Mock Assignment
+  // Permanent Mock Assignment (Synchronized with TestGenerator)
   // ---------------------------------------------------------------------
 
   function ensureMockAssignments() {
@@ -119,12 +124,13 @@ function initTestSession(rootEl) {
       return {};
     }
 
-    const existing =
-      StorageManager.getMockSets(
-        classNum,
-        subject,
-        chapter
-      );
+    // Safe retrieval supporting both storage patterns
+    let existing = null;
+    if (typeof StorageManager.getMockSets === 'function') {
+      // Try fetching by chapterId or multi-param depending on storage implementation
+      existing = StorageManager.getMockSets(chapterId) || 
+                 StorageManager.getMockSets(classNum, subject, chapter);
+    }
 
     /*
      * Reuse existing assignments only when
@@ -132,6 +138,15 @@ function initTestSession(rootEl) {
      * and required question count.
      */
     if (existing) {
+      // Handle array format from TestGenerator vs mapped object format
+      if (Array.isArray(existing)) {
+        const mappedArrayFormat = {};
+        existing.forEach((set, idx) => {
+          mappedArrayFormat[`mock-${set.mockId || idx + 1}`] = set.questionIds || set.questions.map(q => q.id);
+        });
+        existing = mappedArrayFormat;
+      }
+
       const keys =
         Object.keys(existing);
 
@@ -153,10 +168,6 @@ function initTestSession(rootEl) {
 
     /*
      * Build fresh non-overlapping sets.
-     *
-     * Example:
-     * 350 questions / 50
-     * = 7 complete mocks.
      */
     const sets =
       TestGenerator.buildMockSets(
@@ -177,12 +188,14 @@ function initTestSession(rootEl) {
       }
     );
 
-    StorageManager.saveMockSets(
-      classNum,
-      subject,
-      chapter,
-      mapped
-    );
+    // Save using standard storage methods safely
+    if (typeof StorageManager.saveMockSets === 'function') {
+      try {
+        StorageManager.saveMockSets(chapterId, sets);
+      } catch (e) {
+        StorageManager.saveMockSets(classNum, subject, chapter, mapped);
+      }
+    }
 
     return mapped;
   }
@@ -377,11 +390,6 @@ function initTestSession(rootEl) {
           .flat()
       );
 
-    /*
-     * First preference:
-     * Questions that are not assigned to
-     * any Mock Test.
-     */
     let pool =
       bank.filter(
         (q) =>
@@ -394,14 +402,6 @@ function initTestSession(rootEl) {
         bank
       );
 
-    /*
-     * If there aren't enough unused questions
-     * for Abhyas, use the complete bank as
-     * a separate random practice selection.
-     *
-     * There will still be no duplicate inside
-     * the Abhyas Test itself.
-     */
     if (
       pool.length <
       questionCount
@@ -479,10 +479,6 @@ function initTestSession(rootEl) {
           ? bundle.questions
           : [];
 
-      /*
-       * Build permanent mock assignments
-       * before loading the session.
-       */
       if (
         mode === "mock" ||
         mode === "abhyas"
@@ -497,9 +493,6 @@ function initTestSession(rootEl) {
             )
           : null;
 
-      /*
-       * Resume active test after refresh.
-       */
       if (
         saved &&
         Array.isArray(
@@ -530,10 +523,6 @@ function initTestSession(rootEl) {
 
         persist();
 
-        /*
-         * This warning should only happen
-         * when the bank is genuinely too small.
-         */
         if (
           generated.adjusted
         ) {
@@ -1135,10 +1124,6 @@ function initTestSession(rootEl) {
       </div>
     `;
 
-    // ---------------------------------------------------------------
-    // Select option
-    // ---------------------------------------------------------------
-
     area
       .querySelectorAll(
         ".rjd-option"
@@ -1164,10 +1149,6 @@ function initTestSession(rootEl) {
         }
       );
 
-    // ---------------------------------------------------------------
-    // Clear answer
-    // ---------------------------------------------------------------
-
     area
       .querySelector(
         "#rjd-clear"
@@ -1187,10 +1168,6 @@ function initTestSession(rootEl) {
         }
       );
 
-    // ---------------------------------------------------------------
-    // Mark
-    // ---------------------------------------------------------------
-
     area
       .querySelector(
         "#rjd-mark"
@@ -1208,10 +1185,6 @@ function initTestSession(rootEl) {
           renderPalette();
         }
       );
-
-    // ---------------------------------------------------------------
-    // Previous
-    // ---------------------------------------------------------------
 
     area
       .querySelector(
@@ -1234,10 +1207,6 @@ function initTestSession(rootEl) {
           }
         }
       );
-
-    // ---------------------------------------------------------------
-    // Next
-    // ---------------------------------------------------------------
 
     area
       .querySelector(
@@ -1455,10 +1424,6 @@ function initTestSession(rootEl) {
                   c.id === testId
               );
 
-            /*
-             * Move to the next Mock.
-             * After the last Mock, return to Mock 1.
-             */
             const next =
               configs[
                 (
