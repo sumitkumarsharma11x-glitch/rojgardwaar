@@ -1,13 +1,17 @@
 /**
  * StorageManager
  * -----------------------------------------------------------------------
- * Single point of contact with localStorage. Every other module reads/
- * writes state through here — NEVER call localStorage directly elsewhere.
- * This is deliberate: when we migrate to Firebase later, only this file
- * needs to change (same method names, async-wrapped), nothing else in
- * the app has to be touched.
+ * Single point of contact with localStorage.
  *
- * Key namespace: "rjd:<scope>:<id>"  (rjd = RojgarDwaar)
+ * Includes:
+ * - language
+ * - seen questions
+ * - attempted questions
+ * - wrong questions
+ * - results/history
+ * - active sessions
+ * - permanent Mock Test question assignments
+ * - Abhyas question assignments
  * -----------------------------------------------------------------------
  */
 const StorageManager = (function () {
@@ -20,20 +24,38 @@ const StorageManager = (function () {
   function get(k, fallback = null) {
     try {
       const raw = localStorage.getItem(k);
-      if (raw === null) return fallback;
+
+      if (raw === null) {
+        return fallback;
+      }
+
       return JSON.parse(raw);
     } catch (e) {
-      console.warn("StorageManager.get failed for", k, e);
+      console.warn(
+        "StorageManager.get failed for",
+        k,
+        e
+      );
+
       return fallback;
     }
   }
 
   function set(k, value) {
     try {
-      localStorage.setItem(k, JSON.stringify(value));
+      localStorage.setItem(
+        k,
+        JSON.stringify(value)
+      );
+
       return true;
     } catch (e) {
-      console.warn("StorageManager.set failed for", k, e);
+      console.warn(
+        "StorageManager.set failed for",
+        k,
+        e
+      );
+
       return false;
     }
   }
@@ -46,93 +68,505 @@ const StorageManager = (function () {
     }
   }
 
-  // ---- Domain-specific convenience helpers -------------------------------
+  // -----------------------------------------------------------------------
+  // Language
+  // -----------------------------------------------------------------------
 
   function getLanguage() {
-    return get(key("lang"), "hi");
+    return get(
+      key("lang"),
+      "hi"
+    );
   }
 
   function setLanguage(lang) {
-    return set(key("lang"), lang);
+    return set(
+      key("lang"),
+      lang
+    );
   }
 
-  function chapterKey(classNum, subject, chapter) {
+  // -----------------------------------------------------------------------
+  // Chapter key
+  // -----------------------------------------------------------------------
+
+  function chapterKey(
+    classNum,
+    subject,
+    chapter
+  ) {
     return `${classNum}-${subject}-${chapter}`;
   }
 
-  function getSeenQuestionIds(classNum, subject, chapter) {
-    return get(key("seen", chapterKey(classNum, subject, chapter)), []);
+  // -----------------------------------------------------------------------
+  // Seen Questions
+  // -----------------------------------------------------------------------
+
+  function getSeenQuestionIds(
+    classNum,
+    subject,
+    chapter
+  ) {
+    return get(
+      key(
+        "seen",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      []
+    );
   }
 
-  function addSeenQuestionIds(classNum, subject, chapter, ids) {
-    const existing = new Set(getSeenQuestionIds(classNum, subject, chapter));
-    ids.forEach((id) => existing.add(id));
-    set(key("seen", chapterKey(classNum, subject, chapter)), Array.from(existing));
+  function addSeenQuestionIds(
+    classNum,
+    subject,
+    chapter,
+    ids
+  ) {
+    const existing =
+      new Set(
+        getSeenQuestionIds(
+          classNum,
+          subject,
+          chapter
+        )
+      );
+
+    ids.forEach((id) => {
+      existing.add(id);
+    });
+
+    set(
+      key(
+        "seen",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      Array.from(existing)
+    );
   }
 
-  function getWrongQuestionIds(classNum, subject, chapter) {
-    return get(key("wrong", chapterKey(classNum, subject, chapter)), []);
+  // -----------------------------------------------------------------------
+  // Permanent Mock Test Question Sets
+  // -----------------------------------------------------------------------
+
+  /**
+   * Structure:
+   *
+   * {
+   *   "mock-1": ["Q001", "Q002", ...],
+   *   "mock-2": ["Q051", "Q052", ...],
+   *   ...
+   * }
+   *
+   * Once generated, these sets remain fixed for that chapter.
+   */
+  function getMockSets(
+    classNum,
+    subject,
+    chapter
+  ) {
+    return get(
+      key(
+        "mockSets",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      null
+    );
   }
 
-  function setWrongQuestionIds(classNum, subject, chapter, ids) {
-    set(key("wrong", chapterKey(classNum, subject, chapter)), ids);
+  function saveMockSets(
+    classNum,
+    subject,
+    chapter,
+    sets
+  ) {
+    return set(
+      key(
+        "mockSets",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      sets
+    );
   }
 
-  function clearWrongQuestionIds(classNum, subject, chapter) {
-    remove(key("wrong", chapterKey(classNum, subject, chapter)));
+  function clearMockSets(
+    classNum,
+    subject,
+    chapter
+  ) {
+    remove(
+      key(
+        "mockSets",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      )
+    );
   }
 
-  function getAttemptedQuestionIds(classNum, subject, chapter) {
-    return get(key("attempted", chapterKey(classNum, subject, chapter)), []);
+  function getMockQuestionIds(
+    classNum,
+    subject,
+    chapter,
+    testId
+  ) {
+    const sets =
+      getMockSets(
+        classNum,
+        subject,
+        chapter
+      );
+
+    if (
+      !sets ||
+      !sets[testId]
+    ) {
+      return [];
+    }
+
+    return sets[testId];
   }
 
-  function addAttemptedQuestionIds(classNum, subject, chapter, ids) {
-    const existing = new Set(getAttemptedQuestionIds(classNum, subject, chapter));
-    ids.forEach((id) => existing.add(id));
-    set(key("attempted", chapterKey(classNum, subject, chapter)), Array.from(existing));
+  function saveMockQuestionIds(
+    classNum,
+    subject,
+    chapter,
+    testId,
+    ids
+  ) {
+    const sets =
+      getMockSets(
+        classNum,
+        subject,
+        chapter
+      ) || {};
+
+    sets[testId] = ids;
+
+    return saveMockSets(
+      classNum,
+      subject,
+      chapter,
+      sets
+    );
   }
 
-  function saveLastResult(classNum, subject, chapter, testId, result) {
-    set(key("result", chapterKey(classNum, subject, chapter), testId), result);
-    // also push into a small history list (last 10)
-    const histKey = key("history", chapterKey(classNum, subject, chapter));
-    const hist = get(histKey, []);
-    hist.unshift({ testId, ts: Date.now(), summary: result.summary });
-    set(histKey, hist.slice(0, 10));
+  // -----------------------------------------------------------------------
+  // Abhyas Test
+  // -----------------------------------------------------------------------
+
+  function getAbhyasQuestionIds(
+    classNum,
+    subject,
+    chapter
+  ) {
+    return get(
+      key(
+        "abhyas",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      []
+    );
   }
 
-  function getResultHistory(classNum, subject, chapter) {
-    return get(key("history", chapterKey(classNum, subject, chapter)), []);
+  function saveAbhyasQuestionIds(
+    classNum,
+    subject,
+    chapter,
+    ids
+  ) {
+    return set(
+      key(
+        "abhyas",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      ids
+    );
   }
 
-  // In-progress test session (so a refresh doesn't wipe an active attempt)
-  function saveActiveSession(sessionId, sessionData) {
-    set(key("session", sessionId), sessionData);
+  // -----------------------------------------------------------------------
+  // Wrong Questions
+  // -----------------------------------------------------------------------
+
+  function getWrongQuestionIds(
+    classNum,
+    subject,
+    chapter
+  ) {
+    return get(
+      key(
+        "wrong",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      []
+    );
   }
 
-  function getActiveSession(sessionId) {
-    return get(key("session", sessionId), null);
+  function setWrongQuestionIds(
+    classNum,
+    subject,
+    chapter,
+    ids
+  ) {
+    return set(
+      key(
+        "wrong",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      ids
+    );
   }
 
-  function clearActiveSession(sessionId) {
-    remove(key("session", sessionId));
+  function clearWrongQuestionIds(
+    classNum,
+    subject,
+    chapter
+  ) {
+    remove(
+      key(
+        "wrong",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      )
+    );
   }
+
+  // -----------------------------------------------------------------------
+  // Attempted Questions
+  // -----------------------------------------------------------------------
+
+  function getAttemptedQuestionIds(
+    classNum,
+    subject,
+    chapter
+  ) {
+    return get(
+      key(
+        "attempted",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      []
+    );
+  }
+
+  function addAttemptedQuestionIds(
+    classNum,
+    subject,
+    chapter,
+    ids
+  ) {
+    const existing =
+      new Set(
+        getAttemptedQuestionIds(
+          classNum,
+          subject,
+          chapter
+        )
+      );
+
+    ids.forEach((id) => {
+      existing.add(id);
+    });
+
+    set(
+      key(
+        "attempted",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      Array.from(existing)
+    );
+  }
+
+  // -----------------------------------------------------------------------
+  // Results
+  // -----------------------------------------------------------------------
+
+  function saveLastResult(
+    classNum,
+    subject,
+    chapter,
+    testId,
+    result
+  ) {
+    set(
+      key(
+        "result",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        ),
+        testId
+      ),
+      result
+    );
+
+    const histKey =
+      key(
+        "history",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      );
+
+    const hist =
+      get(
+        histKey,
+        []
+      );
+
+    hist.unshift({
+      testId,
+      ts: Date.now(),
+      summary:
+        result.summary,
+    });
+
+    set(
+      histKey,
+      hist.slice(0, 10)
+    );
+  }
+
+  function getResultHistory(
+    classNum,
+    subject,
+    chapter
+  ) {
+    return get(
+      key(
+        "history",
+        chapterKey(
+          classNum,
+          subject,
+          chapter
+        )
+      ),
+      []
+    );
+  }
+
+  // -----------------------------------------------------------------------
+  // Active Test Session
+  // -----------------------------------------------------------------------
+
+  function saveActiveSession(
+    sessionId,
+    sessionData
+  ) {
+    return set(
+      key(
+        "session",
+        sessionId
+      ),
+      sessionData
+    );
+  }
+
+  function getActiveSession(
+    sessionId
+  ) {
+    return get(
+      key(
+        "session",
+        sessionId
+      ),
+      null
+    );
+  }
+
+  function clearActiveSession(
+    sessionId
+  ) {
+    remove(
+      key(
+        "session",
+        sessionId
+      )
+    );
+  }
+
+  // -----------------------------------------------------------------------
+  // Public API
+  // -----------------------------------------------------------------------
 
   return {
     get,
     set,
     remove,
+
     getLanguage,
     setLanguage,
+
     getSeenQuestionIds,
     addSeenQuestionIds,
+
+    getMockSets,
+    saveMockSets,
+    clearMockSets,
+
+    getMockQuestionIds,
+    saveMockQuestionIds,
+
+    getAbhyasQuestionIds,
+    saveAbhyasQuestionIds,
+
     getWrongQuestionIds,
     setWrongQuestionIds,
     clearWrongQuestionIds,
+
     getAttemptedQuestionIds,
     addAttemptedQuestionIds,
+
     saveLastResult,
     getResultHistory,
+
     saveActiveSession,
     getActiveSession,
     clearActiveSession,
