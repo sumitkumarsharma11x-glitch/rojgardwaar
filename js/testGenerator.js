@@ -1,150 +1,427 @@
 /**
  * TestGenerator
  * -----------------------------------------------------------------------
- * Turns a (large, growing) question bank into concrete test question
- * sets. "Multiple Mock Tests" = multiple TestConfig entries pointing at
- * the SAME bank — adding Mock Test 6 later means adding one config
- * object, not new data or new code.
+ * Generates chapter mock tests with fixed-size, non-overlapping question
+ * sets whenever the bank contains enough questions.
  *
- * Designed for 100-200+ questions/chapter; today's smaller prototype
- * bank (48 Qs) just means the graceful-degrade path runs more often.
+ * Chapter size is controlled by meta.mockQuestionCount:
+ *   30 => 30 questions / 18 minutes
+ *   50 => 50 questions / 30 minutes
+ *
+ * Mock count is dynamic:
+ *   floor(questionBank.length / mockQuestionCount)
+ *
+ * Example:
+ *   350 questions / 50 => 7 mocks
+ *   500 questions / 50 => 10 mocks
+ *   700 questions / 50 => 14 mocks
+ *
+ * Question sets are persisted by TestSession/StorageManager so opening
+ * Mock 4 directly still gives Mock 4's assigned set.
  * -----------------------------------------------------------------------
  */
 const TestGenerator = (function () {
-  /**
-   * Pre-defined test configurations for a chapter. In a bigger bank
-   * (100-200+ Qs) these ratios comfortably map to real, mostly-unique
-   * 50-question tests. Nothing here is chapter-specific — the same
-   * registry shape works for any chapter/class once wired to its bank.
-   */
-  const TEST_CONFIGS = [
-    { id: "mock-1", label: { hi: "मॉक टेस्ट 1", en: "Mock Test 1" }, questionCount: 50, timeLimitMin: 40, difficultyMix: { easy: 0.3, medium: 0.5, hard: 0.2 } },
-    { id: "mock-2", label: { hi: "मॉक टेस्ट 2", en: "Mock Test 2" }, questionCount: 50, timeLimitMin: 40, difficultyMix: { easy: 0.3, medium: 0.5, hard: 0.2 } },
-    { id: "mock-3", label: { hi: "मॉक टेस्ट 3", en: "Mock Test 3" }, questionCount: 50, timeLimitMin: 40, difficultyMix: { easy: 0.2, medium: 0.5, hard: 0.3 } },
-    { id: "mock-4", label: { hi: "मॉक टेस्ट 4", en: "Mock Test 4" }, questionCount: 50, timeLimitMin: 40, difficultyMix: { easy: 0.4, medium: 0.4, hard: 0.2 } },
-    { id: "mock-5", label: { hi: "मॉक टेस्ट 5", en: "Mock Test 5" }, questionCount: 50, timeLimitMin: 40, difficultyMix: { easy: 0.2, medium: 0.4, hard: 0.4 } },
-  ];
+  const DEFAULT_QUESTION_COUNT = 30;
+  const DEFAULT_TIME_MIN = 18;
 
-  function getConfigs() {
-    return TEST_CONFIGS;
+  function getQuestionCount(meta, bank) {
+    const configured = Number(meta && meta.mockQuestionCount);
+
+    if (configured === 50) return 50;
+    if (configured === 30) return 30;
+
+    // Safe fallback for older meta files.
+    return bank.length >= 50 ? 50 : DEFAULT_QUESTION_COUNT;
   }
 
-  function getConfig(testId) {
-    return TEST_CONFIGS.find((c) => c.id === testId) || null;
+  function getTimeLimitMin(questionCount) {
+    return questionCount === 50 ? 30 : DEFAULT_TIME_MIN;
   }
 
-  /** Minutes -> seconds helper used by Timer. */
-  function timeLimitSeconds(config, actualQuestionCount) {
-    // Scale timer proportionally if the pool forced fewer questions,
-    // so a 20-question adjusted test doesn't get a 40-minute clock.
-    const ratio = actualQuestionCount / config.questionCount;
-    const minutes = Math.max(5, Math.round(config.timeLimitMin * ratio));
-    return minutes * 60;
+  function getMockCount(bankLength, questionCount) {
+    if (!questionCount || bankLength < questionCount) return 0;
+
+    return Math.floor(bankLength / questionCount);
   }
 
-  /**
-   * Core selection pipeline:
-   * 1. Filter by difficulty buckets per config ratio
-   * 2. Prefer unseen questions within each bucket (soft-avoid repeats)
-   * 3. Shuffle + slice each bucket, merge, shuffle again
-   * 4. Shuffle each question's options
-   * Gracefully shrinks question count if the bank is too small —
-   * NEVER throws, NEVER shows a blank test.
-   */
-  function generateFromConfig(bank, config, seenIds = []) {
-    const seenSet = new Set(seenIds);
-    const byDifficulty = { easy: [], medium: [], hard: [] };
-    bank.forEach((q) => {
-      if (byDifficulty[q.difficulty]) byDifficulty[q.difficulty].push(q);
+  function makeConfigs(meta, bank) {
+    const questionCount = getQuestionCount(meta, bank);
+    const timeLimitMin = getTimeLimitMin(questionCount);
+    const mockCount = getMockCount(
+      bank.length,
+      questionCount
+    );
+
+    return Array.from(
+      { length: mockCount },
+      (_, index) => ({
+        id: `mock-${index + 1}`,
+
+        label: {
+          hi: `मॉक टेस्ट ${index + 1}`,
+          en: `Mock Test ${index + 1}`,
+        },
+
+        questionCount,
+        timeLimitMin,
+      })
+    );
+  }
+
+  function getConfig(testId, meta, bank) {
+    return makeConfigs(meta, bank).find(
+      (c) => c.id === testId
+    ) || null;
+  }
+
+  function getConfigs(meta, bank) {
+    return makeConfigs(meta, bank);
+  }
+
+  function timeLimitSeconds(
+    config,
+    actualQuestionCount
+  ) {
+    const count = Number(actualQuestionCount) || 0;
+
+    if (count <= 0) return 0;
+
+    // Exact standard times for normal mock sizes.
+    if (
+      config.questionCount === 50 &&
+      count === 50
+    ) {
+      return 30 * 60;
+    }
+
+    if (
+      config.questionCount === 30 &&
+      count === 30
+    ) {
+      return 18 * 60;
+    }
+
+    // Only used for special/remainder practice cases.
+    return Math.max(
+      5 * 60,
+      Math.round(
+        config.timeLimitMin *
+        (count / config.questionCount) *
+        60
+      )
+    );
+  }
+
+  function validateBank(bank) {
+    const seen = new Set();
+
+    return (
+      Array.isArray(bank) ? bank : []
+    ).filter((q) => {
+      if (!q || !q.id || seen.has(q.id)) {
+        return false;
+      }
+
+      seen.add(q.id);
+      return true;
     });
+  }
 
-    const targetTotal = Math.min(config.questionCount, bank.length);
-    let adjusted = targetTotal < config.questionCount;
+  /**
+   * Creates a deterministic non-overlapping pool of mock sets
+   * from the chapter bank.
+   */
+  function buildMockSets(
+    bank,
+    questionCount
+  ) {
+    const cleanBank = validateBank(bank);
 
-    const picked = [];
-    const pickedIds = new Set();
+    const shuffled =
+      Randomizer.shuffle(cleanBank);
 
-    Object.keys(config.difficultyMix).forEach((level) => {
-      const wantCount = Math.round(targetTotal * config.difficultyMix[level]);
-      const pool = byDifficulty[level] || [];
-      const unseen = pool.filter((q) => !seenSet.has(q.id));
-      const seen = pool.filter((q) => seenSet.has(q.id));
-      // Prefer unseen first, top up with seen if the pool is small
-      const orderedPool = Randomizer.shuffle(unseen).concat(Randomizer.shuffle(seen));
-      const chosen = orderedPool.slice(0, wantCount);
-      chosen.forEach((q) => {
-        if (!pickedIds.has(q.id)) {
-          picked.push(q);
-          pickedIds.add(q.id);
-        }
-      });
-    });
+    const mockCount =
+      getMockCount(
+        shuffled.length,
+        questionCount
+      );
 
-    // If difficulty buckets under-filled (small bank), top up from
-    // whatever remains in the whole bank so the test still reaches
-    // as close to targetTotal as the bank allows.
-    if (picked.length < targetTotal) {
-      const remaining = bank.filter((q) => !pickedIds.has(q.id));
-      const shuffledRemaining = Randomizer.shuffle(remaining);
-      for (const q of shuffledRemaining) {
-        if (picked.length >= targetTotal) break;
-        picked.push(q);
-        pickedIds.add(q.id);
+    const sets = [];
+
+    for (
+      let i = 0;
+      i < mockCount;
+      i++
+    ) {
+      const start =
+        i * questionCount;
+
+      const set =
+        shuffled.slice(
+          start,
+          start + questionCount
+        );
+
+      if (
+        set.length === questionCount
+      ) {
+        sets.push(set);
       }
     }
 
-    if (picked.length < config.questionCount) adjusted = true;
+    return sets;
+  }
 
-    const finalOrder = Randomizer.shuffle(picked);
-    const withShuffledOptions = finalOrder.map(Randomizer.shuffleQuestionOptions);
+  /**
+   * Generate a test from exact question IDs.
+   */
+  function generateFromIds(
+    bank,
+    ids,
+    timeLimitMinutesPerQuestion = 1
+  ) {
+    const idSet = new Set(ids);
+
+    const pool =
+      validateBank(bank).filter(
+        (q) => idSet.has(q.id)
+      );
+
+    const shuffled =
+      Randomizer
+        .shuffle(pool)
+        .map(
+          Randomizer.shuffleQuestionOptions
+        );
 
     return {
-      questions: withShuffledOptions,
+      questions: shuffled,
+
+      adjusted:
+        shuffled.length < ids.length,
+
+      timeLimitSeconds:
+        Math.max(
+          300,
+          Math.round(
+            shuffled.length *
+            timeLimitMinutesPerQuestion *
+            60
+          )
+        ),
+
+      configId: "wrong-questions",
+
+      label: {
+        hi: "गलत प्रश्नों का टेस्ट",
+        en: "Wrong Questions Test",
+      },
+    };
+  }
+
+  /**
+   * Generate a normal Mock Test from its permanent
+   * assigned question IDs.
+   *
+   * IMPORTANT:
+   * It does NOT replace missing IDs with random questions.
+   */
+  function generateMockFromIds(
+    bank,
+    ids,
+    config
+  ) {
+    const idSet = new Set(ids);
+
+    const pool =
+      validateBank(bank).filter(
+        (q) => idSet.has(q.id)
+      );
+
+    const questions =
+      Randomizer
+        .shuffle(pool)
+        .map(
+          Randomizer.shuffleQuestionOptions
+        );
+
+    const expected =
+      config.questionCount;
+
+    const adjusted =
+      questions.length !== expected;
+
+    return {
+      questions,
+
       adjusted,
-      timeLimitSeconds: timeLimitSeconds(config, withShuffledOptions.length),
+
+      timeLimitSeconds:
+        timeLimitSeconds(
+          config,
+          questions.length
+        ),
+
       configId: config.id,
+
       label: config.label,
     };
   }
 
-  /** Wrong-Questions Test: pull specific IDs from the bank, fully re-shuffled. */
-  function generateFromIds(bank, ids, timeLimitMinutesPerQuestion = 1) {
-    const idSet = new Set(ids);
-    const pool = bank.filter((q) => idSet.has(q.id));
-    const shuffled = Randomizer.shuffle(pool).map(Randomizer.shuffleQuestionOptions);
+  /**
+   * Legacy-compatible generator.
+   *
+   * Used only when a caller explicitly asks for
+   * a fresh config.
+   */
+  function generateFromConfig(
+    bank,
+    config,
+    seenIds = []
+  ) {
+    const cleanBank =
+      validateBank(bank);
+
+    const targetTotal =
+      Math.min(
+        config.questionCount,
+        cleanBank.length
+      );
+
+    const seenSet =
+      new Set(seenIds);
+
+    const unseen =
+      Randomizer.shuffle(
+        cleanBank.filter(
+          (q) => !seenSet.has(q.id)
+        )
+      );
+
+    const seen =
+      Randomizer.shuffle(
+        cleanBank.filter(
+          (q) => seenSet.has(q.id)
+        )
+      );
+
+    const ordered =
+      unseen.concat(seen);
+
+    const picked =
+      ordered.slice(
+        0,
+        targetTotal
+      );
+
+    const finalOrder =
+      Randomizer
+        .shuffle(picked)
+        .map(
+          Randomizer.shuffleQuestionOptions
+        );
+
     return {
-      questions: shuffled,
-      adjusted: shuffled.length < ids.length,
-      timeLimitSeconds: Math.max(300, Math.round(shuffled.length * timeLimitMinutesPerQuestion * 60)),
-      configId: "wrong-questions",
-      label: { hi: "गलत प्रश्नों का टेस्ट", en: "Wrong Questions Test" },
+      questions: finalOrder,
+
+      adjusted:
+        finalOrder.length <
+        config.questionCount,
+
+      timeLimitSeconds:
+        timeLimitSeconds(
+          config,
+          finalOrder.length
+        ),
+
+      configId: config.id,
+
+      label: config.label,
     };
   }
 
-  /** Topic Test: filter bank by a topic id, then behave like a mini mock test. */
-  function generateByTopic(bank, topicId, questionCount = 15, timeLimitMin = 15) {
-    const pool = bank.filter((q) => q.topic === topicId);
-    const count = Math.min(questionCount, pool.length);
-    const chosen = Randomizer.sample(pool, count).map(Randomizer.shuffleQuestionOptions);
+  /**
+   * Topic Test
+   */
+  function generateByTopic(
+    bank,
+    topicId,
+    questionCount = 15
+  ) {
+    const pool =
+      validateBank(bank).filter(
+        (q) => q.topic === topicId
+      );
+
+    const count =
+      Math.min(
+        questionCount,
+        pool.length
+      );
+
+    const chosen =
+      Randomizer
+        .sample(pool, count)
+        .map(
+          Randomizer.shuffleQuestionOptions
+        );
+
     return {
       questions: chosen,
-      adjusted: chosen.length < questionCount,
-      timeLimitSeconds: Math.max(180, count * 60),
-      configId: `topic-${topicId}`,
-      label: { hi: "टॉपिक टेस्ट", en: "Topic Test" },
+
+      adjusted:
+        chosen.length <
+        questionCount,
+
+      timeLimitSeconds:
+        Math.max(
+          180,
+          count * 60
+        ),
+
+      configId:
+        `topic-${topicId}`,
+
+      label: {
+        hi: "टॉपिक टेस्ट",
+        en: "Topic Test",
+      },
     };
   }
 
-  /** Revision Test: previously-attempted questions, re-shuffled, untimed-friendly length. */
-  function generateRevision(bank, attemptedIds, questionCount = 20) {
-    return generateFromIds(bank, Randomizer.sample(attemptedIds, questionCount), 0.8);
+  /**
+   * Revision Test
+   */
+  function generateRevision(
+    bank,
+    attemptedIds,
+    questionCount = 20
+  ) {
+    return generateFromIds(
+      bank,
+      Randomizer.sample(
+        attemptedIds,
+        questionCount
+      ),
+      0.8
+    );
   }
 
   return {
+    getQuestionCount,
+    getTimeLimitMin,
+    getMockCount,
+
+    makeConfigs,
     getConfigs,
     getConfig,
+
+    buildMockSets,
+    generateMockFromIds,
+
     generateFromConfig,
     generateFromIds,
+
     generateByTopic,
     generateRevision,
   };
