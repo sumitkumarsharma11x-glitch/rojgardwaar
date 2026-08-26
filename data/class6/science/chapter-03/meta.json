@@ -1,1 +1,374 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-03",
+  "chapterNumber": 3,
+  "chapterName": {
+    "hi": "तंतु से वस्त्र तक",
+    "en": "Fibre to Fabric"
+  },
+  "topics": [
+    {
+      "id": "variety-in-fabrics",
+      "name": {
+        "hi": "वस्त्रों में विविधता",
+        "en": "Variety in Fabrics"
+      }
+    },
+    {
+      "id": "fibres",
+      "name": {
+        "hi": "रेशे (Fibre)",
+        "en": "Fibre"
+      }
+    },
+    {
+      "id": "plant-fibres",
+      "name": {
+        "hi": "पादप रेशे",
+        "en": "Plant Fibres"
+      }
+    },
+    {
+      "id": "spinning-cotton-yarn",
+      "name": {
+        "hi": "कपास के रेशे से सूत बनाना",
+        "en": "Spinning Cotton Yarn"
+      }
+    },
+    {
+      "id": "yarn-to-fabric",
+      "name": {
+        "hi": "सूत से वस्त्र",
+        "en": "Yarn to Fabric"
+      }
+    },
+    {
+      "id": "history-of-clothing-material",
+      "name": {
+        "hi": "वस्त्र सामग्री का इतिहास",
+        "en": "History of Clothing Material"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "हमारे आसपास अनेक प्रकार के वस्त्र दिखाई देते हैं। वस्त्र रेशों से बने सूत और फिर सूत से बने fabric से तैयार होते हैं। रेशे प्राकृतिक या सिंथेटिक हो सकते हैं। कपास और जूट पौधों से, ऊन और रेशम जन्तुओं से प्राप्त प्राकृतिक रेशे हैं, जबकि नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं। रेशों से सूत बनाने की प्रक्रिया spinning कहलाती है और सूत से fabric बनाने की मुख्य प्रक्रियाएँ weaving तथा knitting हैं।",
+      "example": "कपास की फलियों से रेशे प्राप्त किए जाते हैं, रेशों से spinning द्वारा yarn बनाया जाता है और yarn को weaving या knitting द्वारा fabric में बदला जाता है।",
+      "sections": [
+        {
+          "title": "वस्त्रों में विविधता",
+          "concept": "हमारे आसपास कपास, ऊन, रेशम और कृत्रिम रेशों से बने अनेक प्रकार के वस्त्र मिलते हैं। कपड़े की सतह को ध्यान से देखने पर पता चलता है कि वह बहुत महीन रेशों से बने धागों या सूत से तैयार हुआ है।",
+          "example": "कपड़े की दुकान में सूती साड़ी, ऊनी मफलर, रेशमी वस्त्र और सिंथेटिक कपड़े अलग-अलग प्रकार के वस्त्रों के उदाहरण हैं।",
+          "keyPoints": [
+            "अलग-अलग वस्त्र अलग प्रकार के रेशों से बनाए जा सकते हैं।",
+            "वस्त्र को ध्यान से देखने पर उसमें धागे/सूत दिखाई दे सकते हैं।",
+            "वस्त्र का उपयोग उसके गुण और आवश्यकता के अनुसार किया जाता है."
+          ]
+        },
+        {
+          "title": "रेशे (Fibre) क्या हैं?",
+          "concept": "रेशे बहुत पतली, लम्बी और धागे जैसी संरचनाएँ होती हैं जिनसे सूत बनाया जा सकता है। रेशे प्राकृतिक या कृत्रिम हो सकते हैं। प्राकृतिक रेशे पौधों या जन्तुओं से प्राप्त होते हैं, जबकि सिंथेटिक रेशे मानव द्वारा बनाए जाते हैं।",
+          "example": "कपास और जूट पौधों से प्राप्त प्राकृतिक रेशे हैं, जबकि ऊन और रेशम जन्तुओं से प्राप्त प्राकृतिक रेशे हैं। नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं।",
+          "keyPoints": [
+            "प्राकृतिक रेशे पौधों या जन्तुओं से प्राप्त हो सकते हैं।",
+            "कपास, जूट, ऊन और रेशम प्राकृतिक रेशों के उदाहरण हैं।",
+            "नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं."
+          ]
+        },
+        {
+          "title": "पादप रेशे — कपास और जूट",
+          "concept": "कपास और जूट पौधों से प्राप्त प्राकृतिक रेशे हैं। कपास के पौधे के फल/कपास की फलियों (cotton bolls) में बीजों के चारों ओर कपास के रेशे होते हैं। जूट का रेशा जूट के पौधे के तने से प्राप्त होता है।",
+          "example": "कपास की परिपक्व फलियाँ फटने पर बीजों के चारों ओर लगे कपास के रेशे दिखाई देते हैं। जूट के कटे हुए तनों को कुछ दिनों तक पानी में भिगोने के बाद रेशे अलग किए जाते हैं।",
+          "keyPoints": [
+            "कपास का रेशा कपास की फलियों में बीजों के आसपास पाया जाता है।",
+            "जूट का रेशा पौधे के तने से प्राप्त होता है।",
+            "कपास से रेशा अलग करने की प्रक्रिया को ginning कहते हैं."
+          ]
+        },
+        {
+          "title": "कपास के रेशे से सूत बनाना — Spinning",
+          "concept": "रेशों से सूत बनाने की प्रक्रिया को spinning कहा जाता है। इसमें रेशों को खींचकर और मोड़कर/ऐंठकर एक साथ लाया जाता है, जिससे सूत बनता है। हाथ से कताई के लिए तकली और चरखा जैसे उपकरण उपयोग किए जाते हैं; बड़े पैमाने पर मशीनों का उपयोग होता है।",
+          "example": "कपास की रुई से थोड़े रेशे निकालकर उन्हें लगातार खींचते और मोड़ते रहने पर एक पतला सूत बनाया जा सकता है।",
+          "keyPoints": [
+            "Spinning = fibres से yarn बनाना।",
+            "तकली (takli) और चरखा (charkha) कताई के पारंपरिक उपकरण हैं।",
+            "बड़े पैमाने पर spinning machines का उपयोग किया जाता है."
+          ]
+        },
+        {
+          "title": "सूत से वस्त्र — Weaving और Knitting",
+          "concept": "सूत से कपड़ा/वस्त्र बनाने की दो मुख्य प्रक्रियाएँ weaving और knitting हैं। Weaving में दो sets of yarn को व्यवस्थित करके fabric बनाया जाता है। Knitting में एक ही yarn का उपयोग करके fabric बनाया जा सकता है।",
+          "example": "करघे (loom) पर दो sets of yarn को आपस में व्यवस्थित करके कपड़ा बनाया जाता है। मोजे और कई स्वेटर knitted fabric के उदाहरण हैं।",
+          "keyPoints": [
+            "Weaving में दो sets of yarn का उपयोग होता है।",
+            "Knitting में एक yarn से fabric बनाया जा सकता है।",
+            "Weaving handloom या power loom पर की जा सकती है; knitting हाथ से या मशीन से भी हो सकती है."
+          ]
+        },
+        {
+          "title": "वस्त्र सामग्री का इतिहास",
+          "concept": "प्राचीन समय में लोग शरीर ढकने के लिए पेड़ों की छाल, बड़े पत्ते, पशुओं की खाल और फर आदि का उपयोग करते थे। बाद में कृषि समुदायों ने घास, टहनियों, बेलों और पशु-रोएँ/बालों को मोड़कर या बुनकर सामग्री बनाना सीखा। सिलाई की सुई के आविष्कार के बाद सिले हुए वस्त्रों का विकास हुआ।",
+          "example": "आज भी साड़ी, धोती, लुंगी और पगड़ी जैसे कुछ वस्त्र बिना सिले हुए कपड़े के रूप में पहने जाते हैं।",
+          "keyPoints": [
+            "प्राचीन वस्त्र सामग्री में पत्ते, छाल, खाल और फर शामिल थे।",
+            "बुनाई और रेशों/बालों से लम्बी strands बनाने की तकनीकें विकसित हुईं।",
+            "सिलाई की सुई के आविष्कार ने stitched clothes के विकास में मदद की."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Fibre → Yarn → Fabric का क्रम याद रखें।",
+        "कपास, जूट, ऊन और रेशम प्राकृतिक रेशों के उदाहरण हैं।",
+        "नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं।",
+        "कपास की फलियों से रेशे और जूट के तने से जूट रेशा प्राप्त होता है।",
+        "Spinning में fibres से yarn बनाया जाता है।",
+        "Takli और charkha कताई के उपकरण हैं।",
+        "Weaving में दो sets of yarn को व्यवस्थित करके fabric बनाया जाता है।",
+        "Knitting में एक yarn से fabric बनाया जा सकता है।",
+        "सिलाई की सुई के आविष्कार ने stitched clothing के विकास में सहायता की।"
+      ],
+      "examFocus": [
+        "Natural और synthetic fibres का वर्गीकरण।",
+        "Cotton और jute किस स्रोत/पौधे के किस भाग से मिलते हैं।",
+        "Ginning का अर्थ और cotton में इसकी भूमिका।",
+        "Spinning की परिभाषा तथा Takli और Charkha की पहचान।",
+        "Fibre, yarn और fabric के बीच सही क्रम।",
+        "Weaving और knitting में अंतर।",
+        "Weaving में दो sets of yarn तथा knitting में single yarn की पहचान।",
+        "प्राचीन वस्त्र सामग्री और सिलाई की सुई के महत्व से जुड़े तथ्य।"
+      ],
+      "examTraps": [
+        {
+          "title": "Fibre = Yarn?",
+          "fact": "Fibre एक पतली thread-like संरचना है; fibres को spinning द्वारा yarn में बदला जाता है।",
+          "confusion": "Fibre और yarn को एक ही चीज न मानें।"
+        },
+        {
+          "title": "Spinning = Fibre बनाना?",
+          "fact": "Spinning fibres से yarn बनाने की प्रक्रिया है।",
+          "confusion": "Spinning का output yarn होता है, fibre नहीं।"
+        },
+        {
+          "title": "Ginning = Spinning?",
+          "fact": "Ginning cotton fibres को seeds से अलग करने की प्रक्रिया है, जबकि spinning fibres से yarn बनाती है।",
+          "confusion": "दोनों प्रक्रियाओं के क्रम और उद्देश्य अलग हैं।"
+        },
+        {
+          "title": "Jute = Cotton का हिस्सा?",
+          "fact": "Jute fibre जूट पौधे के stem से प्राप्त होता है; cotton fibre cotton bolls में seeds के आसपास पाया जाता है।",
+          "confusion": "दोनों plant fibres हैं, लेकिन source part अलग है।"
+        },
+        {
+          "title": "Weaving = Single Yarn?",
+          "fact": "Weaving में two sets of yarn को व्यवस्थित करके fabric बनाया जाता है।",
+          "confusion": "Single-yarn वाली प्रक्रिया को knitting से जोड़ें।"
+        },
+        {
+          "title": "Polyester = Natural Fibre?",
+          "fact": "Polyester synthetic fibre का उदाहरण है।",
+          "confusion": "Natural और synthetic classification को याद रखें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Question fibre, yarn या fabric में से किस stage के बारे में पूछ रहा है?",
+        "क्या पूछा गया है कि fibre कहाँ से मिला या fibre से yarn कैसे बना?",
+        "अगर cotton और jute दोनों options में हैं, तो plant part की जानकारी जाँचें।",
+        "क्या process ginning है या spinning?",
+        "क्या fabric दो sets of yarn से बन रहा है या single yarn से?",
+        "Natural और synthetic शब्दों को देखकर source पहचानें।"
+      ],
+      "memoryTricks": [
+        "Fibre → Spinning → Yarn → Weaving/Knitting → Fabric",
+        "Cotton = Boll/seed area; Jute = Stem",
+        "Ginning = cotton से seeds अलग",
+        "Spinning = fibre को twist करके yarn",
+        "Weaving = 2 sets of yarn",
+        "Knitting = 1 yarn",
+        "Takli + Charkha = Spinning"
+      ],
+      "pyqSignals": [
+        "Natural vs synthetic fibres का classification direct MCQ बन सकता है।",
+        "Cotton और jute के plant parts पर direct question बन सकता है।",
+        "Ginning और spinning का difference बार-बार पूछा जा सकने वाला concept है।",
+        "Fibre → yarn → fabric sequence पर statement/order question बन सकता है।",
+        "Weaving और knitting की पहचान objective question का common pattern है।",
+        "Takli और charkha की पहचान पूछी जा सकती है।",
+        "Saree, dhoti, lungi और turban जैसे unstitched fabrics से history-related question बन सकता है।"
+      ],
+      "mustRemember": [
+        "Cotton और jute → plant fibres",
+        "Wool और silk → animal fibres",
+        "Nylon और polyester → synthetic fibres",
+        "Cotton fibre → cotton boll/seed area",
+        "Jute fibre → stem",
+        "Ginning → cotton fibres और seeds को अलग करना",
+        "Spinning → fibres से yarn",
+        "Weaving → two sets of yarn; Knitting → single yarn",
+        "Fabric → yarn से बनता है"
+      ],
+      "quickRevision": "30-second revision: Fibre → Yarn → Fabric. Natural fibres: cotton, jute, wool, silk. Synthetic fibres: nylon, polyester. Cotton boll से cotton fibre, jute stem से jute fibre. Ginning cotton fibres को seeds से अलग करता है. Spinning fibres को खींचकर और twist करके yarn बनाता है. Takli और charkha spinning devices हैं. Weaving में two sets of yarn, knitting में single yarn से fabric बनाया जा सकता है."
+    },
+    "en": {
+      "concept": "We use many kinds of fabrics around us. Fabrics are made from yarns, and yarns are made from fibres. Fibres may be natural or synthetic. Cotton and jute are natural plant fibres, wool and silk are natural animal fibres, while nylon and polyester are examples of synthetic fibres. The process of making yarn from fibres is spinning, and the main processes of making fabric from yarn are weaving and knitting.",
+      "example": "Cotton fibres are obtained from cotton bolls, converted into yarn by spinning, and the yarn can then be made into fabric by weaving or knitting.",
+      "sections": [
+        {
+          "title": "Variety in Fabrics",
+          "concept": "We use many kinds of fabrics made from cotton, wool, silk and synthetic fibres. On close observation, a fabric can be seen as being made from fine fibres and yarns rather than as one continuous solid piece.",
+          "example": "Cotton sarees, woollen mufflers, silk garments and synthetic clothes are examples of different fabrics.",
+          "keyPoints": [
+            "Different fabrics can be made from different kinds of fibres.",
+            "Close observation can reveal yarns in a fabric.",
+            "The choice of fabric depends on its properties and use."
+          ]
+        },
+        {
+          "title": "What are Fibres?",
+          "concept": "Fibres are very thin, long, thread-like structures that can be used to make yarn. Fibres may be natural or synthetic. Natural fibres are obtained from plants or animals, while synthetic fibres are made by humans.",
+          "example": "Cotton and jute are natural plant fibres; wool and silk are natural animal fibres. Nylon and polyester are examples of synthetic fibres.",
+          "keyPoints": [
+            "Natural fibres can come from plants or animals.",
+            "Cotton, jute, wool and silk are natural fibres.",
+            "Nylon and polyester are synthetic fibres."
+          ]
+        },
+        {
+          "title": "Plant Fibres — Cotton and Jute",
+          "concept": "Cotton and jute are natural fibres obtained from plants. Cotton fibres are found around the seeds inside mature cotton bolls. Jute fibre is obtained from the stem of the jute plant.",
+          "example": "When mature cotton bolls burst open, cotton fibres around the seeds become visible. Harvested jute stems are immersed in water for a few days so that the fibres can be separated.",
+          "keyPoints": [
+            "Cotton fibre is found around the seeds in cotton bolls.",
+            "Jute fibre is obtained from the stem.",
+            "Separating cotton fibres from seeds is called ginning."
+          ]
+        },
+        {
+          "title": "Spinning Cotton Yarn",
+          "concept": "Spinning is the process of making yarn from fibres. During spinning, fibres are drawn out and twisted together to form yarn. Takli and charkha are hand-operated spinning devices, while machines are used for large-scale spinning.",
+          "example": "A small amount of cotton wool can be drawn out and continuously twisted to form yarn.",
+          "keyPoints": [
+            "Spinning means making yarn from fibres.",
+            "Takli and charkha are traditional spinning devices.",
+            "Large-scale spinning is done with machines."
+          ]
+        },
+        {
+          "title": "Yarn to Fabric — Weaving and Knitting",
+          "concept": "The two main processes of making fabric from yarn are weaving and knitting. In weaving, two sets of yarn are arranged together to make fabric. In knitting, a single yarn can be used to make a piece of fabric.",
+          "example": "A loom can arrange two sets of yarn to make fabric. Socks and many sweaters are examples of knitted fabrics.",
+          "keyPoints": [
+            "Weaving uses two sets of yarn.",
+            "Knitting can use a single yarn.",
+            "Weaving is done on hand-operated or power-operated looms; knitting can be done by hand or machine."
+          ]
+        },
+        {
+          "title": "History of Clothing Material",
+          "concept": "In ancient times, people used tree bark, large leaves, animal skins and furs to cover their bodies. Later, settled communities learned to twist and weave grasses, twigs, vines and animal hair or fleece into useful materials. The invention of the sewing needle helped people make stitched clothes.",
+          "example": "Even today, sarees, dhotis, lungis and turbans may be worn as unstitched pieces of fabric.",
+          "keyPoints": [
+            "Early clothing materials included leaves, bark, skins and furs.",
+            "People developed methods of twisting and weaving natural materials.",
+            "The sewing needle contributed to the development of stitched clothing."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Remember the sequence Fibre → Yarn → Fabric.",
+        "Cotton, jute, wool and silk are natural fibres.",
+        "Nylon and polyester are examples of synthetic fibres.",
+        "Cotton fibre is obtained around seeds in cotton bolls, while jute fibre is obtained from the stem.",
+        "Spinning converts fibres into yarn.",
+        "Takli and charkha are spinning devices.",
+        "Weaving arranges two sets of yarn to make fabric.",
+        "Knitting can make fabric from a single yarn.",
+        "The invention of the sewing needle helped the development of stitched clothing."
+      ],
+      "examFocus": [
+        "Classification of natural and synthetic fibres.",
+        "Sources/plant parts from which cotton and jute are obtained.",
+        "Meaning and role of ginning in cotton.",
+        "Definition of spinning and identification of takli and charkha.",
+        "Correct sequence of fibre, yarn and fabric.",
+        "Difference between weaving and knitting.",
+        "Two sets of yarn in weaving versus a single yarn in knitting.",
+        "Important facts about early clothing materials and the sewing needle."
+      ],
+      "examTraps": [
+        {
+          "title": "Fibre = Yarn?",
+          "fact": "A fibre is a thin thread-like structure; fibres are converted into yarn by spinning.",
+          "confusion": "Do not treat fibre and yarn as the same stage."
+        },
+        {
+          "title": "Spinning = Making Fibre?",
+          "fact": "Spinning is the process of making yarn from fibres.",
+          "confusion": "The output of spinning is yarn, not fibre."
+        },
+        {
+          "title": "Ginning = Spinning?",
+          "fact": "Ginning separates cotton fibres from seeds, while spinning makes yarn from fibres.",
+          "confusion": "The purpose and order of the two processes are different."
+        },
+        {
+          "title": "Jute = Part of Cotton?",
+          "fact": "Jute fibre is obtained from the stem of the jute plant; cotton fibre is found around seeds in cotton bolls.",
+          "confusion": "Both are plant fibres, but their source parts differ."
+        },
+        {
+          "title": "Weaving = Single Yarn?",
+          "fact": "Weaving arranges two sets of yarn to make fabric.",
+          "confusion": "The single-yarn process is associated with knitting."
+        },
+        {
+          "title": "Polyester = Natural Fibre?",
+          "fact": "Polyester is an example of a synthetic fibre.",
+          "confusion": "Keep natural and synthetic classifications separate."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Is the question asking about a fibre, yarn or fabric stage?",
+        "Is it asking where a fibre comes from or how yarn is made from it?",
+        "If cotton and jute are options, check the plant part carefully.",
+        "Is the process ginning or spinning?",
+        "Are two sets of yarn being arranged, or is a single yarn being used?",
+        "Use the source of the material to distinguish natural from synthetic fibres."
+      ],
+      "memoryTricks": [
+        "Fibre → Spinning → Yarn → Weaving/Knitting → Fabric",
+        "Cotton = boll/seed area; Jute = stem",
+        "Ginning = separating cotton fibres from seeds",
+        "Spinning = drawing and twisting fibres into yarn",
+        "Weaving = 2 sets of yarn",
+        "Knitting = 1 yarn",
+        "Takli + Charkha = Spinning"
+      ],
+      "pyqSignals": [
+        "Natural versus synthetic fibre classification can appear as a direct MCQ.",
+        "The plant parts supplying cotton and jute are common direct-question areas.",
+        "The difference between ginning and spinning is a high-value concept.",
+        "The Fibre → Yarn → Fabric sequence can appear in order or statement questions.",
+        "Identifying weaving versus knitting is a common objective-question pattern.",
+        "Takli and charkha can be tested as identification questions.",
+        "Unstitched fabrics such as saree, dhoti, lungi and turban can appear in history-related questions."
+      ],
+      "mustRemember": [
+        "Cotton and jute → plant fibres",
+        "Wool and silk → animal fibres",
+        "Nylon and polyester → synthetic fibres",
+        "Cotton fibre → cotton boll/seed area",
+        "Jute fibre → stem",
+        "Ginning → separating cotton fibres and seeds",
+        "Spinning → fibres to yarn",
+        "Weaving → two sets of yarn; Knitting → single yarn",
+        "Fabric → made from yarn"
+      ],
+      "quickRevision": "30-second revision: Fibre → Yarn → Fabric. Natural fibres: cotton, jute, wool, silk. Synthetic fibres: nylon, polyester. Cotton fibre comes from cotton bolls around the seeds; jute fibre comes from the stem. Ginning separates cotton fibres from seeds. Spinning draws and twists fibres into yarn. Takli and charkha are spinning devices. Weaving uses two sets of yarn; knitting can use a single yarn."
+    }
+  }
+}
