@@ -1,343 +1,4202 @@
-{
-  "class": 6,
-  "subject": "science",
-  "subjectName": {
-    "hi": "विज्ञान",
-    "en": "Science"
-  },
-  "chapter": "chapter-02",
-  "chapterNumber": 2,
-  "chapterName": {
-    "hi": "पदार्थों के समूह बनाना",
-    "en": "Sorting Materials into Groups"
-  },
-  "mockQuestionCount": 30,
-  "topics": [
-    {
-      "id": "objects-around-us",
-      "name": {
-        "hi": "हमारे चारों ओर की वस्तुएँ और वर्गीकरण",
-        "en": "Objects Around Us & Classification"
-      }
+[
+  {
+    "id": "ch2_q101",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Objects around us' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about हमारे आस-पास की वस्तुएँ?"
     },
-    {
-      "id": "properties-appearance",
-      "name": {
-        "hi": "गुण: दिखावट और चमक",
-        "en": "Properties: Appearance and Lustre"
-      }
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हमारे आसपास की वस्तुओं के आकार, रंग और उपयोग अलग-अलग होते हैं।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Objects around us have different shapes, colours and uses.",
+        "Every object must be made of only one material.",
+        "A material can be used for only one object."
+      ]
     },
-    {
-      "id": "properties-hardness",
-      "name": {
-        "hi": "गुण: कठोरता और कोमलता",
-        "en": "Properties: Hardness and Softness"
-      }
-    },
-    {
-      "id": "properties-solubility",
-      "name": {
-        "hi": "गुण: जल में विलेयता",
-        "en": "Properties: Solubility in Water"
-      }
-    },
-    {
-      "id": "properties-float-sink",
-      "name": {
-        "hi": "गुण: तैरना और डूबना",
-        "en": "Properties: Floating and Sinking"
-      }
-    },
-    {
-      "id": "properties-transparency",
-      "name": {
-        "hi": "गुण: पारदर्शिता",
-        "en": "Properties: Transparency"
-      }
+    "correct": 1,
+    "explanation": {
+      "hi": "हमारे आसपास की वस्तुओं के आकार, रंग और उपयोग अलग-अलग होते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects around us have different shapes, colours and uses. This follows the material-property or grouping concept explained in the chapter."
     }
-  ],
-  "notes": {
-    "hi": {
-      "concept": "हमारे चारों ओर की वस्तुएं अनेक प्रकार की सामग्रियों से बनी होती हैं। किसी भी वस्तु को बनाने के लिए ऐसी सामग्री का चयन किया जाता है जो उसके उपयोग और गुणों के अनुकूल हो। सामग्रियों को उनकी समानताओं और भिन्नताओं के आधार पर समूहों में व्यवस्थित करना 'वर्गीकरण' कहलाता है, जिससे उनका अध्ययन और उपयोग करना आसान हो जाता है।",
-      "example": "एक ही सामग्री जैसे लकड़ी का उपयोग कुर्सी, मेज, हल, और बल्ले जैसी विभिन्न वस्तुओं को बनाने के लिए किया जा सकता है; इसी प्रकार एक वस्तु जैसे थाली धातु, कांच या प्लास्टिक की बन सकती है।",
-      "sections": [
-        {
-          "title": "हमारे चारों ओर की वस्तुएँ और वर्गीकरण",
-          "concept": "हमारे चारों ओर की सभी वस्तुएं किसी न किसी सामग्री (जैसे लकड़ी, धातु, प्लास्टिक, कांच, कागज) से बनी हैं और इन्हें गुणों के आधार पर समूहों में बांटा जाता है।",
-          "explanation": "हम अपने दैनिक जीवन में अनगिनत वस्तुएं देखते हैं — कपड़े, किताबें, बर्तन, खिलौने आदि। इनमें से कुछ वस्तुएं एक ही पदार्थ से बन सकती हैं या अलग-अलग पदार्थों के संयोजन से। पदार्थों को उनके गुणों के आधार पर समूहीकृत करने से हमें वस्तुओं को खोजने, उनकी पहचान करने और उनके गुणों का अध्ययन करने में सुविधा होती है।",
-          "example": "दुकानदार द्वारा बिस्कुट, साबुन या दालों को अलग-अलग श्रेणियों में व्यवस्थित करना वर्गीकरण का एक व्यावहारिक उदाहरण है।",
-          "keyPoints": [
-            "वस्तुएं एक या एक से अधिक सामग्रियों से बन सकती हैं।",
-            "एक ही सामग्री से कई अलग-अलग वस्तुएं बनाई जा सकती हैं।",
-            "सामग्री का चयन उसके उपयोग और गुणों पर निर्भर करता है।",
-            "वर्गीकरण से अध्ययन और खोजबीन आसान हो जाती है।",
-            "विभिन्न वस्तुएं लकड़ी, धातु, प्लास्टिक, कांच आदि से निर्मित होती हैं।"
-          ]
-        },
-        {
-          "title": "गुण: दिखावट और चमक (Appearance & Lustre)",
-          "concept": "सामग्रियां दिखने में एक-दूसरे से भिन्न होती हैं — कुछ बहुत चमकदार होती हैं जिन्हें धातु कहा जाता है, जबकि कुछ सुस्त होती हैं।",
-          "explanation": "धातुओं (जैसे लोहा, तांबा, एल्युमिनियम, सोना) की सतह पर एक विशेष चमक होती है जिसे 'धात्विक चमक' (lustre) कहते हैं। समय बीतने के साथ वायु और नमी की क्रिया के कारण धातुएं अपनी चमक खो सकती हैं, जिन्हें रेगमार से रगड़ने या काटने पर उनकी ताजी चमकदार सतह दिखाई देती है। लकड़ी, कागज और गत्ते जैसी सामग्रियां चमकदार नहीं होतीं।",
-          "example": "सोने या चांदी के आभूषण उनकी तेज चमक के कारण आकर्षक लगते हैं, जबकि लकड़ी के टुकड़े में कोई चमक नहीं होती।",
-          "keyPoints": [
-            "धातुओं में विशेष चमक (लस्टर) होती है।",
-            "लोहा, तांबा, सोना, एल्युमिनियम चमकदार सामग्रियां हैं।",
-            "लकड़ी, कागज, गत्ता और चाक सुस्त (non-lustrous) होते हैं।",
-            "हवा और नमी के कारण धातुएं अपनी चमक खो सकती हैं।",
-            "रेगमार से रगड़ने पर धातु की चमक फिर से दिखाई देने लगती है।"
-          ]
-        },
-        {
-          "title": "गुण: कठोरता और कोमलता (Hardness & Softness)",
-          "concept": "कुछ सामग्रियां दबाने या खरोंचने पर आसानी से संपीड़ित नहीं होतीं (कठोर), जबकि कुछ को आसानी से दबाया जा सकता है (कोमल)।",
-          "explanation": "कठोर सामग्रियां (जैसे लोहा, पत्थर, कांच) को नाखून या चाबी से आसानी से नहीं खरोंचा जा सकता। इसके विपरीत, कोमल सामग्रियां (जैसे स्पंज, कपास, मोम, साबुन) आसानी से संपीड़ित हो जाती हैं या उन पर खरोंच आ जाती है। यह गुण किसी वस्तु की मजबूती और उपयोगिता तय करता है।",
-          "example": "गद्दे बनाने के लिए फोम या कपास का उपयोग किया जाता है क्योंकि वे कोमल होते हैं, जबकि हथौड़ा बनाने के लिए कठोर लोहे का उपयोग किया जाता है।",
-          "keyPoints": [
-            "कठोर सामग्रियां आसानी से नहीं दबतीं या खरोंची जातीं (लोहा, पत्थर)।",
-            "कोमल सामग्रियां आसानी से संपीड़ित हो जाती हैं (स्पंज, कपास)।",
-            "नाखून या चाबी से खरोंच परीक्षण कर सापेक्ष कठोरता जांची जाती है।",
-            "हीरा ज्ञात सबसे कठोर प्राकृतिक पदार्थ है।",
-            "उपयोग के आधार पर कठोर या कोमल सामग्री का चयन होता है।"
-          ]
-        },
-        {
-          "title": "गुण: जल में विलेयता (Solubility in Water)",
-          "concept": "कुछ पदार्थ पानी में पूरी तरह घुल जाते हैं (विलेय/soluble), जबकि कुछ पदार्थ पानी में नहीं घुलते और नीचे बैठ जाते हैं या तैरते हैं (अविलेय/insoluble)।",
-          "explanation": "साधारण नमक और चीनी पानी में पूरी तरह गायब (विलीन) हो जाते हैं, जिससे पारदर्शी घोल बनता है। इसके विपरीत, रेत, चाक पाउडर और लकड़ी का बुरादा पानी में अघुलनशील हैं। तरल पदार्थों के मामले में, सिरका और नींबू का रस पानी में पूरी तरह मिल जाते हैं (मिश्रणीय), जबकि सरसों का तेल या केरोसीन पानी में नहीं मिलते और ऊपर अलग परत बनाते हैं (अमिश्रणीय)।",
-          "example": "नींबू पानी बनाते समय चीनी और नमक पानी में पूरी तरह घुल जाते हैं, लेकिन यदि तेल मिलाया जाए तो वह ऊपर तैरता रहता है।",
-          "keyPoints": [
-            "नमक और चीनी पानी में घुलनशील (विलेय) हैं।",
-            "रेत, चाक पाउडर और लकड़ी का बुरादा अघुलनशील हैं।",
-            "सिरका और नींबू का रस पानी में मिश्रणीय (miscible) हैं।",
-            "सरसों का तेल और केरोसीन पानी में अमिश्रणीय (immiscible) हैं।",
-            "पानी को 'सार्वभौमिक विलायक' कहा जाता है क्योंकि यह कई पदार्थों को घोल सकता है।"
-          ]
-        },
-        {
-          "title": "गुण: तैरना और डूबना (Floating & Sinking)",
-          "concept": "पानी में डाली जाने वाली कुछ वस्तुएं सतह पर तैरती हैं, जबकि कुछ वस्तुएं पानी में डूब जाती हैं, जो उनके घनत्व पर निर्भर करता है।",
-          "explanation": "सूखे पत्ते, लकड़ी का टुकड़ा, प्लास्टिक की गेंद और बर्फ पानी पर तैरते हैं क्योंकि वे पानी से हल्के (कम घने) होते हैं। इसके विपरीत, लोहे की कील, पत्थर का टुकड़ा और कांच का कंचा पानी में डूब जाते हैं क्योंकि वे पानी से भारी (अधिक घने) होते हैं।",
-          "example": "एक सूखी लकड़ी का लट्ठा पानी पर तैरता रहता है, जबकि एक छोटा सा लोहे का सिक्का तुरंत नीचे डूब जाता है।",
-          "keyPoints": [
-            "पानी से कम घनत्व वाली वस्तुएं तैरती हैं (लकड़ी, पत्ता, प्लास्टिक)।",
-            "पानी से अधिक घनत्व वाली वस्तुएं डूब जाती हैं (लोहा, पत्थर, सिक्का)।",
-            "बर्फ पानी पर तैरती है क्योंकि यह तरल पानी से थोड़ी कम घनी होती है।",
-            "जहाज का खोखला आकार अधिक पानी विस्थापित करके उसे तैरने में मदद करता है।",
-            "तैरना और डूबना वस्तु के घनत्व से संबंधित है।"
-          ]
-        },
-        {
-          "title": "गुण: पारदर्शिता (Transparency)",
-          "concept": "जिन सामग्रियों के आर-पार स्पष्ट रूप से देखा जा सके वे पारदर्शी (transparent) हैं, जिनके आर-पार बिल्कुल न देखा जा सके वे अपारदर्शी (opaque) हैं, और जिनके आर-पार धुंधला दिखाई दे वे पारभासी (translucent) हैं।",
-          "explanation": "कांच, साफ पानी और हवा पारदर्शी सामग्रियां हैं क्योंकि प्रकाश इनमें से पूरी तरह गुजर जाता है। लकड़ी, गत्ता और धातुएं अपारदर्शी हैं क्योंकि वे प्रकाश को रोक लेती हैं। तेल लगा कागज या फ्रॉस्टेड ग्लास पारभासी हैं क्योंकि वे प्रकाश को आंशिक रूप से गुजरने देते हैं।",
-          "example": "दुकानदार बिस्कुट और मिठाइयां देखने के लिए पारदर्शी कांच के जार का उपयोग करते हैं, जबकि गोपनीयता के लिए खिड़कियों में फ्रॉस्टेड कांच लगाया जाता है।",
-          "keyPoints": [
-            "पारदर्शी सामग्रियां प्रकाश को पूरी तरह गुजरने देती हैं (कांच, साफ पानी)।",
-            "अपारदर्शी सामग्रियां प्रकाश को रोक लेती हैं (लकड़ी, गत्ता, दीवार)।",
-            "पारभासी सामग्रियां प्रकाश को आंशिक रूप से गुजरने देती हैं (तेल लगा कागज)।",
-            "तेल या मक्खन लगाने से सादा कागज पारभासी हो जाता है।",
-            "पारदर्शिता का संबंध प्रकाश के संचरण से है।"
-          ]
-        }
-      ],
-      "keyPoints": [
-        "वस्तुएं विभिन्न सामग्रियों से बनती हैं जो उनके गुणों पर निर्भर करती हैं।",
-        "धातुओं में विशेष चमक (लस्टर) होती है।",
-        "कठोर सामग्रियां आसानी से नहीं खरोंची जातीं, जबकि कोमल आसानी से दब जाती हैं।",
-        "नमक और चीनी पानी में घुलनशील हैं, जबकि रेत और तेल अघुलनशील/अमिश्रणीय हैं।",
-        "पानी से हल्की वस्तुएं तैरती हैं और भारी वस्तुएं डूब जाती हैं।",
-        "सामग्रियां पारदर्शिता के आधार पर पारदर्शी, अपारदर्शी और पारभासी होती हैं।",
-        "वर्गीकरण से वस्तुओं का अध्ययन सुव्यवस्थित होता है।"
-      ],
-      "examFocus": [
-        "पारदर्शी, अपारदर्शी और पारभासी सामग्रियों की पहचान करना।",
-        "जल में विलेय और अविलेय पदार्थों का अंतर बताना।",
-        "धात्विक चमक (lustre) और कठोरता के आधार पर वर्गीकरण।",
-        "तैरने (floating) और डूबने (sinking) के कारणों को समझना।",
-        "एक ही सामग्री से विभिन्न वस्तुएं बनने के उदाहरण।"
-      ],
-      "examTraps": [
-        {
-          "title": "तेल और पानी का मिश्रण",
-          "fact": "तेल पानी में घुलता नहीं है बल्कि ऊपर एक अलग परत बनाता है (अमिश्रणीय)।",
-          "confusion": "छात्र अक्सर सोचते हैं कि सभी तरल पानी में घुल जाते हैं।"
-        },
-        {
-          "title": "पारदर्शी बनाम पारभासी",
-          "fact": "पारदर्शी में सब कुछ साफ दिखता है, जबकि पारभासी में धुंधला दिखाई देता है।",
-          "confusion": "तेल लगे कागज को पारदर्शी मान लेना गलत है, यह पारभासी है।"
-        },
-        {
-          "title": "लोहे की वस्तुएं हमेशा डूबती हैं?",
-          "fact": "ठोस लोहा डूबता है, लेकिन सही डिजाइन (जैसे जहाज) से लोहे की वस्तु तैर सकती है।",
-          "confusion": "केवल धातु होने मात्र से हर वस्तु का डूबना तय नहीं माना जा सकता यदि उसका आकार खोखला हो।"
-        }
-      ],
-      "thinkBeforeAnswer": [
-        "क्या पूछा गया पदार्थ पानी में घुलनशील है या अमिश्रणीय?",
-        "क्या वस्तु पारदर्शी है या पारभासी?",
-        "क्या सामग्री में धात्विक चमक है या वह सुस्त है?",
-        "क्या कठोरता का संबंध खरोंचने से है या संपीड़न से?"
-      ],
-      "memoryTricks": [
-        "पारदर्शी = आर-पार स्पष्ट (कांच)",
-        "पारभासी = धुंधला (तेल लगा कागज)",
-        "अपारदर्शी = कुछ नहीं दिखता (लकड़ी)",
-        "विलेय = घुलना (चीनी), अविलेय = न घुलना (रेत)"
-      ],
-      "pyqSignals": [
-        "पदार्थों के गुण (कठोरता, चमक, घुलनशीलता) पर आधारित प्रश्न।",
-        "पारदर्शिता के उदाहरणों से जुड़े बहुविकल्पीय प्रश्न।",
-        "तैरने और डूबने वाली वस्तुओं का वर्गीकरण।"
-      ],
-      "mustRemember": [
-        "सामग्री के मुख्य गुण: दिखावट, चमक, कठोरता, विलेयता, तैरना/डूबना, पारदर्शिता।",
-        "धातुओं में चमक होती है।",
-        "चीनी/नमक विलेय हैं, रेत/तेल अविलेय हैं।",
-        "कांच पारदर्शी है, लकड़ी अपारदर्शी है, तेल लगा कागज पारभासी है।"
-      ],
-      "quickRevision": "30 सेकंड में रिवीजन: वस्तुएं विभिन्न सामग्रियों से बनती हैं → गुण: चमक (धातु), कठोरता (लोहा vs स्पंज), विलेयता (नमक vs रेत), तैरना/डूबना (पत्ता vs पत्थर), पारदर्शिता (कांच vs लकड़ी) → वर्गीकरण से अध्ययन सरल होता है।"
+  },
+  {
+    "id": "ch2_q102",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Objects around us' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about हमारे आस-पास की वस्तुएँ?"
     },
-    "en": {
-      "concept": "Objects around us are made of a wide variety of materials. To make any object, a material is chosen based on its properties and intended use. Grouping materials based on their similarities and differences is called classification, which makes their study and usage systematic and convenient.",
-      "example": "A single material like wood can be used to make various objects such as chairs, tables, plows, and bats; similarly, a plate can be made of metal, glass, or plastic.",
-      "sections": [
-        {
-          "title": "Objects Around Us & Classification",
-          "concept": "All objects around us are made of some material (like wood, metal, plastic, glass, paper) and are grouped based on their properties.",
-          "explanation": "In daily life, we see countless objects — clothes, books, utensils, toys, etc. Some are made of a single substance, while others use a combination of materials. Grouping materials by properties helps us find, identify, and study them efficiently.",
-          "example": "A shopkeeper organizing biscuits, soaps, or pulses into separate sections is a practical example of classification.",
-          "keyPoints": [
-            "Objects can be made of one or more materials.",
-            "Many different objects can be made from the same material.",
-            "Material selection depends on its use and properties.",
-            "Classification makes study and identification easy.",
-            "Various objects are manufactured from wood, metal, plastic, glass, etc."
-          ]
-        },
-        {
-          "title": "Properties: Appearance and Lustre",
-          "concept": "Materials differ in their look; some have a special shine known as lustre and are called metals, while others look dull.",
-          "explanation": "Freshly cut metals (like iron, copper, aluminium, gold) have a shining appearance called metallic lustre. Over time, air and moisture react with their surface, causing them to lose shine until rubbed with sandpaper or cut to reveal the shiny metal underneath. Wood, paper, and cardboard lack lustre.",
-          "example": "Gold or silver jewelry looks attractive because of its bright lustre, whereas a wooden block has no shine.",
-          "keyPoints": [
-            "Metals possess a special shine called lustre.",
-            "Iron, copper, gold, aluminium are lustrous materials.",
-            "Wood, paper, cardboard, and chalk are non-lustrous.",
-            "Exposure to air and moisture can dull metallic surfaces.",
-            "Rubbing with sandpaper restores the metallic shine."
-          ]
-        },
-        {
-          "title": "Properties: Hardness and Softness",
-          "concept": "Some materials cannot be easily compressed or scratched (hard), while others can be easily compressed or indented (soft).",
-          "explanation": "Hard materials (like iron, stone, glass) cannot be easily scratched by a fingernail or key. In contrast, soft materials (like sponge, cotton, wax, soap) compress easily or get scratched. This property determines an object's strength and utility.",
-          "example": "Mattresses are made of foam or cotton because they are soft, whereas hammers are made of hard iron.",
-          "keyPoints": [
-            "Hard materials resist scratching and compression (iron, stone).",
-            "Soft materials compress easily (sponge, cotton).",
-            "Relative hardness is tested by scratching with a fingernail or key.",
-            "Diamond is known as the hardest natural substance.",
-            "Material selection depends on required hardness."
-          ]
-        },
-        {
-          "title": "Properties: Solubility in Water",
-          "concept": "Some substances completely dissolve in water (soluble), while others do not dissolve, settling down or floating (insoluble).",
-          "explanation": "Common salt and sugar completely disappear in water, forming a transparent solution. In contrast, sand, chalk powder, and sawdust are insoluble in water. For liquids, vinegar and lemon juice mix completely (miscible), whereas mustard oil or kerosene do not mix and form a separate upper layer (immiscible).",
-          "example": "When making lemonade, sugar and salt dissolve completely, but if oil is added, it floats on top.",
-          "keyPoints": [
-            "Salt and sugar are soluble in water.",
-            "Sand, chalk powder, and sawdust are insoluble.",
-            "Vinegar and lemon juice are miscible in water.",
-            "Mustard oil and kerosene are immiscible in water.",
-            "Water is called the universal solvent because it dissolves many substances."
-          ]
-        },
-        {
-          "title": "Properties: Floating and Sinking",
-          "concept": "Some objects dropped in water float on the surface, while others sink to the bottom, depending on their density.",
-          "explanation": "Dry leaves, wooden blocks, plastic balls, and ice float on water because they are lighter (less dense) than water. Conversely, iron nails, stone pieces, and glass marbles sink because they are heavier (denser) than water.",
-          "example": "A dry wooden log floats on water, while a small iron coin sinks immediately.",
-          "keyPoints": [
-            "Objects less dense than water float (wood, leaf, plastic).",
-            "Objects denser than water sink (iron, stone, coin).",
-            "Ice floats on water because it is slightly less dense than liquid water.",
-            "A ship's hollow shape helps it float by displacing large amounts of water.",
-            "Floating and sinking relate to density."
-          ]
-        },
-        {
-          "title": "Properties: Transparency",
-          "concept": "Materials through which objects can be seen clearly are transparent, those through which you cannot see at all are opaque, and those with blurry visibility are translucent.",
-          "explanation": "Glass, clear water, and air are transparent as light passes through them completely. Wood, cardboard, and metals are opaque as they block light. Oiled paper or frosted glass are translucent as they permit partial light transmission.",
-          "example": "Shopkeepers use transparent glass jars to display sweets and biscuits, while frosted glass is used in bathrooms for privacy.",
-          "keyPoints": [
-            "Transparent materials let light pass through completely (glass, clear water).",
-            "Opaque materials block light entirely (wood, cardboard, wall).",
-            "Translucent materials allow partial light transmission (oiled paper).",
-            "Applying oil or butter turns plain paper translucent.",
-            "Transparency relates to light transmission."
-          ]
-        }
+    "options": {
+      "hi": [
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "हमारे आसपास की वस्तुओं के आकार, रंग और उपयोग अलग-अलग होते हैं।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।"
       ],
-      "keyPoints": [
-        "Objects are made of different materials based on their properties.",
-        "Metals possess a special shine called lustre.",
-        "Hard materials resist scratching, while soft ones compress easily.",
-        "Salt and sugar are soluble, whereas sand and oil are insoluble/immiscible.",
-        "Lighter objects float on water while denser ones sink.",
-        "Materials are categorized as transparent, opaque, or translucent based on light transmission.",
-        "Classification makes studying objects systematic."
+      "en": [
+        "Every object must be made of only one material.",
+        "Objects around us have different shapes, colours and uses.",
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "हमारे आसपास की वस्तुओं के आकार, रंग और उपयोग अलग-अलग होते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects around us have different shapes, colours and uses. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q103",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Objects around us।",
+      "en": "Choose the correct option for the following concept: हमारे आस-पास की वस्तुएँ."
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हमारे आसपास की वस्तुओं के आकार, रंग और उपयोग अलग-अलग होते हैं।"
       ],
-      "examFocus": [
-        "Identifying transparent, opaque, and translucent materials.",
-        "Distinguishing between soluble and insoluble substances in water.",
-        "Classifying based on metallic lustre and hardness.",
-        "Understanding reasons for floating and sinking.",
-        "Examples of multiple objects made from a single material."
+      "en": [
+        "A material can be used for only one object.",
+        "Every object must be made of only one material.",
+        "Objects cannot be grouped by shape.",
+        "Objects around us have different shapes, colours and uses."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "हमारे आसपास की वस्तुओं के आकार, रंग और उपयोग अलग-अलग होते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects around us have different shapes, colours and uses. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q104",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Grouping by shape' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about आकार के आधार पर समूह?"
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "वस्तुओं को उनके आकार के आधार पर समूहित किया जा सकता है।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
       ],
-      "examTraps": [
-        {
-          "title": "Oil and Water Mixture",
-          "fact": "Oil does not dissolve in water; it forms a separate upper layer (immiscible).",
-          "confusion": "Students often assume all liquids dissolve in water."
-        },
-        {
-          "title": "Transparent vs Translucent",
-          "fact": "Transparent gives clear vision, while translucent gives blurry vision.",
-          "confusion": "Mistaking oiled paper for transparent instead of translucent."
-        },
-        {
-          "title": "Do Iron Objects Always Sink?",
-          "fact": "Solid iron sinks, but proper design (like a ship) allows iron structures to float.",
-          "confusion": "Assuming any metal object must sink regardless of its hollow shape."
-        }
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Objects can be grouped on the basis of their shape.",
+        "A material can be used for only one object.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "वस्तुओं को उनके आकार के आधार पर समूहित किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects can be grouped on the basis of their shape. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q105",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Grouping by shape' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about आकार के आधार पर समूह?"
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को उनके आकार के आधार पर समूहित किया जा सकता है।"
       ],
-      "thinkBeforeAnswer": [
-        "Is the given substance soluble or immiscible in water?",
-        "Is the object transparent or translucent?",
-        "Does the material have metallic lustre or is it dull?",
-        "Does hardness refer to scratching resistance or compression?"
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object.",
+        "Every object must be made of only one material.",
+        "Objects can be grouped on the basis of their shape."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वस्तुओं को उनके आकार के आधार पर समूहित किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects can be grouped on the basis of their shape. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q106",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Grouping by shape।",
+      "en": "Choose the correct option for the following concept: आकार के आधार पर समूह."
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को उनके आकार के आधार पर समूहित किया जा सकता है।"
       ],
-      "memoryTricks": [
-        "Transparent = Clear view through (glass)",
-        "Translucent = Blurry view (oiled paper)",
-        "Opaque = No view through (wood)",
-        "Soluble = Dissolves (sugar), Insoluble = Does not dissolve (sand)"
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material.",
+        "A material can be used for only one object.",
+        "Objects can be grouped on the basis of their shape."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वस्तुओं को उनके आकार के आधार पर समूहित किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects can be grouped on the basis of their shape. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q107",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Grouping by material' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about पदार्थ के आधार पर समूह?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "वस्तुओं को उन पदार्थों के आधार पर समूहित किया जा सकता है जिनसे वे बनी हैं।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
       ],
-      "pyqSignals": [
-        "Questions based on material properties (hardness, lustre, solubility).",
-        "MCQs involving examples of transparency.",
-        "Classification of floating and sinking objects."
+      "en": [
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape.",
+        "Objects can be grouped on the basis of the materials they are made from.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "वस्तुओं को उन पदार्थों के आधार पर समूहित किया जा सकता है जिनसे वे बनी हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects can be grouped on the basis of the materials they are made from. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q108",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Grouping by material' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about पदार्थ के आधार पर समूह?"
+    },
+    "options": {
+      "hi": [
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को उन पदार्थों के आधार पर समूहित किया जा सकता है जिनसे वे बनी हैं।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
       ],
-      "mustRemember": [
-        "Key material properties: appearance, lustre, hardness, solubility, float/sink, transparency.",
-        "Metals have lustre.",
-        "Sugar/salt are soluble; sand/oil are insoluble.",
-        "Glass is transparent, wood is opaque, oiled paper is translucent."
+      "en": [
+        "Every object must be made of only one material.",
+        "Objects can be grouped on the basis of the materials they are made from.",
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "वस्तुओं को उन पदार्थों के आधार पर समूहित किया जा सकता है जिनसे वे बनी हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects can be grouped on the basis of the materials they are made from. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q109",
+    "topic": "objects-materials",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Grouping by material।",
+      "en": "Choose the correct option for the following concept: पदार्थ के आधार पर समूह."
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को उन पदार्थों के आधार पर समूहित किया जा सकता है जिनसे वे बनी हैं।"
       ],
-      "quickRevision": "30-second revision: Objects are made of various materials → Properties: Lustre (metals), Hardness (iron vs sponge), Solubility (salt vs sand), Float/Sink (leaf vs stone), Transparency (glass vs wood) → Classification simplifies study."
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object.",
+        "Every object must be made of only one material.",
+        "Objects can be grouped on the basis of the materials they are made from."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वस्तुओं को उन पदार्थों के आधार पर समूहित किया जा सकता है जिनसे वे बनी हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Objects can be grouped on the basis of the materials they are made from. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q110",
+    "topic": "objects-materials",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Plastic group' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about प्लास्टिक की वस्तुओं का समूह?"
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "बाल्टियाँ, लंच बॉक्स, खिलौने, जल-पात्र और पाइप प्लास्टिक से बनी वस्तुओं के समूह में रखे जा सकते हैं।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Buckets, lunch boxes, toys, water containers and pipes can be grouped as objects made of plastics.",
+        "Every object must be made of only one material.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "बाल्टियाँ, लंच बॉक्स, खिलौने, जल-पात्र और पाइप प्लास्टिक से बनी वस्तुओं के समूह में रखे जा सकते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Buckets, lunch boxes, toys, water containers and pipes can be grouped as objects made of plastics. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q111",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Plastic group' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about प्लास्टिक की वस्तुओं का समूह?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "बाल्टियाँ, लंच बॉक्स, खिलौने, जल-पात्र और पाइप प्लास्टिक से बनी वस्तुओं के समूह में रखे जा सकते हैं।"
+      ],
+      "en": [
+        "A material can be used for only one object.",
+        "Every object must be made of only one material.",
+        "Objects cannot be grouped by shape.",
+        "Buckets, lunch boxes, toys, water containers and pipes can be grouped as objects made of plastics."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "बाल्टियाँ, लंच बॉक्स, खिलौने, जल-पात्र और पाइप प्लास्टिक से बनी वस्तुओं के समूह में रखे जा सकते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Buckets, lunch boxes, toys, water containers and pipes can be grouped as objects made of plastics. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q112",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Plastic group।",
+      "en": "Choose the correct option for the following concept: प्लास्टिक की वस्तुओं का समूह."
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "बाल्टियाँ, लंच बॉक्स, खिलौने, जल-पात्र और पाइप प्लास्टिक से बनी वस्तुओं के समूह में रखे जा सकते हैं।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material.",
+        "A material can be used for only one object.",
+        "Buckets, lunch boxes, toys, water containers and pipes can be grouped as objects made of plastics."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "बाल्टियाँ, लंच बॉक्स, खिलौने, जल-पात्र और पाइप प्लास्टिक से बनी वस्तुओं के समूह में रखे जा सकते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Buckets, lunch boxes, toys, water containers and pipes can be grouped as objects made of plastics. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q113",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Materials list' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about पदार्थों के उदाहरण?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "काँच, धातु, प्लास्टिक, लकड़ी, कपास, कागज़ और मिट्टी हमारे आसपास की वस्तुओं में प्रयुक्त पदार्थ हैं।"
+      ],
+      "en": [
+        "A material can be used for only one object.",
+        "Every object must be made of only one material.",
+        "Objects cannot be grouped by shape.",
+        "Glass, metal, plastics, wood, cotton, paper and soil are materials used for objects around us."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "काँच, धातु, प्लास्टिक, लकड़ी, कपास, कागज़ और मिट्टी हमारे आसपास की वस्तुओं में प्रयुक्त पदार्थ हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass, metal, plastics, wood, cotton, paper and soil are materials used for objects around us. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q114",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Materials list' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about पदार्थों के उदाहरण?"
+    },
+    "options": {
+      "hi": [
+        "काँच, धातु, प्लास्टिक, लकड़ी, कपास, कागज़ और मिट्टी हमारे आसपास की वस्तुओं में प्रयुक्त पदार्थ हैं।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "Glass, metal, plastics, wood, cotton, paper and soil are materials used for objects around us.",
+        "Every object must be made of only one material.",
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "काँच, धातु, प्लास्टिक, लकड़ी, कपास, कागज़ और मिट्टी हमारे आसपास की वस्तुओं में प्रयुक्त पदार्थ हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass, metal, plastics, wood, cotton, paper and soil are materials used for objects around us. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q115",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Materials list।",
+      "en": "Choose the correct option for the following concept: पदार्थों के उदाहरण."
+    },
+    "options": {
+      "hi": [
+        "काँच, धातु, प्लास्टिक, लकड़ी, कपास, कागज़ और मिट्टी हमारे आसपास की वस्तुओं में प्रयुक्त पदार्थ हैं।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
+      ],
+      "en": [
+        "Glass, metal, plastics, wood, cotton, paper and soil are materials used for objects around us.",
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "काँच, धातु, प्लास्टिक, लकड़ी, कपास, कागज़ और मिट्टी हमारे आसपास की वस्तुओं में प्रयुक्त पदार्थ हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass, metal, plastics, wood, cotton, paper and soil are materials used for objects around us. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q116",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'One object many materials' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about एक वस्तु में अनेक पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक वस्तु एक पदार्थ या कई अलग-अलग पदार्थों से बनी हो सकती है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "An object can be made of one material or of many different materials.",
+        "Every object must be made of only one material.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "एक वस्तु एक पदार्थ या कई अलग-अलग पदार्थों से बनी हो सकती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "An object can be made of one material or of many different materials. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q117",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'One object many materials' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about एक वस्तु में अनेक पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक वस्तु एक पदार्थ या कई अलग-अलग पदार्थों से बनी हो सकती है।"
+      ],
+      "en": [
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material.",
+        "An object can be made of one material or of many different materials."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "एक वस्तु एक पदार्थ या कई अलग-अलग पदार्थों से बनी हो सकती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "An object can be made of one material or of many different materials. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q118",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: One object many materials।",
+      "en": "Choose the correct option for the following concept: एक वस्तु में अनेक पदार्थ."
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक वस्तु एक पदार्थ या कई अलग-अलग पदार्थों से बनी हो सकती है।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "An object can be made of one material or of many different materials.",
+        "A material can be used for only one object.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "एक वस्तु एक पदार्थ या कई अलग-अलग पदार्थों से बनी हो सकती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "An object can be made of one material or of many different materials. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q119",
+    "topic": "objects-materials",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'One material many objects' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about एक पदार्थ से अनेक वस्तुएँ?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक ही पदार्थ से कई अलग-अलग वस्तुएँ बनाई जा सकती हैं।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
+      ],
+      "en": [
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape.",
+        "One material can be used to make many different objects.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "एक ही पदार्थ से कई अलग-अलग वस्तुएँ बनाई जा सकती हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "One material can be used to make many different objects. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q120",
+    "topic": "objects-materials",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'One material many objects' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about एक पदार्थ से अनेक वस्तुएँ?"
+    },
+    "options": {
+      "hi": [
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "एक ही पदार्थ से कई अलग-अलग वस्तुएँ बनाई जा सकती हैं।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।"
+      ],
+      "en": [
+        "Every object must be made of only one material.",
+        "A material can be used for only one object.",
+        "One material can be used to make many different objects.",
+        "Objects cannot be grouped by shape."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "एक ही पदार्थ से कई अलग-अलग वस्तुएँ बनाई जा सकती हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "One material can be used to make many different objects. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q121",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: One material many objects।",
+      "en": "Choose the correct option for the following concept: एक पदार्थ से अनेक वस्तुएँ."
+    },
+    "options": {
+      "hi": [
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "एक ही पदार्थ से कई अलग-अलग वस्तुएँ बनाई जा सकती हैं।"
+      ],
+      "en": [
+        "Every object must be made of only one material.",
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object.",
+        "One material can be used to make many different objects."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "एक ही पदार्थ से कई अलग-अलग वस्तुएँ बनाई जा सकती हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "One material can be used to make many different objects. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q122",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Plate materials' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about प्लेट के पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक प्लेट स्टील, काँच या प्लास्टिक की बनी हो सकती है।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material.",
+        "A plate may be made of steel, glass or plastics.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "एक प्लेट स्टील, काँच या प्लास्टिक की बनी हो सकती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A plate may be made of steel, glass or plastics. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q123",
+    "topic": "objects-materials",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Plate materials' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about प्लेट के पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक प्लेट स्टील, काँच या प्लास्टिक की बनी हो सकती है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
+      ],
+      "en": [
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape.",
+        "A plate may be made of steel, glass or plastics.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "एक प्लेट स्टील, काँच या प्लास्टिक की बनी हो सकती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A plate may be made of steel, glass or plastics. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q124",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Plate materials।",
+      "en": "Choose the correct option for the following concept: प्लेट के पदार्थ."
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "एक प्लेट स्टील, काँच या प्लास्टिक की बनी हो सकती है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object.",
+        "A plate may be made of steel, glass or plastics.",
+        "Every object must be made of only one material."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "एक प्लेट स्टील, काँच या प्लास्टिक की बनी हो सकती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A plate may be made of steel, glass or plastics. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q125",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Pen materials' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about पेन के पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पेन प्लास्टिक और धातु से बना हो सकता है।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material.",
+        "A pen may be made of plastics and metal.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "एक पेन प्लास्टिक और धातु से बना हो सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A pen may be made of plastics and metal. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q126",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Pen materials' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about पेन के पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "एक पेन प्लास्टिक और धातु से बना हो सकता है।"
+      ],
+      "en": [
+        "A material can be used for only one object.",
+        "Objects cannot be grouped by shape.",
+        "Every object must be made of only one material.",
+        "A pen may be made of plastics and metal."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "एक पेन प्लास्टिक और धातु से बना हो सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A pen may be made of plastics and metal. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q127",
+    "topic": "objects-materials",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Pen materials।",
+      "en": "Choose the correct option for the following concept: पेन के पदार्थ."
+    },
+    "options": {
+      "hi": [
+        "एक पेन प्लास्टिक और धातु से बना हो सकता है।",
+        "हर वस्तु केवल एक ही पदार्थ से बनी होनी चाहिए।",
+        "वस्तुओं को आकार के आधार पर समूहित नहीं किया जा सकता।",
+        "एक पदार्थ का उपयोग केवल एक ही वस्तु के लिए हो सकता है।"
+      ],
+      "en": [
+        "A pen may be made of plastics and metal.",
+        "Every object must be made of only one material.",
+        "Objects cannot be grouped by shape.",
+        "A material can be used for only one object."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "एक पेन प्लास्टिक और धातु से बना हो सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A pen may be made of plastics and metal. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q128",
+    "topic": "properties",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Choosing materials' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about पदार्थ का चुनाव?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।",
+        "पदार्थ का चुनाव उसके गुणों और वस्तु के उद्देश्य के अनुसार किया जाता है।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "A tumbler should be made from any material, even if it cannot hold liquid.",
+        "A material is chosen according to its properties and the purpose of the object.",
+        "All materials have identical properties."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पदार्थ का चुनाव उसके गुणों और वस्तु के उद्देश्य के अनुसार किया जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A material is chosen according to its properties and the purpose of the object. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q129",
+    "topic": "properties",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Choosing materials' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about पदार्थ का चुनाव?"
+    },
+    "options": {
+      "hi": [
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।",
+        "पदार्थ का चुनाव उसके गुणों और वस्तु के उद्देश्य के अनुसार किया जाता है।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।"
+      ],
+      "en": [
+        "A tumbler should be made from any material, even if it cannot hold liquid.",
+        "A material is chosen according to its properties and the purpose of the object.",
+        "All materials have identical properties.",
+        "Material choice never depends on the object's purpose."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पदार्थ का चुनाव उसके गुणों और वस्तु के उद्देश्य के अनुसार किया जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A material is chosen according to its properties and the purpose of the object. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q130",
+    "topic": "properties",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Choosing materials।",
+      "en": "Choose the correct option for the following concept: पदार्थ का चुनाव."
+    },
+    "options": {
+      "hi": [
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।",
+        "पदार्थ का चुनाव उसके गुणों और वस्तु के उद्देश्य के अनुसार किया जाता है।"
+      ],
+      "en": [
+        "All materials have identical properties.",
+        "Material choice never depends on the object's purpose.",
+        "A tumbler should be made from any material, even if it cannot hold liquid.",
+        "A material is chosen according to its properties and the purpose of the object."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पदार्थ का चुनाव उसके गुणों और वस्तु के उद्देश्य के अनुसार किया जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A material is chosen according to its properties and the purpose of the object. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q131",
+    "topic": "properties",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Tumbler material' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about गिलास का पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "गिलास के लिए काँच, प्लास्टिक या धातु उपयुक्त हो सकते हैं क्योंकि गिलास में द्रव रखा जाता है।",
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।"
+      ],
+      "en": [
+        "All materials have identical properties.",
+        "Glass, plastics or metal are suitable for a tumbler because the tumbler is used to hold liquid.",
+        "Material choice never depends on the object's purpose.",
+        "A tumbler should be made from any material, even if it cannot hold liquid."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "गिलास के लिए काँच, प्लास्टिक या धातु उपयुक्त हो सकते हैं क्योंकि गिलास में द्रव रखा जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass, plastics or metal are suitable for a tumbler because the tumbler is used to hold liquid. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q132",
+    "topic": "properties",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Tumbler material' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about गिलास का पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास के लिए काँच, प्लास्टिक या धातु उपयुक्त हो सकते हैं क्योंकि गिलास में द्रव रखा जाता है।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "Glass, plastics or metal are suitable for a tumbler because the tumbler is used to hold liquid.",
+        "All materials have identical properties.",
+        "A tumbler should be made from any material, even if it cannot hold liquid."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "गिलास के लिए काँच, प्लास्टिक या धातु उपयुक्त हो सकते हैं क्योंकि गिलास में द्रव रखा जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass, plastics or metal are suitable for a tumbler because the tumbler is used to hold liquid. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q133",
+    "topic": "properties",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Tumbler material।",
+      "en": "Choose the correct option for the following concept: गिलास का पदार्थ."
+    },
+    "options": {
+      "hi": [
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।",
+        "गिलास के लिए काँच, प्लास्टिक या धातु उपयुक्त हो सकते हैं क्योंकि गिलास में द्रव रखा जाता है।",
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।"
+      ],
+      "en": [
+        "All materials have identical properties.",
+        "A tumbler should be made from any material, even if it cannot hold liquid.",
+        "Glass, plastics or metal are suitable for a tumbler because the tumbler is used to hold liquid.",
+        "Material choice never depends on the object's purpose."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "गिलास के लिए काँच, प्लास्टिक या धातु उपयुक्त हो सकते हैं क्योंकि गिलास में द्रव रखा जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass, plastics or metal are suitable for a tumbler because the tumbler is used to hold liquid. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q134",
+    "topic": "properties",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Cloth tumbler' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about कपड़े का गिलास?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "जल रखने वाले सामान्य गिलास के लिए कपड़ा अनुपयुक्त है।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "A tumbler should be made from any material, even if it cannot hold liquid.",
+        "All materials have identical properties.",
+        "Cloth is unsuitable for an ordinary tumbler meant to hold water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जल रखने वाले सामान्य गिलास के लिए कपड़ा अनुपयुक्त है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cloth is unsuitable for an ordinary tumbler meant to hold water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q135",
+    "topic": "properties",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Cloth tumbler' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about कपड़े का गिलास?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "जल रखने वाले सामान्य गिलास के लिए कपड़ा अनुपयुक्त है।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "Cloth is unsuitable for an ordinary tumbler meant to hold water.",
+        "All materials have identical properties.",
+        "A tumbler should be made from any material, even if it cannot hold liquid."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल रखने वाले सामान्य गिलास के लिए कपड़ा अनुपयुक्त है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cloth is unsuitable for an ordinary tumbler meant to hold water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q136",
+    "topic": "properties",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Cloth tumbler।",
+      "en": "Choose the correct option for the following concept: कपड़े का गिलास."
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "जल रखने वाले सामान्य गिलास के लिए कपड़ा अनुपयुक्त है।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "Cloth is unsuitable for an ordinary tumbler meant to hold water.",
+        "All materials have identical properties.",
+        "A tumbler should be made from any material, even if it cannot hold liquid."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल रखने वाले सामान्य गिलास के लिए कपड़ा अनुपयुक्त है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cloth is unsuitable for an ordinary tumbler meant to hold water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q137",
+    "topic": "properties",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Cooking vessel' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about खाना पकाने का बर्तन?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "कागज़ जैसे पदार्थ खाना पकाने के बर्तनों के लिए अनुपयुक्त हैं।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "A tumbler should be made from any material, even if it cannot hold liquid.",
+        "All materials have identical properties.",
+        "Paper-like materials are unsuitable for cooking vessels."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कागज़ जैसे पदार्थ खाना पकाने के बर्तनों के लिए अनुपयुक्त हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Paper-like materials are unsuitable for cooking vessels. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q138",
+    "topic": "properties",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Cooking vessel' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about खाना पकाने का बर्तन?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "कागज़ जैसे पदार्थ खाना पकाने के बर्तनों के लिए अनुपयुक्त हैं।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।"
+      ],
+      "en": [
+        "Material choice never depends on the object's purpose.",
+        "All materials have identical properties.",
+        "Paper-like materials are unsuitable for cooking vessels.",
+        "A tumbler should be made from any material, even if it cannot hold liquid."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कागज़ जैसे पदार्थ खाना पकाने के बर्तनों के लिए अनुपयुक्त हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Paper-like materials are unsuitable for cooking vessels. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q139",
+    "topic": "properties",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Cooking vessel।",
+      "en": "Choose the correct option for the following concept: खाना पकाने का बर्तन."
+    },
+    "options": {
+      "hi": [
+        "सभी पदार्थों के गुण बिल्कुल समान होते हैं।",
+        "कागज़ जैसे पदार्थ खाना पकाने के बर्तनों के लिए अनुपयुक्त हैं।",
+        "पदार्थ का चुनाव वस्तु के उद्देश्य पर कभी निर्भर नहीं करता।",
+        "गिलास किसी भी पदार्थ से बनाया जा सकता है, भले ही वह द्रव न रोक सके।"
+      ],
+      "en": [
+        "All materials have identical properties.",
+        "Paper-like materials are unsuitable for cooking vessels.",
+        "Material choice never depends on the object's purpose.",
+        "A tumbler should be made from any material, even if it cannot hold liquid."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कागज़ जैसे पदार्थ खाना पकाने के बर्तनों के लिए अनुपयुक्त हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Paper-like materials are unsuitable for cooking vessels. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q140",
+    "topic": "appearance",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Appearance' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about दिखावट?"
+    },
+    "options": {
+      "hi": [
+        "अलग-अलग पदार्थ एक-दूसरे से अलग दिखाई दे सकते हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Different materials may look different from one another.",
+        "Only soft materials can have lustre.",
+        "Lustre is the same as transparency.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलग-अलग पदार्थ एक-दूसरे से अलग दिखाई दे सकते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Different materials may look different from one another. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q141",
+    "topic": "appearance",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Appearance' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about दिखावट?"
+    },
+    "options": {
+      "hi": [
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "अलग-अलग पदार्थ एक-दूसरे से अलग दिखाई दे सकते हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Lustre is the same as transparency.",
+        "Only soft materials can have lustre.",
+        "Different materials may look different from one another.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "अलग-अलग पदार्थ एक-दूसरे से अलग दिखाई दे सकते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Different materials may look different from one another. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q142",
+    "topic": "appearance",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Appearance।",
+      "en": "Choose the correct option for the following concept: दिखावट."
+    },
+    "options": {
+      "hi": [
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "अलग-अलग पदार्थ एक-दूसरे से अलग दिखाई दे सकते हैं।"
+      ],
+      "en": [
+        "Lustre is the same as transparency.",
+        "Lustre means the ability to dissolve in water.",
+        "Only soft materials can have lustre.",
+        "Different materials may look different from one another."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "अलग-अलग पदार्थ एक-दूसरे से अलग दिखाई दे सकते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Different materials may look different from one another. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q143",
+    "topic": "appearance",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Lustre' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about लस्टर?"
+    },
+    "options": {
+      "hi": [
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "कुछ पदार्थों पर दिखाई देने वाली चमक को लस्टर कहते हैं।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।"
+      ],
+      "en": [
+        "Lustre means the ability to dissolve in water.",
+        "The shiny appearance seen on some materials is called lustre.",
+        "Lustre is the same as transparency.",
+        "Only soft materials can have lustre."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कुछ पदार्थों पर दिखाई देने वाली चमक को लस्टर कहते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "The shiny appearance seen on some materials is called lustre. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q144",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Lustre' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about लस्टर?"
+    },
+    "options": {
+      "hi": [
+        "कुछ पदार्थों पर दिखाई देने वाली चमक को लस्टर कहते हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।"
+      ],
+      "en": [
+        "The shiny appearance seen on some materials is called lustre.",
+        "Lustre means the ability to dissolve in water.",
+        "Only soft materials can have lustre.",
+        "Lustre is the same as transparency."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कुछ पदार्थों पर दिखाई देने वाली चमक को लस्टर कहते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "The shiny appearance seen on some materials is called lustre. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q145",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Lustre।",
+      "en": "Choose the correct option for the following concept: लस्टर."
+    },
+    "options": {
+      "hi": [
+        "कुछ पदार्थों पर दिखाई देने वाली चमक को लस्टर कहते हैं।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।"
+      ],
+      "en": [
+        "The shiny appearance seen on some materials is called lustre.",
+        "Lustre is the same as transparency.",
+        "Lustre means the ability to dissolve in water.",
+        "Only soft materials can have lustre."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कुछ पदार्थों पर दिखाई देने वाली चमक को लस्टर कहते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "The shiny appearance seen on some materials is called lustre. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q146",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Metals with lustre' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about लस्टर वाले धातु?"
+    },
+    "options": {
+      "hi": [
+        "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Iron, copper, aluminium and gold are examples of metals that show lustre.",
+        "Only soft materials can have lustre.",
+        "Lustre is the same as transparency.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Iron, copper, aluminium and gold are examples of metals that show lustre. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q147",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Metals with lustre' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about लस्टर वाले धातु?"
+    },
+    "options": {
+      "hi": [
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं।"
+      ],
+      "en": [
+        "Lustre is the same as transparency.",
+        "Lustre means the ability to dissolve in water.",
+        "Only soft materials can have lustre.",
+        "Iron, copper, aluminium and gold are examples of metals that show lustre."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Iron, copper, aluminium and gold are examples of metals that show lustre. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q148",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Metals with lustre।",
+      "en": "Choose the correct option for the following concept: लस्टर वाले धातु."
+    },
+    "options": {
+      "hi": [
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Only soft materials can have lustre.",
+        "Lustre is the same as transparency.",
+        "Iron, copper, aluminium and gold are examples of metals that show lustre.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Iron, copper, aluminium and gold are examples of metals that show lustre. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q149",
+    "topic": "appearance",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Freshly cut metal' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about ताज़ा कटी धातु?"
+    },
+    "options": {
+      "hi": [
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "धातु की ताज़ा कटी सतह पर लस्टर स्पष्ट दिखाई दे सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।"
+      ],
+      "en": [
+        "Lustre means the ability to dissolve in water.",
+        "Only soft materials can have lustre.",
+        "A freshly cut metal surface may show lustre clearly.",
+        "Lustre is the same as transparency."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "धातु की ताज़ा कटी सतह पर लस्टर स्पष्ट दिखाई दे सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A freshly cut metal surface may show lustre clearly. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q150",
+    "topic": "appearance",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Freshly cut metal' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about ताज़ा कटी धातु?"
+    },
+    "options": {
+      "hi": [
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "धातु की ताज़ा कटी सतह पर लस्टर स्पष्ट दिखाई दे सकता है।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Lustre is the same as transparency.",
+        "A freshly cut metal surface may show lustre clearly.",
+        "Only soft materials can have lustre.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "धातु की ताज़ा कटी सतह पर लस्टर स्पष्ट दिखाई दे सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A freshly cut metal surface may show lustre clearly. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q151",
+    "topic": "appearance",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Freshly cut metal।",
+      "en": "Choose the correct option for the following concept: ताज़ा कटी धातु."
+    },
+    "options": {
+      "hi": [
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "धातु की ताज़ा कटी सतह पर लस्टर स्पष्ट दिखाई दे सकता है।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।"
+      ],
+      "en": [
+        "Only soft materials can have lustre.",
+        "A freshly cut metal surface may show lustre clearly.",
+        "Lustre means the ability to dissolve in water.",
+        "Lustre is the same as transparency."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "धातु की ताज़ा कटी सतह पर लस्टर स्पष्ट दिखाई दे सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A freshly cut metal surface may show lustre clearly. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q152",
+    "topic": "appearance",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Air and moisture' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about हवा और नमी का प्रभाव?"
+    },
+    "options": {
+      "hi": [
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "हवा और नमी के कारण कुछ धातुएँ चमक खोकर फीकी दिखाई दे सकती हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Lustre is the same as transparency.",
+        "Air and moisture can make some metals lose their shine and appear dull.",
+        "Only soft materials can have lustre.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "हवा और नमी के कारण कुछ धातुएँ चमक खोकर फीकी दिखाई दे सकती हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Air and moisture can make some metals lose their shine and appear dull. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q153",
+    "topic": "appearance",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Air and moisture' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about हवा और नमी का प्रभाव?"
+    },
+    "options": {
+      "hi": [
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "हवा और नमी के कारण कुछ धातुएँ चमक खोकर फीकी दिखाई दे सकती हैं।",
+        "लस्टर और पारदर्शिता एक ही हैं।"
+      ],
+      "en": [
+        "Only soft materials can have lustre.",
+        "Lustre means the ability to dissolve in water.",
+        "Air and moisture can make some metals lose their shine and appear dull.",
+        "Lustre is the same as transparency."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "हवा और नमी के कारण कुछ धातुएँ चमक खोकर फीकी दिखाई दे सकती हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Air and moisture can make some metals lose their shine and appear dull. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q154",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Air and moisture।",
+      "en": "Choose the correct option for the following concept: हवा और नमी का प्रभाव."
+    },
+    "options": {
+      "hi": [
+        "हवा और नमी के कारण कुछ धातुएँ चमक खोकर फीकी दिखाई दे सकती हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।"
+      ],
+      "en": [
+        "Air and moisture can make some metals lose their shine and appear dull.",
+        "Only soft materials can have lustre.",
+        "Lustre is the same as transparency.",
+        "Lustre means the ability to dissolve in water."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "हवा और नमी के कारण कुछ धातुएँ चमक खोकर फीकी दिखाई दे सकती हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Air and moisture can make some metals lose their shine and appear dull. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q155",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Lustre test' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about लस्टर का अवलोकन?"
+    },
+    "options": {
+      "hi": [
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "सैंडपेपर से सतह रगड़ने पर पदार्थ की चमक/लस्टर का अवलोकन किया जा सकता है।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।"
+      ],
+      "en": [
+        "Only soft materials can have lustre.",
+        "Rubbing a material with sandpaper can help observe lustre on its surface.",
+        "Lustre means the ability to dissolve in water.",
+        "Lustre is the same as transparency."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सैंडपेपर से सतह रगड़ने पर पदार्थ की चमक/लस्टर का अवलोकन किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Rubbing a material with sandpaper can help observe lustre on its surface. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q156",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Lustre test' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about लस्टर का अवलोकन?"
+    },
+    "options": {
+      "hi": [
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "सैंडपेपर से सतह रगड़ने पर पदार्थ की चमक/लस्टर का अवलोकन किया जा सकता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।"
+      ],
+      "en": [
+        "Only soft materials can have lustre.",
+        "Lustre means the ability to dissolve in water.",
+        "Rubbing a material with sandpaper can help observe lustre on its surface.",
+        "Lustre is the same as transparency."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सैंडपेपर से सतह रगड़ने पर पदार्थ की चमक/लस्टर का अवलोकन किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Rubbing a material with sandpaper can help observe lustre on its surface. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q157",
+    "topic": "appearance",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Lustre test।",
+      "en": "Choose the correct option for the following concept: लस्टर का अवलोकन."
+    },
+    "options": {
+      "hi": [
+        "लस्टर का अर्थ जल में घुलने की क्षमता है।",
+        "लस्टर और पारदर्शिता एक ही हैं।",
+        "केवल मुलायम पदार्थों में लस्टर हो सकता है।",
+        "सैंडपेपर से सतह रगड़ने पर पदार्थ की चमक/लस्टर का अवलोकन किया जा सकता है।"
+      ],
+      "en": [
+        "Lustre means the ability to dissolve in water.",
+        "Lustre is the same as transparency.",
+        "Only soft materials can have lustre.",
+        "Rubbing a material with sandpaper can help observe lustre on its surface."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सैंडपेपर से सतह रगड़ने पर पदार्थ की चमक/लस्टर का अवलोकन किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Rubbing a material with sandpaper can help observe lustre on its surface. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q158",
+    "topic": "hardness",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Hard materials' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about कठोर पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "जिन पदार्थों को दबाना या खरोंचना कठिन होता है, वे कठोर कहलाते हैं।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।"
+      ],
+      "en": [
+        "Materials that are difficult to compress or scratch are called hard.",
+        "A hard material is always transparent.",
+        "Hardness means how quickly a substance dissolves.",
+        "Soft materials cannot be scratched."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जिन पदार्थों को दबाना या खरोंचना कठिन होता है, वे कठोर कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials that are difficult to compress or scratch are called hard. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q159",
+    "topic": "hardness",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Hard materials' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about कठोर पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "जिन पदार्थों को दबाना या खरोंचना कठिन होता है, वे कठोर कहलाते हैं।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।"
+      ],
+      "en": [
+        "Materials that are difficult to compress or scratch are called hard.",
+        "A hard material is always transparent.",
+        "Soft materials cannot be scratched.",
+        "Hardness means how quickly a substance dissolves."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जिन पदार्थों को दबाना या खरोंचना कठिन होता है, वे कठोर कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials that are difficult to compress or scratch are called hard. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q160",
+    "topic": "hardness",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Hard materials।",
+      "en": "Choose the correct option for the following concept: कठोर पदार्थ."
+    },
+    "options": {
+      "hi": [
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "जिन पदार्थों को दबाना या खरोंचना कठिन होता है, वे कठोर कहलाते हैं।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।"
+      ],
+      "en": [
+        "Hardness means how quickly a substance dissolves.",
+        "A hard material is always transparent.",
+        "Materials that are difficult to compress or scratch are called hard.",
+        "Soft materials cannot be scratched."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जिन पदार्थों को दबाना या खरोंचना कठिन होता है, वे कठोर कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials that are difficult to compress or scratch are called hard. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q161",
+    "topic": "hardness",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Soft materials' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about मुलायम पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "जिन पदार्थों को आसानी से दबाया या खरोंचा जा सकता है, वे मुलायम कहलाते हैं।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।"
+      ],
+      "en": [
+        "Soft materials cannot be scratched.",
+        "Hardness means how quickly a substance dissolves.",
+        "Materials that can be compressed or scratched easily are called soft.",
+        "A hard material is always transparent."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जिन पदार्थों को आसानी से दबाया या खरोंचा जा सकता है, वे मुलायम कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials that can be compressed or scratched easily are called soft. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q162",
+    "topic": "hardness",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Soft materials' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about मुलायम पदार्थ?"
+    },
+    "options": {
+      "hi": [
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "जिन पदार्थों को आसानी से दबाया या खरोंचा जा सकता है, वे मुलायम कहलाते हैं।"
+      ],
+      "en": [
+        "A hard material is always transparent.",
+        "Hardness means how quickly a substance dissolves.",
+        "Soft materials cannot be scratched.",
+        "Materials that can be compressed or scratched easily are called soft."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जिन पदार्थों को आसानी से दबाया या खरोंचा जा सकता है, वे मुलायम कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials that can be compressed or scratched easily are called soft. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q163",
+    "topic": "hardness",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Soft materials।",
+      "en": "Choose the correct option for the following concept: मुलायम पदार्थ."
+    },
+    "options": {
+      "hi": [
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "जिन पदार्थों को आसानी से दबाया या खरोंचा जा सकता है, वे मुलायम कहलाते हैं।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।"
+      ],
+      "en": [
+        "Soft materials cannot be scratched.",
+        "Materials that can be compressed or scratched easily are called soft.",
+        "A hard material is always transparent.",
+        "Hardness means how quickly a substance dissolves."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जिन पदार्थों को आसानी से दबाया या खरोंचा जा सकता है, वे मुलायम कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials that can be compressed or scratched easily are called soft. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q164",
+    "topic": "hardness",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Hardness comparison' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about कठोरता की तुलना?"
+    },
+    "options": {
+      "hi": [
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "खरोंचने में आसानी या कठिनाई पदार्थों की कठोरता की तुलना करने में मदद करती है।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।"
+      ],
+      "en": [
+        "A hard material is always transparent.",
+        "The ease or difficulty of scratching helps compare hardness of materials.",
+        "Hardness means how quickly a substance dissolves.",
+        "Soft materials cannot be scratched."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "खरोंचने में आसानी या कठिनाई पदार्थों की कठोरता की तुलना करने में मदद करती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "The ease or difficulty of scratching helps compare hardness of materials. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q165",
+    "topic": "hardness",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Hardness comparison' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about कठोरता की तुलना?"
+    },
+    "options": {
+      "hi": [
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "खरोंचने में आसानी या कठिनाई पदार्थों की कठोरता की तुलना करने में मदद करती है।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।"
+      ],
+      "en": [
+        "Hardness means how quickly a substance dissolves.",
+        "The ease or difficulty of scratching helps compare hardness of materials.",
+        "A hard material is always transparent.",
+        "Soft materials cannot be scratched."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "खरोंचने में आसानी या कठिनाई पदार्थों की कठोरता की तुलना करने में मदद करती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "The ease or difficulty of scratching helps compare hardness of materials. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q166",
+    "topic": "hardness",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Hardness comparison।",
+      "en": "Choose the correct option for the following concept: कठोरता की तुलना."
+    },
+    "options": {
+      "hi": [
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "खरोंचने में आसानी या कठिनाई पदार्थों की कठोरता की तुलना करने में मदद करती है।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।"
+      ],
+      "en": [
+        "Hardness means how quickly a substance dissolves.",
+        "The ease or difficulty of scratching helps compare hardness of materials.",
+        "A hard material is always transparent.",
+        "Soft materials cannot be scratched."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "खरोंचने में आसानी या कठिनाई पदार्थों की कठोरता की तुलना करने में मदद करती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "The ease or difficulty of scratching helps compare hardness of materials. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q167",
+    "topic": "hardness",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Cotton' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about कपास?"
+    },
+    "options": {
+      "hi": [
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कपास सामान्यतः मुलायम पदार्थ है।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।"
+      ],
+      "en": [
+        "Hardness means how quickly a substance dissolves.",
+        "Soft materials cannot be scratched.",
+        "Cotton is generally a soft material.",
+        "A hard material is always transparent."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कपास सामान्यतः मुलायम पदार्थ है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cotton is generally a soft material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q168",
+    "topic": "hardness",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Cotton' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about कपास?"
+    },
+    "options": {
+      "hi": [
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "कपास सामान्यतः मुलायम पदार्थ है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।"
+      ],
+      "en": [
+        "Hardness means how quickly a substance dissolves.",
+        "Cotton is generally a soft material.",
+        "Soft materials cannot be scratched.",
+        "A hard material is always transparent."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कपास सामान्यतः मुलायम पदार्थ है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cotton is generally a soft material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q169",
+    "topic": "hardness",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Cotton।",
+      "en": "Choose the correct option for the following concept: कपास."
+    },
+    "options": {
+      "hi": [
+        "कपास सामान्यतः मुलायम पदार्थ है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।"
+      ],
+      "en": [
+        "Cotton is generally a soft material.",
+        "Soft materials cannot be scratched.",
+        "Hardness means how quickly a substance dissolves.",
+        "A hard material is always transparent."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कपास सामान्यतः मुलायम पदार्थ है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cotton is generally a soft material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q170",
+    "topic": "hardness",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Iron' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about लोहा?"
+    },
+    "options": {
+      "hi": [
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "लोहा कठोर पदार्थ का उदाहरण है।"
+      ],
+      "en": [
+        "A hard material is always transparent.",
+        "Soft materials cannot be scratched.",
+        "Hardness means how quickly a substance dissolves.",
+        "Iron is an example of a hard material."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "लोहा कठोर पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Iron is an example of a hard material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q171",
+    "topic": "hardness",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Iron' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about लोहा?"
+    },
+    "options": {
+      "hi": [
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "लोहा कठोर पदार्थ का उदाहरण है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।"
+      ],
+      "en": [
+        "A hard material is always transparent.",
+        "Hardness means how quickly a substance dissolves.",
+        "Iron is an example of a hard material.",
+        "Soft materials cannot be scratched."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "लोहा कठोर पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Iron is an example of a hard material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q172",
+    "topic": "hardness",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Iron।",
+      "en": "Choose the correct option for the following concept: लोहा."
+    },
+    "options": {
+      "hi": [
+        "कठोर पदार्थ हमेशा पारदर्शी होता है।",
+        "मुलायम पदार्थों को खरोंचा नहीं जा सकता।",
+        "कठोरता का अर्थ है पदार्थ कितनी जल्दी घुलता है।",
+        "लोहा कठोर पदार्थ का उदाहरण है।"
+      ],
+      "en": [
+        "A hard material is always transparent.",
+        "Soft materials cannot be scratched.",
+        "Hardness means how quickly a substance dissolves.",
+        "Iron is an example of a hard material."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "लोहा कठोर पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Iron is an example of a hard material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q173",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Soluble' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about घुलनशील?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "जो पदार्थ जल में घुल जाता है, वह जल में घुलनशील कहलाता है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "A substance that dissolves in water is called soluble in water.",
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जो पदार्थ जल में घुल जाता है, वह जल में घुलनशील कहलाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A substance that dissolves in water is called soluble in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q174",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Soluble' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about घुलनशील?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "जो पदार्थ जल में घुल जाता है, वह जल में घुलनशील कहलाता है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring.",
+        "A substance that dissolves in water is called soluble in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जो पदार्थ जल में घुल जाता है, वह जल में घुलनशील कहलाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A substance that dissolves in water is called soluble in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q175",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Soluble।",
+      "en": "Choose the correct option for the following concept: घुलनशील."
+    },
+    "options": {
+      "hi": [
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "जो पदार्थ जल में घुल जाता है, वह जल में घुलनशील कहलाता है।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।"
+      ],
+      "en": [
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "A substance that dissolves in water is called soluble in water.",
+        "Solubility means how shiny a material is."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जो पदार्थ जल में घुल जाता है, वह जल में घुलनशील कहलाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A substance that dissolves in water is called soluble in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q176",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Insoluble' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about अघुलनशील?"
+    },
+    "options": {
+      "hi": [
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "जो पदार्थ जल में नहीं घुलता, वह जल में अघुलनशील कहलाता है।"
+      ],
+      "en": [
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "A substance that does not dissolve in water is called insoluble in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जो पदार्थ जल में नहीं घुलता, वह जल में अघुलनशील कहलाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A substance that does not dissolve in water is called insoluble in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q177",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Insoluble' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about अघुलनशील?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "जो पदार्थ जल में नहीं घुलता, वह जल में अघुलनशील कहलाता है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "A soluble substance never dissolves in water.",
+        "A substance that does not dissolve in water is called insoluble in water.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जो पदार्थ जल में नहीं घुलता, वह जल में अघुलनशील कहलाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A substance that does not dissolve in water is called insoluble in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q178",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Insoluble।",
+      "en": "Choose the correct option for the following concept: अघुलनशील."
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "जो पदार्थ जल में नहीं घुलता, वह जल में अघुलनशील कहलाता है।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "A substance that does not dissolve in water is called insoluble in water.",
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जो पदार्थ जल में नहीं घुलता, वह जल में अघुलनशील कहलाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A substance that does not dissolve in water is called insoluble in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q179",
+    "topic": "solubility",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Salt' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about नमक?"
+    },
+    "options": {
+      "hi": [
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "नमक जल में पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "Salt dissolves completely in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "नमक जल में पूरी तरह घुल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Salt dissolves completely in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q180",
+    "topic": "solubility",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Salt' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about नमक?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "नमक जल में पूरी तरह घुल जाता है।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "Salt dissolves completely in water.",
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "नमक जल में पूरी तरह घुल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Salt dissolves completely in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q181",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Salt।",
+      "en": "Choose the correct option for the following concept: नमक."
+    },
+    "options": {
+      "hi": [
+        "नमक जल में पूरी तरह घुल जाता है।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "Salt dissolves completely in water.",
+        "Solubility means how shiny a material is.",
+        "A soluble substance never dissolves in water.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "नमक जल में पूरी तरह घुल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Salt dissolves completely in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q182",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Sugar' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about चीनी?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "चीनी जल में घुल जाती है।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "A soluble substance never dissolves in water.",
+        "Every substance dissolves completely after stirring.",
+        "Sugar dissolves in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "चीनी जल में घुल जाती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sugar dissolves in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q183",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Sugar' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about चीनी?"
+    },
+    "options": {
+      "hi": [
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "चीनी जल में घुल जाती है।"
+      ],
+      "en": [
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "Sugar dissolves in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "चीनी जल में घुल जाती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sugar dissolves in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q184",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Sugar।",
+      "en": "Choose the correct option for the following concept: चीनी."
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "चीनी जल में घुल जाती है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "Every substance dissolves completely after stirring.",
+        "Solubility means how shiny a material is.",
+        "Sugar dissolves in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "चीनी जल में घुल जाती है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sugar dissolves in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q185",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Sand' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about रेत?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "रेत जल में नहीं घुलती।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "Sand does not dissolve in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "रेत जल में नहीं घुलती। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sand does not dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q186",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Sand' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about रेत?"
+    },
+    "options": {
+      "hi": [
+        "रेत जल में नहीं घुलती।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।"
+      ],
+      "en": [
+        "Sand does not dissolve in water.",
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "रेत जल में नहीं घुलती। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sand does not dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q187",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Sand।",
+      "en": "Choose the correct option for the following concept: रेत."
+    },
+    "options": {
+      "hi": [
+        "रेत जल में नहीं घुलती।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "Sand does not dissolve in water.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "रेत जल में नहीं घुलती। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sand does not dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q188",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Chalk powder' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about चॉक पाउडर?"
+    },
+    "options": {
+      "hi": [
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "चॉक पाउडर जल में पूरी तरह नहीं घुलता।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।"
+      ],
+      "en": [
+        "Every substance dissolves completely after stirring.",
+        "Chalk powder does not completely dissolve in water.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "चॉक पाउडर जल में पूरी तरह नहीं घुलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Chalk powder does not completely dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q189",
+    "topic": "solubility",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Chalk powder' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about चॉक पाउडर?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "चॉक पाउडर जल में पूरी तरह नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "Chalk powder does not completely dissolve in water.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "चॉक पाउडर जल में पूरी तरह नहीं घुलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Chalk powder does not completely dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q190",
+    "topic": "solubility",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Chalk powder।",
+      "en": "Choose the correct option for the following concept: चॉक पाउडर."
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "चॉक पाउडर जल में पूरी तरह नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "Chalk powder does not completely dissolve in water.",
+        "Every substance dissolves completely after stirring.",
+        "Solubility means how shiny a material is."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "चॉक पाउडर जल में पूरी तरह नहीं घुलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Chalk powder does not completely dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q191",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Sawdust' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about लकड़ी का बुरादा?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "लकड़ी का बुरादा जल में नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "Sawdust does not dissolve in water.",
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "लकड़ी का बुरादा जल में नहीं घुलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sawdust does not dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q192",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Sawdust' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about लकड़ी का बुरादा?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "लकड़ी का बुरादा जल में नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।"
+      ],
+      "en": [
+        "A soluble substance never dissolves in water.",
+        "Every substance dissolves completely after stirring.",
+        "Sawdust does not dissolve in water.",
+        "Solubility means how shiny a material is."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "लकड़ी का बुरादा जल में नहीं घुलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sawdust does not dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q193",
+    "topic": "solubility",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Sawdust।",
+      "en": "Choose the correct option for the following concept: लकड़ी का बुरादा."
+    },
+    "options": {
+      "hi": [
+        "लकड़ी का बुरादा जल में नहीं घुलता।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "Sawdust does not dissolve in water.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लकड़ी का बुरादा जल में नहीं घुलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Sawdust does not dissolve in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q194",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Stirring test' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about हिलाने का परीक्षण?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "पदार्थ को जल में हिलाने से यह देखा जा सकता है कि वह घुलता है या नहीं।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "Every substance dissolves completely after stirring.",
+        "Stirring a substance in water helps observe whether it dissolves.",
+        "A soluble substance never dissolves in water."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पदार्थ को जल में हिलाने से यह देखा जा सकता है कि वह घुलता है या नहीं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Stirring a substance in water helps observe whether it dissolves. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q195",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Stirring test' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about हिलाने का परीक्षण?"
+    },
+    "options": {
+      "hi": [
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।",
+        "पदार्थ को जल में हिलाने से यह देखा जा सकता है कि वह घुलता है या नहीं।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।"
+      ],
+      "en": [
+        "Solubility means how shiny a material is.",
+        "Stirring a substance in water helps observe whether it dissolves.",
+        "A soluble substance never dissolves in water.",
+        "Every substance dissolves completely after stirring."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पदार्थ को जल में हिलाने से यह देखा जा सकता है कि वह घुलता है या नहीं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Stirring a substance in water helps observe whether it dissolves. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q196",
+    "topic": "solubility",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Stirring test।",
+      "en": "Choose the correct option for the following concept: हिलाने का परीक्षण."
+    },
+    "options": {
+      "hi": [
+        "पदार्थ को जल में हिलाने से यह देखा जा सकता है कि वह घुलता है या नहीं।",
+        "हर पदार्थ हिलाने के बाद पूरी तरह घुल जाता है।",
+        "घुलनशील पदार्थ जल में कभी नहीं घुलता।",
+        "घुलनशीलता का अर्थ है पदार्थ कितना चमकीला है।"
+      ],
+      "en": [
+        "Stirring a substance in water helps observe whether it dissolves.",
+        "Every substance dissolves completely after stirring.",
+        "A soluble substance never dissolves in water.",
+        "Solubility means how shiny a material is."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पदार्थ को जल में हिलाने से यह देखा जा सकता है कि वह घुलता है या नहीं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Stirring a substance in water helps observe whether it dissolves. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q197",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Vinegar and water' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about सिरका और जल?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "सिरका जल के साथ मिल जाता है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea.",
+        "Vinegar mixes with water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सिरका जल के साथ मिल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Vinegar mixes with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q198",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Vinegar and water' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about सिरका और जल?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "सिरका जल के साथ मिल जाता है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea.",
+        "Vinegar mixes with water.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सिरका जल के साथ मिल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Vinegar mixes with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q199",
+    "topic": "liquids",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Vinegar and water।",
+      "en": "Choose the correct option for the following concept: सिरका और जल."
+    },
+    "options": {
+      "hi": [
+        "सिरका जल के साथ मिल जाता है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "Vinegar mixes with water.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सिरका जल के साथ मिल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Vinegar mixes with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q200",
+    "topic": "liquids",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Lemon juice and water' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about नींबू का रस और जल?"
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "नींबू का रस जल के साथ मिल जाता है।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials.",
+        "Lemon juice mixes with water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "नींबू का रस जल के साथ मिल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Lemon juice mixes with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q201",
+    "topic": "liquids",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Lemon juice and water' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about नींबू का रस और जल?"
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "नींबू का रस जल के साथ मिल जाता है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "Lemon juice mixes with water.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "नींबू का रस जल के साथ मिल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Lemon juice mixes with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q202",
+    "topic": "liquids",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Lemon juice and water।",
+      "en": "Choose the correct option for the following concept: नींबू का रस और जल."
+    },
+    "options": {
+      "hi": [
+        "नींबू का रस जल के साथ मिल जाता है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "Lemon juice mixes with water.",
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "नींबू का रस जल के साथ मिल जाता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Lemon juice mixes with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q203",
+    "topic": "liquids",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Oil and water' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about तेल और जल?"
+    },
+    "options": {
+      "hi": [
+        "सरसों या नारियल का तेल जल के साथ नहीं मिलता।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "Mustard or coconut oil does not mix with water.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सरसों या नारियल का तेल जल के साथ नहीं मिलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Mustard or coconut oil does not mix with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q204",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Oil and water' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about तेल और जल?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "सरसों या नारियल का तेल जल के साथ नहीं मिलता।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "Mustard or coconut oil does not mix with water.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सरसों या नारियल का तेल जल के साथ नहीं मिलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Mustard or coconut oil does not mix with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q205",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Oil and water।",
+      "en": "Choose the correct option for the following concept: तेल और जल."
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "सरसों या नारियल का तेल जल के साथ नहीं मिलता।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "Mustard or coconut oil does not mix with water.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सरसों या नारियल का तेल जल के साथ नहीं मिलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Mustard or coconut oil does not mix with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q206",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Kerosene and water' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about केरोसिन और जल?"
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "केरोसिन जल के साथ नहीं मिलता।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials.",
+        "Kerosene does not mix with water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "केरोसिन जल के साथ नहीं मिलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Kerosene does not mix with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q207",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Kerosene and water' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about केरोसिन और जल?"
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "केरोसिन जल के साथ नहीं मिलता।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "Kerosene does not mix with water.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "केरोसिन जल के साथ नहीं मिलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Kerosene does not mix with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q208",
+    "topic": "liquids",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Kerosene and water।",
+      "en": "Choose the correct option for the following concept: केरोसिन और जल."
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "केरोसिन जल के साथ नहीं मिलता।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "Kerosene does not mix with water.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "केरोसिन जल के साथ नहीं मिलता। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Kerosene does not mix with water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q209",
+    "topic": "float-sink",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Floating' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about तैरना?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "कुछ पदार्थ जल पर तैरते हैं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea.",
+        "Some materials float on water.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कुछ पदार्थ जल पर तैरते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Some materials float on water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q210",
+    "topic": "float-sink",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Floating' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about तैरना?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "कुछ पदार्थ जल पर तैरते हैं।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "Some materials float on water.",
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कुछ पदार्थ जल पर तैरते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Some materials float on water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q211",
+    "topic": "float-sink",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Floating।",
+      "en": "Choose the correct option for the following concept: तैरना."
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "कुछ पदार्थ जल पर तैरते हैं।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials.",
+        "Some materials float on water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कुछ पदार्थ जल पर तैरते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Some materials float on water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q212",
+    "topic": "float-sink",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Sinking' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about डूबना?"
+    },
+    "options": {
+      "hi": [
+        "कुछ पदार्थ जल में डूब जाते हैं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "Some materials sink in water.",
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कुछ पदार्थ जल में डूब जाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Some materials sink in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q213",
+    "topic": "float-sink",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Sinking' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about डूबना?"
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "कुछ पदार्थ जल में डूब जाते हैं।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials.",
+        "Some materials sink in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कुछ पदार्थ जल में डूब जाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Some materials sink in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q214",
+    "topic": "float-sink",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Sinking।",
+      "en": "Choose the correct option for the following concept: डूबना."
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "कुछ पदार्थ जल में डूब जाते हैं।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials.",
+        "Some materials sink in water."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कुछ पदार्थ जल में डूब जाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Some materials sink in water. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q215",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Transparent' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about पारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials.",
+        "Materials through which objects can be seen clearly are called transparent.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials through which objects can be seen clearly are called transparent. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q216",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Transparent' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about पारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "Materials through which objects can be seen clearly are called transparent.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials through which objects can be seen clearly are called transparent. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q217",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Transparent।",
+      "en": "Choose the correct option for the following concept: पारदर्शी."
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "Materials through which objects can be seen clearly are called transparent."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जिन पदार्थों के आर-पार वस्तुएँ स्पष्ट दिखाई देती हैं, वे पारदर्शी कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials through which objects can be seen clearly are called transparent. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q218",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Glass transparent' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about काँच पारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "काँच पारदर्शी पदार्थ का उदाहरण है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "Glass is an example of a transparent material.",
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "काँच पारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass is an example of a transparent material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q219",
+    "topic": "transparency",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Glass transparent' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about काँच पारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "काँच पारदर्शी पदार्थ का उदाहरण है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "Glass is an example of a transparent material.",
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "काँच पारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass is an example of a transparent material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q220",
+    "topic": "transparency",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Glass transparent।",
+      "en": "Choose the correct option for the following concept: काँच पारदर्शी."
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "काँच पारदर्शी पदार्थ का उदाहरण है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea.",
+        "Glass is an example of a transparent material."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "काँच पारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Glass is an example of a transparent material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q221",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Water and air' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about जल और वायु की पारदर्शिता?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "अध्याय में जल और वायु को पारदर्शी पदार्थों के उदाहरण के रूप में दिया गया है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea.",
+        "Water and air are examples of transparent materials in the chapter.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "अध्याय में जल और वायु को पारदर्शी पदार्थों के उदाहरण के रूप में दिया गया है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Water and air are examples of transparent materials in the chapter. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q222",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Water and air' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about जल और वायु की पारदर्शिता?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "अध्याय में जल और वायु को पारदर्शी पदार्थों के उदाहरण के रूप में दिया गया है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "Water and air are examples of transparent materials in the chapter."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "अध्याय में जल और वायु को पारदर्शी पदार्थों के उदाहरण के रूप में दिया गया है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Water and air are examples of transparent materials in the chapter. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q223",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Water and air।",
+      "en": "Choose the correct option for the following concept: जल और वायु की पारदर्शिता."
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "अध्याय में जल और वायु को पारदर्शी पदार्थों के उदाहरण के रूप में दिया गया है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "Water and air are examples of transparent materials in the chapter.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "अध्याय में जल और वायु को पारदर्शी पदार्थों के उदाहरण के रूप में दिया गया है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Water and air are examples of transparent materials in the chapter. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q224",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Opaque' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about अपारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "जिन पदार्थों के आर-पार वस्तुएँ दिखाई नहीं देतीं, वे अपारदर्शी कहलाते हैं।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "Materials through which objects cannot be seen are called opaque.",
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जिन पदार्थों के आर-पार वस्तुएँ दिखाई नहीं देतीं, वे अपारदर्शी कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials through which objects cannot be seen are called opaque. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q225",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Opaque' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about अपारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "जिन पदार्थों के आर-पार वस्तुएँ दिखाई नहीं देतीं, वे अपारदर्शी कहलाते हैं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials.",
+        "Materials through which objects cannot be seen are called opaque.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जिन पदार्थों के आर-पार वस्तुएँ दिखाई नहीं देतीं, वे अपारदर्शी कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials through which objects cannot be seen are called opaque. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q226",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Opaque।",
+      "en": "Choose the correct option for the following concept: अपारदर्शी."
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "जिन पदार्थों के आर-पार वस्तुएँ दिखाई नहीं देतीं, वे अपारदर्शी कहलाते हैं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea.",
+        "Materials through which objects cannot be seen are called opaque.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जिन पदार्थों के आर-पार वस्तुएँ दिखाई नहीं देतीं, वे अपारदर्शी कहलाते हैं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials through which objects cannot be seen are called opaque. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q227",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Wood opaque' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about लकड़ी अपारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "लकड़ी अपारदर्शी पदार्थ का उदाहरण है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "Wood is an example of an opaque material.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "लकड़ी अपारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Wood is an example of an opaque material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q228",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Wood opaque' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about लकड़ी अपारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "लकड़ी अपारदर्शी पदार्थ का उदाहरण है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "Wood is an example of an opaque material.",
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लकड़ी अपारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Wood is an example of an opaque material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q229",
+    "topic": "transparency",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Wood opaque।",
+      "en": "Choose the correct option for the following concept: लकड़ी अपारदर्शी."
+    },
+    "options": {
+      "hi": [
+        "लकड़ी अपारदर्शी पदार्थ का उदाहरण है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।"
+      ],
+      "en": [
+        "Wood is an example of an opaque material.",
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लकड़ी अपारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Wood is an example of an opaque material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q230",
+    "topic": "transparency",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Cardboard opaque' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about कार्डबोर्ड अपारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "कार्डबोर्ड अपारदर्शी पदार्थ का उदाहरण है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "Cardboard is an example of an opaque material.",
+        "It is not related to any property of materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कार्डबोर्ड अपारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cardboard is an example of an opaque material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q231",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Cardboard opaque' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about कार्डबोर्ड अपारदर्शी?"
+    },
+    "options": {
+      "hi": [
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "कार्डबोर्ड अपारदर्शी पदार्थ का उदाहरण है।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It applies only to food and not to other materials.",
+        "Cardboard is an example of an opaque material.",
+        "It is exactly the opposite of the stated idea.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कार्डबोर्ड अपारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cardboard is an example of an opaque material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q232",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Cardboard opaque।",
+      "en": "Choose the correct option for the following concept: कार्डबोर्ड अपारदर्शी."
+    },
+    "options": {
+      "hi": [
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "कार्डबोर्ड अपारदर्शी पदार्थ का उदाहरण है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "It is exactly the opposite of the stated idea.",
+        "Cardboard is an example of an opaque material.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कार्डबोर्ड अपारदर्शी पदार्थ का उदाहरण है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Cardboard is an example of an opaque material. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q233",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Translucent' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about पारभासी?"
+    },
+    "options": {
+      "hi": [
+        "पारभासी पदार्थों से कुछ प्रकाश गुजरता है, लेकिन वस्तुएँ स्पष्ट दिखाई नहीं देतीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।"
+      ],
+      "en": [
+        "Translucent materials allow some light through but objects are not seen clearly.",
+        "It is exactly the opposite of the stated idea.",
+        "It applies only to food and not to other materials.",
+        "It is not related to any property of materials."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पारभासी पदार्थों से कुछ प्रकाश गुजरता है, लेकिन वस्तुएँ स्पष्ट दिखाई नहीं देतीं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Translucent materials allow some light through but objects are not seen clearly. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q234",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Translucent' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about पारभासी?"
+    },
+    "options": {
+      "hi": [
+        "पारभासी पदार्थों से कुछ प्रकाश गुजरता है, लेकिन वस्तुएँ स्पष्ट दिखाई नहीं देतीं।",
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "Translucent materials allow some light through but objects are not seen clearly.",
+        "It is not related to any property of materials.",
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पारभासी पदार्थों से कुछ प्रकाश गुजरता है, लेकिन वस्तुएँ स्पष्ट दिखाई नहीं देतीं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Translucent materials allow some light through but objects are not seen clearly. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q235",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Translucent।",
+      "en": "Choose the correct option for the following concept: पारभासी."
+    },
+    "options": {
+      "hi": [
+        "इसका पदार्थों के किसी गुण से संबंध नहीं है।",
+        "पारभासी पदार्थों से कुछ प्रकाश गुजरता है, लेकिन वस्तुएँ स्पष्ट दिखाई नहीं देतीं।",
+        "यह केवल भोजन पर लागू होता है, अन्य पदार्थों पर नहीं।",
+        "यह बताए गए विचार के ठीक विपरीत है।"
+      ],
+      "en": [
+        "It is not related to any property of materials.",
+        "Translucent materials allow some light through but objects are not seen clearly.",
+        "It applies only to food and not to other materials.",
+        "It is exactly the opposite of the stated idea."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पारभासी पदार्थों से कुछ प्रकाश गुजरता है, लेकिन वस्तुएँ स्पष्ट दिखाई नहीं देतीं। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Translucent materials allow some light through but objects are not seen clearly. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q236",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Grouping by properties' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about गुणों के आधार पर समूह?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "पदार्थों को उनके गुणों की समानता या अंतर के आधार पर समूहित किया जा सकता है।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।"
+      ],
+      "en": [
+        "Materials cannot be grouped using their properties.",
+        "Materials can be grouped on the basis of similarities or differences in their properties.",
+        "Grouping has no use in studying material properties.",
+        "Grouping makes objects harder to locate."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पदार्थों को उनके गुणों की समानता या अंतर के आधार पर समूहित किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials can be grouped on the basis of similarities or differences in their properties. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q237",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Grouping by properties' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about गुणों के आधार पर समूह?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थों को उनके गुणों की समानता या अंतर के आधार पर समूहित किया जा सकता है।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।"
+      ],
+      "en": [
+        "Materials can be grouped on the basis of similarities or differences in their properties.",
+        "Grouping makes objects harder to locate.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping has no use in studying material properties."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पदार्थों को उनके गुणों की समानता या अंतर के आधार पर समूहित किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials can be grouped on the basis of similarities or differences in their properties. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q238",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Grouping by properties।",
+      "en": "Choose the correct option for the following concept: गुणों के आधार पर समूह."
+    },
+    "options": {
+      "hi": [
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "पदार्थों को उनके गुणों की समानता या अंतर के आधार पर समूहित किया जा सकता है।"
+      ],
+      "en": [
+        "Grouping makes objects harder to locate.",
+        "Grouping has no use in studying material properties.",
+        "Materials cannot be grouped using their properties.",
+        "Materials can be grouped on the basis of similarities or differences in their properties."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पदार्थों को उनके गुणों की समानता या अंतर के आधार पर समूहित किया जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Materials can be grouped on the basis of similarities or differences in their properties. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q239",
+    "topic": "grouping",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'Convenience' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about सुविधा के लिए समूह?"
+    },
+    "options": {
+      "hi": [
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समान वस्तुओं को समूहित करने से रोजमर्रा में उन्हें आसानी से ढूँढा जा सकता है।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।"
+      ],
+      "en": [
+        "Grouping makes objects harder to locate.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping similar objects makes them easier to locate in everyday life.",
+        "Grouping has no use in studying material properties."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "समान वस्तुओं को समूहित करने से रोजमर्रा में उन्हें आसानी से ढूँढा जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Grouping similar objects makes them easier to locate in everyday life. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q240",
+    "topic": "grouping",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Convenience' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about सुविधा के लिए समूह?"
+    },
+    "options": {
+      "hi": [
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "समान वस्तुओं को समूहित करने से रोजमर्रा में उन्हें आसानी से ढूँढा जा सकता है।"
+      ],
+      "en": [
+        "Grouping has no use in studying material properties.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping makes objects harder to locate.",
+        "Grouping similar objects makes them easier to locate in everyday life."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "समान वस्तुओं को समूहित करने से रोजमर्रा में उन्हें आसानी से ढूँढा जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Grouping similar objects makes them easier to locate in everyday life. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q241",
+    "topic": "grouping",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Convenience।",
+      "en": "Choose the correct option for the following concept: सुविधा के लिए समूह."
+    },
+    "options": {
+      "hi": [
+        "समान वस्तुओं को समूहित करने से रोजमर्रा में उन्हें आसानी से ढूँढा जा सकता है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।"
+      ],
+      "en": [
+        "Grouping similar objects makes them easier to locate in everyday life.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping has no use in studying material properties.",
+        "Grouping makes objects harder to locate."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "समान वस्तुओं को समूहित करने से रोजमर्रा में उन्हें आसानी से ढूँढा जा सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Grouping similar objects makes them easier to locate in everyday life. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q242",
+    "topic": "grouping",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'Grocer' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about किराना दुकानदार?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग समूहों में रख सकता है।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।"
+      ],
+      "en": [
+        "Materials cannot be grouped using their properties.",
+        "Grouping makes objects harder to locate.",
+        "A grocer may keep biscuits, soaps, grains and pulses in separate groups.",
+        "Grouping has no use in studying material properties."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग समूहों में रख सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A grocer may keep biscuits, soaps, grains and pulses in separate groups. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q243",
+    "topic": "grouping",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Grocer' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about किराना दुकानदार?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग समूहों में रख सकता है।"
+      ],
+      "en": [
+        "Materials cannot be grouped using their properties.",
+        "Grouping has no use in studying material properties.",
+        "Grouping makes objects harder to locate.",
+        "A grocer may keep biscuits, soaps, grains and pulses in separate groups."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग समूहों में रख सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A grocer may keep biscuits, soaps, grains and pulses in separate groups. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q244",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Grocer।",
+      "en": "Choose the correct option for the following concept: किराना दुकानदार."
+    },
+    "options": {
+      "hi": [
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग समूहों में रख सकता है।"
+      ],
+      "en": [
+        "Grouping makes objects harder to locate.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping has no use in studying material properties.",
+        "A grocer may keep biscuits, soaps, grains and pulses in separate groups."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग समूहों में रख सकता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "A grocer may keep biscuits, soaps, grains and pulses in separate groups. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q245",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'Study of properties' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about गुणों का अध्ययन?"
+    },
+    "options": {
+      "hi": [
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "पदार्थों को समूहित करने से उनके गुणों का अध्ययन और पैटर्न देखना सुविधाजनक होता है।"
+      ],
+      "en": [
+        "Grouping has no use in studying material properties.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping makes objects harder to locate.",
+        "Grouping materials makes it convenient to study their properties and observe patterns."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पदार्थों को समूहित करने से उनके गुणों का अध्ययन और पैटर्न देखना सुविधाजनक होता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Grouping materials makes it convenient to study their properties and observe patterns. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q246",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार 'Study of properties' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about गुणों का अध्ययन?"
+    },
+    "options": {
+      "hi": [
+        "पदार्थों को समूहित करने से उनके गुणों का अध्ययन और पैटर्न देखना सुविधाजनक होता है।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।"
+      ],
+      "en": [
+        "Grouping materials makes it convenient to study their properties and observe patterns.",
+        "Grouping makes objects harder to locate.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping has no use in studying material properties."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पदार्थों को समूहित करने से उनके गुणों का अध्ययन और पैटर्न देखना सुविधाजनक होता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Grouping materials makes it convenient to study their properties and observe patterns. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q247",
+    "topic": "grouping",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: Study of properties।",
+      "en": "Choose the correct option for the following concept: गुणों का अध्ययन."
+    },
+    "options": {
+      "hi": [
+        "समूह बनाने का पदार्थों के गुणों के अध्ययन में कोई उपयोग नहीं है।",
+        "पदार्थों को उनके गुणों से समूहित नहीं किया जा सकता।",
+        "समूह बनाना वस्तुओं को ढूँढना कठिन बनाता है।",
+        "पदार्थों को समूहित करने से उनके गुणों का अध्ययन और पैटर्न देखना सुविधाजनक होता है।"
+      ],
+      "en": [
+        "Grouping has no use in studying material properties.",
+        "Materials cannot be grouped using their properties.",
+        "Grouping makes objects harder to locate.",
+        "Grouping materials makes it convenient to study their properties and observe patterns."
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पदार्थों को समूहित करने से उनके गुणों का अध्ययन और पैटर्न देखना सुविधाजनक होता है। यह अध्याय में दिए गए पदार्थ/वस्तु के गुण या वर्गीकरण की अवधारणा के अनुसार सही है।",
+      "en": "Grouping materials makes it convenient to study their properties and observe patterns. This follows the material-property or grouping concept explained in the chapter."
+    }
+  },
+  {
+    "id": "ch2_q248",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "'पारभासी पदार्थ' के बारे में कौन-सा कथन सही है?",
+      "en": "Which statement is correct about translucent materials?"
+    },
+    "options": {
+      "hi": [
+        "पारभासी पदार्थ पूरी तरह अपारदर्शी होते हैं।",
+        "पारभासी पदार्थों से प्रकाश गुजर सकता है, लेकिन उनके आर-पार वस्तुएँ स्पष्ट नहीं दिखाई देतीं।",
+        "पारभासी होने का अर्थ है कि पदार्थ धातु ही होना चाहिए।",
+        "पारभासी पदार्थों के आर-पार वस्तुएँ हमेशा स्पष्ट दिखाई देती हैं।"
+      ],
+      "en": [
+        "Translucent materials are completely opaque.",
+        "Translucent materials allow light to pass through, but objects cannot be seen clearly through them.",
+        "Translucent means that the material must be a metal.",
+        "Translucent materials always show objects clearly."
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पारभासी पदार्थों से प्रकाश गुजर सकता है, लेकिन उनके आर-पार वस्तुएँ स्पष्ट नहीं दिखाई देतीं। यह पारदर्शिता के प्रकारों में पारभासी पदार्थ की परिभाषा है।",
+      "en": "Translucent materials allow light to pass through, but objects cannot be seen clearly through them. This describes the translucent category of transparency."
+    }
+  },
+  {
+    "id": "ch2_q249",
+    "topic": "transparency",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अध्याय के अनुसार 'पारभासी पदार्थ' के बारे में क्या सही है?",
+      "en": "According to the chapter, what is true about translucent materials?"
+    },
+    "options": {
+      "hi": [
+        "पारभासी पदार्थों के आर-पार वस्तुएँ हमेशा स्पष्ट दिखाई देती हैं।",
+        "पारभासी होने का अर्थ है कि पदार्थ धातु ही होना चाहिए।",
+        "पारभासी पदार्थों से प्रकाश गुजर सकता है, लेकिन उनके आर-पार वस्तुएँ स्पष्ट नहीं दिखाई देतीं।",
+        "पारभासी पदार्थ पूरी तरह अपारदर्शी होते हैं।"
+      ],
+      "en": [
+        "Translucent materials always show objects clearly.",
+        "Translucent means that the material must be a metal.",
+        "Translucent materials allow light to pass through, but objects cannot be seen clearly through them.",
+        "Translucent materials are completely opaque."
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पारभासी पदार्थों से प्रकाश गुजर सकता है, लेकिन उनके आर-पार वस्तुएँ स्पष्ट नहीं दिखाई देतीं। यह पारदर्शिता के प्रकारों में पारभासी पदार्थ की परिभाषा है।",
+      "en": "Translucent materials allow light to pass through, but objects cannot be seen clearly through them. This describes the translucent category of transparency."
+    }
+  },
+  {
+    "id": "ch2_q250",
+    "topic": "transparency",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न अवधारणा के लिए सही विकल्प चुनिए: पारभासी पदार्थ।",
+      "en": "Choose the correct option for the following concept: translucent materials."
+    },
+    "options": {
+      "hi": [
+        "पारभासी पदार्थों से प्रकाश गुजर सकता है, लेकिन उनके आर-पार वस्तुएँ स्पष्ट नहीं दिखाई देतीं।",
+        "पारभासी होने का अर्थ है कि पदार्थ धातु ही होना चाहिए।",
+        "पारभासी पदार्थ पूरी तरह अपारदर्शी होते हैं।",
+        "पारभासी पदार्थों के आर-पार वस्तुएँ हमेशा स्पष्ट दिखाई देती हैं।"
+      ],
+      "en": [
+        "Translucent materials allow light to pass through, but objects cannot be seen clearly through them.",
+        "Translucent means that the material must be a metal.",
+        "Translucent materials are completely opaque.",
+        "Translucent materials always show objects clearly."
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पारभासी पदार्थों से प्रकाश गुजर सकता है, लेकिन उनके आर-पार वस्तुएँ स्पष्ट नहीं दिखाई देतीं। यह पारदर्शिता के प्रकारों में पारभासी पदार्थ की परिभाषा है।",
+      "en": "Translucent materials allow light to pass through, but objects cannot be seen clearly through them. This describes the translucent category of transparency."
     }
   }
-}
+]
