@@ -1,17 +1,22 @@
 /**
  * StorageManager
  * -----------------------------------------------------------------------
- * Single point of contact with localStorage.
+ * Single point of contact with localStorage. Every other module reads/
+ * writes state through here — NEVER call localStorage directly elsewhere.
+ * This is deliberate: when we migrate to Firebase later, only this file
+ * needs to change (same method names, async-wrapped), nothing else in
+ * the app has to be touched.
  *
- * Includes:
- * - language
- * - seen questions
- * - attempted questions
- * - wrong questions
- * - results/history
- * - active sessions
- * - permanent Mock Test question assignments
- * - Abhyas question assignments
+ * Key namespace: "rjd:<scope>:<id>"  (rjd = RojgarDwaar)
+ *
+ * PERMANENT MOCK TEST ASSIGNMENTS:
+ * Once a chapter's Mock Tests are generated (which question IDs belong
+ * to Mock 1, Mock 2, ...), that membership is saved here and reused
+ * forever — TestSession never re-picks which questions belong to a
+ * Mock. Validating whether a saved assignment is still usable lives in
+ * testSession.js (it needs TestGenerator + the current bank to decide
+ * that); StorageManager just stores/retrieves, same as everything else
+ * in this file.
  * -----------------------------------------------------------------------
  */
 const StorageManager = (function () {
@@ -24,38 +29,20 @@ const StorageManager = (function () {
   function get(k, fallback = null) {
     try {
       const raw = localStorage.getItem(k);
-
-      if (raw === null) {
-        return fallback;
-      }
-
+      if (raw === null) return fallback;
       return JSON.parse(raw);
     } catch (e) {
-      console.warn(
-        "StorageManager.get failed for",
-        k,
-        e
-      );
-
+      console.warn("StorageManager.get failed for", k, e);
       return fallback;
     }
   }
 
   function set(k, value) {
     try {
-      localStorage.setItem(
-        k,
-        JSON.stringify(value)
-      );
-
+      localStorage.setItem(k, JSON.stringify(value));
       return true;
     } catch (e) {
-      console.warn(
-        "StorageManager.set failed for",
-        k,
-        e
-      );
-
+      console.warn("StorageManager.set failed for", k, e);
       return false;
     }
   }
@@ -68,507 +55,139 @@ const StorageManager = (function () {
     }
   }
 
-  // -----------------------------------------------------------------------
-  // Language
-  // -----------------------------------------------------------------------
+  // ---- Domain-specific convenience helpers -------------------------------
 
   function getLanguage() {
-    return get(
-      key("lang"),
-      "hi"
-    );
+    return get(key("lang"), "hi");
   }
 
   function setLanguage(lang) {
-    return set(
-      key("lang"),
-      lang
-    );
+    return set(key("lang"), lang);
   }
 
-  // -----------------------------------------------------------------------
-  // Chapter key
-  // -----------------------------------------------------------------------
-
-  function chapterKey(
-    classNum,
-    subject,
-    chapter
-  ) {
+  function chapterKey(classNum, subject, chapter) {
     return `${classNum}-${subject}-${chapter}`;
   }
 
-  // -----------------------------------------------------------------------
-  // Seen Questions
-  // -----------------------------------------------------------------------
-
-  function getSeenQuestionIds(
-    classNum,
-    subject,
-    chapter
-  ) {
-    return get(
-      key(
-        "seen",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      []
-    );
+  function getSeenQuestionIds(classNum, subject, chapter) {
+    return get(key("seen", chapterKey(classNum, subject, chapter)), []);
   }
 
-  function addSeenQuestionIds(
-    classNum,
-    subject,
-    chapter,
-    ids
-  ) {
-    const existing =
-      new Set(
-        getSeenQuestionIds(
-          classNum,
-          subject,
-          chapter
-        )
-      );
-
-    ids.forEach((id) => {
-      existing.add(id);
-    });
-
-    set(
-      key(
-        "seen",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      Array.from(existing)
-    );
+  function addSeenQuestionIds(classNum, subject, chapter, ids) {
+    const existing = new Set(getSeenQuestionIds(classNum, subject, chapter));
+    ids.forEach((id) => existing.add(id));
+    set(key("seen", chapterKey(classNum, subject, chapter)), Array.from(existing));
   }
 
-  // -----------------------------------------------------------------------
-  // Permanent Mock Test Question Sets
-  // -----------------------------------------------------------------------
-
-  /**
-   * Structure:
-   *
-   * {
-   *   "mock-1": ["Q001", "Q002", ...],
-   *   "mock-2": ["Q051", "Q052", ...],
-   *   ...
-   * }
-   *
-   * Once generated, these sets remain fixed for that chapter.
-   */
-  function getMockSets(
-    classNum,
-    subject,
-    chapter
-  ) {
-    return get(
-      key(
-        "mockSets",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      null
-    );
+  function getWrongQuestionIds(classNum, subject, chapter) {
+    return get(key("wrong", chapterKey(classNum, subject, chapter)), []);
   }
 
-  function saveMockSets(
-    classNum,
-    subject,
-    chapter,
-    sets
-  ) {
-    return set(
-      key(
-        "mockSets",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      sets
-    );
+  function setWrongQuestionIds(classNum, subject, chapter, ids) {
+    set(key("wrong", chapterKey(classNum, subject, chapter)), ids);
   }
 
-  function clearMockSets(
-    classNum,
-    subject,
-    chapter
-  ) {
-    remove(
-      key(
-        "mockSets",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      )
-    );
+  function clearWrongQuestionIds(classNum, subject, chapter) {
+    remove(key("wrong", chapterKey(classNum, subject, chapter)));
   }
 
-  function getMockQuestionIds(
-    classNum,
-    subject,
-    chapter,
-    testId
-  ) {
-    const sets =
-      getMockSets(
-        classNum,
-        subject,
-        chapter
-      );
-
-    if (
-      !sets ||
-      !sets[testId]
-    ) {
-      return [];
-    }
-
-    return sets[testId];
+  function getAttemptedQuestionIds(classNum, subject, chapter) {
+    return get(key("attempted", chapterKey(classNum, subject, chapter)), []);
   }
 
-  function saveMockQuestionIds(
-    classNum,
-    subject,
-    chapter,
-    testId,
-    ids
-  ) {
-    const sets =
-      getMockSets(
-        classNum,
-        subject,
-        chapter
-      ) || {};
-
-    sets[testId] = ids;
-
-    return saveMockSets(
-      classNum,
-      subject,
-      chapter,
-      sets
-    );
+  function addAttemptedQuestionIds(classNum, subject, chapter, ids) {
+    const existing = new Set(getAttemptedQuestionIds(classNum, subject, chapter));
+    ids.forEach((id) => existing.add(id));
+    set(key("attempted", chapterKey(classNum, subject, chapter)), Array.from(existing));
   }
 
-  // -----------------------------------------------------------------------
-  // Abhyas Test
-  // -----------------------------------------------------------------------
-
-  function getAbhyasQuestionIds(
-    classNum,
-    subject,
-    chapter
-  ) {
-    return get(
-      key(
-        "abhyas",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      []
-    );
+  function saveLastResult(classNum, subject, chapter, testId, result) {
+    set(key("result", chapterKey(classNum, subject, chapter), testId), result);
+    // also push into a small history list (last 10)
+    const histKey = key("history", chapterKey(classNum, subject, chapter));
+    const hist = get(histKey, []);
+    hist.unshift({ testId, ts: Date.now(), summary: result.summary });
+    set(histKey, hist.slice(0, 10));
   }
 
-  function saveAbhyasQuestionIds(
-    classNum,
-    subject,
-    chapter,
-    ids
-  ) {
-    return set(
-      key(
-        "abhyas",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      ids
-    );
+  function getResultHistory(classNum, subject, chapter) {
+    return get(key("history", chapterKey(classNum, subject, chapter)), []);
   }
 
-  // -----------------------------------------------------------------------
-  // Wrong Questions
-  // -----------------------------------------------------------------------
-
-  function getWrongQuestionIds(
-    classNum,
-    subject,
-    chapter
-  ) {
-    return get(
-      key(
-        "wrong",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      []
-    );
+  // In-progress test session (so a refresh doesn't wipe an active attempt)
+  function saveActiveSession(sessionId, sessionData) {
+    set(key("session", sessionId), sessionData);
   }
 
-  function setWrongQuestionIds(
-    classNum,
-    subject,
-    chapter,
-    ids
-  ) {
-    return set(
-      key(
-        "wrong",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      ids
-    );
+  function getActiveSession(sessionId) {
+    return get(key("session", sessionId), null);
   }
 
-  function clearWrongQuestionIds(
-    classNum,
-    subject,
-    chapter
-  ) {
-    remove(
-      key(
-        "wrong",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      )
-    );
+  function clearActiveSession(sessionId) {
+    remove(key("session", sessionId));
   }
 
-  // -----------------------------------------------------------------------
-  // Attempted Questions
-  // -----------------------------------------------------------------------
+  // ---- Permanent Mock Test assignments -----------------------------------
+  //
+  // Shape stored per chapter:
+  // {
+  //   mockQuestionCount: 30,
+  //   mockCount: 1,
+  //   savedAt: <timestamp>,
+  //   sets: {
+  //     "mock-1": ["SCI6-CH01-Q001", "SCI6-CH01-Q002", ... ],
+  //     "mock-2": [...]
+  //   }
+  // }
 
-  function getAttemptedQuestionIds(
-    classNum,
-    subject,
-    chapter
-  ) {
-    return get(
-      key(
-        "attempted",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      []
-    );
+  function getMockSets(classNum, subject, chapter) {
+    return get(key("mocksets", chapterKey(classNum, subject, chapter)), null);
   }
 
-  function addAttemptedQuestionIds(
-    classNum,
-    subject,
-    chapter,
-    ids
-  ) {
-    const existing =
-      new Set(
-        getAttemptedQuestionIds(
-          classNum,
-          subject,
-          chapter
-        )
-      );
-
-    ids.forEach((id) => {
-      existing.add(id);
-    });
-
-    set(
-      key(
-        "attempted",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      Array.from(existing)
-    );
+  function saveMockSets(classNum, subject, chapter, mockSetsData) {
+    set(key("mocksets", chapterKey(classNum, subject, chapter)), mockSetsData);
   }
 
-  // -----------------------------------------------------------------------
-  // Results
-  // -----------------------------------------------------------------------
-
-  function saveLastResult(
-    classNum,
-    subject,
-    chapter,
-    testId,
-    result
-  ) {
-    set(
-      key(
-        "result",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        ),
-        testId
-      ),
-      result
-    );
-
-    const histKey =
-      key(
-        "history",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      );
-
-    const hist =
-      get(
-        histKey,
-        []
-      );
-
-    hist.unshift({
-      testId,
-      ts: Date.now(),
-      summary:
-        result.summary,
-    });
-
-    set(
-      histKey,
-      hist.slice(0, 10)
-    );
+  function clearMockSets(classNum, subject, chapter) {
+    remove(key("mocksets", chapterKey(classNum, subject, chapter)));
   }
 
-  function getResultHistory(
-    classNum,
-    subject,
-    chapter
-  ) {
-    return get(
-      key(
-        "history",
-        chapterKey(
-          classNum,
-          subject,
-          chapter
-        )
-      ),
-      []
-    );
+  /** IDs assigned to one specific Mock (e.g. "mock-1"), or null if not assigned yet. */
+  function getMockQuestionIds(classNum, subject, chapter, testId) {
+    const data = getMockSets(classNum, subject, chapter);
+    if (!data || !data.sets || !Array.isArray(data.sets[testId])) return null;
+    return data.sets[testId];
   }
 
-  // -----------------------------------------------------------------------
-  // Active Test Session
-  // -----------------------------------------------------------------------
-
-  function saveActiveSession(
-    sessionId,
-    sessionData
-  ) {
-    return set(
-      key(
-        "session",
-        sessionId
-      ),
-      sessionData
-    );
+  /** Updates just one Mock's ID list within the chapter's overall mock-sets record. */
+  function saveMockQuestionIds(classNum, subject, chapter, testId, ids) {
+    const existing = getMockSets(classNum, subject, chapter) || { sets: {} };
+    const next = { ...existing, sets: { ...(existing.sets || {}), [testId]: ids } };
+    saveMockSets(classNum, subject, chapter, next);
   }
-
-  function getActiveSession(
-    sessionId
-  ) {
-    return get(
-      key(
-        "session",
-        sessionId
-      ),
-      null
-    );
-  }
-
-  function clearActiveSession(
-    sessionId
-  ) {
-    remove(
-      key(
-        "session",
-        sessionId
-      )
-    );
-  }
-
-  // -----------------------------------------------------------------------
-  // Public API
-  // -----------------------------------------------------------------------
 
   return {
     get,
     set,
     remove,
-
     getLanguage,
     setLanguage,
-
     getSeenQuestionIds,
     addSeenQuestionIds,
-
-    getMockSets,
-    saveMockSets,
-    clearMockSets,
-
-    getMockQuestionIds,
-    saveMockQuestionIds,
-
-    getAbhyasQuestionIds,
-    saveAbhyasQuestionIds,
-
     getWrongQuestionIds,
     setWrongQuestionIds,
     clearWrongQuestionIds,
-
     getAttemptedQuestionIds,
     addAttemptedQuestionIds,
-
     saveLastResult,
     getResultHistory,
-
     saveActiveSession,
     getActiveSession,
     clearActiveSession,
+    getMockSets,
+    saveMockSets,
+    clearMockSets,
+    getMockQuestionIds,
+    saveMockQuestionIds,
   };
 })();
