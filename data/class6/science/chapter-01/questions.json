@@ -21,7 +21,11 @@
         "None of these"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन के वे उपयोगी घटक जो शरीर को ऊर्जा, वृद्धि और सामान्य कार्यों के लिए चाहिए, पोषक तत्व कहलाते हैं — जैसे कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज लवण।",
+      "en": "The useful components of food needed by the body for energy, growth, and normal functions are called nutrients — such as carbohydrates, proteins, fats, vitamins, and minerals."
+    }
   },
   {
     "id": "ch1_q102",
@@ -45,7 +49,11 @@
         "None of these"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "हाँ, एक ही खाद्य पदार्थ में एक से अधिक पोषक तत्व हो सकते हैं — जैसे दूध में कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज लवण सभी थोड़ी-थोड़ी मात्रा में मौजूद होते हैं।",
+      "en": "Yes, a single food can contain more than one nutrient — for example, milk has small amounts of carbohydrate, protein, fat, vitamins, and minerals all together."
+    }
   },
   {
     "id": "ch1_q103",
@@ -69,7 +77,11 @@
         "Minerals"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "कार्बोहाइड्रेट और वसा शरीर को मुख्य रूप से ऊर्जा प्रदान करते हैं, इसलिए इन्हें 'ऊर्जा देने वाला भोजन' कहा जाता है, जबकि प्रोटीन वृद्धि और मरम्मत के लिए है।",
+      "en": "Carbohydrates and fats mainly provide energy to the body, which is why they're called 'energy-giving food', while protein is for growth and repair."
+    }
   },
   {
     "id": "ch1_q104",
@@ -93,7 +105,11 @@
         "Iodine"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "चावल, गेहूँ, मक्का और आलू में स्टार्च के रूप में कार्बोहाइड्रेट प्रचुर मात्रा में पाया जाता है, जो शरीर को ऊर्जा प्रदान करता है।",
+      "en": "Rice, wheat, maize, and potato are rich in carbohydrates in the form of starch, which provides energy to the body."
+    }
   },
   {
     "id": "ch1_q105",
@@ -117,7 +133,11 @@
         "Water"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "प्रोटीन शरीर की वृद्धि और क्षतिग्रस्त कोशिकाओं/ऊतकों की मरम्मत के लिए सबसे महत्वपूर्ण पोषक तत्व है, इसलिए इसे 'शरीर निर्माण करने वाला भोजन' कहते हैं।",
+      "en": "Protein is the most important nutrient for the body's growth and repair of damaged cells/tissues, which is why it's called 'body-building food'."
+    }
   },
   {
     "id": "ch1_q106",
@@ -141,7 +161,11 @@
         "Vitamin C"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "दालें, सोयाबीन, पनीर और अंडे प्रोटीन के अच्छे स्रोत हैं — ये शाकाहारी (दालें, सोयाबीन, पनीर) और मांसाहारी (अंडा) दोनों प्रकार के स्रोतों को दर्शाते हैं।",
+      "en": "Pulses, soybean, paneer, and eggs are good sources of protein — covering both vegetarian (pulses, soybean, paneer) and non-vegetarian (egg) sources."
+    }
   },
   {
     "id": "ch1_q107",
@@ -165,7 +189,11 @@
         "Extra grains"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन और खनिज लवण थोड़ी मात्रा में ही चाहिए होते हैं, फिर भी ये शरीर को रोगों से बचाने और स्वस्थ रखने में महत्वपूर्ण भूमिका निभाते हैं।",
+      "en": "Vitamins and minerals are needed only in small amounts, yet they play a vital role in protecting the body from disease and keeping it healthy."
+    }
   },
   {
     "id": "ch1_q108",
@@ -189,7 +217,11 @@
         "To stop digestion"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "कैल्सियम हड्डियों और दांतों को मजबूत बनाने के लिए आवश्यक है; इसकी कमी से हड्डियाँ कमजोर हो सकती हैं। दूध व दही इसके प्रमुख स्रोत हैं।",
+      "en": "Calcium is needed to strengthen bones and teeth; its deficiency can weaken bones. Milk and curd are its major sources."
+    }
   },
   {
     "id": "ch1_q109",
@@ -213,7 +245,11 @@
         "Fasting"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "जिस आहार में शरीर के लिए आवश्यक सभी पोषक तत्व, आहारीय रेशा और जल उचित मात्रा में मौजूद हों, उसे संतुलित आहार कहते हैं।",
+      "en": "A diet that contains all essential nutrients, roughage, and water in the right proportion is called a balanced diet."
+    }
   },
   {
     "id": "ch1_q110",
@@ -237,7 +273,11 @@
         "It is only for elderly people"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "नहीं, संतुलित आहार की आवश्यकता व्यक्ति की आयु, लिंग और शारीरिक श्रम पर निर्भर करती है — जैसे बढ़ते बच्चों को अधिक प्रोटीन-कैल्शियम चाहिए।",
+      "en": "No, the requirement for a balanced diet depends on a person's age, gender, and physical activity — for example, growing children need more protein and calcium."
+    }
   },
   {
     "id": "ch1_q111",
@@ -261,7 +301,11 @@
         "Hereditary diseases"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "जब आहार में किसी पोषक तत्व की लंबे समय तक कमी रहती है, तो उससे उत्पन्न होने वाली समस्याओं को अभावजन्य रोग (Deficiency Diseases) कहते हैं।",
+      "en": "Problems arising from a long-term deficiency of a nutrient in the diet are called deficiency diseases."
+    }
   },
   {
     "id": "ch1_q112",
@@ -285,7 +329,11 @@
         "Rickets"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन 'ए' की कमी से रतौंधी (क्षीण दृष्टि) होती है, जिसमें व्यक्ति को कम रोशनी या रात के समय देखने में कठिनाई होती है।",
+      "en": "Vitamin A deficiency causes night blindness, making it difficult for a person to see in low light or at night."
+    }
   },
   {
     "id": "ch1_q113",
@@ -309,7 +357,11 @@
         "Artificial chemicals"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "हमारा भोजन मुख्यतः पौधों (अनाज, दालें, फल, सब्जियाँ) और जंतुओं (दूध, अंडा, मांस) दोनों से प्राप्त होता है, जो अलग-अलग पोषक तत्व देते हैं।",
+      "en": "Our food mainly comes from both plants (cereals, pulses, fruits, vegetables) and animals (milk, egg, meat), each providing different nutrients."
+    }
   },
   {
     "id": "ch1_q114",
@@ -333,7 +385,11 @@
         "Vitamins"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "कार्बोहाइड्रेट मुख्यतः दो रूपों में पाया जाता है — मंड (स्टार्च), जो चावल-गेहूँ-आलू में होता है, और शर्करा, जो गन्ना व शहद में मिलती है।",
+      "en": "Carbohydrates mainly occur in two forms — starch, found in rice, wheat, and potato, and sugar, found in sugarcane and honey."
+    }
   },
   {
     "id": "ch1_q115",
@@ -357,7 +413,11 @@
         "Plain water"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन में मंड (स्टार्च) की जाँच आयोडीन विलयन से की जाती है — कुछ बूँदें डालने पर नीला-काला रंग बनने से स्टार्च की पुष्टि होती है।",
+      "en": "Starch in food is tested using iodine solution — a few drops added to the food will turn it blue-black if starch is present."
+    }
   },
   {
     "id": "ch1_q116",
@@ -381,7 +441,11 @@
         "Lemon juice"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "प्रोटीन की जाँच के लिए भोजन के नमूने में कॉपर सल्फेट और कॉस्टिक सोडा का घोल मिलाया जाता है; बैंगनी रंग बनने पर प्रोटीन की पुष्टि होती है।",
+      "en": "To test for protein, copper sulphate and caustic soda solution are added to a food sample; a violet colour confirms the presence of protein."
+    }
   },
   {
     "id": "ch1_q117",
@@ -405,7 +469,11 @@
         "To induce sleep"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन 'सी' शरीर को रोगों से लड़ने की क्षमता देने के साथ-साथ घावों को जल्दी भरने और मसूड़ों को स्वस्थ रखने में सहायक है।",
+      "en": "Vitamin C helps the body fight diseases and also aids in quick wound healing and keeping gums healthy."
+    }
   },
   {
     "id": "ch1_q118",
@@ -429,7 +497,11 @@
         "Vitamin B"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन डी शरीर को कैल्सियम को अवशोषित करने और उसका उपयोग करने में मदद करता है, जिससे हड्डियाँ व दाँत मजबूत बनते हैं।",
+      "en": "Vitamin D helps the body absorb and use calcium, which strengthens bones and teeth."
+    }
   },
   {
     "id": "ch1_q119",
@@ -453,7 +525,11 @@
         "Plastic fiber"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "छिलके वाले अनाज, दालें, आलू, ताज़े फल और सब्जियाँ आहारीय रेशे (रफेज) के मुख्य स्रोत हैं, जो पाचन तंत्र को स्वस्थ रखने में मदद करते हैं।",
+      "en": "Whole grains, pulses, potato, fresh fruits, and vegetables are the main sources of roughage, which helps keep the digestive system healthy."
+    }
   },
   {
     "id": "ch1_q120",
@@ -477,7 +553,11 @@
         "Goitre"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन बी-1 (थायमिन) की कमी से बेरी-बेरी रोग होता है, जिसमें मांसपेशियाँ कमजोर हो जाती हैं और तंत्रिका तंत्र प्रभावित होता है।",
+      "en": "Deficiency of Vitamin B1 (thiamine) causes beriberi, which weakens the muscles and affects the nervous system."
+    }
   },
   {
     "id": "ch1_q121",
@@ -501,7 +581,11 @@
         "Anemia"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "आयोडीन की कमी से थायरॉइड ग्रंथि बढ़ जाती है, जिससे घेंघा (गॉइटर) रोग होता है और गले में सूजन दिखाई देती है।",
+      "en": "Iodine deficiency enlarges the thyroid gland, causing goitre, which appears as a swelling in the neck."
+    }
   },
   {
     "id": "ch1_q122",
@@ -525,7 +609,11 @@
         "Beriberi"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "लोहे (आयरन) की कमी से रक्त में हीमोग्लोबिन कम बनता है, जिससे अरक्तता (एनीमिया) होती है और व्यक्ति को थकान व कमजोरी महसूस होती है।",
+      "en": "Iron deficiency reduces haemoglobin formation in the blood, causing anaemia, leading to fatigue and weakness."
+    }
   },
   {
     "id": "ch1_q123",
@@ -549,7 +637,11 @@
         "Pure ghee"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन 'सी' खट्टे फलों जैसे नींबू, आंवला और संतरे में सबसे प्रचुर मात्रा में पाया जाता है, और यह घाव भरने में सहायक है।",
+      "en": "Vitamin C is most abundant in citrus fruits like lemon, amla, and orange, and it helps in wound healing."
+    }
   },
   {
     "id": "ch1_q124",
@@ -573,7 +665,11 @@
         "Only water"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "समान मात्रा (वज़न) में वसा, कार्बोहाइड्रेट की तुलना में लगभग दोगुनी ऊर्जा देती है, इसलिए इसे 'सांद्र ऊर्जा स्रोत' कहा जाता है।",
+      "en": "For the same weight, fat gives almost double the energy compared to carbohydrate, which is why it's called a 'concentrated source of energy'."
+    }
   },
   {
     "id": "ch1_q125",
@@ -597,7 +693,11 @@
         "Glass"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "जल पचे हुए भोजन के पोषक तत्वों को शरीर के विभिन्न भागों तक पहुँचाने, अपशिष्ट निकालने और तापमान नियंत्रित रखने में सहायक है।",
+      "en": "Water helps transport nutrients from digested food to different parts of the body, removes waste, and regulates body temperature."
+    }
   },
   {
     "id": "ch1_q126",
@@ -621,7 +721,11 @@
         "Goitre"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "विटामिन सी की कमी से स्कर्वी रोग होता है, जिसके लक्षणों में मसूड़ों से खून आना और घावों का देर से भरना शामिल है।",
+      "en": "Vitamin C deficiency causes scurvy, whose symptoms include bleeding gums and slow wound healing."
+    }
   },
   {
     "id": "ch1_q127",
@@ -645,7 +749,11 @@
         "Skin"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "कैल्सियम की कमी से हमारी हड्डियाँ और दाँत कमजोर हो जाते हैं, क्योंकि कैल्सियम इन्हें मजबूत बनाए रखने के लिए आवश्यक खनिज है।",
+      "en": "Calcium deficiency weakens bones and teeth, since calcium is the essential mineral that keeps them strong."
+    }
   },
   {
     "id": "ch1_q128",
@@ -669,7 +777,11 @@
         "None of these"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "नहीं, केवल फल खाने से सभी पोषक तत्व नहीं मिलते; शरीर को अनाज, दालें, दूध और सब्जियों सहित विविध खाद्य पदार्थों की आवश्यकता होती है।",
+      "en": "No, eating only fruits doesn't provide all nutrients; the body needs a variety of foods including cereals, pulses, milk, and vegetables."
+    }
   },
   {
     "id": "ch1_q129",
@@ -693,7 +805,11 @@
         "To waste food"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन में विभिन्न घटकों (पोषक तत्वों) का होना ज़रूरी है क्योंकि हर घटक शरीर के अलग-अलग कार्य — ऊर्जा, वृद्धि और सुरक्षा — के लिए आवश्यक है।",
+      "en": "Different components (nutrients) in food are necessary because each performs a different body function — energy, growth, or protection."
+    }
   },
   {
     "id": "ch1_q130",
@@ -717,7 +833,11 @@
         "Vitamin B"
       ]
     },
-    "correct": 0
+    "correct": 0,
+    "explanation": {
+      "hi": "रिकेट्स रोग विटामिन डी की कमी के कारण होता है, जिसमें बच्चों की हड्डियाँ मुलायम और कमजोर होकर टेढ़ी हो सकती हैं।",
+      "en": "Rickets is caused by Vitamin D deficiency, in which children's bones become soft, weak, and can bend out of shape."
+    }
   },
   {
     "id": "ch1_q131",
