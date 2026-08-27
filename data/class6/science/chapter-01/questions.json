@@ -8,8 +8,18 @@
       "en": "What are the major components present in our food that are essential for body growth, energy, and normal functions called?"
     },
     "options": {
-      "hi": ["पोषक तत्व (Nutrients)", "केवल कचरा", "अपशिष्ट पदार्थ", "इनमें से कोई नहीं"],
-      "en": ["Nutrients", "Only waste", "Waste material", "None of these"]
+      "hi": [
+        "पोषक तत्व (Nutrients)",
+        "केवल कचरा",
+        "अपशिष्ट पदार्थ",
+        "इनमें से कोई नहीं"
+      ],
+      "en": [
+        "Nutrients",
+        "Only waste",
+        "Waste material",
+        "None of these"
+      ]
     },
     "correct": 0
   },
@@ -22,8 +32,18 @@
       "en": "Can a single food item contain more than one nutrient?"
     },
     "options": {
-      "hi": ["हाँ, हो सकते हैं", "नहीं, कभी नहीं", "केवल दूध में ही", "इनमें से कोई नहीं"],
-      "en": ["Yes, it can", "No, never", "Only in milk", "None of these"]
+      "hi": [
+        "हाँ, हो सकते हैं",
+        "नहीं, कभी नहीं",
+        "केवल दूध में ही हो सकते हैं",
+        "इनमें से कोई नहीं"
+      ],
+      "en": [
+        "Yes, it can",
+        "No, never",
+        "Only in milk",
+        "None of these"
+      ]
     },
     "correct": 0
   },
@@ -36,8 +56,18 @@
       "en": "Which of the following nutrients mainly provide energy to our body?"
     },
     "options": {
-      "hi": ["कार्बोहाइड्रेट और वसा", "केवल प्रोटीन", "केवल विटामिन", "खनिज लवण"],
-      "en": ["Carbohydrates and fats", "Only proteins", "Only vitamins", "Minerals"]
+      "hi": [
+        "कार्बोहाइड्रेट और वसा",
+        "केवल प्रोटीन",
+        "केवल विटामिन",
+        "खनिज लवण"
+      ],
+      "en": [
+        "Carbohydrates and fats",
+        "Only proteins",
+        "Only vitamins",
+        "Minerals"
+      ]
     },
     "correct": 0
   },
@@ -50,8 +80,18 @@
       "en": "Rice, wheat, maize, and potatoes are mainly sources of which nutrient?"
     },
     "options": {
-      "hi": ["कार्बोहाइड्रेट", "प्रोटीन", "विटामिन डी", "आयोडीन"],
-      "en": ["Carbohydrates", "Protein", "Vitamin D", "Iodine"]
+      "hi": [
+        "कार्बोहाइड्रेट",
+        "प्रोटीन",
+        "विटामिन डी",
+        "आयोडीन"
+      ],
+      "en": [
+        "Carbohydrates",
+        "Protein",
+        "Vitamin D",
+        "Iodine"
+      ]
     },
     "correct": 0
   },
@@ -64,8 +104,18 @@
       "en": "Which nutrient is most important for body growth and repair of damaged tissues?"
     },
     "options": {
-      "hi": ["प्रोटीन (Proteins)", "कार्बोहाइड्रेट", "रफेज", "जल"],
-      "en": ["Proteins", "Carbohydrates", "Roughage", "Water"]
+      "hi": [
+        "प्रोटीन (Proteins)",
+        "कार्बोहाइड्रेट",
+        "रफेज",
+        "जल"
+      ],
+      "en": [
+        "Proteins",
+        "Carbohydrates",
+        "Roughage",
+        "Water"
+      ]
     },
     "correct": 0
   },
@@ -78,8 +128,18 @@
       "en": "Pulses, soybean, paneer, and eggs are good sources of which major nutrient?"
     },
     "options": {
-      "hi": ["प्रोटीन", "वसा", "कार्बोहाइड्रेट", "विटामिन सी"],
-      "en": ["Protein", "Fat", "Carbohydrate", "Vitamin C"]
+      "hi": [
+        "प्रोटीन",
+        "वसा",
+        "कार्बोहाइड्रेट",
+        "विटामिन सी"
+      ],
+      "en": [
+        "Protein",
+        "Fat",
+        "Carbohydrate",
+        "Vitamin C"
+      ]
     },
     "correct": 0
   },
@@ -92,8 +152,18 @@
       "en": "What is required in small quantities to protect the body from diseases and keep it healthy?"
     },
     "options": {
-      "hi": ["विटामिन और खनिज", "केवल वसा", "केवल चीनी", "अतिरिक्त अनाज"],
-      "en": ["Vitamins and minerals", "Only fats", "Only sugar", "Extra grains"]
+      "hi": [
+        "विटामिन और खनिज",
+        "केवल वसा",
+        "केवल चीनी",
+        "अतिरिक्त अनाज"
+      ],
+      "en": [
+        "Vitamins and minerals",
+        "Only fats",
+        "Only sugar",
+        "Extra grains"
+      ]
     },
     "correct": 0
   },
@@ -106,8 +176,18 @@
       "en": "What does our body need calcium for?"
     },
     "options": {
-      "hi": ["मजबूत हड्डियों और दांतों के लिए", "केवल ऊर्जा के लिए", "वजन बढ़ाने के लिए", "पाचन रोकने के लिए"],
-      "en": ["For strong bones and teeth", "Only for energy", "To increase weight", "To stop digestion"]
+      "hi": [
+        "मजबूत हड्डियों और दांतों के लिए",
+        "केवल ऊर्जा के लिए",
+        "वजन बढ़ाने के लिए",
+        "पाचन रोकने के लिए"
+      ],
+      "en": [
+        "For strong bones and teeth",
+        "Only for energy",
+        "To increase weight",
+        "To stop digestion"
+      ]
     },
     "correct": 0
   },
@@ -120,8 +200,18 @@
       "en": "What is a diet called that contains all essential nutrients, appropriate amounts of roughage, and water for the body?"
     },
     "options": {
-      "hi": ["संतुलित आहार (Balanced Diet)", "असंतुलित भोजन", "केवल वसायुक्त आहार", "उपवास"],
-      "en": ["Balanced Diet", "Unbalanced diet", "Only fatty diet", "Fasting"]
+      "hi": [
+        "संतुलित आहार (Balanced Diet)",
+        "असंतुलित भोजन",
+        "केवल वसायुक्त आहार",
+        "उपवास"
+      ],
+      "en": [
+        "Balanced Diet",
+        "Unbalanced diet",
+        "Only fatty diet",
+        "Fasting"
+      ]
     },
     "correct": 0
   },
@@ -134,8 +224,18 @@
       "en": "Is the requirement of a balanced diet the same for people of all ages?"
     },
     "options": {
-      "hi": ["नहीं, यह आयु और शारीरिक श्रम पर निर्भर करती है", "हाँ, सबकी आवश्यकता समान होती है", "यह केवल बच्चों के लिए है", "यह केवल बुजुर्गों के लिए है"],
-      "en": ["No, it depends on age and physical labour", "Yes, everyone's requirement is the same", "It is only for children", "It is only for elderly people"]
+      "hi": [
+        "नहीं, यह आयु और शारीरिक श्रम पर निर्भर करती है",
+        "हाँ, सबकी आवश्यकता बिल्कुल समान होती है",
+        "यह केवल बच्चों के लिए है",
+        "यह केवल बुजुर्गों के लिए है"
+      ],
+      "en": [
+        "No, it depends on age and physical labour",
+        "Yes, everyone's requirement is exactly the same",
+        "It is only for children",
+        "It is only for elderly people"
+      ]
     },
     "correct": 0
   },
@@ -148,8 +248,18 @@
       "en": "What are the problems caused by a prolonged lack of an essential nutrient in a person's diet called?"
     },
     "options": {
-      "hi": ["अभावजन्य रोग (Deficiency Diseases)", "संक्रामक रोग", "सामान्य जुकाम", "वंशानुगत रोग"],
-      "en": ["Deficiency Diseases", "Infectious diseases", "Common cold", "Hereditary diseases"]
+      "hi": [
+        "अभावजन्य रोग (Deficiency Diseases)",
+        "संक्रामक रोग",
+        "सामान्य जुकाम",
+        "वंशानुगत रोग"
+      ],
+      "en": [
+        "Deficiency Diseases",
+        "Infectious diseases",
+        "Common cold",
+        "Hereditary diseases"
+      ]
     },
     "correct": 0
   },
@@ -162,260 +272,18 @@
       "en": "Which disease or symptom can be caused by the deficiency of Vitamin 'A' in our body?"
     },
     "options": {
-      "hi": ["क्षीण दृष्टि (अंधेपन)", "बेरी-बेरी", "स्कर्वी", "रिकेट्स"],
-      "en": ["Loss of vision (Night blindness)", "Beriberi", "Scurvy", "Rickets"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q113",
-    "topic": "nutrients-overview",
-    "difficulty": "easy",
-    "question": {
-      "hi": "हमारे भोजन के मुख्य स्रोतों में मुख्य रूप से क्या शामिल है?",
-      "en": "What do the main sources of our food primarily include?"
-    },
-    "options": {
-      "hi": ["पौधे और जंतु दोनों", "केवल पौधे", "केवल जंतु", "कृत्रिम रसायन"],
-      "en": ["Both plants and animals", "Only plants", "Only animals", "Artificial chemicals"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q114",
-    "topic": "carbohydrates-fats",
-    "difficulty": "easy",
-    "question": {
-      "hi": "हमारे भोजन में कार्बोहाइड्रेट मुख्य रूप से किस रूप में पाए जाते हैं?",
-      "en": "In what form are carbohydrates mainly found in our food?"
-    },
-    "options": {
-      "hi": ["मंड (Starch) तथा शर्करा", "केवल प्रोटीन", "केवल खनिज", "विटामिन"],
-      "en": ["Starch and sugar", "Only protein", "Only minerals", "Vitamins"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q115",
-    "topic": "carbohydrates-fats",
-    "difficulty": "medium",
-    "question": {
-      "hi": "किसी खाद्य पदार्थ में मंड (Starch) की उपस्थिति का परीक्षण करने के लिए किस रसायन का उपयोग किया जाता है?",
-      "en": "Which chemical is used to test the presence of starch in a food item?"
-    },
-    "options": {
-      "hi": ["आयोडीन विलयन", "कॉपर सल्फेट", "कॉस्टिक सोडा", "सादा पानी"],
-      "en": ["Iodine solution", "Copper sulphate", "Caustic soda", "Plain water"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q116",
-    "topic": "proteins",
-    "difficulty": "hard",
-    "question": {
-      "hi": "खाद्य पदार्थ में प्रोटीन के परीक्षण के समय कॉपर सल्फेट और किसके घोल का उपयोग किया जाता है?",
-      "en": "During the test for protein in a food item, copper sulphate and a solution of what are used?"
-    },
-    "options": {
-      "hi": ["कॉस्टिक सोडा (Caustic Soda)", "आयोडीन", "नमक का पानी", "नींबू का रस"],
-      "en": ["Caustic Soda", "Iodine", "Salt water", "Lemon juice"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q117",
-    "topic": "vitamins-minerals",
-    "difficulty": "medium",
-    "question": {
-      "hi": "विटामिन 'सी' हमारी किस बात में सहायता करता है?",
-      "en": "Vitamin 'C' helps our body in what way?"
-    },
-    "options": {
-      "hi": ["रोगों से लड़ने में", "केवल वजन बढ़ाने में", "हड्डियों को गलाने में", "नींद लाने में"],
-      "en": ["To fight against diseases", "Only to increase weight", "To dissolve bones", "To induce sleep"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q118",
-    "topic": "vitamins-minerals",
-    "difficulty": "medium",
-    "question": {
-      "hi": "हमारे शरीर को कौन सा विटामिन हमारी अस्थियों और दाँतों के लिए कैल्सियम का उपयोग करने में सहायता करता है?",
-      "en": "Which vitamin helps our body use calcium for bones and teeth?"
-    },
-    "options": {
-      "hi": ["विटामिन डी (Vitamin D)", "विटामिन ए", "विटामिन सी", "विटामिन बी"],
-      "en": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin B"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q119",
-    "topic": "balanced-diet",
-    "difficulty": "medium",
-    "question": {
-      "hi": "छिलके वाले अनाज, दालें, आलू, ताजे फल और सब्जियाँ हमारे भोजन में किसके मुख्य स्रोत हैं?",
-      "en": "Grains with outer husks, pulses, potatoes, fresh fruits, and vegetables are main sources of what in our food?"
-    },
-    "options": {
-      "hi": ["आहारीय रेशा (रफेज / Roughage)", "केवल वसा", "केवल शुद्ध चीनी", "प्लास्टिक फाइबर"],
-      "en": ["Dietary fibre (Roughage)", "Only fat", "Only pure sugar", "Plastic fiber"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q120",
-    "topic": "deficiency-diseases",
-    "difficulty": "hard",
-    "question": {
-      "hi": "विटामिन बी-1 की कमी से कौन सा अभावजन्य रोग होता है?",
-      "en": "Which deficiency disease is caused by the lack of Vitamin B-1?"
-    },
-    "options": {
-      "hi": ["बेरी-बेरी (Beriberi)", "स्कर्वी", "रिकेट्स", "घेंघा (Goitre)"],
-      "en": ["Beriberi", "Scurvy", "Rickets", "Goitre"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q121",
-    "topic": "deficiency-diseases",
-    "difficulty": "hard",
-    "question": {
-      "hi": "आयोडीन की कमी से कौन सा रोग हो सकता है?",
-      "en": "Which disease can be caused by the deficiency of iodine?"
-    },
-    "options": {
-      "hi": ["घेंघा (गॉइटर)", "बेरी-बेरी", "अंधेपन", "एनीमिया"],
-      "en": ["Goitre", "Beriberi", "Blindness", "Anemia"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q122",
-    "topic": "deficiency-diseases",
-    "difficulty": "hard",
-    "question": {
-      "hi": "लोहे (Iron) की कमी से हमारे शरीर में कौन सी बीमारी या स्थिति उत्पन्न होती है?",
-      "en": "What condition or disease is caused in our body due to the deficiency of iron?"
-    },
-    "options": {
-      "hi": ["अरक्तता (Anemia / रक्ताल्पता)", "स्कर्वी", "रिकेट्स", "बेरी-बेरी"],
-      "en": ["Anemia", "Scurvy", "Rickets", "Beriberi"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q123",
-    "topic": "vitamins-minerals",
-    "difficulty": "medium",
-    "question": {
-      "hi": "विटामिन 'सी' सबसे प्रचुर मात्रा में किसमें पाया जाता है?",
-      "en": "Vitamin 'C' is found most abundantly in which of the following?"
-    },
-    "options": {
-      "hi": ["खट्टे फल (जैसे नींबू, आंवला, संतरा)", "चावल", "गेहूँ", "शुद्ध घी"],
-      "en": ["Citrus fruits (like lemon, amla, orange)", "Rice", "Wheat", "Pure ghee"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q124",
-    "topic": "carbohydrates-fats",
-    "difficulty": "easy",
-    "question": {
-      "hi": "वसा से हमें कार्बोहाइड्रेट की तुलना में...",
-      "en": "Fat gives us... compared to carbohydrates."
-    },
-    "options": {
-      "hi": ["अधिक ऊर्जा मिलती है", "कम ऊर्जा मिलती है", "बिल्कुल ऊर्जा नहीं मिलती", "केवल पानी मिलता है"],
-      "en": ["Much more energy", "Less energy", "No energy at all", "Only water"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q125",
-    "topic": "nutrients-overview",
-    "difficulty": "easy",
-    "question": {
-      "hi": "हमारे शरीर को भोजन के अलावा और किस अति आवश्यक घटक की आवश्यकता होती है जो पचे हुए भोजन से पोषक तत्व सोखने में मदद करता है?",
-      "en": "Apart from food, what essential component does our body need that helps absorb nutrients from digested food?"
-    },
-    "options": {
-      "hi": ["जल (Water)", "पेट्रोल", "प्लास्टिक", "कांच"],
-      "en": ["Water", "Petrol", "Plastic", "Glass"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q126",
-    "topic": "deficiency-diseases",
-    "difficulty": "medium",
-    "question": {
-      "hi": "विटामिन सी की कमी से कौन सा रोग होता है?",
-      "en": "Which disease is caused by the deficiency of Vitamin C?"
-    },
-    "options": {
-      "hi": ["स्कर्वी (Scurvy)", "रिकेट्स", "बेरी-बेरी", "घेंघा"],
-      "en": ["Scurvy", "Rickets", "Beriberi", "Goitre"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q127",
-    "topic": "deficiency-diseases",
-    "difficulty": "medium",
-    "question": {
-      "hi": "कैल्सियम की कमी से हमारे शरीर में मुख्य रूप से क्या कमजोर होता है?",
-      "en": "What mainly weakens in our body due to the deficiency of calcium?"
-    },
-    "options": {
-      "hi": ["अस्थियाँ और दाँत", "बाल", "खून", "त्वचा"],
-      "en": ["Bones and teeth", "Hair", "Blood", "Skin"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q128",
-    "topic": "balanced-diet",
-    "difficulty": "medium",
-    "question": {
-      "hi": "क्या केवल फल खाने से ही हमारे शरीर को सभी आवश्यक पोषक तत्व मिल जाते हैं?",
-      "en": "Does eating only fruits provide all the essential nutrients to our body?"
-    },
-    "options": {
-      "hi": ["नहीं, शरीर को विविध प्रकार के खाद्य पदार्थों की आवश्यकता होती है", "हाँ, केवल फल पर्याप्त हैं", "केवल पानी काफी है", "इनमें से कोई नहीं"],
-      "en": ["No, the body needs a variety of food items", "Yes, only fruits are sufficient", "Only water is enough", "None of these"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q129",
-    "topic": "nutrients-overview",
-    "difficulty": "easy",
-    "question": {
-      "hi": "भोजन में विभिन्न घटकों का होना क्यों जरूरी है?",
-      "en": "Why is it necessary to have different components in food?"
-    },
-    "options": {
-      "hi": ["शरीर के अलग-अलग कार्यों और विकास के लिए", "केवल स्वाद बदलने के लिए", "वजन बढ़ाने के लिए", "भोजन बर्बाद करने के लिए"],
-      "en": ["For various functions and development of the body", "Only to change taste", "To increase weight", "To waste food"]
-    },
-    "correct": 0
-  },
-  {
-    "id": "ch1_q130",
-    "topic": "deficiency-diseases",
-    "difficulty": "hard",
-    "question": {
-      "hi": "रिकेट्स (Rickets) रोग किस विटामिन की कमी के कारण होता है?",
-      "en": "Rickets disease is caused due to the deficiency of which vitamin?"
-    },
-    "options": {
-      "hi": ["विटामिन डी (Vitamin D)", "विटामिन ए", "विटामिन सी", "विटामिन बी"],
-      "en": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin B"]
+      "hi": [
+        "क्षीण दृष्टि (अंधेपन)",
+        "बेरी-बेरी",
+        "स्कर्वी",
+        "रिकेट्स"
+      ],
+      "en": [
+        "Loss of vision (Night blindness)",
+        "Beriberi",
+        "Scurvy",
+        "Rickets"
+      ]
     },
     "correct": 0
   }
