@@ -25,6 +25,40 @@ const DataLoader = (function () {
     return res.json();
   }
 
+  /**
+   * questions.json has shown up in two shapes across chapters:
+   *   - a raw array:      [ {...}, {...} ]
+   *   - a wrapped object: { "questions": [ {...}, {...} ] }
+   * Accept both so a chapter's file format never silently empties the bank.
+   */
+  function extractQuestionArray(questionData) {
+    if (Array.isArray(questionData)) return questionData;
+    if (questionData && Array.isArray(questionData.questions)) return questionData.questions;
+    return [];
+  }
+
+  /**
+   * Some question banks store the correct-option index as "correct"
+   * instead of "correctAnswer" (which is what scoreEngine/randomizer/
+   * practiceEngine all read). Normalize here — the single point where
+   * raw data becomes the app's question shape — so nothing downstream
+   * has to special-case field names.
+   */
+  function normalizeQuestion(q) {
+    if (!q) return q;
+    const correctAnswer =
+      typeof q.correctAnswer === "number"
+        ? q.correctAnswer
+        : typeof q.correct === "number"
+        ? q.correct
+        : 0;
+    return {
+      ...q,
+      correctAnswer,
+      explanation: q.explanation || { hi: "", en: "" },
+    };
+  }
+
   async function loadChapter(classNum, subject, chapter) {
     const cacheKey = `${classNum}-${subject}-${chapter}`;
     if (cache[cacheKey]) return cache[cacheKey];
@@ -37,7 +71,7 @@ const DataLoader = (function () {
 
     const bundle = {
       meta,
-      questions: questionData.questions || [],
+      questions: extractQuestionArray(questionData).map(normalizeQuestion),
     };
     cache[cacheKey] = bundle;
     return bundle;
