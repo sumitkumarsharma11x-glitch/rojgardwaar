@@ -1,1993 +1,343 @@
-[
-  {
-    "id": "ch2_q201",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of the following materials is typically used to make a cooking utensil? / निम्नलिखित में से किस सामग्री का उपयोग आमतौर पर खाना पकाने के बर्तन बनाने के लिए किया जाता है?",
-    "options": [
-      "Paper / कागज",
-      "Cloth / कपड़ा",
-      "Metal / धातु",
-      "Rubber / रबर"
-    ],
-    "correct": 2,
-    "explanation": "Metals are strong, durable, and good conductors of heat, making them ideal for cooking utensils. / धातुएँ मजबूत, टिकाऊ और ऊष्मा की अच्छी सुचालक होती हैं, जो उन्हें खाना पकाने के बर्तनों के लिए आदर्श बनाती हैं।"
-  },
-  {
-    "id": "ch2_q202",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which object can be made using wood as the primary material? / लकड़ी का उपयोग करके मुख्य सामग्री के रूप में कौन सी वस्तु बनाई जा सकती है?",
-    "options": [
-      "Tumbler / गिलास",
-      "Chair / कुर्सी",
-      "Notebook / नोटबुक",
-      "Shirt / कमीज"
-    ],
-    "correct": 1,
-    "explanation": "Chairs are commonly made of wood because wood provides structural strength and rigidity. / कुर्सियाँ आमतौर पर लकड़ी से बनाई जाती हैं क्योंकि लकड़ी संरचनात्मक मजबूती और कठोरता प्रदान करती है।"
-  },
-  {
-    "id": "ch2_q203",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of the following is a non-metal object usually made of plastic? / निम्नलिखित में से कौन सी वस्तु आमतौर पर प्लास्टिक से बनी होती है?",
-    "options": [
-      "Iron nail / लोहे की कील",
-      "Copper wire / तांबे का तार",
-      "Bucket / बाल्टी",
-      "Gold ring / सोने की अंगूठी"
-    ],
-    "correct": 2,
-    "explanation": "Buckets are lightweight, waterproof, and durable when manufactured from plastic. / प्लास्टिक से निर्मित होने पर बाल्टी हल्की, जलरोधक और टिकाऊ होती है।"
-  },
-  {
-    "id": "ch2_q204",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Can a single object be made from different materials? / क्या एक ही वस्तु अलग-अलग सामग्रियों से बनाई जा सकती है?",
-    "options": [
-      "No, never / नहीं, कभी नहीं",
-      "Yes, an object can be made of a combination of materials / हाँ, एक वस्तु सामग्रियों के संयोजन से बनाई जा सकती है",
-      "Only if the object is made of paper / केवल तभी जब वस्तु कागज से बनी हो",
-      "Only if the object is liquid / केवल तभी जब वस्तु तरल हो"
-    ],
-    "correct": 1,
-    "explanation": "Many objects are made of a combination of materials (e.g., a pen is made of plastic and metal). / कई वस्तुएँ सामग्रियों के संयोजन से बनी होती हैं (उदाहरण के लिए, पेन प्लास्टिक और धातु से बना होता है)।"
-  },
-  {
-    "id": "ch2_q205",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Why do we group materials together? / हम सामग्रियों को एक साथ समूहीकृत (ग्रुप) क्यों करते हैं?",
-    "options": [
-      "For convenience and to study their properties / सुविधा के लिए और उनके गुणों का अध्ययन करने के लिए",
-      "To destroy them easily / उन्हें आसानी से नष्ट करने के लिए",
-      "To make them heavier / उन्हें भारी बनाने के लिए",
-      "To change their color permanently / उनके रंग को स्थायी रूप से बदलने के लिए"
-    ],
-    "correct": 0,
-    "explanation": "Sorting materials into groups helps in studying their patterns and makes it convenient to find and use them. / सामग्रियों को समूहों में छांटने से उनके पैटर्न का अध्ययन करने में मदद मिलती है और उन्हें ढूंढना तथा उपयोग करना सुविधाजनक होता है।"
-  },
-  {
-    "id": "ch2_q206",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of the following sets contains only items made of glass? / निम्नलिखित में से किस समूह में केवल कांच से बनी वस्तुएं शामिल हैं?",
-    "options": [
-      "Mirror, Tumbler, Spectacle lenses / दर्पण, गिलास, चश्मे के लेंस",
-      "Chair, Table, Wooden block / कुर्सी, मेज, लकड़ी का ब्लॉक",
-      "Shirt, Towel, Handkerchief / कमीज, तौलिया, रुमाल",
-      "Iron rod, Copper coin, Aluminium foil / लोहे की छड़, तांबे का सिक्का, एल्युमिनियम पन्नी"
-    ],
-    "correct": 0,
-    "explanation": "Mirrors, glass tumblers, and spectacle lenses are all made primarily of glass. / दर्पण, कांच के गिलास और चश्मे के लेंस सभी मुख्य रूप से कांच से बने होते हैं।"
-  },
-  {
-    "id": "ch2_q207",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which material is most suitable for making a school notebook? / स्कूली नोटबुक बनाने के लिए कौन सी सामग्री सबसे उपयुक्त है?",
-    "options": [
-      "Glass / कांच",
-      "Paper / कागज",
-      "Iron / लोहा",
-      "Rubber / रबर"
-    ],
-    "correct": 1,
-    "explanation": "Paper is lightweight, flexible, and takes ink well, making it ideal for notebooks. / कागज हल्का, लचीला होता है और स्याही को अच्छी तरह सोखता है, जो इसे नोटबुक के लिए आदर्श बनाता है।"
-  },
-  {
-    "id": "ch2_q208",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Which of the following objects can be made from leather? / निम्नलिखित में से कौन सी वस्तु चमड़े से बनाई जा सकती है?",
-    "options": [
-      "Glass bottle / कांच की बोतल",
-      "Shoes / जूते",
-      "Steel plate / स्टील की प्लेट",
-      "Clay pot / मिट्टी का बर्तन"
-    ],
-    "correct": 1,
-    "explanation": "Leather is flexible and tough, making it widely used for shoes, belts, and jackets. / चमड़ा लचीला और मजबूत होता है, जिससे यह जूते, बेल्ट और जैकेट के लिए व्यापक रूप से उपयोग किया जाता है।"
-  },
-  {
-    "id": "ch2_q209",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Different types of objects are found in a classroom. Which of these is made of wood? / कक्षा में विभिन्न प्रकार की वस्तुएं पाई जाती हैं। इनमें से कौन सी लकड़ी से बनी है?",
-    "options": [
-      "Blackboard duster / ब्लैकबोर्ड डस्टर",
-      "Chalk stick / चाक की छड़ी",
-      "Steel scale / स्टील पैमाना",
-      "Plastic pen / प्लास्टिक पेन"
-    ],
-    "correct": 0,
-    "explanation": "A traditional blackboard duster typically has a wooden base holding the cloth or foam. / पारंपरिक ब्लैकबोर्ड डस्टर के आधार पर कपड़ा या फोम पकड़ने के लिए लकड़ी का बेस होता है।"
-  },
-  {
-    "id": "ch2_q210",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "What is common among a cricket bat, a wooden stool, and a matchbox? / क्रिकेट बल्ले, लकड़ी के स्टूल और माचिस की डिब्बी में क्या समानता है?",
-    "options": [
-      "All are made of metal / सभी धातु से बने हैं",
-      "All are made of wood / सभी लकड़ी से बने हैं",
-      "All are made of glass / सभी कांच से बने हैं",
-      "All are made of plastic / सभी प्लास्टिक से बने हैं"
-    ],
-    "correct": 1,
-    "explanation": "Wood is the primary material used in making cricket bats, wooden stools, and matchboxes. / क्रिकेट के बल्ले, लकड़ी के स्टूल और माचिस की डिब्बी बनाने में लकड़ी मुख्य सामग्री है।"
-  },
-  {
-    "id": "ch2_q211",
-    "topic": "objects-around-us",
-    "difficulty": "hard",
-    "question": "Which statement best describes the relationship between materials and objects? / कौन सा कथन सामग्रियों और वस्तुओं के बीच के संबंध का सबसे अच्छा वर्णन करता है?",
-    "options": [
-      "A given material can be used to make only one type of object. / दी गई सामग्री का उपयोग केवल एक प्रकार की वस्तु बनाने के लिए किया जा सकता है।",
-      "Different objects can be made from the same material or different materials. / विभिन्न वस्तुएं एक ही सामग्री या अलग-अलग सामग्रियों से बनाई जा सकती हैं।",
-      "All objects are made of the exact same material. / सभी वस्तुएं बिल्कुल एक ही सामग्री से बनी होती हैं।",
-      "Materials have no role in determining the function of an object. / किसी वस्तु के कार्य को निर्धारित करने में सामग्रियों की कोई भूमिका नहीं होती है।"
-    ],
-    "correct": 1,
-    "explanation": "One material can form multiple objects, and one object can be made of multiple materials. / एक सामग्री से कई वस्तुएं बन सकती हैं, और एक वस्तु कई सामग्रियों से बन सकती है।"
-  },
-  {
-    "id": "ch2_q212",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Which of the following groups contains items that are all made of plastic? / निम्नलिखित में से किस समूह में ऐसी वस्तुएं हैं जो पूरी तरह से प्लास्टिक से बनी हैं?",
-    "options": [
-      "Comb, Toothbrush, Water mug / कंघी, टूथब्रश, पानी का मग",
-      "Knife, Spoon, Fork / चाकू, चम्मच, कांटा",
-      "Key, Lock, Chain / चाबी, ताला, जंजीर",
-      "Book, Pencil, Eraser / किताब, पेंसिल, रबर"
-    ],
-    "correct": 0,
-    "explanation": "Combs, toothbrushes, and water mugs are commonly molded out of plastics. / कंघी, टूथब्रश और पानी के मग आमतौर पर प्लास्टिक से ढाले जाते हैं।"
-  },
-  {
-    "id": "ch2_q213",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of these materials is obtained from plants or trees? / इनमें से कौन सी सामग्री पौधों या पेड़ों से प्राप्त होती है?",
-    "options": [
-      "Glass / कांच",
-      "Cotton / कपास",
-      "Plastic / प्लास्टिक",
-      "Iron / लोहा"
-    ],
-    "correct": 1,
-    "explanation": "Cotton is a natural fiber obtained from the cotton plant bolls. / कपास कपास के पौधे के गोलकों से प्राप्त होने वाला एक प्राकृतिक रेशा है।"
-  },
-  {
-    "id": "ch2_q214",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Why is paper not used to make a water-holding bucket? / पानी रोकने वाली बाल्टी बनाने के लिए कागज का उपयोग क्यों नहीं किया जाता है?",
-    "options": [
-      "Because paper is too heavy / क्योंकि कागज बहुत भारी होता है",
-      "Because paper dissolves or tears easily when wet / क्योंकि कागज गीला होने पर आसानी से घुल जाता है या फट जाता है",
-      "Because paper is magnetic / क्योंकि कागज चुंबकीय होता है",
-      "Because paper is a metal / क्योंकि कागज एक धातु है"
-    ],
-    "correct": 1,
-    "explanation": "Paper loses its strength and tears when it comes in contact with water, making it unsuitable for buckets. / पानी के संपर्क में आने पर कागज अपनी ताकत खो देता है और फट जाता है, जिससे यह बाल्टी के लिए अनुपयुक्त हो जाता है।"
-  },
-  {
-    "id": "ch2_q215",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Which item among the following is manufactured using clay or mud? / निम्नलिखित में से कौन सी वस्तु मिट्टी या कीचड़ का उपयोग करके बनाई जाती है?",
-    "options": [
-      "Earthen pot (Matka) / मिट्टी का घड़ा",
-      "Steel spoon / स्टील का चम्मच",
-      "Nylon rope / नायलॉन की रस्सी",
-      "Glass tumbler / कांच का गिलास"
-    ],
-    "correct": 0,
-    "explanation": "Earthen pots are shaped from clay and baked to harden them. / मिट्टी के घड़े चिकनी मिट्टी से आकार दिए जाते हैं और उन्हें सख्त करने के लिए पकाया जाता है।"
-  },
-  {
-    "id": "ch2_q216",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Identify the odd one out based on material: Iron, Aluminium, Gold, Paper. / सामग्री के आधार पर विषम को पहचानिए: लोहा, एल्युमिनियम, सोना, कागज।",
-    "options": [
-      "Iron / लोहा",
-      "Aluminium / एल्युमिनियम",
-      "Gold / सोना",
-      "Paper / कागज"
-    ],
-    "correct": 3,
-    "explanation": "Iron, aluminium, and gold are metals, whereas paper is a plant-based product. / लोहा, एल्युमिनियम और सोना धातुएं हैं, जबकि कागज पौधों पर आधारित उत्पाद है।"
-  },
-  {
-    "id": "ch2_q217",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "What determines the choice of material to make a specific object? / किसी विशिष्ट वस्तु को बनाने के लिए सामग्री के चयन को क्या निर्धारित करता है?",
-    "options": [
-      "Its properties and the purpose for which the object is to be used / इसके गुण और वह उद्देश्य जिसके लिए वस्तु का उपयोग किया जाना है",
-      "Only the color of the material / केवल सामग्री का रंग",
-      "Only the weight of the material / केवल सामग्री का वजन",
-      "The availability of free electricity / मुफ्त बिजली की उपलब्धता"
-    ],
-    "correct": 0,
-    "explanation": "The choice of material depends on its properties (like strength, flexibility, waterproof nature) and the intended use of the object. / सामग्री का चयन उसके गुणों (जैसे ताकत, लचीलापन, जलरोधक प्रकृति) और वस्तु के इच्छित उपयोग पर निर्भर करता है।"
-  },
-  {
-    "id": "ch2_q218",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of these materials is typically shiny and hard? / इनमें से कौन सी सामग्री आमतौर पर चमकदार और कठोर होती है?",
-    "options": [
-      "Cotton / कपास",
-      "Sponge / स्पंज",
-      "Iron / लोहा",
-      "Paper / कागज"
-    ],
-    "correct": 2,
-    "explanation": "Iron is a metal, which is characterized by its hardness and natural metallic lustre. / लोहा एक धातु है, जो इसकी कठोरता और प्राकृतिक धात्विक चमक की विशेषता है।"
-  },
-  {
-    "id": "ch2_q219",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Which of the following is made from plant fibers? / निम्नलिखित में से कौन सा पौधों के रेशों से बनता है?",
-    "options": [
-      "Jute bag / जूट का थैला",
-      "Iron chain / लोहे की जंजीर",
-      "Glass bottle / कांच की बोतल",
-      "Plastic container / प्लास्टिक का डिब्बा"
-    ],
-    "correct": 0,
-    "explanation": "Jute bags are made from jute plant fibers. / जूट के थैले जूट के पौधे के रेशों से बनाए जाते हैं।"
-  },
-  {
-    "id": "ch2_q220",
-    "topic": "objects-around-us",
-    "difficulty": "hard",
-    "question": "If you want to store hot boiling tea, which material container would be least suitable? / यदि आप गर्म उबलती चाय संग्रहित करना चाहते हैं, तो किस सामग्री का कंटेनर सबसे कम उपयुक्त होगा?",
-    "options": [
-      "Ceramic mug / सिरेमिक मग",
-      "Thin plastic cup that melts easily / पतली प्लास्टिक का कप जो आसानी से पिघल जाता है",
-      "Stainless steel flask / स्टेनलेस स्टील फ्लास्क",
-      "Glass cup / कांच का कप"
-    ],
-    "correct": 1,
-    "explanation": "Low-grade thin plastics deform or melt when exposed to high temperatures, making them unsuitable for boiling liquids. / कम ग्रेड के पतले प्लास्टिक उच्च तापमान के संपर्क में आने पर विकृत या पिघल जाते हैं, जिससे वे उबलते तरल पदार्थों के लिए अनुपयुक्त हो जाते हैं।"
-  },
-  {
-    "id": "ch2_q221",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of the following is NOT a material? / निम्नलिखित में से कौन सी सामग्री नहीं है?",
-    "options": [
-      "Wood / लकड़ी",
-      "Glass / कांच",
-      "Plastic / प्लास्टिक",
-      "Chair / कुर्सी"
-    ],
-    "correct": 3,
-    "explanation": "Chair is an 'object' made from materials, whereas wood, glass, and plastic are 'materials'. / कुर्सी सामग्रियों से बनी एक 'वस्तु' है, जबकि लकड़ी, कांच और प्लास्टिक 'सामग्रियां' हैं।"
-  },
-  {
-    "id": "ch2_q222",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Which material is used to make window panes in houses? / घरों में खिड़की के शीशे बनाने के लिए किस सामग्री का उपयोग किया जाता है?",
-    "options": [
-      "Wood / लकड़ी",
-      "Glass / कांच",
-      "Cardboard / गत्ता",
-      "Cloth / कपड़ा"
-    ],
-    "correct": 1,
-    "explanation": "Glass is transparent, allowing light to enter rooms while keeping wind and dust out. / कांच पारदर्शी होता है, जिससे हवा और धूल को बाहर रखते हुए कमरे में रोशनी आ सकती है।"
-  },
-  {
-    "id": "ch2_q223",
-    "topic": "objects-around-us",
-    "difficulty": "easy",
-    "question": "Which of the following objects is made of rubber? / निम्नलिखित में से कौन सी वस्तु रबर से बनी है?",
-    "options": [
-      "Eraser / रबर (इरेज़र)",
-      "Steel spoon / स्टील का चम्मच",
-      "Wooden scale / लकड़ी का पैमाना",
-      "Glass tumbler / कांच का गिलास"
-    ],
-    "correct": 0,
-    "explanation": "Erasers used in schools are typically made of rubber or synthetic rubber. / स्कूलों में उपयोग किए जाने वाले इरेज़र आमतौर पर रबर या सिंथेटिक रबर से बने होते हैं।"
-  },
-  {
-    "id": "ch2_q224",
-    "topic": "objects-around-us",
-    "difficulty": "medium",
-    "question": "Why do shopkeepers keep biscuits, sweets, and eatables in transparent glass or plastic jars? / दुकानदार बिस्कुट, मिठाइयां और खाने की चीजें पारदर्शी कांच या प्लास्टिक के जारों में क्यों रखते हैं?",
-    "options": [
-      "So that customers can easily see and identify the items / ताकि ग्राहक आसानी से वस्तुओं को देख और पहचान सकें",
-      "Because glass and plastic are very heavy / क्योंकि कांच और प्लास्टिक बहुत भारी होते हैं",
-      "To make the eatables spoil faster / खाने की चीजों को तेजी से खराब करने के लिए",
-      "Because glass attracts ants / क्योंकि कांच चींटियों को आकर्षित करता है"
-    ],
-    "correct": 0,
-    "explanation": "Transparent jars allow customers to see the contents easily without opening them. / पारदर्शी जार ग्राहकों को बिना खोले सामग्री को आसानी से देखने की अनुमति देते हैं।"
-  },
-  {
-    "id": "ch2_q225",
-    "topic": "objects-around-us",
-    "difficulty": "hard",
-    "question": "Classification of objects into groups requires identifying: / वस्तुओं को समूहों में वर्गीकृत करने के लिए किसकी पहचान की आवश्यकता होती है?",
-    "options": [
-      "Their similarities and differences / उनकी समानताएं और अंतर",
-      "Their exact weight in grams / ग्राम में उनका सटीक वजन",
-      "Their market price in rupees / रुपये में उनका बाजार मूल्य",
-      "Their date of manufacture / उनके निर्माण की तिथि"
-    ],
-    "correct": 0,
-    "explanation": "Grouping is based on finding similarities in properties and differences from other groups. / समूहीकरण गुणों में समानता और अन्य समूहों से अंतर खोजने पर आधारित है।"
-  },
-  {
-    "id": "ch2_q226",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "What is the special shine found on metals called? / धातुओं पर पाई जाने वाली विशेष चमक को क्या कहते हैं?",
-    "options": [
-      "Lustre / चमक (लस्टर)",
-      "Transparency / पारदर्शिता",
-      "Roughness / खुरदरापन",
-      "Solubility / विलेयता"
-    ],
-    "correct": 0,
-    "explanation": "Freshly cut metals generally have a shining appearance, which is known as metallic lustre. / ताजा कटी हुई धातुओं की उपस्थिति चमकदार होती है, जिसे धात्विक चमक (लस्टर) कहा जाता है।"
-  },
-  {
-    "id": "ch2_q227",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of the following materials has lustre? / निम्नलिखित में से किस सामग्री में चमक (लस्टर) होती है?",
-    "options": [
-      "Wood / लकड़ी",
-      "Gold / सोना",
-      "Paper / कागज",
-      "Chalk / चाक"
-    ],
-    "correct": 1,
-    "explanation": "Gold is a precious metal that possesses a bright metallic lustre. / सोना एक कीमती धातु है जिसमें तेज धात्विक चमक होती है।"
-  },
-  {
-    "id": "ch2_q228",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Why do some metals lose their shine and appear dull after some time? / कुछ धातुएं कुछ समय बाद अपनी चमक क्यों खो देती हैं और सुस्त दिखाई देती हैं?",
-    "options": [
-      "Due to the action of air and moisture on their surface / उनकी सतह पर हवा और नमी की क्रिया के कारण",
-      "Because they absorb sunlight / क्योंकि वे सूर्य के प्रकाश को अवशोषित करती हैं",
-      "Because they grow older like living beings / क्योंकि वे जीवित प्राणियों की तरह बड़े होते हैं",
-      "Due to heavy magnetic fields / भारी चुंबकीय क्षेत्रों के कारण"
-    ],
-    "correct": 0,
-    "explanation": "Metals react with oxygen, moisture, and gases in the air, forming a dull coating on their surface. / धातुएं हवा में ऑक्सीजन, नमी और गैसों के साथ प्रतिक्रिया करती हैं, जिससे उनकी सतह पर एक सुस्त परत बन जाती है।"
-  },
-  {
-    "id": "ch2_q229",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of the following lacks lustre? / निम्नलिखित में से किसमें चमक नहीं होती है?",
-    "options": [
-      "Silver / चांदी",
-      "Copper / तांबा",
-      "Cardboard / गत्ता",
-      "Aluminium / एल्युमिनियम"
-    ],
-    "correct": 2,
-    "explanation": "Cardboard is a paper product and does not have metallic lustre. / गत्ता एक कागज का उत्पाद है और इसमें धात्विक चमक नहीं होती है।"
-  },
-  {
-    "id": "ch2_q230",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "How can you check if a metal rod that has lost its shine actually has lustre? / आप कैसे जांच कर सकते हैं कि चमक खो चुकी धातु की छड़ में वास्तव में चमक है या नहीं?",
-    "options": [
-      "By rubbing it with sandpaper or cutting it to expose a fresh surface / इसे रेगमार (सैंडपेपर) से रगड़कर या ताजा सतह को उजागर करने के लिए काटकर",
-      "By keeping it in water for 2 hours / इसे 2 घंटे पानी में रखकर",
-      "By freezing it in a refrigerator / इसे रेफ्रिजरेटर में जमाकर",
-      "By painting it black / इसे काला रंगकर"
-    ],
-    "correct": 0,
-    "explanation": "Rubbing with sandpaper or cutting removes the dull outer layer, revealing the shining metal underneath. / रेगमार से रगड़ने या काटने से सुस्त बाहरी परत हट जाती है, जिससे नीचे की चमकदार धातु दिखाई देती है।"
-  },
-  {
-    "id": "ch2_q231",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of these is a lustrous material? / इनमें से कौन सी चमकदार सामग्री है?",
-    "options": [
-      "Steel / स्टील",
-      "Rubber / रबर",
-      "Plastic / प्लास्टिक",
-      "Jute / जूट"
-    ],
-    "correct": 0,
-    "explanation": "Steel is an alloy of iron and possesses a metallic shine. / स्टील लोहे की एक मिश्र धातु है और इसमें धात्विक चमक होती है।"
-  },
-  {
-    "id": "ch2_q232",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Materials that have lustre are generally: / जिन सामग्रियों में चमक होती है, वे आमतौर पर होती हैं:",
-    "options": [
-      "Metals / धातुएं",
-      "Non-metals like wood and paper / लकड़ी और कागज जैसे अधातु",
-      "Liquids / तरल पदार्थ",
-      "Gases / गैसें"
-    ],
-    "correct": 0,
-    "explanation": "Almost all metals (like iron, copper, gold, silver) possess lustre. / लगभग सभी धातुओं (जैसे लोहा, तांबा, सोना, चांदी) में चमक होती है।"
-  },
-  {
-    "id": "ch2_q233",
-    "topic": "properties-appearance",
-    "difficulty": "hard",
-    "question": "An iron gate left in the open for months loses its brightness and gets a reddish-brown coating (rust). What does this indicate about lustre? / महीनों तक खुले में छोड़ा गया लोहे का गेट अपनी चमक खो देता है और उस पर लाल-भूरे रंग की परत (जंग) आ जाती है। यह चमक के बारे में क्या दर्शाता है?",
-    "options": [
-      "Lustre is a permanent property that never changes. / चमक एक स्थायी गुण है जो कभी नहीं बदलता है।",
-      "Lustre can be lost due to chemical reactions with environmental factors. / पर्यावरणीय कारकों के साथ रासायनिक प्रतिक्रियाओं के कारण चमक खो सकती है।",
-      "Rusting increases the metallic lustre. / जंग लगने से धात्विक चमक बढ़ती है।",
-      "Only gold loses its lustre, never iron. / केवल सोने की चमक जाती है, लोहे की कभी नहीं।"
-    ],
-    "correct": 1,
-    "explanation": "Environmental exposure causes chemical changes (like rusting) that dull the surface lustre. / पर्यावरणीय संपर्क रासायनिक परिवर्तनों (जैसे जंग लगना) का कारण बनता है जो सतह की चमक को सुस्त कर देते हैं।"
-  },
-  {
-    "id": "ch2_q234",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of the following items is usually non-lustrous? / निम्नलिखित में से कौन सी वस्तु आमतौर पर चमकदार नहीं होती है?",
-    "options": [
-      "Gold coin / सोने का सिक्का",
-      "Silver spoon / चांदी का चम्मच",
-      "Wooden block / लकड़ी का टुकड़ा",
-      "Brass bell / पीतल की घंटी"
-    ],
-    "correct": 2,
-    "explanation": "A wooden block is non-lustrous and dull in appearance. / लकड़ी का टुकड़ा चमकदार नहीं होता है और दिखने में सुस्त होता है।"
-  },
-  {
-    "id": "ch2_q235",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Why are jewelry items made of gold and silver rather than wood or plastic? / आभूषण लकड़ी या प्लास्टिक के बजाय सोने और चांदी से क्यों बनाए जाते हैं?",
-    "options": [
-      "Because they are lustrous, precious, and durable / क्योंकि वे चमकदार, कीमती और टिकाऊ होते हैं",
-      "Because they dissolve in water easily / क्योंकि वे पानी में आसानी से घुल जाते हैं",
-      "Because they are very soft and break easily / क्योंकि वे बहुत नरम होते हैं और आसानी से टूट जाते हैं",
-      "Because they are transparent / क्योंकि वे पारदर्शी होते हैं"
-    ],
-    "correct": 0,
-    "explanation": "Gold and silver are valued for their attractive metallic lustre, rarity, and resistance to corrosion. / सोने और चांदी को उनकी आकर्षक धात्विक चमक, दुर्लभता और जंग के प्रतिरोध के लिए महत्व दिया जाता है।"
-  },
-  {
-    "id": "ch2_q236",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which property is tested when we observe whether a surface shines or looks dull? / जब हम यह देखते हैं कि कोई सतह चमकती है या सुस्त दिखती है, तो किस गुण का परीक्षण किया जाता है?",
-    "options": [
-      "Appearance / दिखावट",
-      "Solubility / विलेयता",
-      "Hardness / कठोरता",
-      "Buoyancy / उत्प्लावकता"
-    ],
-    "correct": 0,
-    "explanation": "Appearance refers to how things look, including whether they are shiny (lustrous) or dull. / दिखावट से तात्पर्य यह है कि चीजें कैसी दिखती हैं, जिसमें यह भी शामिल है कि वे चमकदार हैं या सुस्त।"
-  },
-  {
-    "id": "ch2_q237",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Which of the following metals does NOT lose its shine easily when exposed to ordinary air? / निम्नलिखित में से कौन सी धातु सामान्य हवा के संपर्क में आने पर आसानी से अपनी चमक नहीं खोती है?",
-    "options": [
-      "Gold / सोना",
-      "Iron / लोहा",
-      "Sodium / सोडियम",
-      "Potassium / पोटैशियम"
-    ],
-    "correct": 0,
-    "explanation": "Gold is a noble metal that does not react with oxygen or moisture in the air, retaining its lustre indefinitely. / सोना एक उत्कृष्ट धातु है जो हवा में ऑक्सीजन या नमी के अनिश्चित काल तक प्रतिक्रिया नहीं करती है, जिससे इसकी चमक बनी रहती है।"
-  },
-  {
-    "id": "ch2_q238",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Copper vessels often develop a green coating over time. What does this green coating hide? / तांबे के बर्तनों पर अक्सर समय के साथ हरी परत जम जाती है। यह हरी परत क्या छुपा लेती है?",
-    "options": [
-      "The metallic lustre of copper / तांबे की धात्विक चमक",
-      "The transparency of copper / तांबे की पारदर्शिता",
-      "The solubility of copper / तांबे की विलेयता",
-      "The sweetness of copper / तांबे की मिठास"
-    ],
-    "correct": 0,
-    "explanation": "The green layer covers the shiny copper surface, making it look dull until cleaned. / हरी परत चमकदार तांबे की सतह को ढक लेती है, जिससे सफाई होने तक यह सुस्त दिखाई देती है।"
-  },
-  {
-    "id": "ch2_q239",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Which of these groups contains only lustrous materials? / इनमें से किस समूह में केवल चमकदार सामग्रियां हैं?",
-    "options": [
-      "Iron, Copper, Gold / लोहा, तांबा, सोना",
-      "Wood, Plastic, Paper / लकड़ी, प्लास्टिक, कागज",
-      "Chalk, Sponge, Cotton / चाक, स्पंज, कपास",
-      "Glass, Rubber, Cloth / कांच, रबर, कपड़ा"
-    ],
-    "correct": 0,
-    "explanation": "Iron, copper, and gold are all metals that possess metallic lustre. / लोहा, तांबा और सोना सभी धातुएं हैं जिनमें धात्विक चमक होती है।"
-  },
-  {
-    "id": "ch2_q240",
-    "topic": "properties-appearance",
-    "difficulty": "hard",
-    "question": "Why do aluminium utensils get cleaned with tamarind or lemon juice to restore shine? / चमक बहाल करने के लिए इमली या नींबू के रस से एल्युमिनियम के बर्तनों को क्यों साफ किया जाता है?",
-    "options": [
-      "Because acids in lemon/tamarind dissolve the dull oxide/carbonate coating and expose the shiny metal. / क्योंकि नींबू/इमली में मौजूद एसिड सुस्त ऑक्साइड/कार्बोनेट परत को घोल देते हैं और चमकदार धातु को उजागर करते हैं।",
-      "Because lemon juice adds plastic coating to utensils / क्योंकि नींबू का रस बर्तनों पर प्लास्टिक की कोटिंग जोड़ता है",
-      "Because tamarind makes the metal magnetic / क्योंकि इमली धातु को चुंबकीय बनाती है",
-      "Because acid hardens the aluminium into steel / क्योंकि एसिड एल्युमिनियम को स्टील में बदल देता है"
-    ],
-    "correct": 0,
-    "explanation": "Acids react with the dull tarnished layer on aluminium, removing it and bringing back the original metallic shine. / एसिड एल्युमिनियम पर मौजूद सुस्त परत के साथ प्रतिक्रिया करते हैं, इसे हटाते हैं और मूल धात्विक चमक वापस लाते हैं।"
-  },
-  {
-    "id": "ch2_q241",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Is coal a lustrous material? / क्या कोयला एक चमकदार सामग्री है?",
-    "options": [
-      "Yes, it shines like gold / हाँ, यह सोने की तरह चमकता है",
-      "No, it is a dull non-metal / नहीं, यह एक सुस्त अधातु है",
-      "Yes, it is transparent / हाँ, यह पारदर्शी है",
-      "Yes, it is made of silver / हाँ, यह चांदी से बना है"
-    ],
-    "correct": 1,
-    "explanation": "Coal is a form of carbon (non-metal) and does not have metallic lustre; it is dull black. / कोयला कार्बन (अधातु) का एक रूप है और इसमें धात्विक चमक नहीं होती है; यह सुस्त काला होता है।"
-  },
-  {
-    "id": "ch2_q242",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Which of the following statements about lustre is correct? / चमक के बारे में निम्नलिखित में से कौन सा कथन सही है?",
-    "options": [
-      "Only non-metals have lustre. / केवल अधातुओं में चमक होती है।",
-      "Lustre is a characteristic property of most metals. / चमक अधिकांश धातुओं का एक विशिष्ट गुण है।",
-      "All materials in the world are lustrous. / दुनिया की सभी सामग्रियां चमकदार होती हैं।",
-      "Lustre can only be observed underwater. / चमक केवल पानी के नीचे ही देखी जा सकती है।"
-    ],
-    "correct": 1,
-    "explanation": "Metallic lustre is a defining characteristic property associated with almost all metals. / धात्विक चमक लगभग सभी धातुओं से जुड़ा एक निश्चित विशिष्ट गुण है।"
-  },
-  {
-    "id": "ch2_q243",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of the following objects has a shiny appearance when new? / निम्नलिखित में से किस वस्तु की नई होने पर चमकदार उपस्थिति होती है?",
-    "options": [
-      "Steel knife / स्टील का चाकू",
-      "Cardboard box / गत्ते का डिब्बा",
-      "Cotton shirt / सूती कमीज",
-      "Jute sack / जूट का बोरा"
-    ],
-    "correct": 0,
-    "explanation": "A new steel knife is made of metal and has a bright shining blade. / एक नया स्टील का चाकू धातु से बना होता है और इसका ब्लेड चमकीला होता है।"
-  },
-  {
-    "id": "ch2_q244",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "What happens when you cut a piece of sodium metal with a knife? / जब आप चाकू से सोडियम धातु का टुकड़ा काटते हैं तो क्या होता है?",
-    "options": [
-      "The freshly cut surface shines brightly. / ताज़ा कटी हुई सतह चमक उठती है।",
-      "It shatters into glass pieces. / यह कांच के टुकड़ों में बिखर जाता है।",
-      "It turns into blue liquid. / यह नीले तरल में बदल जाता है।",
-      "It smells like flowers. / इसमें फूलों जैसी महक आती है।"
-    ],
-    "correct": 0,
-    "explanation": "Like other metals, sodium has a shiny surface when freshly cut, though it tarnishes very quickly in air. / अन्य धातुओं की तरह, सोडियम की ताजा कटी हुई सतह चमकदार होती है, हालांकि यह हवा में बहुत जल्दी सुस्त हो जाती है।"
-  },
-  {
-    "id": "ch2_q245",
-    "topic": "properties-appearance",
-    "difficulty": "hard",
-    "question": "Why are diamond and polished glass considered shiny even though they are not metals? / हीरे और पॉलिश किए गए कांच को चमकदार क्यों माना जाता है भले ही वे धातुएं नहीं हैं?",
-    "options": [
-      "Because they reflect light strongly due to their high refractive index and smooth finish. / क्योंकि वे अपने उच्च अपवर्तनांक और चिकनी फिनिश के कारण प्रकाश को मजबूती से परावर्तित करते हैं।",
-      "Because they are good conductors of electricity. / क्योंकि वे बिजली के अच्छे सुचालक हैं।",
-      "Because they rust in water. / क्योंकि वे पानी में जंग खाते हैं।",
-      "Because they are made of iron. / क्योंकि वे लोहे से बने हैं।"
-    ],
-    "correct": 0,
-    "explanation": "High reflection and refraction of light from smooth non-metallic surfaces can create a brilliant shine, distinct from metallic lustre. / चिकनी गैर-धात्विक सतहों से प्रकाश का उच्च परावर्तन और अपवर्तन एक शानदार चमक पैदा कर सकता है, जो धात्विक चमक से अलग है।"
-  },
-  {
-    "id": "ch2_q246",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of these is a dull (non-lustrous) material? / इनमें से कौन सी एक सुस्त (बिना चमक वाली) सामग्री है?",
-    "options": [
-      "Plank of wood / लकड़ी का तख्ता",
-      "Silver coin / चांदी का सिक्का",
-      "Gold chain / सोने की जंजीर",
-      "Copper plate / तांबे की थाली"
-    ],
-    "correct": 0,
-    "explanation": "A plank of wood does not have shine and is classified as a dull material. / लकड़ी के तख्ते में चमक नहीं होती है और इसे सुस्त सामग्री के रूप में वर्गीकृत किया जाता है।"
-  },
-  {
-    "id": "ch2_q247",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "Which characteristic helps us distinguish between a metal and a piece of chalk? / कौन सी विशेषता हमें धातु और चाक के टुकड़े के बीच अंतर करने में मदद करती है?",
-    "options": [
-      "Metallic lustre and hardness / धात्विक चमक और कठोरता",
-      "Solubility in oil / तेल में विलेयता",
-      "Taste / स्वाद",
-      "Ability to fly / उड़ने की क्षमता"
-    ],
-    "correct": 0,
-    "explanation": "Metals possess lustre and are hard, whereas chalk is dull and soft (powdery). / धातुओं में चमक होती है और वे कठोर होती हैं, जबकि चाक सुस्त और नरम (पाउडर जैसी) होती है।"
-  },
-  {
-    "id": "ch2_q248",
-    "topic": "properties-appearance",
-    "difficulty": "easy",
-    "question": "Which of the following objects is shiny? / निम्नलिखित में से कौन सी वस्तु चमकदार है?",
-    "options": [
-      "Steel spoon / स्टील का चम्मच",
-      "Woolen sweater / ऊनी स्वेटर",
-      "Mud brick / मिट्टी की ईंट",
-      "Cardboard carton / गत्ते का डिब्बा"
-    ],
-    "correct": 0,
-    "explanation": "A steel spoon is made of stainless steel, which has a distinct metallic shine. / स्टील का चम्मच स्टेनलेस स्टील से बना होता है, जिसमें एक अलग धात्विक चमक होती है।"
-  },
-  {
-    "id": "ch2_q249",
-    "topic": "properties-appearance",
-    "difficulty": "medium",
-    "question": "What happens to the appearance of an iron nail when it is rubbed with sandpaper? / जब लोहे की कील को रेगमार से रगड़ा जाता है तो उसकी दिखावट का क्या होता है?",
-    "options": [
-      "It becomes shiny by removing the rust/dull layer. / जंग/सुस्त परत को हटाने से यह चमकदार हो जाती है।",
-      "It turns into plastic. / यह प्लास्टिक में बदल जाती है।",
-      "It evaporates completely. / यह पूरी तरह से वाष्पीकृत हो जाती है।",
-      "It becomes transparent. / यह पारदर्शी हो जाती है।"
-    ],
-    "correct": 0,
-    "explanation": "Sandpaper scrapes off the surface oxidation, revealing the shiny iron metal underneath. / रेगमार सतह के ऑक्सीकरण को खुरच कर हटा देता है, जिससे नीचे की चमकदार लोहे की धातु दिखाई देती है।"
-  },
-  {
-    "id": "ch2_q250",
-    "topic": "properties-appearance",
-    "difficulty": "hard",
-    "question": "Why are cooking utensils polished or made of stainless steel rather than rough cast iron in many modern kitchens? / कई आधुनिक रसोईघरों में खाना पकाने के बर्तन खुरधे ढलवा लोहे के बजाय पॉलिश किए गए या स्टेनलेस स्टील से क्यों बनाए जाते हैं?",
-    "options": [
-      "Stainless steel resists corrosion better and maintains its clean, lustrous appearance. / स्टेनलेस स्टील जंग का बेहतर प्रतिरोध करता है और अपनी साफ, चमकदार उपस्थिति बनाए रखता है।",
-      "Stainless steel is magnetic and sticks to gas burners. / स्टेनलेस स्टील चुंबकीय होता है और गैस बर्नर से चिपक जाता है।",
-      "Stainless steel dissolves in food to give sweet taste. / स्टेनलेस स्टील मीठा स्वाद देने के लिए भोजन में घुल जाता है।",
-      "Cast iron is transparent. / ढलवा लोहा पारदर्शी होता है।"
-    ],
-    "correct": 0,
-    "explanation": "Stainless steel combines durability with corrosion resistance, keeping utensils shiny and hygienic. / स्टेनलेस स्टील जंग प्रतिरोध के साथ स्थायित्व को जोड़ता है, जिससे बर्तन चमकदार और स्वच्छ रहते हैं।"
-  },
-  {
-    "id": "ch2_q251",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "What is a hard material defined as? / एक कठोर सामग्री को किस रूप में परिभाषित किया जाता है?",
-    "options": [
-      "Materials that cannot be easily compressed or scratched / वे सामग्रियां जिन्हें आसानी से संपीड़ित या खरोंचा नहीं जा सकता है",
-      "Materials that melt at room temperature / वे सामग्रियां जो कमरे के तापमान पर पिघल जाती हैं",
-      "Materials that dissolve in water / वे सामग्रियां जो पानी में घुल जाती हैं",
-      "Materials that float on water / वे सामग्रियां जो पानी पर तैरती हैं"
-    ],
-    "correct": 0,
-    "explanation": "Hard materials are those that resist compression and cannot be easily scratched by ordinary pressure. / कठोर सामग्री वे हैं जो संपीड़न का विरोध करती हैं और साधारण दबाव से आसानी से खरोंची नहीं जा सकती हैं।"
-  },
-  {
-    "id": "ch2_q252",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of the following is a soft material? / निम्नलिखित में से कौन सी एक नरम (कोमल) सामग्री है?",
-    "options": [
-      "Iron / लोहा",
-      "Sponge / स्पंज",
-      "Glass / कांच",
-      "Stone / पत्थर"
-    ],
-    "correct": 1,
-    "explanation": "Sponge can be easily compressed with hand because it is soft and has air spaces. / स्पंज को हाथ से आसानी से संपीड़ित किया जा सकता है क्योंकि यह नरम होता है और इसमें हवा की जगह होती है।"
-  },
-  {
-    "id": "ch2_q253",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "You try to scratch a piece of wood with your fingernail and then a piece of iron. What will happen? / आप अपने नाखून से लकड़ी के टुकड़े और फिर लोहे के टुकड़े को खरोंचने का प्रयास करते हैं। क्या होगा?",
-    "options": [
-      "Neither wood nor iron can be scratched by a fingernail. / न तो लकड़ी और न ही लोहे को नाखून से खरोंचा जा सकता है।",
-      "Both wood and iron can be easily scratched. / लकड़ी और लोहा दोनों को आसानी से खरोंचा जा सकता है।",
-      "Iron can be scratched easily, but wood cannot. / लोहे को आसानी से खरोंचा जा सकता है, लेकिन लकड़ी को नहीं।",
-      "Fingernail will break into pieces on wood. / लकड़ी पर नाखून टूट जाएगा।"
-    ],
-    "correct": 0,
-    "explanation": "Materials like wood and iron are harder than human fingernails, so they cannot be scratched by them. / लकड़ी और लोहे जैसी सामग्रियां मानव नाखूनों की तुलना में कठिन होती हैं, इसलिए उन्हें उनसे खरोंचा नहीं जा सकता है।"
-  },
-  {
-    "id": "ch2_q254",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of the following materials is hard? / निम्नलिखित में से कौन सी सामग्री कठोर है?",
-    "options": [
-      "Cotton / कपास",
-      "Feather / पंख",
-      "Steel rod / स्टील की छड़",
-      "Wool / ऊन"
-    ],
-    "correct": 2,
-    "explanation": "A steel rod is rigid, strong, and hard. / स्टील की छड़ कठोर, मजबूत और सख्त होती है।"
-  },
-  {
-    "id": "ch2_q255",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "Why is cotton considered soft? / कपास को नरम क्यों माना जाता है?",
-    "options": [
-      "Because it can be easily compressed and shaped by hand. / क्योंकि इसे हाथ से आसानी से संपीड़ित और आकार दिया जा सकता है।",
-      "Because it is a metal. / क्योंकि यह एक धातु है।",
-      "Because it is transparent. / क्योंकि यह पारदर्शी है।",
-      "Because it sinks in water. / क्योंकि यह पानी में डूब जाती है।"
-    ],
-    "correct": 0,
-    "explanation": "Cotton fibers yield easily to pressure and compression, classifying it as a soft material. / कपास के रेशे दबाव और संपीड़न के लिए आसानी से झुक जाते हैं, जिससे यह नरम सामग्री के रूप में वर्गीकृत होती है।"
-  },
-  {
-    "id": "ch2_q256",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "If you press a piece of chalk with a metal key, what happens to the chalk? / यदि आप धातु की चाबी से चाक के टुकड़े को दबाते हैं, तो चाक का क्या होता है?",
-    "options": [
-      "The chalk gets scratched or broken because it is softer than the metal key. / चाक पर खरोंच आ जाती है या वह टूट जाती है क्योंकि वह धातु की चाबी से नरम होती है।",
-      "The metal key gets broken. / धातु की चाबी टूट जाती है।",
-      "Nothing happens to either. / दोनों में कुछ नहीं होता है।"
-    ],
-    "correct": 0,
-    "explanation": "A harder material (metal key) can scratch or break a softer material (chalk). / एक कठोर सामग्री (धातु की चाबी) नरम सामग्री (चाक) को खरोंच या तोड़ सकती है।"
-  },
-  {
-    "id": "ch2_q257",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of the following can be compressed easily? / निम्नलिखित में से किसे आसानी से संपीड़ित किया जा सकता है?",
-    "options": [
-      "Glass marble / कांच की कंचा",
-      "Iron block / लोहे का ब्लॉक",
-      "Foam / फोम",
-      "Brick / ईंट"
-    ],
-    "correct": 2,
-    "explanation": "Foam is a soft material filled with air pockets that compress easily under pressure. / फोम हवा की जेबों से भरी एक नरम सामग्री है जो दबाव में आसानी से संपीड़ित हो जाती है।"
-  },
-  {
-    "id": "ch2_q258",
-    "topic": "properties-hardness",
-    "difficulty": "hard",
-    "question": "Can a piece of wood scratch a piece of glass? Explain based on hardness. / क्या लकड़ी का टुकड़ा कांच के टुकड़े को खроंच सकता है? कठोरता के आधार पर स्पष्ट करें।",
-    "options": [
-      "No, because glass is harder than wood. / नहीं, क्योंकि कांच लकड़ी से अधिक कठोर है।",
-      "Yes, wood is always harder than glass. / हाँ, लकड़ी हमेशा कांच से अधिक कठोर होती है।",
-      "Yes, both have the same hardness. / हाँ, दोनों की कठोरता समान होती है।"
-    ],
-    "correct": 0,
-    "explanation": "Glass is a hard material and cannot be scratched by wood, which is relatively softer. / कांच एक कठोर सामग्री है और इसे लकड़ी से नहीं खरोंचा जा सकता है, जो अपेक्षाकृत नरम है।"
-  },
-  {
-    "id": "ch2_q259",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of these is classified as a hard substance? / इनमें से किसे एक कठोर पदार्थ के रूप में वर्गीकृत किया गया है?",
-    "options": [
-      "Wax / मोम",
-      "Butter / मक्खन",
-      "Granite stone / ग्रेनाइट पत्थर",
-      "Soap / साबुन"
-    ],
-    "correct": 2,
-    "explanation": "Granite stone is an extremely hard natural material. / ग्रेनाइट पत्थर एक अत्यंत कठोर प्राकृतिक सामग्री है।"
-  },
-  {
-    "id": "ch2_q260",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "Why are mattresses made of foam or cotton rather than iron or wood? / गद्दे लोहे या लकड़ी के बजाय फोम या कपास से क्यों बनाए जाते हैं?",
-    "options": [
-      "Because foam and cotton are soft and comfortable for resting. / क्योंकि फोम और कपास नरम और आराम करने के लिए आरामदायक होते हैं।",
-      "Because iron mattresses are transparent. / क्योंकि लोहे के गद्दे पारदर्शी होते हैं।",
-      "Because cotton is a metal. / क्योंकि कपास एक धातु है।"
-    ],
-    "correct": 0,
-    "explanation": "Soft materials like foam and cotton conform to body shape and provide cushioning, unlike rigid iron or wood. / फोम और कपास जैसी नरम सामग्री शरीर के आकार के अनुकूल होती है और कुशनिंग प्रदान करती है, कठोर लोहे या लकड़ी के विपरीत।"
-  },
-  {
-    "id": "ch2_q261",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of the following objects is soft to touch? / निम्नलिखित में से कौन सी वस्तु छूने में नरम होती है?",
-    "options": [
-      "Rock / चट्टान",
-      "Feather pillow / पंख का तकिया",
-      "Iron rod / लोहे की छड़",
-      "Glass bottle / कांच की बोतल"
-    ],
-    "correct": 1,
-    "explanation": "A feather pillow is soft and compressible. / पंख का तकिया नरम और संपीड़ित होता है।"
-  },
-  {
-    "id": "ch2_q262",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "How do we test the hardness of a material in a simple classroom activity? / कक्षा की एक सामान्य गतिविधि में हम किसी सामग्री की कठोरता का परीक्षण कैसे करते हैं?",
-    "options": [
-      "By trying to scratch it with a fingernail, key, or piece of chalk / नाखून, चाबी या चाक के टुकड़े से इसे खरोंचने का प्रयास करके",
-      "By measuring its temperature / इसका तापमान मापकर",
-      "By tasting it / इसे चखकर",
-      "By listening to its sound / इसकी आवाज सुनकर"
-    ],
-    "correct": 0,
-    "explanation": "Scratching materials against each other or with a fingernail/key is the standard way to test relative hardness. / सामग्रियों को एक-दूसरे के खिलाफ या नाखून/चाबी से खरोंचना सापेक्ष कठोरता का परीक्षण करने का मानक तरीका है।"
-  },
-  {
-    "id": "ch2_q263",
-    "topic": "properties-hardness",
-    "difficulty": "hard",
-    "question": "Which of the following statements about hardness is true? / कठोरता के बारे में निम्नलिखित में से कौन सा कथन सत्य है?",
-    "options": [
-      "Hardness is a property by which some materials resist being scratched or compressed. / कठोरता वह गुण है जिसके द्वारा कुछ सामग्रियां खरोंचे जाने या संपीड़ित होने का विरोध करती हैं।",
-      "All soft materials are also soluble in water. / सभी नरम सामग्रियां पानी में भी घुलनशील होती हैं।",
-      "Hard materials can never be broken under any condition. / कठोर सामग्रियों को किसी भी स्थिति में कभी तोड़ा नहीं जा सकता है।"
-    ],
-    "correct": 0,
-    "explanation": "Resistance to scratching and compression defines the hardness of a material. / खरोंचने और संपीड़न का प्रतिरोध किसी सामग्री की कठोरता को परिभाषित करता है।"
-  },
-  {
-    "id": "ch2_q264",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of these is a hard object? / इनमें से कौन सी एक कठोर वस्तु है?",
-    "options": [
-      "Rubber band / रबर बैंड",
-      "Iron hammer / लोहे का हथौड़ा",
-      "Cotton ball / कपास की गेंद",
-      "Tissue paper / टिशू पेपर"
-    ],
-    "correct": 1,
-    "explanation": "An iron hammer is made of iron and is very hard. / लोहे का हथौड़ा लोहे से बना होता है और बहुत कठोर होता है।"
-  },
-  {
-    "id": "ch2_q265",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "Why are building foundations made of stones and concrete rather than wool or foam? / इमारत की नींव ऊन या फोम के बजाय पत्थरों और कंक्रीट से क्यों बनाई जाती है?",
-    "options": [
-      "Stones and concrete are hard and can bear heavy loads. / पत्थर और कंक्रीट कठोर होते हैं और भारी भार सहन कर सकते हैं।",
-      "Wool and foam are too shiny. / ऊन और फोम बहुत चमकदार होते हैं।",
-      "Stones float on water. / पत्थर पानी पर तैरते हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Foundations require hard, strong, and durable materials to support structural weight. / संरचनात्मक वजन का समर्थन करने के लिए नींव को कठोर, मजबूत और टिकाऊ सामग्रियों की आवश्यकता होती है।"
-  },
-  {
-    "id": "ch2_q266",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which material can be scratched easily with a fingernail? / किस सामग्री को नाखून से आसानी से खरोंचा जा सकता है?",
-    "options": [
-      "Candle wax / मोमबत्ती का मोम",
-      "Glass / कांच",
-      "Steel / स्टील",
-      "Granite / ग्रेनाइट"
-    ],
-    "correct": 0,
-    "explanation": "Wax is a soft material that can be easily scratched or deformed with a fingernail. / मोम एक नरम सामग्री है जिसे नाखून से आसानी से खरोंचा या विकृत किया जा सकता है।"
-  },
-  {
-    "id": "ch2_q267",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "Which of the following sets contains only hard materials? / निम्नलिखित में से किस समूह में केवल कठोर सामग्रियां हैं?",
-    "options": [
-      "Iron, Glass, Stone / लोहा, कांच, पत्थर",
-      "Cotton, Sponge, Wool / कपास, स्पंज, ऊन",
-      "Wax, Soap, Feather / मोम, साबुन, पंख"
-    ],
-    "correct": 0,
-    "explanation": "Iron, glass, and stone are all hard materials that resist scratching and compression. / लोहा, कांच और पत्थर सभी कठोर सामग्रियां हैं जो खरोंचने और संपीड़न का विरोध करती हैं।"
-  },
-  {
-    "id": "ch2_q268",
-    "topic": "properties-hardness",
-    "difficulty": "hard",
-    "question": "Can a diamond scratch glass? What does this tell us about diamond's hardness? / क्या हीरा कांच को खरोंच सकता है? यह हमें हीरे की कठोरता के बारे में क्या बताता है?",
-    "options": [
-      "Yes, diamond can scratch glass because it is the hardest natural substance known. / हाँ, हीरा कांच को खरोंच सकता है क्योंकि यह ज्ञात सबसे कठोर प्राकृतिक पदार्थ है।",
-      "No, diamond is softer than glass. / नहीं, हीरा कांच से नरम होता है।"
-    ],
-    "correct": 0,
-    "explanation": "Diamond has maximum hardness on the scale, allowing it to easily scratch glass and other stones. / पैमाने पर हीरे की कठोरता अधिकतम होती है, जिससे यह आसानी से कांच और अन्य पत्थरों को खरोंच सकता है।"
-  },
-  {
-    "id": "ch2_q269",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of the following is considered a soft solid? / निम्नलिखित में से किसे नरम ठोस माना जाता है?",
-    "options": [
-      "Rubber eraser / रबर इरेज़र",
-      "Iron nail / लोहे की कील",
-      "Copper coin / तांबे का सिक्का",
-      "Glass sheet / कांच की चादर"
-    ],
-    "correct": 0,
-    "explanation": "An eraser is made of soft rubber and can be easily indented or compressed. / इरेज़र नरम रबर से बना होता है और इसे आसानी से दबाया या संपीड़ित किया जा सकता है।"
-  },
-  {
-    "id": "ch2_q270",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "Why are cutting tools like knives made of hardened steel rather than wood? / काटने के उपकरण जैसे चाकू लकड़ी के बजाय कठोर स्टील से क्यों बनाए जाते हैं?",
-    "options": [
-      "Steel is hard enough to retain a sharp edge and cut other materials. / स्टील अन्य सामग्रियों को काटने और एक तेज धार बनाए रखने के लिए पर्याप्त कठोर है।",
-      "Wood is heavier than steel. / लकड़ी स्टील से भारी होती है।"
-    ],
-    "correct": 0,
-    "explanation": "Hardened steel provides the necessary hardness and strength needed for cutting edges. / कठोर स्टील काटने के किनारों के लिए आवश्यक कठोरता और ताकत प्रदान करता है।"
-  },
-  {
-    "id": "ch2_q271",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of these materials is NOT soft? / इनमें से कौन सी सामग्री नरम नहीं है?",
-    "options": [
-      "Steel nail / स्टील की कील",
-      "Sponge / स्पंज",
-      "Cotton / कपास",
-      "Foam / फोम"
-    ],
-    "correct": 0,
-    "explanation": "A steel nail is hard and rigid, not soft. / स्टील की कील कठोर और सख्त होती है, नरम नहीं।"
-  },
-  {
-    "id": "ch2_q272",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "What is the primary difference between a hard and a soft material? / एक कठोर और एक नरम सामग्री के बीच प्राथमिक अंतर क्या है?",
-    "options": [
-      "Hard materials resist scratching and compression, while soft materials do not. / कठोर सामग्रियां खरोंचने और संपीड़न का विरोध करती हैं, जबकि नरम सामग्रियां नहीं करती हैं।",
-      "Soft materials are always transparent, while hard ones are opaque. / नरम सामग्रियां हमेशा पारदर्शी होती हैं, जबकि कठोर सामग्रियां अपारदर्शी होती हैं।"
-    ],
-    "correct": 0,
-    "explanation": "The ease of being scratched or compressed distinguishes soft materials from hard ones. / खरोंचे जाने या संपीड़ित होने में आसानी नरम सामग्रियों को कठोर सामग्रियों से अलग करती है।"
-  },
-  {
-    "id": "ch2_q273",
-    "topic": "properties-hardness",
-    "difficulty": "hard",
-    "question": "If object A can scratch object B, what can we conclude? / यदि वस्तु A वस्तु B को खरोंच सकती है, तो हम क्या निष्कर्ष निकाल सकते हैं?",
-    "options": [
-      "Object A is harder than object B. / वस्तु A वस्तु B से अधिक कठोर है।",
-      "Object B is harder than object A. / वस्तु B वस्तु A से अधिक कठोर है।",
-      "Both objects have equal hardness. / दोनों वस्तुओं की कठोरता समान है।"
-    ],
-    "correct": 0,
-    "explanation": "Scratching ability is a direct indicator of relative hardness; the scratching object is harder. / खरोंचने की क्षमता सापेक्ष कठोरता का प्रत्यक्ष संकेतक है; खरोंचने वाली वस्तु अधिक कठोर होती है।"
-  },
-  {
-    "id": "ch2_q274",
-    "topic": "properties-hardness",
-    "difficulty": "easy",
-    "question": "Which of the following is a hard material found in nature? / निम्नलिखित में से कौन सी प्रकृति में पाई जाने वाली कठोर सामग्री है?",
-    "options": [
-      "Rock / चट्टान (पत्थर)",
-      "Wool / ऊन",
-      "Silk / रेशम",
-      "Paper / कागज"
-    ],
-    "correct": 0,
-    "explanation": "Rocks are hard naturally occurring solid materials. / चट्टानें प्रकृति में पाई जाने वाली कठोर ठोस सामग्रियां हैं।"
-  },
-  {
-    "id": "ch2_q275",
-    "topic": "properties-hardness",
-    "difficulty": "medium",
-    "question": "Why can a key scratch a piece of soap easily? / चाबी साबुन के टुकड़े को आसानी से क्यों खरोंच सकती है?",
-    "options": [
-      "Soap is softer than the metal key. / साबुन धातु की चाबी से नरम होता है।",
-      "Soap is magnetic. / साबुन चुंबकीय होता है।"
-    ],
-    "correct": 0,
-    "explanation": "Soap has low hardness and is easily penetrated or scratched by harder objects like keys. / साबुन की कठोरता कम होती है और चाबी जैसी कठोर वस्तुओं द्वारा आसानी से इसमें प्रवेश किया जा सकता है या खरोंचा जा सकता है।"
-  },
-  {
-    "id": "ch2_q276",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "What happens when you add common salt to water and stir? / जब आप पानी में साधारण नमक मिलाते हैं और हिलाते हैं तो क्या होता है?",
-    "options": [
-      "It completely disappears (dissolves) in water. / यह पानी में पूरी तरह गायब (घुल) हो जाता है।",
-      "It floats on top like oil. / यह तेल की तरह ऊपर तैरता है।",
-      "It settles at the bottom unchanged. / यह बिना बदले नीचे बैठ जाता है।"
-    ],
-    "correct": 0,
-    "explanation": "Common salt is soluble in water and forms a transparent solution. / साधारण नमक पानी में घुलनशील है और एक पारदर्शी घोल बनाता है।"
-  },
-  {
-    "id": "ch2_q277",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of the following substances is insoluble in water? / निम्नलिखित में से कौन सा पदार्थ पानी में अघुलनशील है?",
-    "options": [
-      "Sugar / चीनी",
-      "Salt / नमक",
-      "Sand / रेत",
-      "Lemon juice / नींबू का रस"
-    ],
-    "correct": 2,
-    "explanation": "Sand does not dissolve in water even after stirring; it settles at the bottom. / हिलाने के बाद भी रेत पानी में नहीं घुलती है; यह नीचे बैठ जाती है।"
-  },
-  {
-    "id": "ch2_q278",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "What are substances that completely disappear in water called? / वे पदार्थ जो पानी में पूरी तरह गायब हो जाते हैं, क्या कहलाते हैं?",
-    "options": [
-      "Soluble substances / घुलनशील पदार्थ",
-      "Insoluble substances / अघुलनशील पदार्थ",
-      "Opaque substances / अपारदर्शी पदार्थ"
-    ],
-    "correct": 0,
-    "explanation": "Substances that dissolve completely in water are termed soluble in water. / जो पदार्थ पानी में पूरी तरह घुल जाते हैं, उन्हें पानी में घुलनशील कहा जाता है।"
-  },
-  {
-    "id": "ch2_q279",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of these liquids mixes completely (is miscible) with water? / इनमें से कौन सा तरल पानी के साथ पूरी तरह मिल जाता है?",
-    "options": [
-      "Mustard oil / सरसों का तेल",
-      "Kerosene / मिट्टी का तेल",
-      "Vinegar / सिरका",
-      "Coconut oil / नारियल का तेल"
-    ],
-    "correct": 2,
-    "explanation": "Vinegar mixes thoroughly with water in all proportions, forming a single layer. / सिरका सभी अनुपातों में पानी के साथ अच्छी तरह मिल जाता है, जिससे एक ही परत बनती है।"
-  },
-  {
-    "id": "ch2_q280",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "What happens when you mix a few drops of mustard oil with water in a glass? / जब आप एक गिलास पानी में सरसों के तेल की कुछ बूंदें मिलाते हैं तो क्या होता है?",
-    "options": [
-      "Oil forms a separate layer floating on top of the water. / तेल पानी के ऊपर तैरती हुई एक अलग परत बनाता है।",
-      "Oil dissolves completely like sugar. / चीनी की तरह तेल पूरी तरह घुल जाता है।"
-    ],
-    "correct": 0,
-    "explanation": "Mustard oil is immiscible with water and forms a separate distinct layer on top. / सरसों का तेल पानी में अमिश्रणीय है और ऊपर एक अलग स्पष्ट परत बनाता है।"
-  },
-  {
-    "id": "ch2_q281",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Is chalk powder soluble in water? / क्या चाक पाउडर पानी में घुलनशील है?",
-    "options": [
-      "Yes, it dissolves completely. / हाँ, यह पूरी तरह घुल जाता है।",
-      "No, it is insoluble and settles down after some time. / नहीं, यह अघुलनशील है और कुछ समय बाद बैठ जाता है।"
-    ],
-    "correct": 1,
-    "explanation": "Chalk powder does not dissolve in water; it makes the water milky and settles at the bottom. / चाक पाउडर पानी में नहीं घुलता है; यह पानी को दूधिया बना देता है और नीचे बैठ जाता है।"
-  },
-  {
-    "id": "ch2_q282",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "Do gases dissolve in water? Give an example. / क्या गैसें पानी में घुलती हैं? एक उदाहरण दीजिए।",
-    "options": [
-      "Yes, oxygen gas dissolves in water, which is vital for aquatic life. / हाँ, ऑक्सीजन गैस पानी में घुलती है, जो जलीय जीवन के लिए महत्वपूर्ण है।",
-      "No gas can ever dissolve in water. / कोई भी गैस पानी में कभी नहीं घुल सकती।"
-    ],
-    "correct": 0,
-    "explanation": "Small amounts of gases like oxygen and carbon dioxide are dissolved in water, essential for fish and aquatic plants. / ऑक्सीजन और कार्बन डाइऑक्साइड जैसी गैसों की थोड़ी मात्रा पानी में घुली होती है, जो मछलियों और जलीय पौधों के लिए आवश्यक है।"
-  },
-  {
-    "id": "ch2_q283",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of the following is soluble in water? / निम्नलिखित में से कौन सा पानी में घुलनशील है?",
-    "options": [
-      "Sawdust / लकड़ी का बुरादा",
-      "Sugar / चीनी",
-      "Sand / रेत",
-      "Plastic beads / प्लास्टिक के मनके"
-    ],
-    "correct": 1,
-    "explanation": "Sugar dissolves completely in water to form a sweet solution. / चीनी मीठा घोल बनाने के लिए पानी में पूरी तरह घुल जाती है।"
-  },
-  {
-    "id": "ch2_q284",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "Why do some liquids not mix with water? / कुछ तरल पदार्थ पानी के साथ क्यों नहीं मिलते हैं?",
-    "options": [
-      "Because their chemical nature does not allow them to bind with water molecules (immiscible). / क्योंकि उनकी रासायनिक प्रकृति उन्हें पानी के अणुओं के साथ बांधने की अनुमति नहीं देती है (अमिश्रणीय)।",
-      "Because they are too cold. / क्योंकि वे बहुत ठंडे हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Immiscible liquids like oils have different molecular properties that prevent them from mixing with water. / तेल जैसे अमिश्रणीय तरल पदार्थों में अलग-अलग आणविक गुण होते हैं जो उन्हें पानी के साथ मिलने से रोकते हैं।"
-  },
-  {
-    "id": "ch2_q285",
-    "topic": "properties-solubility",
-    "difficulty": "hard",
-    "question": "If you keep stirring sugar in a single glass of water continuously for hours, will an infinite amount of sugar dissolve? / यदि आप घंटों तक लगातार एक गिलास पानी में चीनी मिलाते रहें, तो क्या असीम मात्रा में चीनी घुल जाएगी?",
-    "options": [
-      "No, water can dissolve only a certain maximum amount of sugar at a given temperature (saturation). / नहीं, एक निश्चित तापमान पर पानी केवल एक निश्चित अधिकतम मात्रा में चीनी को घोल सकता है (संतृप्ति)।",
-      "Yes, infinite sugar can dissolve in any amount of water. / हाँ, किसी भी मात्रा में पानी में अनंत चीनी घुल सकती है।"
-    ],
-    "correct": 0,
-    "explanation": "Water reaches a saturation point where no more solute can dissolve at that temperature. / पानी एक संतृप्ति बिंदु पर पहुंच जाता है जहां उस तापमान पर कोई और विलेय नहीं घुल सकता है।"
-  },
-  {
-    "id": "ch2_q286",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of the following solid substances is insoluble in water? / निम्नलिखित में से कौन सा ठोस पदार्थ पानी में अघुलनशील है?",
-    "options": [
-      "Common salt / साधारण नमक",
-      "Sugar / चीनी",
-      "Wood piece / लकड़ी का टुकड़ा",
-      "Wash soda / धोने का सोडा"
-    ],
-    "correct": 2,
-    "explanation": "A wood piece floats and does not dissolve in water. / लकड़ी का टुकड़ा तैरता है और पानी में नहीं घुलता है।"
-  },
-  {
-    "id": "ch2_q287",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "What happens when coconut oil is added to water and shaken vigorously, then left to stand? / जब नारियल के तेल को पानी में मिलाया जाता है और जोर से हिलाया जाता है, फिर थोड़ी देर के लिए छोड़ दिया जाता है, तो क्या होता है?",
-    "options": [
-      "Oil separates and forms a top layer again. / तेल अलग हो जाता है और फिर से एक शीर्ष परत बनाता है।",
-      "Oil vanishes forever into the water. / तेल हमेशा के लिए पानी में गायब हो जाता है।"
-    ],
-    "correct": 0,
-    "explanation": "Coconut oil is immiscible with water; even after shaking, it separates and floats. / नारियल का तेल पानी के साथ अमिश्रणीय है; हिलाने के बाद भी यह अलग हो जाता है और तैरता है।"
-  },
-  {
-    "id": "ch2_q288",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of these is a soluble solid in water? / इनमें से कौन सा पानी में घुलनशील ठोस है?",
-    "options": [
-      "Glucose powder / ग्लूकोज पाउडर",
-      "Glass marble / कांच का कंचा",
-      "Iron nail / लोहे की कील",
-      "Plastic toy / प्लास्टिक का खिलौना"
-    ],
-    "correct": 0,
-    "explanation": "Glucose dissolves completely in water, giving a clear mixture. / ग्लूकोज पानी में पूरी तरह घुल जाता है, जिससे एक स्पष्ट मिश्रण बनता है।"
-  },
-  {
-    "id": "ch2_q289",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "Does glowing or muddy water mean the soil dissolved in it? / क्या गंदे या मटमैले पानी का मतलब यह है कि मिट्टी उसमें घुल गई है?",
-    "options": [
-      "No, soil particles are suspended and settle down; they do not dissolve. / नहीं, मिट्टी के कण निलंबित रहते हैं और नीचे बैठ जाते हैं; वे घुलते नहीं हैं।",
-      "Yes, soil is fully soluble like sugar. / हाँ, चीनी की तरह मिट्टी पूरी तरह घुलनशील है।"
-    ],
-    "correct": 0,
-    "explanation": "Soil makes water murky because particles remain suspended or settle at the bottom; it is insoluble. / मिट्टी पानी को मटमैला बनाती है क्योंकि कण निलंबित रहते हैं या नीचे बैठ जाते हैं; यह अघुलनशील है।"
-  },
-  {
-    "id": "ch2_q290",
-    "topic": "properties-solubility",
-    "difficulty": "hard",
-    "question": "How does heating affect the solubility of most solid solutes like sugar in water? / गर्म करने से पानी में चीनी जैसे अधिकांश ठोस विलेय पदार्थों की विलेयता पर क्या प्रभाव पड़ता है?",
-    "options": [
-      "Solubility generally increases with an increase in temperature. / तापमान बढ़ने के साथ विलेयता आमतौर पर बढ़ती है।",
-      "Solubility decreases to zero instantly. / विलेयता तुरंत शून्य हो जाती है।"
-    ],
-    "correct": 0,
-    "explanation": "Heating water allows more solid solute to dissolve compared to cold water. / ठंडे पानी की तुलना में गर्म पानी अधिक ठोस विलेय को घोलने की अनुमति देता है।"
-  },
-  {
-    "id": "ch2_q291",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which liquid is immiscible with water? / कौन सा तरल पानी के साथ अमिश्रणीय है?",
-    "options": [
-      "Lemon juice / नींबू का रस",
-      "Vinegar / सिरका",
-      "Kerosene oil / मिट्टी का तेल",
-      "Milk / दूध"
-    ],
-    "correct": 2,
-    "explanation": "Kerosene oil does not mix with water and floats on top. / मिट्टी का तेल पानी के साथ नहीं मिलता है और ऊपर तैरता है।"
-  },
-  {
-    "id": "ch2_q292",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "What is the term for liquids that mix completely with each other? / एक-दूसरे के साथ पूरी तरह मिलने वाले तरल पदार्थों के लिए क्या शब्द है?",
-    "options": [
-      "Miscible / मिश्रणीय (मिसिबल)",
-      "Immiscible / अमिश्रणीय",
-      "Insoluble / अघुलनशील"
-    ],
-    "correct": 0,
-    "explanation": "Liquids that dissolve in one another in all proportions are called miscible liquids. / जो तरल पदार्थ सभी अनुपातों में एक-दूसरे में घुल जाते हैं, उन्हें मिश्रणीय तरल कहा जाता है।"
-  },
-  {
-    "id": "ch2_q293",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of the following powders will form a suspension and not dissolve in water? / निम्नलिखित में से कौन सा पाउडर पानी में निलंबन बनाएगा और घुलेगा नहीं?",
-    "options": [
-      "Salt / नमक",
-      "Sugar / चीनी",
-      "Chalk powder / चाक पाउडर",
-      "Glucose / ग्लूकोज"
-    ],
-    "correct": 2,
-    "explanation": "Chalk powder is insoluble and forms a suspension in water. / चाक पाउडर अघुलनशील है और पानी में निलंबन बनाता है।"
-  },
-  {
-    "id": "ch2_q294",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "Why is water often called a universal solvent? / पानी को अक्सर सार्वभौमिक विलायक (यूनिवर्सल सॉल्वेंट) क्यों कहा जाता है?",
-    "options": [
-      "Because it can dissolve a large variety of substances. / क्योंकि यह बड़ी संख्या में पदार्थों को घोल सकता है।",
-      "Because it dissolves everything in the universe without exception. / क्योंकि यह बिना किसी अपवाद के ब्रह्मांड में सब कुछ घोल देता है।"
-    ],
-    "correct": 0,
-    "explanation": "Water dissolves more substances than any other liquid, earning it the name universal solvent. / पानी किसी भी अन्य तरल की तुलना में अधिक पदार्थों को घोलता है, जिससे इसे सार्वभौमिक विलायक का नाम मिलता है।"
-  },
-  {
-    "id": "ch2_q295",
-    "topic": "properties-solubility",
-    "difficulty": "hard",
-    "question": "If you drop solid wax into water, does it dissolve? / यदि आप पानी में ठोस मोम डालते हैं, तो क्या यह घुल जाता है?",
-    "options": [
-      "No, wax is insoluble and floats on water. / नहीं, मोम अघुलनशील है और पानी पर तैरता है।",
-      "Yes, it dissolves instantly like sugar. / हाँ, यह चीनी की तरह तुरंत घुल जाता है।"
-    ],
-    "correct": 0,
-    "explanation": "Wax is neither soluble nor sinks; it remains solid and floats on water. / मोम न तो घुलनशील है और न ही डूबता है; यह ठोस रहता है और पानी पर तैरता है।"
-  },
-  {
-    "id": "ch2_q296",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which of these substances disappears completely when stirred in water? / इनमें से कौन सा पदार्थ पानी में हिलाए जाने पर पूरी तरह गायब हो जाता है?",
-    "options": [
-      "Sand / रेत",
-      "Common salt / साधारण नमक",
-      "Sawdust / लकड़ी का बुरादा",
-      "Stone pieces / पत्थर के टुकड़े"
-    ],
-    "correct": 1,
-    "explanation": "Common salt dissolves completely and becomes invisible in water. / साधारण नमक पूरी तरह घुल जाता है और पानी में अदृश्य हो जाता है।"
-  },
-  {
-    "id": "ch2_q297",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "What happens to a teaspoon of honey when mixed thoroughly in warm water? / गर्म पानी में अच्छी तरह मिलाने पर एक चम्मच शहद का क्या होता है?",
-    "options": [
-      "It dissolves completely, forming a uniform solution. / यह पूरी तरह घुल जाता है, जिससे एक समान घोल बनता है।",
-      "It floats as a solid lump on top. / यह ऊपर एक ठोस गांठ के रूप में तैरता है।"
-    ],
-    "correct": 0,
-    "explanation": "Honey is water-soluble and mixes evenly to form a solution. / शहद पानी में घुलनशील है और घोल बनाने के लिए समान रूप से मिलता है।"
-  },
-  {
-    "id": "ch2_q298",
-    "topic": "properties-solubility",
-    "difficulty": "easy",
-    "question": "Which substance leaves the water completely clear after stirring? / हिलाने के बाद कौन सा पदार्थ पानी को पूरी तरह साफ छोड़ देता है?",
-    "options": [
-      "Sugar / चीनी",
-      "Chalk powder / चाक पाउडर",
-      "Mud / मिट्टी",
-      "Sawdust / लकड़ी का बुरादा"
-    ],
-    "correct": 0,
-    "explanation": "Sugar dissolves completely, leaving a clear and transparent solution. / चीनी पूरी तरह घुल जाती है, जिससे एक साफ और पारदर्शी घोल बनता है।"
-  },
-  {
-    "id": "ch2_q299",
-    "topic": "properties-solubility",
-    "difficulty": "medium",
-    "question": "Why do aquatic animals survive underwater? / जलीय जंतु पानी के नीचे कैसे जीवित रहते हैं?",
-    "options": [
-      "Because oxygen gas is dissolved in water, which they breathe. / क्योंकि पानी में ऑक्सीजन गैस घुली होती है, जिसे वे सांस लेते हैं।",
-      "Because they do not need oxygen at all. / क्योंकि उन्हें बिल्कुल ऑक्सीजन की आवश्यकता नहीं होती है।"
-    ],
-    "correct": 0,
-    "explanation": "Fish use gills to take in the oxygen dissolved in water. / मछलियां पानी में घुली ऑक्सीजन को लेने के लिए गलफड़ों (गिल्स) का उपयोग करती हैं।"
-  },
-  {
-    "id": "ch2_q300",
-    "topic": "properties-solubility",
-    "difficulty": "hard",
-    "question": "Can two liquids be miscible in some amounts and immiscible in others? Give general rule for polar/non-polar. / क्या दो तरल कुछ मात्रा में मिश्रणीय और अन्य में अमिश्रणीय हो सकते हैं? (सामान्य नियम)",
-    "options": [
-      "Liquids with similar molecular polarities (like water and alcohol) are usually miscible, while dissimilar ones (water and oil) are immiscible. / समान आणविक ध्रुवीयता वाले तरल (जैसे पानी और अल्कोहल) आमतौर पर मिश्रणीय होते हैं, जबकि असमान (पानी और तेल) अमिश्रणीय होते हैं।",
-      "All liquids in the universe are miscible with each other. / ब्रह्मांड के सभी तरल एक-दूसरे के साथ मिश्रणीय हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Like dissolves like rule applies to liquid-liquid mixtures based on polarity. / ध्रुवीयता के आधार पर तरल-तरल मिश्रण पर 'समान घुले समान में' नियम लागू होता है।"
-  },
-  {
-    "id": "ch2_q301",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "What happens to a dry leaf dropped in a bucket of water? / पानी से भरी बाल्टी में गिराए गए सूखे पत्ते का क्या होता है?",
-    "options": [
-      "It floats on the water surface. / यह पानी की सतह पर तैरता है।",
-      "It sinks immediately to the bottom. / यह तुरंत नीचे डूब जाता है।"
-    ],
-    "correct": 0,
-    "explanation": "A dry leaf is lighter than water and less dense, so it floats. / सूखा पत्ता पानी से हल्का और कम घना होता है, इसलिए यह तैरता है।"
-  },
-  {
-    "id": "ch2_q302",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of the following objects will sink in water? / निम्नलिखित में से कौन सी वस्तु पानी में डूब जाएगी?",
-    "options": [
-      "Plastic ball / प्लास्टिक की गेंद",
-      "Iron nail / लोहे की कील",
-      "Wooden block / लकड़ी का टुकड़ा",
-      "Feather / पंख"
-    ],
-    "correct": 1,
-    "explanation": "An iron nail is denser than water and sinks to the bottom. / लोहे की कील पानी से सघन होती है और नीचे डूब जाती है।"
-  },
-  {
-    "id": "ch2_q303",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "Why do some objects float while others sink in water? / कुछ वस्तुएं तैरती हैं जबकि अन्य पानी में क्यों डूब जाती हैं?",
-    "options": [
-      "Due to differences in density/weight relative to water. / पानी के सापेक्ष घनत्व/वजन में अंतर के कारण।",
-      "Because floating objects are always magnetic. / क्योंकि तैरने वाली वस्तुएं हमेशा चुंबकीय होती हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Objects denser than water sink, while those less dense than water float. / पानी से सघन वस्तुएं डूब जाती हैं, जबकि पानी से कम सघन वस्तुएं तैरती हैं।"
-  },
-  {
-    "id": "ch2_q304",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of the following floats on water? / निम्नलिखित में से कौन पानी पर तैरता है?",
-    "options": [
-      "Steel key / स्टील की चाबी",
-      "Glass marble / कांच का कंचा",
-      "Piece of thermocol / थर्मोकोल का टुकड़ा",
-      "Iron coin / लोहे का सिक्का"
-    ],
-    "correct": 2,
-    "explanation": "Thermocol is very light and floats easily on water. / थर्मोकोल बहुत हल्का होता है और पानी पर आसानी से तैरता है।"
-  },
-  {
-    "id": "ch2_q305",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "If you drop a stone into a bucket of water, it sinks. What does this tell us about the stone? / यदि आप पानी की बाल्टी में पत्थर डालते हैं, तो वह डूब जाता है। यह हमें पत्थर के बारे में क्या बताता है?",
-    "options": [
-      "The stone is heavier/denser than an equal volume of water. / पत्थर पानी के समान आयतन से भारी/सघन है।",
-      "The stone is soluble in water. / पत्थर पानी में घुलनशील है।"
-    ],
-    "correct": 0,
-    "explanation": "Sinking indicates that the object's density is greater than that of water. / डूबना इंगित करता है कि वस्तु का घनत्व पानी की तुलना में अधिक है।"
-  },
-  {
-    "id": "ch2_q306",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Will a plastic pen cap float or sink in water? / क्या प्लास्टिक की पेन की टोपी पानी में तैरेगी या डूबेगी?",
-    "options": [
-      "It will float. / यह तैरेगी।",
-      "It will sink immediately. / यह तुरंत डूब जाएगी।"
-    ],
-    "correct": 0,
-    "explanation": "Plastic is generally less dense than water, causing plastic caps to float. / प्लास्टिक आम तौर पर पानी की तुलना में कम घना होता है, जिससे प्लास्टिक के ढक्कन तैरते हैं।"
-  },
-  {
-    "id": "ch2_q307",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "Can a heavy iron ship float on water? Why? / क्या एक भारी लोहे का जहाज पानी पर तैर सकता है? क्यों?",
-    "options": [
-      "Yes, because its overall shape encloses air, making its average density less than water. / हाँ, क्योंकि इसका समग्र आकार हवा को घेरता है, जिससे इसका औसत घनत्व पानी से कम हो जाता है।",
-      "No, iron can never float under any circumstance. / नहीं, लोहा किसी भी परिस्थिति में कभी नहीं तैर सकता।"
-    ],
-    "correct": 0,
-    "explanation": "Though iron sinks, a ship's hollow design displaces a large amount of water, allowing it to float (Archimedes' principle). / हालांकि लोहा डूब जाता है, लेकिन जहाज का खोखला डिज़ाइन बड़ी मात्रा में पानी विस्थापित करता है, जिससे यह तैर सकता है।"
-  },
-  {
-    "id": "ch2_q308",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of these objects will sink in water? / इनमें से कौन सी वस्तु पानी में डूबेगी?",
-    "options": [
-      "Wooden pencil / लकड़ी की पेंसिल",
-      "Plastic scale / प्लास्टिक पैमाना",
-      "Iron spoon / लोहे का चम्मच",
-      "Paper boat / कागज की नाव (शुरुआत में)"
-    ],
-    "correct": 2,
-    "explanation": "An iron spoon is made of metal and is denser than water, so it sinks. / लोहे का चम्मच धातु से बना होता है और पानी से सघन होता है, इसलिए यह डूब जाता है।"
-  },
-  {
-    "id": "ch2_q309",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "What happens when a drop of oil is placed on water? / पानी पर तेल की बूंद डालने पर क्या होता है?",
-    "options": [
-      "It floats on the water surface. / यह पानी की सतह पर तैरती है।",
-      "It sinks to the bottom. / यह नीचे डूब जाती है।"
-    ],
-    "correct": 0,
-    "explanation": "Oil is lighter than water and floats on top. / तेल पानी से हल्का होता है और ऊपर तैरता है।"
-  },
-  {
-    "id": "ch2_q310",
-    "topic": "properties-float-sink",
-    "difficulty": "hard",
-    "question": "An object sinks in water. Can we change its shape or design to make it float? / कोई वस्तु पानी में डूब जाती है। क्या हम इसे तैराने के लिए इसका आकार या डिजाइन बदल सकते हैं?",
-    "options": [
-      "Yes, by reshaping it into a hollow container (like a bowl or boat) to displace more water. / हाँ, अधिक पानी विस्थापित करने के लिए इसे खोखले बर्तन (जैसे कटोरे या नाव) के रूप में पुनर्संचमित करके।",
-      "No, once an object sinks, it can never float. / नहीं, एक बार कोई वस्तु डूबने के बाद, वह कभी नहीं तैर सकती।"
-    ],
-    "correct": 0,
-    "explanation": "Changing shape to enclose air increases volume and decreases average density, enabling flotation. / हवा को घेरने के लिए आकार बदलने से आयतन बढ़ता है और औसत घनत्व कम होता है, जिससे तैरना संभव होता है।"
-  },
-  {
-    "id": "ch2_q311",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of the following floats on water? / निम्नलिखित में से कौन पानी पर तैरता है?",
-    "options": [
-      "Coin / सिक्का",
-      "Key / चाबी",
-      "Dry straw / सूखी भूसी (तिनका)",
-      "Marble / कंचा"
-    ],
-    "correct": 2,
-    "explanation": "Dry straw is light and floats on water. / सूखी भूसी हल्की होती है और पानी पर तैरती है।"
-  },
-  {
-    "id": "ch2_q312",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "Why do ice cubes float in a glass of water? / पानी के गिलास में बर्फ के टुकड़े क्यों तैरते हैं?",
-    "options": [
-      "Because ice is slightly less dense than liquid water. / क्योंकि बर्फ तरल पानी की तुलना में थोड़ी कम घनी होती है।",
-      "Because ice is heavier than water. / क्योंकि बर्फ पानी से भारी होती है।"
-    ],
-    "correct": 0,
-    "explanation": "Ice expands upon freezing, making it less dense than liquid water, so it floats. / जमने पर बर्फ फैलती है, जिससे यह तरल पानी की तुलना में कम घनी हो जाती है, इसलिए यह तैरती है।"
-  },
-  {
-    "id": "ch2_q313",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of these objects will sink in a bucket of water? / इनमें से कौन सी वस्तु पानी की बाल्टी में डूब जाएगी?",
-    "options": [
-      "Plastic ball / प्लास्टिक की गेंद",
-      "Iron lock / लोहे का ताला",
-      "Leaf / पत्ता",
-      "Feather / पंख"
-    ],
-    "correct": 1,
-    "explanation": "An iron lock is heavy and dense, causing it to sink. / लोहे का ताला भारी और सघन होता है, जिससे यह डूब जाता है।"
-  },
-  {
-    "id": "ch2_q314",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "What is buoyancy? / उत्प्लावकता (बॉयेंसी) क्या है?",
-    "options": [
-      "The upward force exerted by a fluid on an object placed in it. / किसी तरल द्वारा उस पर रखी वस्तु पर लगाया जाने वाला ऊपर की ओर बल।",
-      "The downward pull of gravity on air. / हवा पर गुरुत्वाकर्षण का नीचे की ओर खिंचाव।"
-    ],
-    "correct": 0,
-    "explanation": "Buoyant force is the upward force experienced by objects submerged in fluids. / उत्प्लावक बल तरल पदार्थों में डूबी हुई वस्तुओं द्वारा अनुभव किया जाने वाला ऊपर की ओर बल है।"
-  },
-  {
-    "id": "ch2_q315",
-    "topic": "properties-float-sink",
-    "difficulty": "hard",
-    "question": "Why does a solid iron ball sink while a hollow iron ball of same weight might float if properly designed? / ठोस लोहे की गेंद क्यों डूबती है जबकि समान वजन की खोखली लोहे की गेंद यदि ठीक से डिजाइन की जाए तो तैर सकती है?",
-    "options": [
-      "The hollow ball displaces a larger volume of water, creating enough upward buoyant force. / खोखली गेंद पानी के बड़े आयतन को विस्थापित करती है, जिससे पर्याप्त ऊपर की ओर उत्प्लावक बल बनता है।",
-      "Iron magically changes its weight when hollow. / खोखला होने पर लोहा जादुई रूप से अपना वजन बदल देता है।"
-    ],
-    "correct": 0,
-    "explanation": "Displacement of more water increases the buoyant force relative to the object's weight. / अधिक पानी के विस्थापन से वस्तु के वजन के सापेक्ष उत्प्लावक बल बढ़ता है।"
-  },
-  {
-    "id": "ch2_q316",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of the following objects will float on water? / निम्नलिखित में से कौन सी वस्तु पानी पर तैरेगी?",
-    "options": [
-      "Steel nail / स्टील की कील",
-      "Wooden block / लकड़ी का ब्लॉक",
-      "Glass marble / कांच का कंचा",
-      "Copper wire / तांबे का तार"
-    ],
-    "correct": 1,
-    "explanation": "Wood is less dense than water and floats easily. / लकड़ी पानी की तुलना में कम घनी होती है और आसानी से तैरती है।"
-  },
-  {
-    "id": "ch2_q317",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "What happens to a piece of plastic toy dropped in water? / पानी में गिराए गए प्लास्टिक के खिलौने के टुकड़े का क्या होता है?",
-    "options": [
-      "It floats on water. / यह पानी पर तैरता है।",
-      "It sinks to the bottom instantly. / यह तुरंत नीचे डूब जाता है।"
-    ],
-    "correct": 0,
-    "explanation": "Plastic toys are typically made of low-density plastics and float. / प्लास्टिक के खिलौने आमतौर पर कम घनत्व वाले प्लास्टिक से बने होते हैं और तैरते हैं।"
-  },
-  {
-    "id": "ch2_q318",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which object will sink in water among these? / इनमें से कौन सी वस्तु पानी में डूबेगी?",
-    "options": [
-      "Cork / कॉर्क",
-      "Feather / पंख",
-      "Stone / पत्थर",
-      "Plastic straw / प्लास्टिक का तिनका"
-    ],
-    "correct": 2,
-    "explanation": "Stone is heavy and dense, causing it to sink. / पत्थर भारी और सघन होता है, जिससे यह डूब जाता है।"
-  },
-  {
-    "id": "ch2_q319",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "Why do swimmers wear inflatable tubes in water? / तैराक पानी में फूले हुए ट्यूब (इन्फ्लेटेबल ट्यूब) क्यों पहनते हैं?",
-    "options": [
-      "To increase buoyancy and prevent sinking by adding trapped air. / फंसी हुई हवा को जोड़कर उत्प्लावकता बढ़ाने और डूबने से रोकने के लिए।",
-      "To make themselves sink faster. / खुद को तेजी से डुबाने के लिए।"
-    ],
-    "correct": 0,
-    "explanation": "Inflatable tubes contain air, which has very low density and helps the person float safely. / फूले हुए ट्यूबों में हवा होती है, जिसका घनत्व बहुत कम होता है और व्यक्ति को सुरक्षित रूप से तैरने में मदद करता है।"
-  },
-  {
-    "id": "ch2_q320",
-    "topic": "properties-float-sink",
-    "difficulty": "hard",
-    "question": "If an object is placed in a liquid and its density is greater than the liquid's density, what will happen? / यदि किसी वस्तु को किसी तरल में रखा जाता है और उसका घनत्व तरल के घनत्व से अधिक होता है, तो क्या होगा?",
-    "options": [
-      "The object will sink. / वस्तु डूब जाएगी।",
-      "The object will float at the very top. / वस्तु सबसे ऊपर तैरेगी।"
-    ],
-    "correct": 0,
-    "explanation": "An object sinks if its density exceeds the density of the fluid it is placed in. / यदि किसी वस्तु का घनत्व उस तरल के घनत्व से अधिक हो जाता है जिसमें उसे रखा गया है, तो वस्तु डूब जाती है।"
-  },
-  {
-    "id": "ch2_q321",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of the following items floats on water? / निम्नलिखित में से कौन सी वस्तु पानी पर तैरती है?",
-    "options": [
-      "Iron rod / लोहे की छड़",
-      "Wax block / मोम का ब्लॉक",
-      "Sand / रेत",
-      "Glass sheet / कांच की चादर"
-    ],
-    "correct": 1,
-    "explanation": "Wax is less dense than water and floats. / मोम पानी से कम घना होता है और तैरता है।"
-  },
-  {
-    "id": "ch2_q322",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "What is the behavior of dry soil when thrown into water? / पानी में फेंके जाने पर सूखी मिट्टी का व्यवहार क्या होता है?",
-    "options": [
-      "Some organic parts float, but heavy soil particles sink to the bottom. / कुछ कार्बनिक भाग तैरते हैं, लेकिन भारी मिट्टी के कण नीचे बैठ जाते हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Heavy soil particles sink, while lighter organic debris may float initially. / भारी मिट्टी के कण डूब जाते हैं, जबकि हल्के कार्बनिक मलबे शुरू में तैर सकते हैं।"
-  },
-  {
-    "id": "ch2_q323",
-    "topic": "properties-float-sink",
-    "difficulty": "easy",
-    "question": "Which of these will float in water? / इनमें से कौन पानी में तैरेगा?",
-    "options": [
-      "Plastic spoon / प्लास्टिक का चम्मच",
-      "Steel key / स्टील की चाबी",
-      "Gold ring / सोने की अंगूठी",
-      "Silver coin / चांदी का सिक्का"
-    ],
-    "correct": 0,
-    "explanation": "Plastic spoons are lightweight and float on water. / प्लास्टिक के चम्मच हल्के होते हैं और पानी पर तैरते हैं।"
-  },
-  {
-    "id": "ch2_q324",
-    "topic": "properties-float-sink",
-    "difficulty": "medium",
-    "question": "Why does a wooden log float on water while a pebble sinks? / पानी पर लकड़ी का लट्ठा क्यों तैरता है जबकि कंकड़ डूब जाता है?",
-    "options": [
-      "Wood is less dense than water, whereas a pebble is denser than water. / लकड़ी पानी की तुलना में कम घनी होती है, जबकि कंकड़ पानी की तुलना में अधिक घना होता है।"
-    ],
-    "correct": 0,
-    "explanation": "Density relative to water determines whether wood floats or pebbles sink. / पानी के सापेक्ष घनत्व यह निर्धारित करता है कि लकड़ी तैरती है या कंकड़ डूबता है।"
-  },
-  {
-    "id": "ch2_q325",
-    "topic": "properties-float-sink",
-    "difficulty": "hard",
-    "question": "Can an object float in oil even if it sinks in water? Explain. / क्या कोई वस्तु पानी में डूबने के बावजूद तेल में तैर सकती है? स्पष्ट करें।",
-    "options": [
-      "Yes, if the object's density is between the density of oil and water. / हाँ, यदि वस्तु का घनत्व तेल और पानी के घनत्व के बीच का है।",
-      "No, objects have the same density in all liquids. / नहीं, सभी तरल पदार्थों में वस्तुओं का घनत्व समान होता है।"
-    ],
-    "correct": 0,
-    "explanation": "Since oil is less dense than water, an object denser than oil (sinks in oil) might be less dense than water (floats in water), or vice versa. / चूकि तेल पानी से कम घना होता है, तेल से अधिक घनी वस्तु (तेल में डूबती है) पानी से कम घनी हो सकती है (पानी पर तैरती है), या इसके विपरीत।"
-  },
-  {
-    "id": "ch2_q326",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "What are materials through which objects can be seen clearly called? / वे सामग्रियां जिनके माध्यम से वस्तुओं को स्पष्ट रूप से देखा जा सकता है, क्या कहलाती हैं?",
-    "options": [
-      "Transparent / पारदर्शी",
-      "Opaque / अपारदर्शी",
-      "Translucent / पारभासी"
-    ],
-    "correct": 0,
-    "explanation": "Transparent materials allow light to pass through them completely, enabling clear visibility. / पारदर्शी सामग्रियां प्रकाश को पूरी तरह से अपने से गुजरने देती हैं, जिससे स्पष्ट दृश्यता मिलती है।"
-  },
-  {
-    "id": "ch2_q327",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is a transparent material? / निम्नलिखित में से कौन सी पारदर्शी सामग्री है?",
-    "options": [
-      "Wood / लकड़ी",
-      "Glass / कांच",
-      "Cardboard / गत्ता",
-      "Iron sheet / लोहे की चादर"
-    ],
-    "correct": 1,
-    "explanation": "Glass is transparent and lets light pass right through. / कांच पारदर्शी होता है और प्रकाश को सीधे गुजरने देता है।"
-  },
-  {
-    "id": "ch2_q328",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "What are materials through which you cannot see at all called? / वे सामग्रियां जिनके माध्यम से आप बिल्कुल नहीं देख सकते हैं, क्या कहलाती हैं?",
-    "options": [
-      "Opaque / अपारदर्शी",
-      "Transparent / पारदर्शी",
-      "Translucent / पारभासी"
-    ],
-    "correct": 0,
-    "explanation": "Opaque materials block light completely, so objects behind them cannot be seen. / अपारदर्शी सामग्रियां प्रकाश को पूरी तरह से रोकती हैं, इसलिए उनके पीछे की वस्तुएं नहीं देखी जा सकती हैं।"
-  },
-  {
-    "id": "ch2_q329",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is an opaque object? / निम्नलिखित में से कौन सी एक अपारदर्शी वस्तु है?",
-    "options": [
-      "Clear water / साफ पानी",
-      "Wooden door / लकड़ी का दरवाजा",
-      "Clear glass window / कांच की साफ खिड़की",
-      "Air / हवा"
-    ],
-    "correct": 1,
-    "explanation": "A wooden door does not allow light to pass through, making it opaque. / लकड़ी का दरवाजा प्रकाश को गुजरने नहीं देता है, जिससे यह अपारदर्शी हो जाता है।"
-  },
-  {
-    "id": "ch2_q330",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "What are materials through which objects can be seen, but not clearly, called? / वे सामग्रियां जिनके माध्यम से वस्तुएं देखी जा सकती हैं, लेकिन स्पष्ट रूप से नहीं, क्या कहलाती हैं?",
-    "options": [
-      "Translucent / पारभासी",
-      "Transparent / पारदर्शी",
-      "Opaque / अपारदर्शी"
-    ],
-    "correct": 0,
-    "explanation": "Translucent materials allow light to pass through partially, giving a blurred view. / पारभासी सामग्रियां प्रकाश को आंशिक रूप से गुजरने देती हैं, जिससे धुंधला दृश्य मिलता है।"
-  },
-  {
-    "id": "ch2_q331",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is a translucent material? / निम्नलिखित में से कौन सी पारभासी सामग्री है?",
-    "options": [
-      "Clean glass / साफ कांच",
-      "Oiled paper / तेल लगा कागज",
-      "Iron sheet / लोहे की चादर",
-      "Cardboard / गत्ता"
-    ],
-    "correct": 1,
-    "explanation": "Oiled paper allows some light to pass through, making it translucent. / तेल लगा कागज कुछ प्रकाश को गुजरने देता है, जिससे यह पारभासी हो जाता है।"
-  },
-  {
-    "id": "ch2_q332",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "How can you turn a piece of plain paper into a translucent sheet? / सादे कागज के टुकड़े को पारभासी शीट में कैसे बदल सकते हैं?",
-    "options": [
-      "By applying a drop of oil or butter on it. / उस पर तेल या मक्खन की एक बूंद लगाकर।",
-      "By painting it with black coal. / इसे काले कोयले से रंगकर।"
-    ],
-    "correct": 0,
-    "explanation": "Spreading oil on paper fills tiny air gaps in fibers, allowing partial light transmission. / कागज पर तेल फैलाने से रेशों में हवा के छोटे अंतराल भर जाते हैं, जिससे आंशिक प्रकाश संचरण की अनुमति मिलती है।"
-  },
-  {
-    "id": "ch2_q333",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is transparent? / निम्नलिखित में से कौन पारदर्शी है?",
-    "options": [
-      "Air / हवा",
-      "Wood / लकड़ी",
-      "Stone / पत्थर",
-      "Book / किताब"
-    ],
-    "correct": 0,
-    "explanation": "Air is transparent and lets us see through it clearly. / हवा पारदर्शी है और हमें इसके आर-पार स्पष्ट रूप से देखने देती है।"
-  },
-  {
-    "id": "ch2_q334",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "Why are shop windows made of glass rather than wood? / दुकान की खिड़कियां लकड़ी के बजाय कांच की क्यों बनाई जाती हैं?",
-    "options": [
-      "Because glass is transparent, allowing customers to see display items from outside. / क्योंकि कांच पारदर्शी होता है, जिससे ग्राहकों को बाहर से प्रदर्शन वाली वस्तुएं दिखाई देती हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Transparency of glass lets people view products inside shops without opening doors. / कांच की पारदर्शिता लोगों को दरवाजे खोले बिना दुकानों के अंदर के उत्पादों को देखने देती है।"
-  },
-  {
-    "id": "ch2_q335",
-    "topic": "properties-transparency",
-    "difficulty": "hard",
-    "question": "If you hold a glowing torch against a thick textbook, what happens to the light? Explain based on transparency. / यदि आप एक मोटी पाठ्यपुस्तक के खिलाफ जलती हुई टॉर्च रखते हैं, तो प्रकाश का क्या होता है? पारदर्शिता के आधार पर स्पष्ट करें।",
-    "options": [
-      "The light is completely blocked because the textbook is opaque. / प्रकाश पूरी तरह से अवरुद्ध हो जाता है क्योंकि पाठ्यपुस्तक अपारदर्शी है।",
-      "The light passes through clearly. / प्रकाश स्पष्ट रूप से गुजरता है।"
-    ],
-    "correct": 0,
-    "explanation": "Textbooks are opaque materials, blocking light transmission completely. / पाठ्यपुस्तकें अपारदर्शी सामग्रियां हैं, जो प्रकाश के संचरण को पूरी तरह से रोकती हैं।"
-  },
-  {
-    "id": "ch2_q336",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is an opaque material? / निम्नलिखित में से कौन सी अपारदर्शी सामग्री है?",
-    "options": [
-      "Cardboard / गत्ता",
-      "Clean water / साफ पानी",
-      "Glass / कांच",
-      "Air / हवा"
-    ],
-    "correct": 0,
-    "explanation": "Cardboard blocks all light, making it opaque. / गत्ता सभी प्रकाश को रोकता है, जिससे यह अपारदर्शी हो जाता है।"
-  },
-  {
-    "id": "ch2_q337",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "What type of material is frosted glass used in bathroom windows? / बाथरूम की खिड़कियों में प्रयुक्त फ्रॉस्टेड ग्लास (धुंधला कांच) किस प्रकार की सामग्री है?",
-    "options": [
-      "Translucent / पारभासी",
-      "Transparent / पारदर्शी",
-      "Opaque / अपारदर्शी"
-    ],
-    "correct": 0,
-    "explanation": "Frosted glass lets light in while obscuring clear vision for privacy, making it translucent. / फ्रॉस्टेड ग्लास गोपनीयता के लिए स्पष्ट दृष्टि को अस्पष्ट करते हुए रोशनी अंदर आने देता है, जिससे यह पारभासी हो जाता है।"
-  },
-  {
-    "id": "ch2_q338",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of these allows you to see clearly through it? / इनमें से कौन आपको इसके आर-पार स्पष्ट रूप से देखने की अनुमति देता है?",
-    "options": [
-      "Clean water in a glass beaker / कांच के बीकर में साफ पानी",
-      "Muddy water / मटमैला पानी",
-      "Cardboard sheet / गत्ते की शीट",
-      "Wooden plank / लकड़ी का तख्ता"
-    ],
-    "correct": 0,
-    "explanation": "Clean water is transparent, allowing clear vision through it. / साफ पानी पारदर्शी होता है, जिससे इसके आर-पार स्पष्ट दृष्टि मिलती है।"
-  },
-  {
-    "id": "ch2_q339",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "Why can we not see through our classroom walls? / हम अपनी कक्षा की दीवारों के आर-पार क्यों नहीं देख सकते हैं?",
-    "options": [
-      "Because classroom walls are made of opaque materials like bricks and cement. / क्योंकि कक्षा की दीवारें ईंट और सीमेंट जैसी अपारदर्शी सामग्रियों से बनी होती हैं।"
-    ],
-    "correct": 0,
-    "explanation": "Bricks and cement are opaque, blocking all light from passing through. / ईंटें और सीमेंट अपारदर्शी होते हैं, जो गुजरने वाले सभी प्रकाश को रोकते हैं।"
-  },
-  {
-    "id": "ch2_q340",
-    "topic": "properties-transparency",
-    "difficulty": "hard",
-    "question": "If a plastic sheet is semi-clear and you can see a blurry outline of an object behind it, how is it classified? / यदि प्लास्टिक की शीट अर्ध-स्पष्ट है और आप इसके पीछे किसी वस्तु की धुंधली रूपरेखा देख सकते हैं, तो इसे कैसे वर्गीकृत किया जाता है?",
-    "options": [
-      "Translucent / पारभासी",
-      "Transparent / पारदर्शी",
-      "Opaque / अपारदर्शी"
-    ],
-    "correct": 0,
-    "explanation": "Blurry vision indicates partial light transmission, characteristic of translucent materials. / धुंधली दृष्टि आंशिक प्रकाश संचरण को इंगित करती है, जो पारभासी सामग्रियों की विशेषता है।"
-  },
-  {
-    "id": "ch2_q341",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is a transparent object? / निम्नलिखित में से कौन सी पारदर्शी वस्तु है?",
-    "options": [
-      "Glass tumbler / कांच का गिलास",
-      "Steel tumbler / स्टील का गिलास",
-      "Clay pot / मिट्टी का बर्तन",
-      "Wooden box / लकड़ी का डिब्बा"
-    ],
-    "correct": 0,
-    "explanation": "A glass tumbler is made of glass and is transparent. / कांच का गिलास कांच से बना होता है और पारदर्शी होता है।"
-  },
-  {
-    "id": "ch2_q342",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "What is the primary characteristic that separates transparent materials from opaque ones? / पारदर्शी सामग्रियों को अपारदर्शी सामग्रियों से अलग करने वाली प्राथमिक विशेषता क्या है?",
-    "options": [
-      "Transmission of light versus blocking of light / प्रकाश का संचरण बनाम प्रकाश को रोकना",
-      "Color of the material / सामग्री का रंग"
-    ],
-    "correct": 0,
-    "explanation": "Transparent materials let light pass through clearly, while opaque materials block light entirely. / पारदर्शी सामग्रियां प्रकाश को स्पष्ट रूप से गुजरने देती हैं, जबकि अपारदर्शी सामग्रियां प्रकाश को पूरी तरह से रोकती हैं।"
-  },
-  {
-    "id": "ch2_q343",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of these is opaque? / इनमें से कौन अपारदर्शी है?",
-    "options": [
-      "Metal sheet / धातु की चादर",
-      "Clear air / साफ हवा",
-      "Pure water / शुद्ध पानी",
-      "Clean glass / साफ कांच"
-    ],
-    "correct": 0,
-    "explanation": "Metal sheets do not let light pass through and are opaque. / धातु की चादरें प्रकाश को गुजरने नहीं देती हैं और अपारदर्शी होती हैं।"
-  },
-  {
-    "id": "ch2_q344",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "Why do cars have transparent windshields? / कारों में पारदर्शी विंडशील्ड क्यों होती हैं?",
-    "options": [
-      "To allow the driver to see the road ahead clearly while driving. / ड्राइवर को गाड़ी चलाते समय आगे की सड़क को स्पष्ट रूप से देखने की अनुमति देने के लिए।"
-    ],
-    "correct": 0,
-    "explanation": "Transparent windshields provide safety by giving an unobstructed view of the road. / पारदर्शी विंडशील्ड सड़क का अबाधित दृश्य देकर सुरक्षा प्रदान करती हैं।"
-  },
-  {
-    "id": "ch2_q345",
-    "topic": "properties-transparency",
-    "difficulty": "hard",
-    "question": "If you smear butter on a piece of paper, why does it become possible to see faint light through it? / यदि आप कागज के टुकड़े पर मक्खन मलते हैं, तो इसके माध्यम से धुंधली रोशनी देखना क्यों संभव हो जाता है?",
-    "options": [
-      "Butter fills gaps in paper fibers, reducing light scattering and making it translucent. / मक्खन कागज के रेशों में अंतराल को भर देता है, प्रकाश प्रकीर्णन को कम करता है और इसे पारभासी बनाता है।"
-    ],
-    "correct": 0,
-    "explanation": "Filling air gaps with a substance of similar refractive index increases light transmission (translucency). / समान अपवर्तनांक वाले पदार्थ से हवा के अंतराल को भरने से प्रकाश संचरण (पारदर्शिता) बढ़ता है।"
-  },
-  {
-    "id": "ch2_q346",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of the following is translucent? / निम्नलिखित में से कौन पारभासी है?",
-    "options": [
-      "Tissue paper / टिशू पेपर",
-      "Clear glass / साफ कांच",
-      "Solid brick / ठोस ईंट",
-      "Iron plate / लोहे की प्लेट"
-    ],
-    "correct": 0,
-    "explanation": "Tissue paper lets some light pass through, making it translucent. / टिशू पेपर कुछ प्रकाश को गुजरने देता है, जिससे यह पारभासी हो जाता है।"
-  },
-  {
-    "id": "ch2_q347",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "How are objects categorized based on how light passes through them? / प्रकाश उनके माध्यम से कैसे गुजरता है, इसके आधार पर वस्तुओं को कैसे वर्गीकृत किया जाता है?",
-    "options": [
-      "Transparent, Translucent, and Opaque / पारदर्शी, पारभासी और अपारदर्शी",
-      "Soluble, Insoluble, and Miscible / घुलनशील, अघुलनशील और मिश्रणीय"
-    ],
-    "correct": 0,
-    "explanation": "Materials are grouped into transparent, translucent, and opaque categories according to their light transmission properties. / प्रकाश संचरण गुणों के अनुसार सामग्रियों को पारदर्शी, पारभासी और अपारदर्शी श्रेणियों में समूहीकृत किया जाता है।"
-  },
-  {
-    "id": "ch2_q348",
-    "topic": "properties-transparency",
-    "difficulty": "easy",
-    "question": "Which of these is a transparent medium? / इनमें से कौन सा एक पारदर्शी माध्यम है?",
-    "options": [
-      "Clean air / साफ हवा",
-      "Thick wool / मोटा ऊन",
-      "Cardboard / गत्ता",
-      "Wood log / लकड़ी का लट्ठा"
-    ],
-    "correct": 0,
-    "explanation": "Clean air is transparent. / साफ हवा पारदर्शी होती है।"
-  },
-  {
-    "id": "ch2_q349",
-    "topic": "properties-transparency",
-    "difficulty": "medium",
-    "question": "Why can we see objects placed behind a clear glass pane? / हम स्पष्ट कांच के फलक के पीछे रखी वस्तुओं को क्यों देख सकते हैं?",
-    "options": [
-      "Because glass is transparent and allows light rays to pass straight through. / क्योंकि कांच पारदर्शी होता है और प्रकाश किरणों को सीधे गुजरने की अनुमति देता है।"
-    ],
-    "correct": 0,
-    "explanation": "Transparent glass permits unhindered transmission of light from the object to our eyes. / पारदर्शी कांच वस्तु से हमारी आंखों तक प्रकाश के अबाधित संचरण की अनुमति देता है।"
-  },
-  {
-    "id": "ch2_q350",
-    "topic": "properties-transparency",
-    "difficulty": "hard",
-    "question": "Why are sunglasses often translucent or tinted rather than fully transparent like window glass? / धूप का चश्मा (सनग्लास) खिड़की के कांच की तरह पूरी तरह से पारदर्शी होने के बजाय अक्सर पारभासी या रंजित (टिंटेड) क्यों होता है?",
-    "options": [
-      "To reduce glare and limit the amount of bright sunlight entering the eyes. / चकाचौंध को कम करने और आंखों में प्रवेश करने वाले तेज सूर्य के प्रकाश की मात्रा को सीमित करने के लिए।"
-    ],
-    "correct": 0,
-    "explanation": "Tinted lenses absorb or reflect a portion of light, preventing harsh glare while allowing comfortable vision. / रंजित लेंस प्रकाश के एक हिस्से को अवशोषित या परावर्तित करते हैं, जिससे आरामदायक दृष्टि की अनुमति देते हुए तेज चकाचौंध से बचाव होता है।"
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-02",
+  "chapterNumber": 2,
+  "chapterName": {
+    "hi": "पदार्थों के समूह बनाना",
+    "en": "Sorting Materials into Groups"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "objects-around-us",
+      "name": {
+        "hi": "हमारे चारों ओर की वस्तुएँ और वर्गीकरण",
+        "en": "Objects Around Us & Classification"
+      }
+    },
+    {
+      "id": "properties-appearance",
+      "name": {
+        "hi": "गुण: दिखावट और चमक",
+        "en": "Properties: Appearance and Lustre"
+      }
+    },
+    {
+      "id": "properties-hardness",
+      "name": {
+        "hi": "गुण: कठोरता और कोमलता",
+        "en": "Properties: Hardness and Softness"
+      }
+    },
+    {
+      "id": "properties-solubility",
+      "name": {
+        "hi": "गुण: जल में विलेयता",
+        "en": "Properties: Solubility in Water"
+      }
+    },
+    {
+      "id": "properties-float-sink",
+      "name": {
+        "hi": "गुण: तैरना और डूबना",
+        "en": "Properties: Floating and Sinking"
+      }
+    },
+    {
+      "id": "properties-transparency",
+      "name": {
+        "hi": "गुण: पारदर्शिता",
+        "en": "Properties: Transparency"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "हमारे चारों ओर की वस्तुएं अनेक प्रकार की सामग्रियों से बनी होती हैं। किसी भी वस्तु को बनाने के लिए ऐसी सामग्री का चयन किया जाता है जो उसके उपयोग और गुणों के अनुकूल हो। सामग्रियों को उनकी समानताओं और भिन्नताओं के आधार पर समूहों में व्यवस्थित करना 'वर्गीकरण' कहलाता है, जिससे उनका अध्ययन और उपयोग करना आसान हो जाता है।",
+      "example": "एक ही सामग्री जैसे लकड़ी का उपयोग कुर्सी, मेज, हल, और बल्ले जैसी विभिन्न वस्तुओं को बनाने के लिए किया जा सकता है; इसी प्रकार एक वस्तु जैसे थाली धातु, कांच या प्लास्टिक की बन सकती है।",
+      "sections": [
+        {
+          "title": "हमारे चारों ओर की वस्तुएँ और वर्गीकरण",
+          "concept": "हमारे चारों ओर की सभी वस्तुएं किसी न किसी सामग्री (जैसे लकड़ी, धातु, प्लास्टिक, कांच, कागज) से बनी हैं और इन्हें गुणों के आधार पर समूहों में बांटा जाता है।",
+          "explanation": "हम अपने दैनिक जीवन में अनगिनत वस्तुएं देखते हैं — कपड़े, किताबें, बर्तन, खिलौने आदि। इनमें से कुछ वस्तुएं एक ही पदार्थ से बन सकती हैं या अलग-अलग पदार्थों के संयोजन से। पदार्थों को उनके गुणों के आधार पर समूहीकृत करने से हमें वस्तुओं को खोजने, उनकी पहचान करने और उनके गुणों का अध्ययन करने में सुविधा होती है।",
+          "example": "दुकानदार द्वारा बिस्कुट, साबुन या दालों को अलग-अलग श्रेणियों में व्यवस्थित करना वर्गीकरण का एक व्यावहारिक उदाहरण है।",
+          "keyPoints": [
+            "वस्तुएं एक या एक से अधिक सामग्रियों से बन सकती हैं।",
+            "एक ही सामग्री से कई अलग-अलग वस्तुएं बनाई जा सकती हैं।",
+            "सामग्री का चयन उसके उपयोग और गुणों पर निर्भर करता है।",
+            "वर्गीकरण से अध्ययन और खोजबीन आसान हो जाती है।",
+            "विभिन्न वस्तुएं लकड़ी, धातु, प्लास्टिक, कांच आदि से निर्मित होती हैं।"
+          ]
+        },
+        {
+          "title": "गुण: दिखावट और चमक (Appearance & Lustre)",
+          "concept": "सामग्रियां दिखने में एक-दूसरे से भिन्न होती हैं — कुछ बहुत चमकदार होती हैं जिन्हें धातु कहा जाता है, जबकि कुछ सुस्त होती हैं।",
+          "explanation": "धातुओं (जैसे लोहा, तांबा, एल्युमिनियम, सोना) की सतह पर एक विशेष चमक होती है जिसे 'धात्विक चमक' (lustre) कहते हैं। समय बीतने के साथ वायु और नमी की क्रिया के कारण धातुएं अपनी चमक खो सकती हैं, जिन्हें रेगमार से रगड़ने या काटने पर उनकी ताजी चमकदार सतह दिखाई देती है। लकड़ी, कागज और गत्ते जैसी सामग्रियां चमकदार नहीं होतीं।",
+          "example": "सोने या चांदी के आभूषण उनकी तेज चमक के कारण आकर्षक लगते हैं, जबकि लकड़ी के टुकड़े में कोई चमक नहीं होती।",
+          "keyPoints": [
+            "धातुओं में विशेष चमक (लस्टर) होती है।",
+            "लोहा, तांबा, सोना, एल्युमिनियम चमकदार सामग्रियां हैं।",
+            "लकड़ी, कागज, गत्ता और चाक सुस्त (non-lustrous) होते हैं।",
+            "हवा और नमी के कारण धातुएं अपनी चमक खो सकती हैं।",
+            "रेगमार से रगड़ने पर धातु की चमक फिर से दिखाई देने लगती है।"
+          ]
+        },
+        {
+          "title": "गुण: कठोरता और कोमलता (Hardness & Softness)",
+          "concept": "कुछ सामग्रियां दबाने या खरोंचने पर आसानी से संपीड़ित नहीं होतीं (कठोर), जबकि कुछ को आसानी से दबाया जा सकता है (कोमल)।",
+          "explanation": "कठोर सामग्रियां (जैसे लोहा, पत्थर, कांच) को नाखून या चाबी से आसानी से नहीं खरोंचा जा सकता। इसके विपरीत, कोमल सामग्रियां (जैसे स्पंज, कपास, मोम, साबुन) आसानी से संपीड़ित हो जाती हैं या उन पर खरोंच आ जाती है। यह गुण किसी वस्तु की मजबूती और उपयोगिता तय करता है।",
+          "example": "गद्दे बनाने के लिए फोम या कपास का उपयोग किया जाता है क्योंकि वे कोमल होते हैं, जबकि हथौड़ा बनाने के लिए कठोर लोहे का उपयोग किया जाता है।",
+          "keyPoints": [
+            "कठोर सामग्रियां आसानी से नहीं दबतीं या खरोंची जातीं (लोहा, पत्थर)।",
+            "कोमल सामग्रियां आसानी से संपीड़ित हो जाती हैं (स्पंज, कपास)।",
+            "नाखून या चाबी से खरोंच परीक्षण कर सापेक्ष कठोरता जांची जाती है।",
+            "हीरा ज्ञात सबसे कठोर प्राकृतिक पदार्थ है।",
+            "उपयोग के आधार पर कठोर या कोमल सामग्री का चयन होता है।"
+          ]
+        },
+        {
+          "title": "गुण: जल में विलेयता (Solubility in Water)",
+          "concept": "कुछ पदार्थ पानी में पूरी तरह घुल जाते हैं (विलेय/soluble), जबकि कुछ पदार्थ पानी में नहीं घुलते और नीचे बैठ जाते हैं या तैरते हैं (अविलेय/insoluble)।",
+          "explanation": "साधारण नमक और चीनी पानी में पूरी तरह गायब (विलीन) हो जाते हैं, जिससे पारदर्शी घोल बनता है। इसके विपरीत, रेत, चाक पाउडर और लकड़ी का बुरादा पानी में अघुलनशील हैं। तरल पदार्थों के मामले में, सिरका और नींबू का रस पानी में पूरी तरह मिल जाते हैं (मिश्रणीय), जबकि सरसों का तेल या केरोसीन पानी में नहीं मिलते और ऊपर अलग परत बनाते हैं (अमिश्रणीय)।",
+          "example": "नींबू पानी बनाते समय चीनी और नमक पानी में पूरी तरह घुल जाते हैं, लेकिन यदि तेल मिलाया जाए तो वह ऊपर तैरता रहता है।",
+          "keyPoints": [
+            "नमक और चीनी पानी में घुलनशील (विलेय) हैं।",
+            "रेत, चाक पाउडर और लकड़ी का बुरादा अघुलनशील हैं।",
+            "सिरका और नींबू का रस पानी में मिश्रणीय (miscible) हैं।",
+            "सरसों का तेल और केरोसीन पानी में अमिश्रणीय (immiscible) हैं।",
+            "पानी को 'सार्वभौमिक विलायक' कहा जाता है क्योंकि यह कई पदार्थों को घोल सकता है।"
+          ]
+        },
+        {
+          "title": "गुण: तैरना और डूबना (Floating & Sinking)",
+          "concept": "पानी में डाली जाने वाली कुछ वस्तुएं सतह पर तैरती हैं, जबकि कुछ वस्तुएं पानी में डूब जाती हैं, जो उनके घनत्व पर निर्भर करता है।",
+          "explanation": "सूखे पत्ते, लकड़ी का टुकड़ा, प्लास्टिक की गेंद और बर्फ पानी पर तैरते हैं क्योंकि वे पानी से हल्के (कम घने) होते हैं। इसके विपरीत, लोहे की कील, पत्थर का टुकड़ा और कांच का कंचा पानी में डूब जाते हैं क्योंकि वे पानी से भारी (अधिक घने) होते हैं।",
+          "example": "एक सूखी लकड़ी का लट्ठा पानी पर तैरता रहता है, जबकि एक छोटा सा लोहे का सिक्का तुरंत नीचे डूब जाता है।",
+          "keyPoints": [
+            "पानी से कम घनत्व वाली वस्तुएं तैरती हैं (लकड़ी, पत्ता, प्लास्टिक)।",
+            "पानी से अधिक घनत्व वाली वस्तुएं डूब जाती हैं (लोहा, पत्थर, सिक्का)।",
+            "बर्फ पानी पर तैरती है क्योंकि यह तरल पानी से थोड़ी कम घनी होती है।",
+            "जहाज का खोखला आकार अधिक पानी विस्थापित करके उसे तैरने में मदद करता है।",
+            "तैरना और डूबना वस्तु के घनत्व से संबंधित है।"
+          ]
+        },
+        {
+          "title": "गुण: पारदर्शिता (Transparency)",
+          "concept": "जिन सामग्रियों के आर-पार स्पष्ट रूप से देखा जा सके वे पारदर्शी (transparent) हैं, जिनके आर-पार बिल्कुल न देखा जा सके वे अपारदर्शी (opaque) हैं, और जिनके आर-पार धुंधला दिखाई दे वे पारभासी (translucent) हैं।",
+          "explanation": "कांच, साफ पानी और हवा पारदर्शी सामग्रियां हैं क्योंकि प्रकाश इनमें से पूरी तरह गुजर जाता है। लकड़ी, गत्ता और धातुएं अपारदर्शी हैं क्योंकि वे प्रकाश को रोक लेती हैं। तेल लगा कागज या फ्रॉस्टेड ग्लास पारभासी हैं क्योंकि वे प्रकाश को आंशिक रूप से गुजरने देते हैं।",
+          "example": "दुकानदार बिस्कुट और मिठाइयां देखने के लिए पारदर्शी कांच के जार का उपयोग करते हैं, जबकि गोपनीयता के लिए खिड़कियों में फ्रॉस्टेड कांच लगाया जाता है।",
+          "keyPoints": [
+            "पारदर्शी सामग्रियां प्रकाश को पूरी तरह गुजरने देती हैं (कांच, साफ पानी)।",
+            "अपारदर्शी सामग्रियां प्रकाश को रोक लेती हैं (लकड़ी, गत्ता, दीवार)।",
+            "पारभासी सामग्रियां प्रकाश को आंशिक रूप से गुजरने देती हैं (तेल लगा कागज)।",
+            "तेल या मक्खन लगाने से सादा कागज पारभासी हो जाता है।",
+            "पारदर्शिता का संबंध प्रकाश के संचरण से है।"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "वस्तुएं विभिन्न सामग्रियों से बनती हैं जो उनके गुणों पर निर्भर करती हैं।",
+        "धातुओं में विशेष चमक (लस्टर) होती है।",
+        "कठोर सामग्रियां आसानी से नहीं खरोंची जातीं, जबकि कोमल आसानी से दब जाती हैं।",
+        "नमक और चीनी पानी में घुलनशील हैं, जबकि रेत और तेल अघुलनशील/अमिश्रणीय हैं।",
+        "पानी से हल्की वस्तुएं तैरती हैं और भारी वस्तुएं डूब जाती हैं।",
+        "सामग्रियां पारदर्शिता के आधार पर पारदर्शी, अपारदर्शी और पारभासी होती हैं।",
+        "वर्गीकरण से वस्तुओं का अध्ययन सुव्यवस्थित होता है।"
+      ],
+      "examFocus": [
+        "पारदर्शी, अपारदर्शी और पारभासी सामग्रियों की पहचान करना।",
+        "जल में विलेय और अविलेय पदार्थों का अंतर बताना।",
+        "धात्विक चमक (lustre) और कठोरता के आधार पर वर्गीकरण।",
+        "तैरने (floating) और डूबने (sinking) के कारणों को समझना।",
+        "एक ही सामग्री से विभिन्न वस्तुएं बनने के उदाहरण।"
+      ],
+      "examTraps": [
+        {
+          "title": "तेल और पानी का मिश्रण",
+          "fact": "तेल पानी में घुलता नहीं है बल्कि ऊपर एक अलग परत बनाता है (अमिश्रणीय)।",
+          "confusion": "छात्र अक्सर सोचते हैं कि सभी तरल पानी में घुल जाते हैं।"
+        },
+        {
+          "title": "पारदर्शी बनाम पारभासी",
+          "fact": "पारदर्शी में सब कुछ साफ दिखता है, जबकि पारभासी में धुंधला दिखाई देता है।",
+          "confusion": "तेल लगे कागज को पारदर्शी मान लेना गलत है, यह पारभासी है।"
+        },
+        {
+          "title": "लोहे की वस्तुएं हमेशा डूबती हैं?",
+          "fact": "ठोस लोहा डूबता है, लेकिन सही डिजाइन (जैसे जहाज) से लोहे की वस्तु तैर सकती है।",
+          "confusion": "केवल धातु होने मात्र से हर वस्तु का डूबना तय नहीं माना जा सकता यदि उसका आकार खोखला हो।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "क्या पूछा गया पदार्थ पानी में घुलनशील है या अमिश्रणीय?",
+        "क्या वस्तु पारदर्शी है या पारभासी?",
+        "क्या सामग्री में धात्विक चमक है या वह सुस्त है?",
+        "क्या कठोरता का संबंध खरोंचने से है या संपीड़न से?"
+      ],
+      "memoryTricks": [
+        "पारदर्शी = आर-पार स्पष्ट (कांच)",
+        "पारभासी = धुंधला (तेल लगा कागज)",
+        "अपारदर्शी = कुछ नहीं दिखता (लकड़ी)",
+        "विलेय = घुलना (चीनी), अविलेय = न घुलना (रेत)"
+      ],
+      "pyqSignals": [
+        "पदार्थों के गुण (कठोरता, चमक, घुलनशीलता) पर आधारित प्रश्न।",
+        "पारदर्शिता के उदाहरणों से जुड़े बहुविकल्पीय प्रश्न।",
+        "तैरने और डूबने वाली वस्तुओं का वर्गीकरण।"
+      ],
+      "mustRemember": [
+        "सामग्री के मुख्य गुण: दिखावट, चमक, कठोरता, विलेयता, तैरना/डूबना, पारदर्शिता।",
+        "धातुओं में चमक होती है।",
+        "चीनी/नमक विलेय हैं, रेत/तेल अविलेय हैं।",
+        "कांच पारदर्शी है, लकड़ी अपारदर्शी है, तेल लगा कागज पारभासी है।"
+      ],
+      "quickRevision": "30 सेकंड में रिवीजन: वस्तुएं विभिन्न सामग्रियों से बनती हैं → गुण: चमक (धातु), कठोरता (लोहा vs स्पंज), विलेयता (नमक vs रेत), तैरना/डूबना (पत्ता vs पत्थर), पारदर्शिता (कांच vs लकड़ी) → वर्गीकरण से अध्ययन सरल होता है।"
+    },
+    "en": {
+      "concept": "Objects around us are made of a wide variety of materials. To make any object, a material is chosen based on its properties and intended use. Grouping materials based on their similarities and differences is called classification, which makes their study and usage systematic and convenient.",
+      "example": "A single material like wood can be used to make various objects such as chairs, tables, plows, and bats; similarly, a plate can be made of metal, glass, or plastic.",
+      "sections": [
+        {
+          "title": "Objects Around Us & Classification",
+          "concept": "All objects around us are made of some material (like wood, metal, plastic, glass, paper) and are grouped based on their properties.",
+          "explanation": "In daily life, we see countless objects — clothes, books, utensils, toys, etc. Some are made of a single substance, while others use a combination of materials. Grouping materials by properties helps us find, identify, and study them efficiently.",
+          "example": "A shopkeeper organizing biscuits, soaps, or pulses into separate sections is a practical example of classification.",
+          "keyPoints": [
+            "Objects can be made of one or more materials.",
+            "Many different objects can be made from the same material.",
+            "Material selection depends on its use and properties.",
+            "Classification makes study and identification easy.",
+            "Various objects are manufactured from wood, metal, plastic, glass, etc."
+          ]
+        },
+        {
+          "title": "Properties: Appearance and Lustre",
+          "concept": "Materials differ in their look; some have a special shine known as lustre and are called metals, while others look dull.",
+          "explanation": "Freshly cut metals (like iron, copper, aluminium, gold) have a shining appearance called metallic lustre. Over time, air and moisture react with their surface, causing them to lose shine until rubbed with sandpaper or cut to reveal the shiny metal underneath. Wood, paper, and cardboard lack lustre.",
+          "example": "Gold or silver jewelry looks attractive because of its bright lustre, whereas a wooden block has no shine.",
+          "keyPoints": [
+            "Metals possess a special shine called lustre.",
+            "Iron, copper, gold, aluminium are lustrous materials.",
+            "Wood, paper, cardboard, and chalk are non-lustrous.",
+            "Exposure to air and moisture can dull metallic surfaces.",
+            "Rubbing with sandpaper restores the metallic shine."
+          ]
+        },
+        {
+          "title": "Properties: Hardness and Softness",
+          "concept": "Some materials cannot be easily compressed or scratched (hard), while others can be easily compressed or indented (soft).",
+          "explanation": "Hard materials (like iron, stone, glass) cannot be easily scratched by a fingernail or key. In contrast, soft materials (like sponge, cotton, wax, soap) compress easily or get scratched. This property determines an object's strength and utility.",
+          "example": "Mattresses are made of foam or cotton because they are soft, whereas hammers are made of hard iron.",
+          "keyPoints": [
+            "Hard materials resist scratching and compression (iron, stone).",
+            "Soft materials compress easily (sponge, cotton).",
+            "Relative hardness is tested by scratching with a fingernail or key.",
+            "Diamond is known as the hardest natural substance.",
+            "Material selection depends on required hardness."
+          ]
+        },
+        {
+          "title": "Properties: Solubility in Water",
+          "concept": "Some substances completely dissolve in water (soluble), while others do not dissolve, settling down or floating (insoluble).",
+          "explanation": "Common salt and sugar completely disappear in water, forming a transparent solution. In contrast, sand, chalk powder, and sawdust are insoluble in water. For liquids, vinegar and lemon juice mix completely (miscible), whereas mustard oil or kerosene do not mix and form a separate upper layer (immiscible).",
+          "example": "When making lemonade, sugar and salt dissolve completely, but if oil is added, it floats on top.",
+          "keyPoints": [
+            "Salt and sugar are soluble in water.",
+            "Sand, chalk powder, and sawdust are insoluble.",
+            "Vinegar and lemon juice are miscible in water.",
+            "Mustard oil and kerosene are immiscible in water.",
+            "Water is called the universal solvent because it dissolves many substances."
+          ]
+        },
+        {
+          "title": "Properties: Floating and Sinking",
+          "concept": "Some objects dropped in water float on the surface, while others sink to the bottom, depending on their density.",
+          "explanation": "Dry leaves, wooden blocks, plastic balls, and ice float on water because they are lighter (less dense) than water. Conversely, iron nails, stone pieces, and glass marbles sink because they are heavier (denser) than water.",
+          "example": "A dry wooden log floats on water, while a small iron coin sinks immediately.",
+          "keyPoints": [
+            "Objects less dense than water float (wood, leaf, plastic).",
+            "Objects denser than water sink (iron, stone, coin).",
+            "Ice floats on water because it is slightly less dense than liquid water.",
+            "A ship's hollow shape helps it float by displacing large amounts of water.",
+            "Floating and sinking relate to density."
+          ]
+        },
+        {
+          "title": "Properties: Transparency",
+          "concept": "Materials through which objects can be seen clearly are transparent, those through which you cannot see at all are opaque, and those with blurry visibility are translucent.",
+          "explanation": "Glass, clear water, and air are transparent as light passes through them completely. Wood, cardboard, and metals are opaque as they block light. Oiled paper or frosted glass are translucent as they permit partial light transmission.",
+          "example": "Shopkeepers use transparent glass jars to display sweets and biscuits, while frosted glass is used in bathrooms for privacy.",
+          "keyPoints": [
+            "Transparent materials let light pass through completely (glass, clear water).",
+            "Opaque materials block light entirely (wood, cardboard, wall).",
+            "Translucent materials allow partial light transmission (oiled paper).",
+            "Applying oil or butter turns plain paper translucent.",
+            "Transparency relates to light transmission."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Objects are made of different materials based on their properties.",
+        "Metals possess a special shine called lustre.",
+        "Hard materials resist scratching, while soft ones compress easily.",
+        "Salt and sugar are soluble, whereas sand and oil are insoluble/immiscible.",
+        "Lighter objects float on water while denser ones sink.",
+        "Materials are categorized as transparent, opaque, or translucent based on light transmission.",
+        "Classification makes studying objects systematic."
+      ],
+      "examFocus": [
+        "Identifying transparent, opaque, and translucent materials.",
+        "Distinguishing between soluble and insoluble substances in water.",
+        "Classifying based on metallic lustre and hardness.",
+        "Understanding reasons for floating and sinking.",
+        "Examples of multiple objects made from a single material."
+      ],
+      "examTraps": [
+        {
+          "title": "Oil and Water Mixture",
+          "fact": "Oil does not dissolve in water; it forms a separate upper layer (immiscible).",
+          "confusion": "Students often assume all liquids dissolve in water."
+        },
+        {
+          "title": "Transparent vs Translucent",
+          "fact": "Transparent gives clear vision, while translucent gives blurry vision.",
+          "confusion": "Mistaking oiled paper for transparent instead of translucent."
+        },
+        {
+          "title": "Do Iron Objects Always Sink?",
+          "fact": "Solid iron sinks, but proper design (like a ship) allows iron structures to float.",
+          "confusion": "Assuming any metal object must sink regardless of its hollow shape."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Is the given substance soluble or immiscible in water?",
+        "Is the object transparent or translucent?",
+        "Does the material have metallic lustre or is it dull?",
+        "Does hardness refer to scratching resistance or compression?"
+      ],
+      "memoryTricks": [
+        "Transparent = Clear view through (glass)",
+        "Translucent = Blurry view (oiled paper)",
+        "Opaque = No view through (wood)",
+        "Soluble = Dissolves (sugar), Insoluble = Does not dissolve (sand)"
+      ],
+      "pyqSignals": [
+        "Questions based on material properties (hardness, lustre, solubility).",
+        "MCQs involving examples of transparency.",
+        "Classification of floating and sinking objects."
+      ],
+      "mustRemember": [
+        "Key material properties: appearance, lustre, hardness, solubility, float/sink, transparency.",
+        "Metals have lustre.",
+        "Sugar/salt are soluble; sand/oil are insoluble.",
+        "Glass is transparent, wood is opaque, oiled paper is translucent."
+      ],
+      "quickRevision": "30-second revision: Objects are made of various materials → Properties: Lustre (metals), Hardness (iron vs sponge), Solubility (salt vs sand), Float/Sink (leaf vs stone), Transparency (glass vs wood) → Classification simplifies study."
+    }
   }
-]
+}
