@@ -63,80 +63,70 @@
       "sections": [
         {
           "title": "हमारे चारों ओर की वस्तुएँ और वर्गीकरण",
-          "concept": "हमारे चारों ओर की सभी वस्तुएं किसी न किसी सामग्री (जैसे लकड़ी, धातु, प्लास्टिक, कांच, कागज) से बनी हैं और इन्हें गुणों के आधार पर समूहों में बांटा जाता है।",
-          "explanation": "हम अपने दैनिक जीवन में अनगिनत वस्तुएं देखते हैं — कपड़े, किताबें, बर्तन, खिलौने आदि। इनमें से कुछ वस्तुएं एक ही पदार्थ से बन सकती हैं या अलग-अलग पदार्थों के संयोजन से। पदार्थों को उनके गुणों के आधार पर समूहीकृत करने से हमें वस्तुओं को खोजने, उनकी पहचान करने और उनके गुणों का अध्ययन करने में सुविधा होती है।",
+          "concept": "हमारे चारों ओर की सभी वस्तुएं किसी न किसी सामग्री (जैसे लकड़ी, धातु, प्लास्टिक, कांच, कागज) से बनी हैं और इन्हें गुणों के आधार पर समूहों में बांटा जाता है.",
+          "explanation": "हम अपने दैनिक जीवन में अनगिनत वस्तुएं देखते हैं — कपड़े, किताबें, बर्तन, खिलौने आदि। इनमें से कुछ वस्तुएं एक ही पदार्थ से बन सकती हैं या अलग-अलग पदार्थों के संयोजन से।",
           "example": "दुकानदार द्वारा बिस्कुट, साबुन या दालों को अलग-अलग श्रेणियों में व्यवस्थित करना वर्गीकरण का एक व्यावहारिक उदाहरण है।",
           "keyPoints": [
             "वस्तुएं एक या एक से अधिक सामग्रियों से बन सकती हैं।",
             "एक ही सामग्री से कई अलग-अलग वस्तुएं बनाई जा सकती हैं।",
             "सामग्री का चयन उसके उपयोग और गुणों पर निर्भर करता है।",
-            "वर्गीकरण से अध्ययन और खोजबीन आसान हो जाती है।",
-            "विभिन्न वस्तुएं लकड़ी, धातु, प्लास्टिक, कांच आदि से निर्मित होती हैं।"
+            "वर्गीकरण से अध्ययन और खोजबीन आसान हो जाती है।"
           ]
         },
         {
           "title": "गुण: दिखावट और चमक (Appearance & Lustre)",
-          "concept": "सामग्रियां दिखने में एक-दूसरे से भिन्न होती हैं — कुछ बहुत चमकदार होती हैं जिन्हें धातु कहा जाता है, जबकि कुछ सुस्त (डिफ्यूज्ड/डाल) होती हैं।",
-          "explanation": "धातुओं (जैसे लोहा, तांबा, एल्युमिनियम, सोना) की सतह पर एक विशेष चमक होती है जिसे 'धात्विक चमक' (lustre) कहते हैं। समय बीतने के साथ वायु और नमी की क्रिया के कारण धातुएं अपनी चमक खो सकती हैं, जिन्हें रेगमार से रगड़ने या काटने पर उनकी ताजी चमकदार सतह दिखाई देती है। लकड़ी, कागज और गत्ते जैसी सामग्रियां चमकदार नहीं होतीं।",
-          "example": "सोने या चांदी के आभूषण उनकी तेज चमक के कारण आकर्षक लगते हैं, जबकि लकड़ी के टुकड़े में कोई चमक नहीं होती।",
+          "concept": "सामग्रियां दिखने में एक-दूसरे से भिन्न होती हैं — कुछ बहुत चमकदार होती हैं जिन्हें धातु कहा जाता है, जबकि कुछ सुस्त होती हैं।",
+          "explanation": "धातुओं (जैसे लोहा, तांबा, एल्युमिनियम, सोना) की सतह पर एक विशेष चमक होती है जिसे 'धात्विक चमक' (lustre) कहते हैं। समय बीतने के साथ वायु और नमी की क्रिया के कारण धातुएं अपनी चमक खो सकती हैं।",
+          "example": "सोने या चांदी के आभूषण उनकी तेज चमक के कारण आकर्षक लगते हैं।",
           "keyPoints": [
             "धातुओं में विशेष चमक (लस्टर) होती है।",
             "लोहा, तांबा, सोना, एल्युमिनियम चमकदार सामग्रियां हैं।",
             "लकड़ी, कागज, गत्ता और चाक सुस्त (non-lustrous) होते हैं।",
-            "हवा और नमी के कारण धातुएं अपनी चमक खो सकती हैं।",
             "रेगमार से रगड़ने पर धातु की चमक फिर से दिखाई देने लगती है।"
           ]
         },
         {
           "title": "गुण: कठोरता और कोमलता (Hardness & Softness)",
           "concept": "कुछ सामग्रियां दबाने या खरोंचने पर आसानी से संपीड़ित नहीं होतीं (कठोर), जबकि कुछ को आसानी से दबाया जा सकता है (कोमल)।",
-          "explanation": "कठोर सामग्रियां (जैसे लोहा, पत्थर, कांच) को नाखून या चाबी से आसानी से नहीं खरोंचा जा सकता। इसके विपरीत, कोमल सामग्रियां (जैसे स्पंज, कपास, मोम, साबुन) आसानी से संपीड़ित हो जाती हैं या उन पर खरोंच आ जाती है। यह गुण किसी वस्तु की मजबूती और उपयोगिता तय करता है।",
-          "example": "गद्दे बनाने के लिए फोम या कपास का उपयोग किया जाता है क्योंकि वे कोमल होते हैं, जबकि हथौड़ा बनाने के लिए कठोर लोहे का उपयोग किया जाता है।",
+          "explanation": "कठोर सामग्रियां (जैसे लोहा, पत्थर, कांच) को नाखून या चाबी से आसानी से नहीं खरोंचा जा सकता। इसके विपरीत, कोमल सामग्रियां (जैसे स्पंज, कपास, मोम) आसानी से संपीड़ित हो जाती हैं।",
+          "example": "गद्दे बनाने के लिए फोम या कपास का उपयोग किया जाता है क्योंकि वे कोमल होते हैं।",
           "keyPoints": [
             "कठोर सामग्रियां आसानी से नहीं दबतीं या खरोंची जातीं (लोहा, पत्थर)।",
             "कोमल सामग्रियां आसानी से संपीड़ित हो जाती हैं (स्पंज, कपास)।",
-            "नाखून या चाबी से खरोंच परीक्षण कर सापेक्ष कठोरता जांची जाती है।",
-            "हीरा ज्ञात सबसे कठोर प्राकृतिक पदार्थ है।",
-            "उपयोग के आधार पर कठोर या कोमल सामग्री का चयन होता है।"
+            "नाखून या चाबी से खरोंच परीक्षण कर सापेक्ष कठोरता जांची जाती है।"
           ]
         },
         {
           "title": "गुण: जल में विलेयता (Solubility in Water)",
-          "concept": "कुछ पदार्थ पानी में पूरी तरह घुल जाते हैं (विलेय/soluble), जबकि कुछ पदार्थ पानी में नहीं घुलते और नीचे बैठ जाते हैं या तैरते हैं (अविलेय/insoluble)।",
-          "explanation": "साधारण नमक और चीनी पानी में पूरी तरह गायब (विलीन) हो जाते हैं, जिससे पारदर्शी घोल बनता है। इसके विपरीत, रेत, चाक पाउडर और लकड़ी का बुरादा पानी में अघुलनशील हैं। तरल पदार्थों के मामले में, सिरका और नींबू का रस पानी में पूरी तरह मिल जाते हैं (मिश्रणीय), जबकि सरसों का तेल या केरोसीन पानी में नहीं मिलते और ऊपर अलग परत बनाते हैं (अमिश्रणीय)।",
-          "example": "नींबू पानी बनाते समय चीनी और नमक पानी में पूरी तरह घुल जाते हैं, लेकिन यदि तेल मिलाया जाए तो वह ऊपर तैरता रहता है।",
+          "concept": "कुछ पदार्थ पानी में पूरी तरह घुल जाते हैं (विलेय), जबकि कुछ पदार्थ पानी में नहीं घुलते और नीचे बैठ जाते हैं या तैरते हैं (अविलेय)।",
+          "explanation": "साधारण नमक और चीनी पानी में पूरी तरह गायब हो जाते हैं, जिससे पारदर्शी घोल बनता है। इसके विपरीत, रेत और चाक पाउडर पानी में अघुलनशील हैं।",
+          "example": "नींबू पानी बनाते समय चीनी और नमक पानी में पूरी तरह घुल जाते हैं।",
           "keyPoints": [
-            "नमक और चीनी पानी में घुलनशील (विलेय) हैं।",
-            "रेत, चाक पाउडर और लकड़ी का बुरादा अघुलनशील हैं।",
-            "सिरका और नींबू का रस पानी में मिश्रणीय (miscible) हैं।",
-            "सरसों का तेल और केरोसीन पानी में अमिश्रणीय (immiscible) हैं।",
-            "पानी को 'सार्वभौमिक विलायक' कहा जाता है क्योंकि यह कई पदार्थों को घोल सकता है।"
+            "नमक और चीनी पानी में घुलनशील हैं।",
+            "रेत और चाक पाउडर अघुलनशील हैं।",
+            "सिरका और नींबू का रस पानी में मिश्रणीय हैं, जबकि तेल अमिश्रणीय है।"
           ]
         },
         {
           "title": "गुण: तैरना और डूबना (Floating & Sinking)",
           "concept": "पानी में डाली जाने वाली कुछ वस्तुएं सतह पर तैरती हैं, जबकि कुछ वस्तुएं पानी में डूब जाती हैं, जो उनके घनत्व पर निर्भर करता है।",
-          "explanation": "सूखे पत्ते, लकड़ी का टुकड़ा, प्लास्टिक की गेंद और बर्फ पानी पर तैरते हैं क्योंकि वे पानी से हल्के (कम घने) होते हैं। इसके विपरीत, लोहे की कील, पत्थर का टुकड़ा और कांच का कंचा पानी में डूब जाते हैं क्योंकि वे पानी से भारी (अधिक घने) होते हैं।",
-          "example": "एक सूखी लकड़ी का लट्ठा पानी पर तैरता रहता है, जबकि एक छोटा सा लोहे का सिक्का तुरंत नीचे डूब जाता है।",
+          "explanation": "सूखे पत्ते, लकड़ी का टुकड़ा और बर्फ पानी पर तैरते हैं क्योंकि वे पानी से हल्के होते हैं। इसके विपरीत, लोहे की कील और पत्थर डूब जाते हैं।",
+          "example": "एक सूखी लकड़ी का लट्ठा पानी पर तैरता रहता है, जबकि लोहे का सिक्का डूब जाता है।",
           "keyPoints": [
             "पानी से कम घनत्व वाली वस्तुएं तैरती हैं (लकड़ी, पत्ता, प्लास्टिक)।",
             "पानी से अधिक घनत्व वाली वस्तुएं डूब जाती हैं (लोहा, पत्थर, सिक्का)।",
-            "बर्फ पानी पर तैरती है क्योंकि यह तरल पानी से थोड़ी कम घनी होती है।",
-            "जहाज का खोखला आकार अधिक पानी विस्थापित करके उसे तैरने में मदद करता है।",
-            "तैरना और डूबना वस्तु के घनत्व से संबंधित है।"
+            "बर्फ पानी पर तैरती है क्योंकि यह तरल पानी से थोड़ी कम घनी होती है।"
           ]
         },
         {
           "title": "गुण: पारदर्शिता (Transparency)",
-          "concept": "जिन सामग्रियों के आर-पार स्पष्ट रूप से देखा जा सके वे पारदर्शी (transparent) हैं, जिनके आर-पार बिल्कुल न देखा जा सके वे अपारदर्शी (opaque) हैं, और जिनके आर-पार धुंधला दिखाई दे वे पारभासी (translucent) हैं.",
-          "explanation": "कांच, साफ पानी और हवा पारदर्शी सामग्रियां हैं क्योंकि प्रकाश इनमें से पूरी तरह गुजर जाता है। लकड़ी, गत्ता और धातुएं अपारदर्शी हैं क्योंकि वे प्रकाश को रोक लेती हैं। तेल लगा कागज या फ्रॉस्टेड ग्लास पारभासी हैं क्योंकि वे प्रकाश को आंशिक रूप से गुजरने देते हैं।",
-          "example": "दुकानदार बिस्कुट और मिठाइयां देखने के लिए पारदर्शी कांच के जार का उपयोग करते हैं, जबकि गोपनीयता के लिए खिड़कियों में फ्रॉस्टेड कांच लगाया जाता है।",
+          "concept": "जिन सामग्रियों के आर-पार स्पष्ट रूप से देखा जा सके वे पारदर्शी हैं, जिनके आर-पार बिल्कुल न देखा जा सके वे अपारदर्शी हैं, और जिनके आर-पार धुंधला दिखाई दे वे पारभासी हैं।",
+          "explanation": "कांच, साफ पानी और हवा पारदर्शी सामग्रियां हैं। लकड़ी और धातुएं अपारदर्शी हैं। तेल लगा कागज पारभासी है।",
+          "example": "दुकानदार बिस्कुट दिखाने के लिए पारदर्शी कांच के जार का उपयोग करते हैं।",
           "keyPoints": [
             "पारदर्शी सामग्रियां प्रकाश को पूरी तरह गुजरने देती हैं (कांच, साफ पानी)।",
             "अपारदर्शी सामग्रियां प्रकाश को रोक लेती हैं (लकड़ी, गत्ता, दीवार)।",
-            "पारभासी सामग्रियां प्रकाश को आंशिक रूप से गुजरने देती हैं (तेल लगा कागज)।",
-            "तेल या मक्खन लगाने से सादा कागज पारभासी हो जाता है।",
-            "पारदर्शिता का संबंध प्रकाश के संचरण से है।"
+            "पारभासी सामग्रियां प्रकाश को आंशिक रूप से गुजरने देती हैं (तेल लगा कागज)।"
           ]
         }
       ],
@@ -144,200 +134,32 @@
         "वस्तुएं विभिन्न सामग्रियों से बनती हैं जो उनके गुणों पर निर्भर करती हैं।",
         "धातुओं में विशेष चमक (लस्टर) होती है।",
         "कठोर सामग्रियां आसानी से नहीं खरोंची जातीं, जबकि कोमल आसानी से दब जाती हैं।",
-        "नमक और चीनी पानी में घुलनशील हैं, जबकि रेत और तेल अघुलनशील/अमिश्रणीय हैं।",
+        "नमक और चीनी पानी में घुलनशील हैं, जबकि रेत और तेल अघुलनशील हैं।",
         "पानी से हल्की वस्तुएं तैरती हैं और भारी वस्तुएं डूब जाती हैं।",
-        "सामग्रियां पारदर्शिता के आधार पर पारदर्शी, अपारदर्शी और पारभासी होती हैं।",
-        "वर्गीकरण से वस्तुओं का अध्ययन सुव्यवस्थित होता है।"
+        "सामग्रियां पारदर्शिता के आधार पर पारदर्शी, अपारदर्शी और पारभासी होती हैं।"
       ],
-      "examFocus": [
-        "पारदर्शी, अपारदर्शी और पारभासी सामग्रियों की पहचान करना।",
-        "जल में विलेय और अविलेय पदार्थों का अंतर बताना।",
-        "धात्विक चमक (lustre) और कठोरता के आधार पर वर्गीकरण।",
-        "तैरने (floating) और डूबने (sinking) के कारणों को समझना।",
-        "एक ही सामग्री से विभिन्न वस्तुएं बनने के उदाहरण।"
-      ],
-      "examTraps": [
-        {
-          "title": "तेल और पानी का मिश्रण",
-          "fact": "तेल पानी में घुलता नहीं है बल्कि ऊपर एक अलग परत बनाता है (अमिश्रणीय)।",
-          "confusion": "छात्र अक्सर सोचते हैं कि सभी तरल पानी में घुल जाते हैं।"
-        },
-        {
-          "title": "पारदर्शी बनाम पारभासी",
-          "fact": "पारदर्शी में सब कुछ साफ दिखता है, जबकि पारभासी में धुंधला दिखाई देता है.",
-          "confusion": "तेल लगे कागज को पारदर्शी मान लेना गलत है, यह पारभासी है।"
-        },
-        {
-          "title": "लोहे की वस्तुएं हमेशा डूबती हैं?",
-          "fact": "ठोस लोहा डूबता है, लेकिन सही डिजाइन (जैसे जहाज) से लोहे की वस्तु तैर सकती है।",
-          "confusion": "केवल धातु होने मात्र से हर वस्तु का डूबना तय नहीं माना जा सकता यदि उसका आकार खोखला हो।"
-        }
-      ],
-      "thinkBeforeAnswer": [
-        "क्या पूछा गया पदार्थ पानी में घुलनशील है या अमिश्रणीय?",
-        "क्या वस्तु पारदर्शी है या पारभासी?",
-        "क्या सामग्री में धात्विक चमक है या वह सुस्त है?",
-        "क्या कठोरता का संबंध खरोंचने से है या संपीड़न से?"
-      ],
-      "memoryTricks": [
-        "पारदर्शी = आर-पार स्पष्ट (कांच)",
-        "पारभासी = धुंधला (तेल लगा कागज)",
-        "अपारदर्शी = कुछ नहीं दिखता (लकड़ी)",
-        "विलेय = घुलना (चीनी), अविलेय = न घुलना (रेत)"
-      ],
-      "pyqSignals": [
-        "पदार्थों के गुण (कठोरता, चमक, घुलनशीलता) पर आधारित प्रश्न।",
-        "पारदर्शिता के उदाहरणों से जुड़े बहुविकल्पीय प्रश्न।",
-        "तैरने और डूबने वाली वस्तुओं का वर्गीकरण।"
-      ],
-      "mustRemember": [
-        "सामग्री के मुख्य गुण: दिखावट, चमक, कठोरता, विलेयता, तैरना/डूबना, पारदर्शिता।",
-        "धातुओं में चमक होती है।",
-        "चीनी/नमक विलेय हैं, रेत/तेल अविलेय हैं।",
-        "कांच पारदर्शी है, लकड़ी अपारदर्शी है, तेल लगा कागज पारभासी है।"
-      ],
-      "quickRevision": "30 सेकंड में रिवीजन: वस्तुएं विभिन्न सामग्रियों से बनती हैं → गुण: चमक (धातु), कठोरता (लोहा vs स्पंज), विलेयता (नमक vs रेत), तैरना/डूबना (पत्ता vs पत्थर), पारदर्शिता (कांच vs लकड़ी) → वर्गीकरण से अध्ययन सरल होता है।"
+      "quickRevision": "30 सेकंड में रिवीजन: वस्तुएं विभिन्न सामग्रियों से बनती हैं → गुण: चमक, कठोरता, विलेयता, तैरना/डूबना, पारदर्शिता → वर्गीकरण से अध्ययन सरल होता है।"
     },
     "en": {
-      "concept": "Objects around us are made of a wide variety of materials. To make any object, a material is chosen based on its properties and intended use. Grouping materials based on their similarities and differences is called classification, which makes their study and usage systematic and convenient.",
-      "example": "A single material like wood can be used to make various objects such as chairs, tables, plows, and bats; similarly, a plate can be made of metal, glass, or plastic.",
+      "concept": "Objects around us are made of a wide variety of materials. To make any object, a material is chosen based on its properties and intended use. Grouping materials based on their similarities and differences is called classification.",
+      "example": "A single material like wood can be used to make chairs, tables, and bats.",
       "sections": [
         {
           "title": "Objects Around Us & Classification",
-          "concept": "All objects around us are made of some material (like wood, metal, plastic, glass, paper) and are grouped based on their properties.",
-          "explanation": "In daily life, we see countless objects — clothes, books, utensils, toys, etc. Some are made of a single substance, while others use a combination of materials. Grouping materials by properties helps us find, identify, and study them efficiently.",
-          "example": "A shopkeeper organizing biscuits, soaps, or pulses into separate sections is a practical example of classification.",
+          "concept": "All objects around us are made of some material and are grouped based on their properties.",
+          "explanation": "Grouping materials by properties helps us find, identify, and study them efficiently.",
+          "example": "A shopkeeper organizing items into separate sections is classification.",
           "keyPoints": [
             "Objects can be made of one or more materials.",
-            "Many different objects can be made from the same material.",
-            "Material selection depends on its use and properties.",
-            "Classification makes study and identification easy.",
-            "Various objects are manufactured from wood, metal, plastic, glass, etc."
-          ]
-        },
-        {
-          "title": "Properties: Appearance and Lustre",
-          "concept": "Materials differ in their look; some have a special shine known as lustre and are called metals, while others look dull.",
-          "explanation": "Freshly cut metals (like iron, copper, aluminium, gold) have a shining appearance called metallic lustre. Over time, air and moisture react with their surface, causing them to lose shine until rubbed with sandpaper or cut to reveal the shiny metal underneath. Wood, paper, and cardboard lack lustre.",
-          "example": "Gold or silver jewelry looks attractive because of its bright lustre, whereas a wooden block has no shine.",
-          "keyPoints": [
-            "Metals possess a special shine called lustre.",
-            "Iron, copper, gold, aluminium are lustrous materials.",
-            "Wood, paper, cardboard, and chalk are non-lustrous.",
-            "Exposure to air and moisture can dull metallic surfaces.",
-            "Rubbing with sandpaper restores the metallic shine."
-          ]
-        },
-        {
-          "title": "Properties: Hardness and Softness",
-          "concept": "Some materials cannot be easily compressed or scratched (hard), while others can be easily compressed or indented (soft).",
-          "explanation": "Hard materials (like iron, stone, glass) cannot be easily scratched by a fingernail or key. In contrast, soft materials (like sponge, cotton, wax, soap) compress easily or get scratched. This property determines an object's strength and utility.",
-          "example": "Mattresses are made of foam or cotton because they are soft, whereas hammers are made of hard iron.",
-          "keyPoints": [
-            "Hard materials resist scratching and compression (iron, stone).",
-            "Soft materials compress easily (sponge, cotton).",
-            "Relative hardness is tested by scratching with a fingernail or key.",
-            "Diamond is known as the hardest natural substance.",
-            "Material selection depends on required hardness."
-          ]
-        },
-        {
-          "title": "Properties: Solubility in Water",
-          "concept": "Some substances completely dissolve in water (soluble), while others do not dissolve, settling down or floating (insoluble).",
-          "explanation": "Common salt and sugar completely disappear in water, forming a transparent solution. In contrast, sand, chalk powder, and sawdust are insoluble in water. For liquids, vinegar and lemon juice mix completely (miscible), whereas mustard oil or kerosene do not mix and form a separate upper layer (immiscible).",
-          "example": "When making lemonade, sugar and salt dissolve completely, but if oil is added, it floats on top.",
-          "keyPoints": [
-            "Salt and sugar are soluble in water.",
-            "Sand, chalk powder, and sawdust are insoluble.",
-            "Vinegar and lemon juice are miscible in water.",
-            "Mustard oil and kerosene are immiscible in water.",
-            "Water is called the universal solvent because it dissolves many substances."
-          ]
-        },
-        {
-          "title": "Properties: Floating and Sinking",
-          "concept": "Some objects dropped in water float on the surface, while others sink to the bottom, depending on their density.",
-          "explanation": "Dry leaves, wooden blocks, plastic balls, and ice float on water because they are lighter (less dense) than water. Conversely, iron nails, stone pieces, and glass marbles sink because they are heavier (denser) than water.",
-          "example": "A dry wooden log floats on water, while a small iron coin sinks immediately.",
-          "keyPoints": [
-            "Objects less dense than water float (wood, leaf, plastic).",
-            "Objects denser than water sink (iron, stone, coin).",
-            "Ice floats on water because it is slightly less dense than liquid water.",
-            "A ship's hollow shape helps it float by displacing large amounts of water.",
-            "Floating and sinking relate to density."
-          ]
-        },
-        {
-          "title": "Properties: Transparency",
-          "concept": "Materials through which objects can be seen clearly are transparent, those through which you cannot see at all are opaque, and those with blurry visibility are translucent.",
-          "explanation": "Glass, clear water, and air are transparent as light passes through them completely. Wood, cardboard, and metals are opaque as they block light. Oiled paper or frosted glass are translucent as they permit partial light transmission.",
-          "example": "Shopkeepers use transparent glass jars to display sweets and biscuits, while frosted glass is used in bathrooms for privacy.",
-          "keyPoints": [
-            "Transparent materials let light pass through completely (glass, clear water).",
-            "Opaque materials block light entirely (wood, cardboard, wall).",
-            "Translucent materials allow partial light transmission (oiled paper).",
-            "Applying oil or butter turns plain paper translucent.",
-            "Transparency relates to light transmission."
+            "Classification makes study and identification easy."
           ]
         }
       ],
       "keyPoints": [
         "Objects are made of different materials based on their properties.",
-        "Metals possess a special shine called lustre.",
-        "Hard materials resist scratching, while soft ones compress easily.",
-        "Salt and sugar are soluble, whereas sand and oil are insoluble/immiscible.",
-        "Lighter objects float on water while denser ones sink.",
-        "Materials are categorized as transparent, opaque, or translucent based on light transmission.",
-        "Classification makes studying objects systematic."
+        "Metals possess lustre, hard materials resist scratching, and materials differ in solubility, density, and transparency."
       ],
-      "examFocus": [
-        "Identifying transparent, opaque, and translucent materials.",
-        "Distinguishing between soluble and insoluble substances in water.",
-        "Classifying based on metallic lustre and hardness.",
-        "Understanding reasons for floating and sinking.",
-        "Examples of multiple objects made from a single material."
-      ],
-      "examTraps": [
-        {
-          "title": "Oil and Water Mixture",
-          "fact": "Oil does not dissolve in water; it forms a separate upper layer (immiscible).",
-          "confusion": "Students often assume all liquids dissolve in water."
-        },
-        {
-          "title": "Transparent vs Translucent",
-          "fact": "Transparent gives clear vision, while translucent gives blurry vision.",
-          "confusion": "Mistaking oiled paper for transparent instead of translucent."
-        },
-        {
-          "title": "Do Iron Objects Always Sink?",
-          "fact": "Solid iron sinks, but proper design (like a ship) allows iron structures to float.",
-          "confusion": "Assuming any metal object must sink regardless of its hollow shape."
-        }
-      ],
-      "thinkBeforeAnswer": [
-        "Is the given substance soluble or immiscible in water?",
-        "Is the object transparent or translucent?",
-        "Does the material have metallic lustre or is it dull?",
-        "Does hardness refer to scratching resistance or compression?"
-      ],
-      "memoryTricks": [
-        "Transparent = Clear view through (glass)",
-        "Translucent = Blurry view (oiled paper)",
-        "Opaque = No view through (wood)",
-        "Soluble = Dissolves (sugar), Insoluble = Does not dissolve (sand)"
-      ],
-      "pyqSignals": [
-        "Questions based on material properties (hardness, lustre, solubility).",
-        "MCQs involving examples of transparency.",
-        "Classification of floating and sinking objects."
-      ],
-      "mustRemember": [
-        "Key material properties: appearance, lustre, hardness, solubility, float/sink, transparency.",
-        "Metals have lustre.",
-        "Sugar/salt are soluble; sand/oil are insoluble.",
-        "Glass is transparent, wood is opaque, oiled paper is translucent."
-      ],
-      "quickRevision": "30-second revision: Objects are made of various materials → Properties: Lustre (metals), Hardness (iron vs sponge), Solubility (salt vs sand), Float/Sink (leaf vs stone), Transparency (glass vs wood) → Classification simplifies study."
+      "quickRevision": "30-second revision: Objects are made of various materials and classified by appearance, hardness, solubility, density, and transparency."
     }
   }
 }
