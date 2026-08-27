@@ -92,7 +92,7 @@
           ${bank.length}+
           ${LanguageManager.get("questions")}
           ·
-          ${TestGenerator.getConfigs(meta, bank).length}
+          ${TestGenerator.getConfigs(bank, meta).length}
           ${LanguageManager.get("mockTests")}
         </p>
 
@@ -418,7 +418,7 @@
 
                                 <p>
                                   ${trap.confusion}
-                               </p>
+                                </p>
 
                               </div>
                             `
@@ -1103,7 +1103,7 @@
   function renderMockTestHub(panel) {
 
     const configs =
-      TestGenerator.getConfigs(meta, bank);
+      TestGenerator.getConfigs(bank, meta);
 
     const wrongCount =
       WrongQuestionManager.getIds(
@@ -1134,7 +1134,7 @@
           .map(
             (c, i) => `
 
-              <a
+              
                 class="rjd-testcard"
                 href="mock-test.html?class=${classNum}&subject=${subject}&chapter=${chapter}&mode=mock&testId=${c.id}"
               >
@@ -1161,7 +1161,7 @@
           .join("")}
 
 
-        <a
+        
           class="rjd-testcard rjd-testcard--accent ${
             wrongCount === 0
               ? "is-disabled"
@@ -1198,7 +1198,7 @@
         </a>
 
 
-        <a
+        
           class="rjd-testcard rjd-testcard--accent ${
             attemptedCount === 0
               ? "is-disabled"
@@ -1248,7 +1248,7 @@
           .map(
             (topic) => `
 
-              <a
+              
                 class="rjd-topic-chip"
                 href="mock-test.html?class=${classNum}&subject=${subject}&chapter=${chapter}&mode=topic&topic=${topic.id}"
               >
