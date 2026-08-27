@@ -64,101 +64,170 @@
         {
           "title": "पोषक तत्व क्या हैं?",
           "concept": "भोजन में पाए जाने वाले वे घटक जिनकी शरीर को वृद्धि, ऊर्जा, रखरखाव और सामान्य कार्यों के लिए आवश्यकता होती है, पोषक तत्व कहलाते हैं।",
-          "example": "दाल, अनाज, दूध, फल और सब्जियों में अलग-अलग प्रकार के पोषक तत्व अलग-अलग मात्रा में पाए जाते हैं।",
+          "explanation": "भोजन में मुख्यतः छह प्रकार के पोषक तत्व पाए जाते हैं — कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन, खनिज लवण और जल। इनके अलावा आहारीय रेशा (रफेज) भी भोजन का ज़रूरी हिस्सा है, हालांकि यह पोषक तत्व नहीं है क्योंकि यह शरीर को कोई पोषण नहीं देता। हर पोषक तत्व शरीर में अलग-अलग कार्य करता है — कुछ ऊर्जा देते हैं, कुछ वृद्धि में मदद करते हैं, और कुछ शरीर को रोगों से बचाते हैं।",
+          "example": "दाल, अनाज, दूध, फल और सब्जियों में अलग-अलग प्रकार के पोषक तत्व अलग-अलग मात्रा में पाए जाते हैं। जैसे दूध में कार्बोहाइड्रेट, प्रोटीन, वसा और कई विटामिन-खनिज एक साथ होते हैं।",
           "keyPoints": [
             "एक ही खाद्य पदार्थ में एक से अधिक पोषक तत्व हो सकते हैं।",
             "हर पोषक तत्व का शरीर में एक जैसा कार्य नहीं होता।",
-            "संतुलित भोजन के लिए विभिन्न खाद्य पदार्थों का उचित संयोजन आवश्यक है।"
+            "संतुलित भोजन के लिए विभिन्न खाद्य पदार्थों का उचित संयोजन आवश्यक है।",
+            "पोषक तत्वों को सरल परीक्षणों (जैसे आयोडीन, ब्यूरेट परीक्षण) से भी पहचाना जा सकता है।",
+            "आहारीय रेशा पोषक तत्व नहीं है, फिर भी पाचन के लिए आवश्यक है।"
           ]
         },
         {
           "title": "कार्बोहाइड्रेट — शरीर का प्रमुख ऊर्जा स्रोत",
-          "concept": "कार्बोहाइड्रेट ऐसे पोषक तत्व हैं जो शरीर को मुख्य रूप से ऊर्जा प्रदान करते हैं। चावल, गेहूँ, मक्का, आलू और कई अनाज कार्बोहाइड्रेट के सामान्य स्रोत हैं।",
-          "example": "यदि कोई व्यक्ति शारीरिक गतिविधि करता है, तो भोजन से प्राप्त ऊर्जा उसके शरीर के काम करने में उपयोग होती है।",
+          "concept": "कार्बोहाइड्रेट शरीर को तत्काल ऊर्जा प्रदान करने वाला मुख्य पोषक तत्व है, जो मुख्यतः अनाज और शर्करा युक्त खाद्य पदार्थों से मिलता है।",
+          "explanation": "कार्बोहाइड्रेट दो मुख्य रूपों में पाया जाता है — स्टार्च (मंड) और शर्करा (शुगर)। चावल, गेहूँ, मक्का और आलू में स्टार्च होता है, जबकि गन्ने और शहद में शर्करा होती है। शरीर इन्हें तोड़कर ग्लूकोज़ में बदलता है, जो कोशिकाओं की ऊर्जा का मुख्य स्रोत है। आवश्यकता से अधिक कार्बोहाइड्रेट लेने और शारीरिक गतिविधि कम होने पर, यह वसा के रूप में शरीर में जमा हो सकता है।",
+          "example": "एक धावक (धावक व्यक्ति) दौड़ से पहले भात या रोटी खाता है क्योंकि कार्बोहाइड्रेट जल्दी ऊर्जा में बदल जाता है।",
           "keyPoints": [
-            "कार्बोहाइड्रेट का प्रमुख कार्य ऊर्जा प्रदान करना है।",
-            "अनाज और कई कंद कार्बोहाइड्रेट के महत्वपूर्ण स्रोत हैं।",
-            "कार्बोहाइड्रेट को केवल 'मीठी चीज' समझना सही नहीं है।"
+            "कार्बोहाइड्रेट के दो मुख्य रूप हैं — स्टार्च और शर्करा।",
+            "चावल, गेहूँ, मक्का और आलू स्टार्च के प्रमुख स्रोत हैं।",
+            "गन्ना और शहद शर्करा के प्रमुख स्रोत हैं।",
+            "अतिरिक्त कार्बोहाइड्रेट वसा के रूप में शरीर में संग्रहित हो सकता है।",
+            "आयोडीन विलयन से स्टार्च की जाँच की जाती है (नीला-काला रंग)।"
           ]
         },
         {
           "title": "वसा — ऊर्जा का सघन स्रोत",
-          "concept": "वसा भी शरीर को ऊर्जा प्रदान करती है। यह भोजन में ऊर्जा का एक महत्वपूर्ण स्रोत है और शरीर के लिए आवश्यक है, लेकिन इसका सेवन संतुलित मात्रा में होना चाहिए।",
-          "example": "तेल, घी, मक्खन, मेवे और कुछ बीज वसा के स्रोत हो सकते हैं।",
+          "concept": "वसा (चिकनाई) शरीर को ऊर्जा प्रदान करने वाला एक सघन पोषक तत्व है, जो समान मात्रा में कार्बोहाइड्रेट से लगभग दोगुनी ऊर्जा देता है।",
+          "explanation": "घी, मक्खन, तेल और मेवों (जैसे मूँगफली, बादाम) में वसा प्रचुर मात्रा में होती है। वसा शरीर को न केवल ऊर्जा देती है, बल्कि विटामिन A, D, E, K जैसे 'वसा में घुलनशील' विटामिनों के अवशोषण में भी मदद करती है। हालांकि, अत्यधिक वसा युक्त भोजन (विशेषकर तले-भुने खाद्य पदार्थ) नियमित रूप से खाने से मोटापा और हृदय संबंधी समस्याएँ हो सकती हैं।",
+          "example": "सर्दियों में लोग अक्सर घी और मेवे अधिक खाते हैं क्योंकि वसा शरीर को अधिक ऊर्जा देकर गर्म रखने में मदद करती है।",
           "keyPoints": [
-            "वसा ऊर्जा प्रदान करती है।",
-            "तेल और घी जैसे खाद्य पदार्थ वसा के स्रोत हैं।",
-            "वसा को पूरी तरह हानिकारक समझना गलत है; शरीर को इसकी आवश्यकता होती है।"
+            "वसा प्रति ग्राम कार्बोहाइड्रेट से लगभग दोगुनी ऊर्जा देती है।",
+            "घी, मक्खन, तेल और मेवे वसा के प्रमुख स्रोत हैं।",
+            "वसा, विटामिन A, D, E, K के अवशोषण में सहायक है।",
+            "अत्यधिक वसा से मोटापा और हृदय रोग का खतरा बढ़ता है।",
+            "कागज़ पर रगड़ने से बनने वाला चिकना निशान वसा की उपस्थिति दर्शाता है।"
           ]
         },
         {
           "title": "प्रोटीन — वृद्धि और मरम्मत",
-          "concept": "प्रोटीन शरीर की वृद्धि और ऊतकों की मरम्मत के लिए महत्वपूर्ण पोषक तत्व है। बच्चों और बढ़ते शरीर के लिए पर्याप्त प्रोटीन विशेष रूप से महत्वपूर्ण है।",
-          "example": "दालें, चना, राजमा, सोयाबीन, दूध, पनीर, अंडे और कुछ अन्य खाद्य पदार्थ प्रोटीन के स्रोत हो सकते हैं।",
+          "concept": "प्रोटीन शरीर की वृद्धि, नई कोशिकाओं के निर्माण और क्षतिग्रस्त ऊतकों की मरम्मत के लिए आवश्यक पोषक तत्व है, इसलिए इसे 'शरीर निर्माण करने वाला भोजन' कहा जाता है।",
+          "explanation": "प्रोटीन दो प्रकार के स्रोतों से मिलता है — जंतु-आधारित (अंडा, मांस, मछली, दूध) और पादप-आधारित (दालें, सोयाबीन, मूँगफली)। बढ़ते बच्चों, गर्भवती महिलाओं और घाव से उबर रहे व्यक्तियों को अपेक्षाकृत अधिक प्रोटीन की आवश्यकता होती है। प्रोटीन की लंबे समय तक कमी से वृद्धि रुक सकती है और क्वाशिओरकोर जैसा रोग हो सकता है।",
+          "example": "सोयाबीन को 'गरीबों का मांस' कहा जाता है क्योंकि यह मांस जितना ही प्रोटीन-युक्त होने के बावजूद सस्ता और शाकाहारी है।",
           "keyPoints": [
-            "प्रोटीन शरीर की वृद्धि में सहायता करता है।",
-            "प्रोटीन शरीर के ऊतकों की मरम्मत में भी महत्वपूर्ण है।",
-            "केवल मांसाहारी भोजन ही प्रोटीन का स्रोत नहीं है; अनेक पौध-आधारित खाद्य पदार्थ भी प्रोटीन देते हैं।"
+            "प्रोटीन के दो स्रोत हैं — जंतु-आधारित और पादप-आधारित।",
+            "अंडा, मांस, मछली, दूध जंतु-आधारित प्रोटीन के स्रोत हैं।",
+            "दालें, सोयाबीन, मूँगफली पादप-आधारित प्रोटीन के स्रोत हैं।",
+            "बढ़ते बच्चों को अपेक्षाकृत अधिक प्रोटीन चाहिए।",
+            "ब्यूरेट परीक्षण (कॉपर सल्फेट + कॉस्टिक सोडा) से प्रोटीन की जाँच होती है — बैंगनी रंग बनता है।"
           ]
         },
         {
           "title": "विटामिन — कम मात्रा, महत्वपूर्ण भूमिका",
-          "concept": "विटामिन शरीर को स्वस्थ रखने के लिए आवश्यक सूक्ष्म पोषक तत्व हैं। इनकी आवश्यकता अपेक्षाकृत कम मात्रा में होती है, लेकिन इनकी कमी से स्वास्थ्य संबंधी समस्याएँ हो सकती हैं।",
-          "example": "फल और हरी सब्जियाँ कई प्रकार के विटामिन और अन्य उपयोगी पोषक तत्व प्रदान कर सकती हैं।",
+          "concept": "विटामिन बहुत कम मात्रा में आवश्यक होते हैं परंतु शरीर को स्वस्थ रखने और विभिन्न रोगों से बचाने में महत्वपूर्ण भूमिका निभाते हैं।",
+          "explanation": "मुख्य विटामिन हैं — A (आँखों के लिए, स्रोत: गाजर, पपीता, दूध), B (तंत्रिका तंत्र के लिए, स्रोत: साबुत अनाज, दालें), C (घाव भरने के लिए, स्रोत: नींबू, आँवला, संतरा), D (हड्डियों के लिए, स्रोत: सूर्य का प्रकाश, दूध, अंडा), और K (रक्त का थक्का जमाने के लिए, स्रोत: हरी पत्तेदार सब्जियाँ)। हर विटामिन की कमी से एक विशेष रोग होता है, इसलिए विविध भोजन खाना ज़रूरी है।",
+          "example": "सुबह की धूप में कुछ देर बैठने से शरीर स्वयं विटामिन D बना लेता है — इसलिए इसे 'सनशाइन विटामिन' भी कहा जाता है।",
           "keyPoints": [
-            "विटामिन शरीर के सामान्य कार्यों के लिए आवश्यक हैं।",
-            "विभिन्न विटामिन के अलग-अलग कार्य होते हैं।",
-            "एक विटामिन दूसरे विटामिन का पूरा विकल्प नहीं है।"
+            "विटामिन A — आँखों के लिए (कमी से रतौंधी)।",
+            "विटामिन C — घाव भरने के लिए (कमी से स्कर्वी)।",
+            "विटामिन D — हड्डियों के लिए (कमी से रिकेट्स)।",
+            "विटामिन K — रक्त का थक्का जमाने के लिए, हरी सब्जियों में पाया जाता है।",
+            "विटामिन C ऊष्मा-संवेदनशील है — अधिक पकाने से नष्ट हो सकता है।"
           ]
         },
         {
           "title": "खनिज — शरीर के लिए आवश्यक तत्व",
-          "concept": "खनिज लवण शरीर को कम मात्रा में आवश्यक होते हैं, लेकिन वे कई महत्वपूर्ण शारीरिक कार्यों में भूमिका निभाते हैं।",
-          "example": "दूध, हरी सब्जियाँ, दालें और अन्य खाद्य पदार्थ विभिन्न खनिज प्रदान कर सकते हैं।",
+          "concept": "खनिज लवण शरीर की हड्डियों, रक्त और विभिन्न अंगों के सामान्य कार्य के लिए आवश्यक होते हैं और भोजन में बहुत कम मात्रा में चाहिए होते हैं।",
+          "explanation": "प्रमुख खनिज हैं — कैल्शियम (हड्डियाँ-दाँत, स्रोत: दूध, दही), आयरन (हीमोग्लोबिन, स्रोत: पालक, गुड़), और आयोडीन (थायरॉइड, स्रोत: आयोडीन युक्त नमक, समुद्री भोजन)। कैल्शियम की कमी से हड्डियाँ कमजोर होती हैं, आयरन की कमी से एनीमिया होता है, और आयोडीन की कमी से घेंघा रोग होता है।",
+          "example": "पहाड़ी क्षेत्रों में जहाँ समुद्री भोजन नहीं मिलता, वहाँ आयोडीन युक्त नमक का उपयोग विशेष रूप से महत्वपूर्ण है।",
           "keyPoints": [
-            "खनिजों की आवश्यकता कम मात्रा में हो सकती है, लेकिन उनका महत्व बहुत अधिक है।",
-            "अलग-अलग खनिज शरीर में अलग-अलग भूमिकाएँ निभाते हैं।",
-            "खनिजों की कमी से विशेष प्रकार की स्वास्थ्य समस्याएँ हो सकती हैं।"
+            "कैल्शियम — हड्डियों-दाँतों के लिए, दूध व दही में पाया जाता है।",
+            "आयरन — हीमोग्लोबिन बनाने के लिए, पालक व गुड़ में पाया जाता है।",
+            "आयोडीन — थायरॉइड ग्रंथि के लिए, आयोडीन युक्त नमक में पाया जाता है।",
+            "कैल्शियम की कमी से हड्डियाँ कमजोर होती हैं।",
+            "आयरन की कमी से एनीमिया (रक्ताल्पता) होता है।"
           ]
         },
         {
           "title": "आहारीय रेशा — भोजन का जरूरी हिस्सा",
-          "concept": "आहारीय रेशा या रफेज भोजन का ऐसा घटक है जो पाचन तंत्र के सामान्य काम में सहायता करता है। यह मुख्य पोषक तत्वों की तरह ऊर्जा देने वाला घटक नहीं माना जाता, लेकिन संतुलित आहार का महत्वपूर्ण हिस्सा है।",
-          "example": "साबुत अनाज, फल और सब्जियाँ आहारीय रेशे के अच्छे स्रोत हो सकते हैं।",
+          "concept": "आहारीय रेशा (रफेज) पौधों से मिलने वाला वह हिस्सा है जो शरीर को पोषण नहीं देता, फिर भी पाचन तंत्र को स्वस्थ रखने के लिए आवश्यक है।",
+          "explanation": "साबुत अनाज, ताज़ी सब्जियाँ और फल आहारीय रेशे के मुख्य स्रोत हैं। यह पचता नहीं है, बल्कि आंतों में मल को नरम बनाकर आसानी से बाहर निकालने में मदद करता है। आहारीय रेशे की कमी से कब्ज (कठिन मल त्याग) जैसी समस्या हो सकती है, इसलिए इसे भी दैनिक आहार में शामिल करना चाहिए, भले ही यह पोषक तत्व न हो।",
+          "example": "सफेद (पॉलिश किए हुए) चावल की तुलना में साबुत अनाज (जैसे ब्राउन राइस, गेहूँ का चोकर) में अधिक आहारीय रेशा होता है।",
           "keyPoints": [
-            "रफेज को भोजन में शामिल करना उपयोगी है।",
-            "फल और सब्जियाँ रेशे के स्रोत हो सकते हैं।",
-            "रफेज और पोषक तत्वों को एक ही चीज समझना सही नहीं है।"
+            "आहारीय रेशा पोषक तत्व नहीं है, फिर भी आवश्यक है।",
+            "साबुत अनाज, सब्जियाँ और फल इसके प्रमुख स्रोत हैं।",
+            "यह पचता नहीं, बल्कि मल त्याग को आसान बनाता है।",
+            "इसकी कमी से कब्ज हो सकती है।",
+            "इसे 'फाइबर' या 'डाइटरी फाइबर' भी कहा जाता है।"
           ]
         },
         {
           "title": "जल — भोजन और शरीर का महत्वपूर्ण घटक",
-          "concept": "जल शरीर के लिए अत्यंत आवश्यक है। शरीर के अनेक कार्यों के लिए पर्याप्त जल आवश्यक होता है। भोजन से भी कुछ मात्रा में जल प्राप्त हो सकता है।",
-          "example": "फल और सब्जियों में भी जल की पर्याप्त मात्रा हो सकती है।",
+          "concept": "जल शरीर के भार का लगभग दो-तिहाई भाग बनाता है और पाचन, परिवहन तथा तापमान नियंत्रण जैसी महत्वपूर्ण प्रक्रियाओं के लिए आवश्यक है।",
+          "explanation": "जल पचे हुए भोजन के पोषक तत्वों को शरीर के विभिन्न भागों तक पहुँचाता है, अपशिष्ट पदार्थों को बाहर निकालने में मदद करता है, और पसीने के रूप में शरीर का तापमान नियंत्रित रखता है। पर्याप्त जल न पीने से निर्जलीकरण (डिहाइड्रेशन) हो सकता है, जिससे थकान, सिरदर्द और कमजोरी जैसी समस्याएँ हो सकती हैं।",
+          "example": "गर्मियों में शरीर से पसीने के रूप में अधिक जल निकलता है, इसलिए उस मौसम में अधिक पानी पीने की सलाह दी जाती है।",
           "keyPoints": [
-            "जल शरीर के लिए आवश्यक है।",
-            "जल केवल पेय पदार्थों से ही नहीं, कुछ खाद्य पदार्थों से भी प्राप्त होता है।",
-            "जल को नजरअंदाज करके संतुलित आहार की कल्पना नहीं की जा सकती।"
+            "शरीर के भार का लगभग 70% भाग जल है।",
+            "जल पोषक तत्वों को शरीर के विभिन्न भागों तक पहुँचाता है।",
+            "जल शरीर का तापमान नियंत्रित रखने में मदद करता है।",
+            "पर्याप्त जल न पीने से निर्जलीकरण हो सकता है।",
+            "जल अपशिष्ट पदार्थों को शरीर से बाहर निकालने में सहायक है।"
           ]
         },
         {
           "title": "संतुलित आहार",
-          "concept": "ऐसा आहार जिसमें शरीर की आवश्यकताओं के अनुसार विभिन्न पोषक तत्व उचित मात्रा में शामिल हों, संतुलित आहार कहलाता है। केवल एक प्रकार का भोजन बार-बार खाने से सभी आवश्यक पोषक तत्व मिलना जरूरी नहीं है।",
-          "example": "अनाज के साथ दाल, सब्जी, फल और अन्य उपयुक्त खाद्य पदार्थों का संयोजन भोजन को अधिक विविध और पोषक बना सकता है।",
+          "concept": "वह आहार जिसमें शरीर के लिए आवश्यक सभी पोषक तत्व सही मात्रा में उपस्थित हों, संतुलित आहार कहलाता है।",
+          "explanation": "संतुलित आहार की आवश्यकता व्यक्ति की आयु, लिंग और शारीरिक गतिविधि पर निर्भर करती है — जैसे बढ़ते बच्चों को अधिक प्रोटीन-कैल्शियम, और अधिक श्रम करने वालों को अधिक ऊर्जा युक्त भोजन चाहिए। किसी एक खाद्य पदार्थ में सभी पोषक तत्व पर्याप्त मात्रा में नहीं होते, इसलिए विविध खाद्य पदार्थों (अनाज, दालें, दूध, फल-सब्जियाँ) को शामिल करना आवश्यक है।",
+          "example": "एक थाली में दाल, चावल/रोटी, सब्जी, दही और सलाद शामिल करना संतुलित आहार का एक सरल उदाहरण है।",
           "keyPoints": [
-            "संतुलित आहार का अर्थ केवल अधिक खाना नहीं है।",
-            "संतुलित आहार में विभिन्न पोषक तत्वों का उचित संयोजन होता है।",
-            "व्यक्ति की आयु, गतिविधि और आवश्यकता के अनुसार भोजन की जरूरत अलग हो सकती है।"
+            "संतुलित आहार की ज़रूरत आयु, लिंग और गतिविधि पर निर्भर करती है।",
+            "किसी एक भोजन में सभी पोषक तत्व नहीं होते।",
+            "विविध खाद्य पदार्थ शामिल करना आवश्यक है।",
+            "गर्भवती महिलाओं व बढ़ते बच्चों को अतिरिक्त पोषण चाहिए।",
+            "अत्यधिक तला-भुना/जंक फूड आहार को असंतुलित बना सकता है।"
           ]
         },
         {
           "title": "अभावजन्य रोग",
-          "concept": "जब लंबे समय तक किसी आवश्यक पोषक तत्व की पर्याप्त मात्रा शरीर को नहीं मिलती, तो उस पोषक तत्व की कमी से संबंधित स्वास्थ्य समस्या या अभावजन्य रोग हो सकता है।",
-          "example": "आहार में आवश्यक विटामिन या खनिज की लगातार कमी होने पर उससे संबंधित deficiency disease हो सकती है।",
+          "concept": "जब आहार में किसी पोषक तत्व की लंबे समय तक कमी रहती है, तो उससे होने वाले रोग को अभावजन्य रोग कहते हैं।",
+          "explanation": "प्रमुख अभावजन्य रोग हैं — रतौंधी (विटामिन A की कमी), स्कर्वी (विटामिन C की कमी), रिकेट्स (विटामिन D की कमी), बेरी-बेरी (विटामिन B1 की कमी), घेंघा रोग (आयोडीन की कमी), एनीमिया (आयरन की कमी), और क्वाशिओरकोर/मरास्मस (प्रोटीन या कुल भोजन की गंभीर कमी)। इन सभी रोगों से बचाव का सबसे अच्छा तरीका संतुलित आहार लेना है।",
+          "example": "आयोडीन युक्त नमक का नियमित उपयोग घेंघा रोग जैसी आयोडीन-कमी संबंधी बीमारियों को रोकने में मदद करता है।",
           "keyPoints": [
-            "अभावजन्य रोग पोषक तत्व की कमी से जुड़े होते हैं।",
-            "किस पोषक तत्व की कमी है, यह पहचानना महत्वपूर्ण है।",
-            "हर कमजोरी या बीमारी को किसी एक पोषक तत्व की कमी मान लेना सही नहीं है।"
+            "रतौंधी — विटामिन A की कमी से।",
+            "स्कर्वी — विटामिन C की कमी से।",
+            "रिकेट्स — विटामिन D की कमी से।",
+            "घेंघा रोग — आयोडीन की कमी से, एनीमिया — आयरन की कमी से।",
+            "क्वाशिओरकोर व मरास्मस — प्रोटीन/भोजन की गंभीर कमी से।"
+          ]
+        },
+        {
+          "title": "भोजन में पोषक तत्वों की जाँच",
+          "concept": "सरल प्रयोगशाला परीक्षणों की मदद से यह पता लगाया जा सकता है कि किसी खाद्य पदार्थ में स्टार्च, प्रोटीन या वसा उपस्थित है या नहीं।",
+          "explanation": "स्टार्च की जाँच के लिए आयोडीन विलयन की कुछ बूँदें डाली जाती हैं — नीला-काला रंग बनने पर स्टार्च की पुष्टि होती है। प्रोटीन की जाँच के लिए कॉस्टिक सोडा और कॉपर सल्फेट विलयन मिलाया जाता है — बैंगनी रंग बनने पर प्रोटीन की पुष्टि होती है (इसे ब्यूरेट परीक्षण कहते हैं)। वसा की जाँच के लिए भोजन के नमूने को कागज़ पर रगड़ा जाता है — चिकना, पारभासी निशान बनने पर वसा की पुष्टि होती है। विटामिन और खनिज लवणों की जाँच के लिए विशेष प्रयोगशाला उपकरणों की आवश्यकता होती है।",
+          "example": "स्कूल की प्रयोगशाला में उबले आलू पर आयोडीन डालने पर नीला-काला रंग बनना, आलू में स्टार्च की उपस्थिति सिद्ध करता है।",
+          "keyPoints": [
+            "आयोडीन परीक्षण — स्टार्च की जाँच (नीला-काला रंग)।",
+            "ब्यूरेट परीक्षण — प्रोटीन की जाँच (बैंगनी रंग)।",
+            "कागज़ परीक्षण — वसा की जाँच (चिकना निशान)।",
+            "विटामिन-खनिजों की जाँच सरल परीक्षणों से संभव नहीं है।",
+            "ये परीक्षण भोजन में पोषक तत्वों की उपस्थिति समझने में मदद करते हैं।"
+          ]
+        },
+        {
+          "title": "कुपोषण — अल्पपोषण और अतिपोषण",
+          "concept": "जब शरीर को आवश्यकता से कम या आवश्यकता से अधिक भोजन/पोषक तत्व मिलते हैं, तो इस असंतुलन को कुपोषण कहा जाता है।",
+          "explanation": "कुपोषण के दो रूप हैं — अल्पपोषण (Undernutrition), जिसमें पर्याप्त भोजन न मिलने से शरीर कमजोर हो जाता है और मरास्मस, क्वाशिओरकोर जैसे रोग हो सकते हैं; और अतिपोषण (Overnutrition), जिसमें आवश्यकता से अधिक भोजन (विशेषकर वसा व शर्करा युक्त) खाने से मोटापा और हृदय संबंधी रोग हो सकते हैं। दोनों ही स्थितियाँ स्वास्थ्य के लिए हानिकारक हैं, इसलिए संतुलित मात्रा में भोजन करना ज़रूरी है।",
+          "example": "पर्याप्त भोजन न मिलने वाले बच्चे में मरास्मस, जबकि अत्यधिक जंक फूड खाने वाले बच्चे में मोटापा — दोनों कुपोषण के अलग-अलग उदाहरण हैं।",
+          "keyPoints": [
+            "कुपोषण के दो रूप हैं — अल्पपोषण और अतिपोषण।",
+            "अल्पपोषण से मरास्मस, क्वाशिओरकोर जैसे रोग होते हैं।",
+            "अतिपोषण से मोटापा और हृदय रोग हो सकते हैं।",
+            "दोनों ही रूप स्वास्थ्य के लिए हानिकारक हैं।",
+            "संतुलित मात्रा में भोजन कुपोषण से बचाव करता है।"
+          ]
+        },
+        {
+          "title": "जंक फूड बनाम पौष्टिक भोजन",
+          "concept": "जंक फूड ऐसे खाद्य पदार्थ हैं जिनमें पोषक तत्व कम और वसा, चीनी व नमक अधिक मात्रा में होते हैं, जबकि पौष्टिक भोजन शरीर को संतुलित मात्रा में सभी आवश्यक पोषक तत्व प्रदान करता है।",
+          "explanation": "चिप्स, बर्गर, कोल्ड ड्रिंक और तली हुई चीज़ें जंक फूड की श्रेणी में आती हैं — ये स्वाद में अच्छी लगती हैं परंतु नियमित सेवन से मोटापा, दांतों की समस्या और अन्य रोग हो सकते हैं। इसकी तुलना में फल, सब्जियाँ, दालें, अंकुरित अनाज और साबुत अनाज पौष्टिक भोजन हैं, जो कम खर्च में अधिक पोषण देते हैं। बच्चों को जंक फूड की जगह घर का बना संतुलित भोजन खाने की आदत डालनी चाहिए।",
+          "example": "टिफिन में चिप्स की जगह भुने हुए चने या फल रखना, जंक फूड की जगह पौष्टिक विकल्प चुनने का एक आसान तरीका है।",
+          "keyPoints": [
+            "जंक फूड में पोषक तत्व कम, वसा-चीनी-नमक अधिक होते हैं।",
+            "नियमित जंक फूड सेवन से मोटापा व अन्य रोग हो सकते हैं।",
+            "फल, सब्जियाँ, दालें, अंकुरित अनाज पौष्टिक विकल्प हैं।",
+            "पौष्टिक भोजन प्रायः जंक फूड से सस्ता भी होता है।",
+            "घर का बना संतुलित भोजन जंक फूड से बेहतर विकल्प है।"
           ]
         }
       ],
@@ -256,103 +325,172 @@
       "example": "A meal containing rice or chapati may provide carbohydrates, pulses may provide protein, oil or ghee may provide fat, vegetables and fruits may provide vitamins and minerals, while water may come from both drinks and foods. Combining different foods helps provide a wider range of nutrients.",
       "sections": [
         {
-          "title": "What are Nutrients?",
-          "concept": "Nutrients are components of food that the body needs for energy, growth, repair, maintenance and normal functioning.",
-          "example": "Different foods such as cereals, pulses, milk, fruits and vegetables provide different nutrients.",
+          "title": "What Are Nutrients?",
+          "concept": "The components in food that the body needs for growth, energy, maintenance, and normal functioning are called nutrients.",
+          "explanation": "Food contains six main types of nutrients — carbohydrates, proteins, fats, vitamins, minerals, and water. Roughage is also an important part of food, though it isn't a nutrient since it provides no nourishment. Each nutrient plays a different role — some give energy, some help growth, and some protect the body from disease.",
+          "example": "Pulses, cereals, milk, fruits, and vegetables all contain different nutrients in different amounts. For example, milk contains carbohydrates, protein, fat, and several vitamins and minerals together.",
           "keyPoints": [
-            "One food can contain more than one nutrient.",
-            "Different nutrients perform different functions.",
-            "A varied diet helps provide a wider range of nutrients."
+            "A single food can contain more than one nutrient.",
+            "Not every nutrient performs the same function in the body.",
+            "A proper combination of different foods is needed for a balanced diet.",
+            "Nutrients can also be identified using simple tests (like iodine or Biuret test).",
+            "Roughage is not a nutrient, yet it is essential for digestion."
           ]
         },
         {
-          "title": "Carbohydrates — Major Energy Source",
-          "concept": "Carbohydrates are nutrients that mainly provide energy to the body. Cereals, rice, wheat, maize and potatoes are common sources.",
-          "example": "Energy obtained from food helps the body perform daily physical and mental activities.",
+          "title": "Carbohydrates — The Body's Main Energy Source",
+          "concept": "Carbohydrates are the main nutrient that gives the body quick energy, obtained mainly from cereals and sugary foods.",
+          "explanation": "Carbohydrates occur in two main forms — starch and sugar. Rice, wheat, maize, and potatoes contain starch, while sugarcane and honey contain sugar. The body breaks these down into glucose, the main energy source for cells. Consuming more carbohydrates than needed, along with low physical activity, can cause fat to accumulate in the body.",
+          "example": "A runner often eats rice or bread before a race because carbohydrates convert quickly into usable energy.",
           "keyPoints": [
-            "Carbohydrates mainly provide energy.",
-            "Cereals and several starchy foods are common sources.",
-            "Carbohydrates are not limited to sweet foods."
+            "Carbohydrates mainly occur in two forms — starch and sugar.",
+            "Rice, wheat, maize, and potato are major sources of starch.",
+            "Sugarcane and honey are major sources of sugar.",
+            "Excess carbohydrate can be stored in the body as fat.",
+            "Starch is tested using iodine solution (turns blue-black)."
           ]
         },
         {
-          "title": "Fats — Important Energy Source",
-          "concept": "Fats provide energy and are an important part of the diet when consumed in appropriate amounts.",
-          "example": "Oils, ghee, butter, nuts and some seeds are sources of fat.",
+          "title": "Fats — A Concentrated Source of Energy",
+          "concept": "Fat is a concentrated energy-giving nutrient that provides almost double the energy of carbohydrates for the same amount.",
+          "explanation": "Ghee, butter, oil, and nuts (like groundnut, almond) are rich in fat. Fat not only provides energy but also helps absorb 'fat-soluble' vitamins like A, D, E, and K. However, regularly eating excess fatty food (especially fried items) can lead to obesity and heart-related problems.",
+          "example": "In winter, people often eat more ghee and nuts because fat gives the body extra energy, helping keep it warm.",
           "keyPoints": [
-            "Fats provide energy.",
-            "Oils and ghee are common sources.",
-            "Fat should not automatically be treated as completely harmful; the body needs it in appropriate amounts."
+            "Fat gives roughly double the energy per gram compared to carbohydrate.",
+            "Ghee, butter, oil, and nuts are major sources of fat.",
+            "Fat helps absorb Vitamins A, D, E, and K.",
+            "Excess fat increases the risk of obesity and heart disease.",
+            "An oily patch left after rubbing food on paper indicates fat."
           ]
         },
         {
           "title": "Proteins — Growth and Repair",
-          "concept": "Proteins are important for growth and repair of body tissues. Adequate protein is especially important during growth.",
-          "example": "Pulses, gram, beans, soybean, milk, paneer and eggs can provide protein.",
+          "concept": "Protein is essential for the body's growth, forming new cells, and repairing damaged tissue — which is why it's called 'body-building food'.",
+          "explanation": "Protein comes from two types of sources — animal-based (egg, meat, fish, milk) and plant-based (pulses, soybean, groundnut). Growing children, pregnant women, and people recovering from injury need relatively more protein. Long-term protein deficiency can stunt growth and lead to diseases like kwashiorkor.",
+          "example": "Soybean is called 'poor man's meat' because it is as protein-rich as meat, yet cheaper and vegetarian.",
           "keyPoints": [
-            "Proteins support growth.",
-            "Proteins help in tissue repair.",
-            "Plant foods can also provide protein."
+            "Protein has two sources — animal-based and plant-based.",
+            "Egg, meat, fish, and milk are animal-based protein sources.",
+            "Pulses, soybean, and groundnut are plant-based protein sources.",
+            "Growing children need relatively more protein.",
+            "The Biuret test (copper sulphate + caustic soda) checks for protein — it turns violet."
           ]
         },
         {
-          "title": "Vitamins — Needed in Small Amounts",
-          "concept": "Vitamins are micronutrients required for maintaining health and normal body functions. Different vitamins have different roles.",
-          "example": "Fruits and green vegetables can provide several vitamins and other useful nutrients.",
+          "title": "Vitamins — Small Amounts, Vital Roles",
+          "concept": "Vitamins are needed in tiny amounts but play a crucial role in keeping the body healthy and protecting it from various diseases.",
+          "explanation": "The main vitamins are — A (for eyes; sources: carrot, papaya, milk), B (for the nervous system; sources: whole grains, pulses), C (for wound healing; sources: lemon, amla, orange), D (for bones; sources: sunlight, milk, egg), and K (for blood clotting; sources: green leafy vegetables). Each vitamin's deficiency causes a specific disease, which is why eating a variety of food matters.",
+          "example": "Sitting in the morning sun for a while lets the body make its own Vitamin D — which is why it's also called the 'sunshine vitamin'.",
           "keyPoints": [
-            "Vitamins are required in relatively small amounts.",
-            "Different vitamins have different functions.",
-            "Deficiency of a vitamin can cause specific health problems."
+            "Vitamin A — for eyes (deficiency causes night blindness).",
+            "Vitamin C — for wound healing (deficiency causes scurvy).",
+            "Vitamin D — for bones (deficiency causes rickets).",
+            "Vitamin K — for blood clotting, found in green vegetables.",
+            "Vitamin C is heat-sensitive — overcooking can destroy it."
           ]
         },
         {
-          "title": "Minerals — Essential Elements",
-          "concept": "Minerals are required by the body in small amounts but are important for several body functions.",
-          "example": "Milk, green vegetables, pulses and other foods can provide different minerals.",
+          "title": "Minerals — Essential Elements for the Body",
+          "concept": "Mineral salts are essential for the body's bones, blood, and the normal functioning of various organs, and are needed only in small amounts.",
+          "explanation": "Key minerals include — calcium (bones-teeth; sources: milk, curd), iron (haemoglobin; sources: spinach, jaggery), and iodine (thyroid; sources: iodised salt, seafood). Calcium deficiency weakens bones, iron deficiency causes anaemia, and iodine deficiency causes goitre.",
+          "example": "In hilly regions where seafood is unavailable, the use of iodised salt becomes especially important.",
           "keyPoints": [
-            "Minerals may be required in small amounts.",
-            "Different minerals perform different roles.",
-            "Mineral deficiencies can lead to specific health problems."
+            "Calcium — for bones-teeth, found in milk and curd.",
+            "Iron — for making haemoglobin, found in spinach and jaggery.",
+            "Iodine — for the thyroid gland, found in iodised salt.",
+            "Calcium deficiency weakens bones.",
+            "Iron deficiency causes anaemia."
           ]
         },
         {
-          "title": "Dietary Fibre",
-          "concept": "Dietary fibre or roughage is an important part of the diet and supports normal digestive function. It is not treated like the main energy-giving nutrients.",
-          "example": "Whole grains, fruits and vegetables can be sources of dietary fibre.",
+          "title": "Roughage — An Essential Part of Food",
+          "concept": "Roughage is the plant-based part of food that gives no nourishment, yet is essential for keeping the digestive system healthy.",
+          "explanation": "Whole grains, fresh vegetables, and fruits are the main sources of roughage. It isn't digested; instead, it softens waste in the intestines, making it easier to pass. A lack of roughage can cause problems like constipation, so it should be part of the daily diet even though it isn't technically a nutrient.",
+          "example": "Whole grains (like brown rice, wheat bran) contain more roughage than polished white rice.",
           "keyPoints": [
-            "Roughage is an important part of a balanced diet.",
-            "Fruits and vegetables can provide fibre.",
-            "Roughage should not be confused with energy-giving nutrients."
+            "Roughage is not a nutrient, yet it is essential.",
+            "Whole grains, vegetables, and fruits are its main sources.",
+            "It isn't digested but eases bowel movement.",
+            "Its lack can cause constipation.",
+            "It is also called 'fiber' or 'dietary fiber'."
           ]
         },
         {
-          "title": "Water",
-          "concept": "Water is essential for the body and many normal body processes depend on adequate water. Some foods also contain significant amounts of water.",
-          "example": "Fruits and vegetables can contribute water to the diet.",
+          "title": "Water — A Vital Component of Food and the Body",
+          "concept": "Water makes up about two-thirds of the body's weight and is essential for vital processes like digestion, transport, and temperature regulation.",
+          "explanation": "Water carries the nutrients from digested food to different parts of the body, helps remove waste, and regulates body temperature through sweat. Not drinking enough water can cause dehydration, leading to problems like fatigue, headaches, and weakness.",
+          "example": "In summer, the body loses more water through sweat, which is why drinking more water is recommended during that season.",
           "keyPoints": [
-            "Water is essential for the body.",
-            "Water can come from both drinks and foods.",
-            "Adequate water is an important part of a healthy diet."
+            "Water makes up about 70% of body weight.",
+            "Water carries nutrients to different parts of the body.",
+            "Water helps regulate body temperature.",
+            "Not drinking enough water can cause dehydration.",
+            "Water helps remove waste products from the body."
           ]
         },
         {
           "title": "Balanced Diet",
-          "concept": "A balanced diet provides the nutrients the body needs in appropriate amounts and variety. Eating more food does not automatically mean eating a balanced diet.",
-          "example": "A meal combining cereals with pulses, vegetables, fruits and other suitable foods can provide a wider range of nutrients.",
+          "concept": "A diet containing all the nutrients the body needs, in the correct proportions, is called a balanced diet.",
+          "explanation": "The requirement for a balanced diet depends on age, gender, and physical activity — for instance, growing children need more protein-calcium, while those doing heavy labour need more energy-rich food. No single food contains all nutrients in sufficient amounts, so a variety of foods (cereals, pulses, milk, fruits-vegetables) should be included.",
+          "example": "A plate with dal, rice/roti, vegetables, curd, and salad is a simple example of a balanced diet.",
           "keyPoints": [
-            "A balanced diet is about appropriate variety and amounts.",
-            "Different foods can complement each other nutritionally.",
-            "Food requirements vary with age, activity and individual needs."
+            "Balanced diet needs vary with age, gender, and activity level.",
+            "No single food provides all nutrients.",
+            "Including a variety of foods is essential.",
+            "Pregnant women and growing children need extra nutrition.",
+            "Excess fried/junk food can unbalance the diet."
           ]
         },
         {
           "title": "Deficiency Diseases",
-          "concept": "When the body does not receive enough of an essential nutrient for a prolonged period, deficiency-related health problems may occur.",
-          "example": "A prolonged lack of a particular vitamin or mineral can result in a deficiency disease associated with that nutrient.",
+          "concept": "When a nutrient is missing from the diet for a long time, the resulting illness is called a deficiency disease.",
+          "explanation": "Major deficiency diseases include — night blindness (Vitamin A deficiency), scurvy (Vitamin C deficiency), rickets (Vitamin D deficiency), beri-beri (Vitamin B1 deficiency), goitre (iodine deficiency), anaemia (iron deficiency), and kwashiorkor/marasmus (severe protein or overall food deficiency). The best way to prevent all these diseases is to eat a balanced diet.",
+          "example": "Regular use of iodised salt helps prevent iodine-deficiency diseases like goitre.",
           "keyPoints": [
-            "Deficiency diseases are associated with inadequate nutrients.",
-            "Identifying the missing nutrient is important.",
-            "Not every feeling of weakness should automatically be attributed to one nutrient deficiency."
+            "Night blindness — from Vitamin A deficiency.",
+            "Scurvy — from Vitamin C deficiency.",
+            "Rickets — from Vitamin D deficiency.",
+            "Goitre — from iodine deficiency; Anaemia — from iron deficiency.",
+            "Kwashiorkor and marasmus — from severe protein/food deficiency."
+          ]
+        },
+        {
+          "title": "Testing Foods for Nutrients",
+          "concept": "Simple laboratory tests can determine whether a food item contains starch, protein, or fat.",
+          "explanation": "For starch, a few drops of iodine solution are added — a blue-black colour confirms starch. For protein, caustic soda and copper sulphate solution are mixed in — a violet colour confirms protein (this is called the Biuret test). For fat, a food sample is rubbed on paper — an oily, translucent mark confirms fat. Testing for vitamins and minerals requires specialised laboratory equipment.",
+          "example": "In a school lab, adding iodine to a boiled potato turning it blue-black proves the presence of starch.",
+          "keyPoints": [
+            "Iodine test — checks for starch (blue-black colour).",
+            "Biuret test — checks for protein (violet colour).",
+            "Paper test — checks for fat (oily mark).",
+            "Vitamins and minerals cannot be checked with these simple tests.",
+            "These tests help identify which nutrients are present in food."
+          ]
+        },
+        {
+          "title": "Malnutrition — Undernutrition and Overnutrition",
+          "concept": "When the body gets either less or more food/nutrients than it needs, this imbalance is called malnutrition.",
+          "explanation": "Malnutrition has two forms — undernutrition, where insufficient food weakens the body and can cause diseases like marasmus and kwashiorkor; and overnutrition, where eating more food than needed (especially fat and sugar) can cause obesity and heart-related diseases. Both are harmful to health, so eating a balanced amount of food is important.",
+          "example": "A child not getting enough food may develop marasmus, while a child eating excess junk food may become obese — both are different examples of malnutrition.",
+          "keyPoints": [
+            "Malnutrition has two forms — undernutrition and overnutrition.",
+            "Undernutrition can cause diseases like marasmus and kwashiorkor.",
+            "Overnutrition can cause obesity and heart disease.",
+            "Both forms are harmful to health.",
+            "Eating a balanced amount of food prevents malnutrition."
+          ]
+        },
+        {
+          "title": "Junk Food vs Nutritious Food",
+          "concept": "Junk food refers to items low in nutrients but high in fat, sugar, and salt, while nutritious food gives the body all essential nutrients in balanced amounts.",
+          "explanation": "Chips, burgers, cold drinks, and fried items fall under junk food — they taste good but regular consumption can cause obesity, dental problems, and other diseases. In contrast, fruits, vegetables, pulses, sprouted grains, and whole grains are nutritious foods that offer more nutrition at lower cost. Children should be encouraged to eat home-cooked balanced meals instead of junk food.",
+          "example": "Packing roasted chickpeas or fruit instead of chips in a lunchbox is a simple way to choose a nutritious alternative to junk food.",
+          "keyPoints": [
+            "Junk food is low in nutrients but high in fat, sugar, and salt.",
+            "Regular junk food intake can cause obesity and other diseases.",
+            "Fruits, vegetables, pulses, and sprouted grains are nutritious alternatives.",
+            "Nutritious food is often cheaper than junk food too.",
+            "Home-cooked balanced meals are a better choice than junk food."
           ]
         }
       ],
