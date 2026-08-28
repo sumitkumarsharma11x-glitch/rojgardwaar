@@ -1,1 +1,463 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-09",
+  "chapterNumber": 9,
+  "chapterName": {
+    "hi": "गति एवं दूरियों का मापन",
+    "en": "Motion and Measurement of Distances"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "story-of-transport",
+      "name": {
+        "hi": "परिवहन की कहानी",
+        "en": "Story of Transport"
+      }
+    },
+    {
+      "id": "distance-and-measurement",
+      "name": {
+        "hi": "दूरी और मापन",
+        "en": "Distance and Measurement"
+      }
+    },
+    {
+      "id": "non-standard-units",
+      "name": {
+        "hi": "अमानक इकाइयाँ",
+        "en": "Non-standard Units"
+      }
+    },
+    {
+      "id": "standard-units-si",
+      "name": {
+        "hi": "मानक इकाइयाँ और SI",
+        "en": "Standard Units and SI"
+      }
+    },
+    {
+      "id": "correct-length-measurement",
+      "name": {
+        "hi": "लंबाई का सही मापन",
+        "en": "Correct Measurement of Length"
+      }
+    },
+    {
+      "id": "curved-line-measurement",
+      "name": {
+        "hi": "वक्र रेखा की लंबाई",
+        "en": "Measuring a Curved Line"
+      }
+    },
+    {
+      "id": "rest-and-motion",
+      "name": {
+        "hi": "विराम और गति",
+        "en": "Rest and Motion"
+      }
+    },
+    {
+      "id": "types-of-motion",
+      "name": {
+        "hi": "गति के प्रकार",
+        "en": "Types of Motion"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "इस अध्याय में परिवहन, दूरी और मापन, अमानक तथा मानक इकाइयाँ, लंबाई का सही मापन, curved line और motion के प्रकारों का अध्ययन किया जाता है।",
+      "example": "उचित scale से लंबाई मापना और moving objects की motion पहचानना chapter के practical examples हैं।",
+      "sections": [
+        {
+          "title": "परिवहन की कहानी",
+          "concept": "पहिए के आविष्कार से परिवहन में बड़ा परिवर्तन आया।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "भाप इंजन ने नए परिवहन साधनों के विकास में योगदान दिया।",
+          "keyPoints": [
+            "पहिए के आविष्कार से परिवहन में बड़ा परिवर्तन आया।",
+            "भाप इंजन ने नए परिवहन साधनों के विकास में योगदान दिया।",
+            "प्राचीन लोग जल मार्ग पर नावों का उपयोग करते थे।",
+            "प्रारंभिक नावें लकड़ी के लट्ठों से बनाई जाती थीं।",
+            "पहिए वाले वाहनों को खींचने के लिए जानवरों का उपयोग किया जाता था।"
+          ]
+        },
+        {
+          "title": "दूरी और मापन",
+          "concept": "दूरी दो स्थानों के बीच की लंबाई है।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "मापन अज्ञात राशि की ज्ञात राशि से तुलना है।",
+          "keyPoints": [
+            "दूरी दो स्थानों के बीच की लंबाई है।",
+            "मापन अज्ञात राशि की ज्ञात राशि से तुलना है।",
+            "मापन में ज्ञात स्थिर राशि को unit कहा जाता है।",
+            "मापन का परिणाम संख्या और unit से व्यक्त होता है।",
+            "दर्जी कपड़े की लंबाई मापकर देखता है कि वह सिलाई के लिए पर्याप्त है या नहीं।"
+          ]
+        },
+        {
+          "title": "अमानक इकाइयाँ",
+          "concept": "footstep या pace की लंबाई व्यक्ति-व्यक्ति में अलग हो सकती है।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "handspan से मापन करने पर अलग विद्यार्थियों के परिणाम अलग आ सकते हैं।",
+          "keyPoints": [
+            "footstep या pace की लंबाई व्यक्ति-व्यक्ति में अलग हो सकती है।",
+            "handspan से मापन करने पर अलग विद्यार्थियों के परिणाम अलग आ सकते हैं।",
+            "अमानक units के कारण मापन में एकरूपता नहीं रहती।",
+            "प्राचीन मिस्र में elbow से fingertips तक की लंबाई cubit कहलाती थी।",
+            "विभिन्न क्षेत्रों में foot की लंबाई थोड़ी अलग हो सकती थी।"
+          ]
+        },
+        {
+          "title": "मानक इकाइयाँ और SI",
+          "concept": "International System of Units को SI units कहा जाता है।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "length की SI unit metre है।",
+          "keyPoints": [
+            "International System of Units को SI units कहा जाता है।",
+            "length की SI unit metre है।",
+            "1 metre में 100 centimetres होते हैं।",
+            "1 centimetre में 10 millimetres होते हैं।",
+            "1 kilometre में 1000 metres होते हैं।"
+          ]
+        },
+        {
+          "title": "लंबाई का सही मापन",
+          "concept": "scale को वस्तु की लंबाई के साथ contact में रखना चाहिए।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "छोटी वस्तु की लंबाई के लिए 15 cm scale उपयोगी है।",
+          "keyPoints": [
+            "scale को वस्तु की लंबाई के साथ contact में रखना चाहिए।",
+            "छोटी वस्तु की लंबाई के लिए 15 cm scale उपयोगी है।",
+            "पेड़ की girth के लिए measuring tape अधिक उपयुक्त है।",
+            "broken scale में zero स्पष्ट न हो तो clear full mark से measurement शुरू किया जा सकता है।",
+            "zero से शुरू न करने पर initial reading को final reading से घटाना होता है।"
+          ]
+        },
+        {
+          "title": "वक्र रेखा की लंबाई",
+          "concept": "curved line की लंबाई सीधे metre scale से नहीं मापी जाती।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "curved line की length मापने के लिए thread का उपयोग किया जा सकता है।",
+          "keyPoints": [
+            "curved line की लंबाई सीधे metre scale से नहीं मापी जाती।",
+            "curved line की length मापने के लिए thread का उपयोग किया जा सकता है।",
+            "thread के एक सिरे के पास knot लगाकर measurement शुरू की जाती है।",
+            "thread को curved path पर taut रखना चाहिए।",
+            "curved line AB की measurement point A से शुरू की जाती है।"
+          ]
+        },
+        {
+          "title": "विराम और गति",
+          "concept": "समय के साथ position में परिवर्तन motion कहलाता है।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "जिस object की position संदर्भ में नहीं बदलती, वह rest में माना जा सकता है।",
+          "keyPoints": [
+            "समय के साथ position में परिवर्तन motion कहलाता है।",
+            "जिस object की position संदर्भ में नहीं बदलती, वह rest में माना जा सकता है।",
+            "flying bird motion में है क्योंकि उसकी position बदलती है।",
+            "table सामान्यतः अपने surroundings के सापेक्ष rest में होती है।",
+            "clock की second hand की position समय के साथ बदलती है।"
+          ]
+        },
+        {
+          "title": "गति के प्रकार",
+          "concept": "सीधी रेखा की motion rectilinear motion कहलाती है।",
+          "explanation": "इस topic में NCERT chapter के संबंधित तथ्य और उदाहरण समझाए जाते हैं।",
+          "example": "सीधी सड़क पर चलती vehicle rectilinear motion का उदाहरण है।",
+          "keyPoints": [
+            "सीधी रेखा की motion rectilinear motion कहलाती है।",
+            "सीधी सड़क पर चलती vehicle rectilinear motion का उदाहरण है।",
+            "thread से बंधे stone को घुमाने पर उसका path circular होता है।",
+            "circular motion में object fixed point से समान दूरी रखता है।",
+            "electric fan की blade circular motion करती है।"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "दूरी दो स्थानों के बीच की लंबाई है।",
+        "मापन में unknown quantity की known quantity से तुलना होती है।",
+        "Non-standard units में uniformity नहीं होती।",
+        "Metre length की SI unit है।",
+        "1 m = 100 cm, 1 cm = 10 mm, 1 km = 1000 m।",
+        "सही scale placement और eye position जरूरी हैं।",
+        "Curved line को thread से मापा जाता है।",
+        "Motion में position समय के साथ बदलती है।"
+      ],
+      "examFocus": [
+        "Transport history",
+        "Measurement and units",
+        "Non-standard versus standard units",
+        "SI conversions",
+        "Correct scale reading",
+        "Curved-line measurement",
+        "Rest and motion",
+        "Types of motion"
+      ],
+      "examTraps": [
+        {
+          "title": "Footstep",
+          "fact": "Footstep standard unit नहीं है।",
+          "confusion": "हर व्यक्ति की footstep समान नहीं होती।"
+        },
+        {
+          "title": "SI length",
+          "fact": "Metre SI unit है।",
+          "confusion": "Kilometre बड़ी दूरी के लिए convenient है, पर SI length unit metre है।"
+        },
+        {
+          "title": "Broken zero",
+          "fact": "Clear full mark से शुरू करके initial reading घटाएँ।",
+          "confusion": "Broken zero को अनुमान से न पढ़ें।"
+        },
+        {
+          "title": "Eye position",
+          "fact": "Eye measurement point के सामने होनी चाहिए।",
+          "confusion": "Side से देखने पर reading बदल सकती है।"
+        },
+        {
+          "title": "Curved line",
+          "fact": "Thread से curve follow करके scale से measure करें।",
+          "confusion": "Rigid ruler को सीधे curve पर न रखें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "क्या प्रश्न distance या measurement पर है?",
+        "Unit standard है या non-standard?",
+        "Conversion सही है?",
+        "Scale और eye position सही हैं?",
+        "Path straight, circular या repeated है?"
+      ],
+      "memoryTricks": [
+        "Measurement → number + unit",
+        "1 m → 100 cm",
+        "1 cm → 10 mm",
+        "1 km → 1000 m",
+        "Straight → rectilinear",
+        "Circle → circular",
+        "Fixed interval repetition → periodic"
+      ],
+      "pyqSignals": [
+        "Unit conversion",
+        "Non-standard units",
+        "Broken scale",
+        "Curved line with thread",
+        "Types of motion",
+        "Transport history"
+      ],
+      "mustRemember": [
+        "Distance → दो स्थानों के बीच लंबाई",
+        "Measurement → unknown की known से तुलना",
+        "SI length → metre",
+        "1 km → 1000 m",
+        "1 m → 100 cm",
+        "1 cm → 10 mm",
+        "Curved line → thread + scale",
+        "Rectilinear → straight line",
+        "Circular → circular path",
+        "Periodic → fixed interval repetition"
+      ],
+      "quickRevision": "Transport → wheel → steam engine → distance → measurement → non-standard units → standard units → SI → metre → 1 m = 100 cm → 1 cm = 10 mm → 1 km = 1000 m → correct scale → curved line with thread → rest and motion → rectilinear → circular → periodic"
+    },
+    "en": {
+      "concept": "This chapter studies transport, distance and measurement, non-standard and standard units, correct measurement of length, curved lines and types of motion.",
+      "example": "Measuring length with a suitable scale and identifying motion are practical examples from the chapter.",
+      "sections": [
+        {
+          "title": "Story of Transport",
+          "concept": "The invention of the wheel brought a major change in transport.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "The steam engine contributed to the development of new means of transport.",
+          "keyPoints": [
+            "The invention of the wheel brought a major change in transport.",
+            "The steam engine contributed to the development of new means of transport.",
+            "Ancient people used boats on water routes.",
+            "Early boats were made from logs of wood.",
+            "Animals were used to pull wheeled vehicles."
+          ]
+        },
+        {
+          "title": "Distance and Measurement",
+          "concept": "Distance is the length between two places.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "Measurement is comparison of an unknown quantity with a known quantity.",
+          "keyPoints": [
+            "Distance is the length between two places.",
+            "Measurement is comparison of an unknown quantity with a known quantity.",
+            "The known fixed quantity in measurement is called a unit.",
+            "A measurement result is expressed using a number and a unit.",
+            "A tailor measures cloth to see whether it is sufficient for stitching."
+          ]
+        },
+        {
+          "title": "Non-standard Units",
+          "concept": "The length of a footstep or pace can differ from person to person.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "Measurements using handspan can differ among students.",
+          "keyPoints": [
+            "The length of a footstep or pace can differ from person to person.",
+            "Measurements using handspan can differ among students.",
+            "Non-standard units do not provide uniform measurements.",
+            "In ancient Egypt, the length from elbow to fingertips was called a cubit.",
+            "The length of a foot could differ slightly between regions."
+          ]
+        },
+        {
+          "title": "Standard Units and SI",
+          "concept": "The International System of Units are called SI units.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "The SI unit of length is metre.",
+          "keyPoints": [
+            "The International System of Units are called SI units.",
+            "The SI unit of length is metre.",
+            "1 metre has 100 centimetres.",
+            "1 centimetre has 10 millimetres.",
+            "1 kilometre has 1000 metres."
+          ]
+        },
+        {
+          "title": "Correct Measurement of Length",
+          "concept": "The scale should be kept in contact along the object's length.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "A 15 cm scale is useful for a small object's length.",
+          "keyPoints": [
+            "The scale should be kept in contact along the object's length.",
+            "A 15 cm scale is useful for a small object's length.",
+            "A measuring tape is more suitable for measuring a tree's girth.",
+            "If zero is unclear on a broken scale, measurement can start from a clear full mark.",
+            "If measurement does not start at zero, the initial reading is subtracted from the final reading."
+          ]
+        },
+        {
+          "title": "Measuring a Curved Line",
+          "concept": "A curved line is not measured directly with a metre scale.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "A thread can be used to measure a curved line.",
+          "keyPoints": [
+            "A curved line is not measured directly with a metre scale.",
+            "A thread can be used to measure a curved line.",
+            "Measurement begins by placing a knot near one end of the thread.",
+            "The thread should be kept taut along the curved path.",
+            "Measurement of curved line AB starts at point A."
+          ]
+        },
+        {
+          "title": "Rest and Motion",
+          "concept": "Change in position with time is called motion.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "An object whose position does not change relative to a reference can be considered at rest.",
+          "keyPoints": [
+            "Change in position with time is called motion.",
+            "An object whose position does not change relative to a reference can be considered at rest.",
+            "A flying bird is in motion because its position changes.",
+            "A table is generally at rest relative to its surroundings.",
+            "The position of a clock's second hand changes with time."
+          ]
+        },
+        {
+          "title": "Types of Motion",
+          "concept": "Motion along a straight line is called rectilinear motion.",
+          "explanation": "This topic explains the relevant facts and examples from the NCERT chapter.",
+          "example": "A vehicle moving on a straight road is an example of rectilinear motion.",
+          "keyPoints": [
+            "Motion along a straight line is called rectilinear motion.",
+            "A vehicle moving on a straight road is an example of rectilinear motion.",
+            "A stone tied to a thread and whirled follows a circular path.",
+            "In circular motion, an object remains at the same distance from a fixed point.",
+            "An electric fan blade shows circular motion."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Distance is the length between two places.",
+        "Measurement compares an unknown quantity with a known quantity.",
+        "Non-standard units are not uniform.",
+        "Metre is the SI unit of length.",
+        "1 m = 100 cm, 1 cm = 10 mm, 1 km = 1000 m.",
+        "Correct scale placement and eye position are important.",
+        "A curved line can be measured with thread.",
+        "Motion involves change of position with time."
+      ],
+      "examFocus": [
+        "Transport history",
+        "Measurement and units",
+        "Non-standard versus standard units",
+        "SI conversions",
+        "Correct scale reading",
+        "Curved-line measurement",
+        "Rest and motion",
+        "Types of motion"
+      ],
+      "examTraps": [
+        {
+          "title": "Footstep",
+          "fact": "A footstep is not a standard unit.",
+          "confusion": "Everyone has a different footstep length."
+        },
+        {
+          "title": "SI length",
+          "fact": "Metre is the SI unit.",
+          "confusion": "Kilometre is convenient for long distances, but metre is the SI length unit."
+        },
+        {
+          "title": "Broken zero",
+          "fact": "Start from a clear full mark and subtract the initial reading.",
+          "confusion": "Do not guess a broken zero."
+        },
+        {
+          "title": "Eye position",
+          "fact": "The eye should be in front of the measurement point.",
+          "confusion": "Viewing from the side can change the reading."
+        },
+        {
+          "title": "Curved line",
+          "fact": "Follow the curve with thread and measure it with a scale.",
+          "confusion": "Do not place a rigid ruler directly along a curve."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Is the question about distance or measurement?",
+        "Is the unit standard or non-standard?",
+        "Is the conversion correct?",
+        "Are scale and eye positions correct?",
+        "Is the path straight, circular or repeated?"
+      ],
+      "memoryTricks": [
+        "Measurement → number + unit",
+        "1 m → 100 cm",
+        "1 cm → 10 mm",
+        "1 km → 1000 m",
+        "Straight → rectilinear",
+        "Circle → circular",
+        "Fixed interval repetition → periodic"
+      ],
+      "pyqSignals": [
+        "Unit conversion",
+        "Non-standard units",
+        "Broken scale",
+        "Curved line with thread",
+        "Types of motion",
+        "Transport history"
+      ],
+      "mustRemember": [
+        "Distance → length between two places",
+        "Measurement → comparison of unknown with known",
+        "SI length → metre",
+        "1 km → 1000 m",
+        "1 m → 100 cm",
+        "1 cm → 10 mm",
+        "Curved line → thread + scale",
+        "Rectilinear → straight line",
+        "Circular → circular path",
+        "Periodic → fixed interval repetition"
+      ],
+      "quickRevision": "Transport → wheel → steam engine → distance → measurement → non-standard units → standard units → SI → metre → 1 m = 100 cm → 1 cm = 10 mm → 1 km = 1000 m → correct scale → curved line with thread → rest and motion → rectilinear → circular → periodic"
+    }
+  }
+}
