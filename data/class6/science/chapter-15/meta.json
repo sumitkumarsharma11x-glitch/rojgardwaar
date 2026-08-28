@@ -1,1 +1,405 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-15",
+  "chapterNumber": 15,
+  "chapterName": {
+    "hi": "कचरा-संग्रहण तथा निपटान",
+    "en": "Garbage In, Garbage Out"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "dealing-with-garbage",
+      "name": {
+        "hi": "कचरे से निपटना",
+        "en": "Dealing with Garbage"
+      }
+    },
+    {
+      "id": "composting-and-vermicomposting",
+      "name": {
+        "hi": "कम्पोस्टिंग और वर्मी-कम्पोस्टिंग",
+        "en": "Composting and Vermicomposting"
+      }
+    },
+    {
+      "id": "think-and-throw",
+      "name": {
+        "hi": "सोचकर कचरा फेंकना",
+        "en": "Think and Throw"
+      }
+    },
+    {
+      "id": "recycling-paper",
+      "name": {
+        "hi": "कागज का पुनर्चक्रण",
+        "en": "Recycling of Paper"
+      }
+    },
+    {
+      "id": "plastics",
+      "name": {
+        "hi": "प्लास्टिक वरदान या अभिशाप",
+        "en": "Plastics: Boon or Curse"
+      }
+    },
+    {
+      "id": "reduce-reuse-responsibility",
+      "name": {
+        "hi": "कचरा कम करना, पुनः उपयोग और जिम्मेदारी",
+        "en": "Reducing Waste, Reuse and Responsibility"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "इस अध्याय में रोजमर्रा के कचरे, उसके संग्रह और निपटान के तरीकों का अध्ययन किया जाता है। Landfill, composting, vermicomposting और paper recycling जैसे तरीके बताए गए हैं। अध्याय packaging और plastic waste को कम करने तथा garbage के प्रति जिम्मेदार व्यवहार पर भी जोर देता है।",
+      "example": "Kitchen waste जैसे fruit और vegetable peels को compost बनाया जा सकता है। Redworms की सहायता से इसी प्रकार के जैविक कचरे से vermicompost तैयार किया जा सकता है।",
+      "sections": [
+        {
+          "title": "कचरे से निपटना",
+          "concept": "सफाई कर्मचारी घरों और अन्य स्थानों से कचरा इकट्ठा करते हैं।",
+          "explanation": "इस भाग में कचरे के निपटान, जैविक कचरे के उपयोग और जिम्मेदार waste management से जुड़े मुख्य विचार समझाए गए हैं।",
+          "example": "इकट्ठा किया गया कचरा ट्रकों में ले जाया जा सकता है।",
+          "keyPoints": [
+            "सफाई कर्मचारी घरों और अन्य स्थानों से कचरा इकट्ठा करते हैं।",
+            "इकट्ठा किया गया कचरा ट्रकों में ले जाया जा सकता है।",
+            "शहर का कचरा landfill नामक स्थान पर डाला जा सकता है।",
+            "Landfill सामान्यतः नीची जगह होती है जहाँ कचरा डाला जाता है।",
+            "Landfill में उपयोगी और अनुपयोगी कचरे को अलग किया जा सकता है।"
+          ]
+        },
+        {
+          "title": "कम्पोस्टिंग और वर्मी-कम्पोस्टिंग",
+          "concept": "पौधे और पशु मूल के कुछ कचरे के सड़कर manure बनने की प्रक्रिया composting कहलाती है।",
+          "explanation": "इस भाग में कचरे के निपटान, जैविक कचरे के उपयोग और जिम्मेदार waste management से जुड़े मुख्य विचार समझाए गए हैं।",
+          "example": "Fruit और vegetable peels compost बनाने में उपयोग किए जा सकते हैं।",
+          "keyPoints": [
+            "पौधे और पशु मूल के कुछ कचरे के सड़कर manure बनने की प्रक्रिया composting कहलाती है।",
+            "Fruit और vegetable peels compost बनाने में उपयोग किए जा सकते हैं।",
+            "बचा हुआ भोजन composting के लिए उपयोग किया जा सकता है।",
+            "सूखे पत्ते compost बनाने में उपयोग किए जा सकते हैं।",
+            "Compost पौधों के लिए manure के रूप में उपयोगी है।"
+          ]
+        },
+        {
+          "title": "सोचकर कचरा फेंकना",
+          "concept": "घर से रोज निकलने वाले कचरे की मात्रा का अनुमान bucket से लगाया जा सकता है।",
+          "explanation": "इस भाग में कचरे के निपटान, जैविक कचरे के उपयोग और जिम्मेदार waste management से जुड़े मुख्य विचार समझाए गए हैं।",
+          "example": "5 से 10 litre bucket कचरे की मात्रा मापने के लिए उपयोग की जा सकती है।",
+          "keyPoints": [
+            "घर से रोज निकलने वाले कचरे की मात्रा का अनुमान bucket से लगाया जा सकता है।",
+            "5 से 10 litre bucket कचरे की मात्रा मापने के लिए उपयोग की जा सकती है।",
+            "कचरे की मात्रा जानने से waste generation के बारे में जागरूकता बढ़ती है।",
+            "बचा हुआ भोजन सीधे फेंकने के बजाय उपयोग के तरीके पर सोचना चाहिए।",
+            "केले के पत्ते की platter plastic plate की तुलना में एक उपयोगी विकल्प हो सकती है।"
+          ]
+        },
+        {
+          "title": "कागज का पुनर्चक्रण",
+          "concept": "पुराने कागज को recycle करके उपयोगी products बनाए जा सकते हैं।",
+          "explanation": "इस भाग में कचरे के निपटान, जैविक कचरे के उपयोग और जिम्मेदार waste management से जुड़े मुख्य विचार समझाए गए हैं।",
+          "example": "Paper recycling से नए कागज के लिए raw material की आवश्यकता कम हो सकती है।",
+          "keyPoints": [
+            "पुराने कागज को recycle करके उपयोगी products बनाए जा सकते हैं।",
+            "Paper recycling से नए कागज के लिए raw material की आवश्यकता कम हो सकती है।",
+            "विभिन्न प्रकार के paper pieces को इकट्ठा करके उनकी recycling suitability जाँची जा सकती है।",
+            "Recycled paper और new paper की appearance में अंतर देखा जा सकता है।",
+            "Lens की सहायता से recycled paper और new paper के material को देखा जा सकता है।"
+          ]
+        },
+        {
+          "title": "प्लास्टिक वरदान या अभिशाप",
+          "concept": "Plastic bags packaging material के रूप में उपयोग किए जाते हैं।",
+          "explanation": "इस भाग में कचरे के निपटान, जैविक कचरे के उपयोग और जिम्मेदार waste management से जुड़े मुख्य विचार समझाए गए हैं।",
+          "example": "Plastic packaging उपयोग के बाद garbage बन सकती है।",
+          "keyPoints": [
+            "Plastic bags packaging material के रूप में उपयोग किए जाते हैं।",
+            "Plastic packaging उपयोग के बाद garbage बन सकती है।",
+            "Plastic को composting द्वारा कम harmful पदार्थों में नहीं बदला जा सकता।",
+            "Plastic non-biodegradable waste का उदाहरण है।",
+            "Plastic waste लंबे समय तक environment में बना रह सकता है।"
+          ]
+        },
+        {
+          "title": "कचरा कम करना, पुनः उपयोग और जिम्मेदारी",
+          "concept": "Garbage disposal केवल government की responsibility नहीं है।",
+          "explanation": "इस भाग में कचरे के निपटान, जैविक कचरे के उपयोग और जिम्मेदार waste management से जुड़े मुख्य विचार समझाए गए हैं।",
+          "example": "हर व्यक्ति garbage problem को कम करने में योगदान दे सकता है।",
+          "keyPoints": [
+            "Garbage disposal केवल government की responsibility नहीं है।",
+            "हर व्यक्ति garbage problem को कम करने में योगदान दे सकता है।",
+            "कम garbage पैदा करना disposal problem का सबसे सीधा उपाय है।",
+            "Reuse करने से किसी वस्तु का उपयोगी जीवन बढ़ सकता है।",
+            "Recycling से waste material से नए useful products बनाए जा सकते हैं।"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Landfill में शहर का कचरा डाला जा सकता है।",
+        "Biodegradable waste से compost बनाया जा सकता है।",
+        "Redworms की मदद से vermicomposting होती है।",
+        "Paper को recycle करके useful products बनाए जा सकते हैं।",
+        "Plastic compost नहीं होता और उसका waste कम करना जरूरी है।",
+        "Packaging garbage की मात्रा बढ़ा सकती है।",
+        "Garbage disposal केवल सरकार की जिम्मेदारी नहीं है।"
+      ],
+      "examFocus": [
+        "Landfill की परिभाषा और प्रक्रिया।",
+        "Composting और vermicomposting।",
+        "Redworms और gizzard।",
+        "Biodegradable और non-biodegradable waste।",
+        "Paper recycling।",
+        "Packaging और plastic waste।",
+        "Reuse और garbage reduction।"
+      ],
+      "examTraps": [
+        {
+          "title": "Composting और vermicomposting",
+          "fact": "Composting में जैविक waste सड़कर manure बनता है और redworms की सहायता से compost बनाने को vermicomposting कहते हैं।",
+          "confusion": "हर compost को vermicompost न समझें।"
+        },
+        {
+          "title": "Redworms का भोजन",
+          "fact": "Redworms plant और animal waste जैसे biodegradable material पर काम करते हैं।",
+          "confusion": "Plastic, glass और metal को redworms compost नहीं करते।"
+        },
+        {
+          "title": "Landfill",
+          "fact": "Landfill में garbage dump किया जाता है और उपयोगी तथा अनुपयोगी हिस्से अलग किए जा सकते हैं।",
+          "confusion": "Landfill को compost pit न समझें।"
+        },
+        {
+          "title": "Plastic",
+          "fact": "Plastic composting से less harmful पदार्थ में नहीं बदलता।",
+          "confusion": "Plastic को biodegradable kitchen waste के साथ compost pit में नहीं डालना चाहिए।"
+        },
+        {
+          "title": "Reuse और recycling",
+          "fact": "Reuse में वस्तु को फिर उपयोग करते हैं, recycling में waste material से useful product बनाया जाता है।",
+          "confusion": "दोनों को एक ही प्रक्रिया न समझें।"
+        },
+        {
+          "title": "Garbage responsibility",
+          "fact": "Garbage disposal केवल government की responsibility नहीं है।",
+          "confusion": "घर और समाज की जिम्मेदारी को नजरअंदाज न करें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "क्या waste biodegradable है?",
+        "क्या प्रश्न landfill, compost या vermicompost के बारे में है?",
+        "क्या redworms इस waste पर काम कर सकते हैं?",
+        "क्या वस्तु reuse या recycle की जा सकती है?",
+        "क्या packaging को कम किया जा सकता है?",
+        "क्या plastic को composting में डालना सही है?"
+      ],
+      "memoryTricks": [
+        "Organic waste → compost.",
+        "Redworms → vermicompost.",
+        "Landfill → garbage dumping area.",
+        "Paper → recycle.",
+        "Plastic → compost नहीं.",
+        "Less waste → easier disposal."
+      ],
+      "pyqSignals": [
+        "Landfill।",
+        "Composting और vermicomposting।",
+        "Redworms।",
+        "Paper recycling।",
+        "Plastic waste।",
+        "Packaging।",
+        "Reuse और responsible disposal।"
+      ],
+      "mustRemember": [
+        "Landfill → garbage dumping area",
+        "Composting → organic waste to manure",
+        "Vermicomposting → compost with redworms",
+        "Redworms → eat rotting organic waste",
+        "Gizzard → helps grind food",
+        "Paper → can be recycled",
+        "Plastic → non-biodegradable and not composted",
+        "Packaging → can increase garbage",
+        "Reuse → use an item again",
+        "Garbage disposal → shared responsibility"
+      ],
+      "quickRevision": "Garbage → collection → useful and non-useful separation → landfill → composting → organic waste to manure → redworms → vermicomposting → paper recycling → plastic waste → reduce packaging → reuse → recycle → responsible garbage disposal"
+    },
+    "en": {
+      "concept": "This chapter studies everyday garbage, its collection and methods of disposal. It explains landfill, composting, vermicomposting and paper recycling. It also emphasizes reducing packaging and plastic waste and behaving responsibly toward garbage.",
+      "example": "Kitchen waste such as fruit and vegetable peels can be converted into compost. Similar organic waste can be used to prepare vermicompost with the help of redworms.",
+      "sections": [
+        {
+          "title": "Dealing with Garbage",
+          "concept": "Safai workers collect garbage from homes and other places.",
+          "explanation": "This section explains the main ideas related to garbage disposal, use of organic waste and responsible waste management.",
+          "example": "Collected garbage can be carried in trucks.",
+          "keyPoints": [
+            "Safai workers collect garbage from homes and other places.",
+            "Collected garbage can be carried in trucks.",
+            "City garbage can be dumped at a place called a landfill.",
+            "A landfill is generally a low-lying area where garbage is dumped.",
+            "Useful and non-useful garbage can be separated at a landfill."
+          ]
+        },
+        {
+          "title": "Composting and Vermicomposting",
+          "concept": "The process in which some plant and animal waste rots and becomes manure is called composting.",
+          "explanation": "This section explains the main ideas related to garbage disposal, use of organic waste and responsible waste management.",
+          "example": "Fruit and vegetable peels can be used to make compost.",
+          "keyPoints": [
+            "The process in which some plant and animal waste rots and becomes manure is called composting.",
+            "Fruit and vegetable peels can be used to make compost.",
+            "Leftover food can be used for composting.",
+            "Dry leaves can be used to make compost.",
+            "Compost is useful as manure for plants."
+          ]
+        },
+        {
+          "title": "Think and Throw",
+          "concept": "The amount of garbage produced by a house each day can be estimated using a bucket.",
+          "explanation": "This section explains the main ideas related to garbage disposal, use of organic waste and responsible waste management.",
+          "example": "A 5 to 10 litre bucket can be used to measure garbage quantity.",
+          "keyPoints": [
+            "The amount of garbage produced by a house each day can be estimated using a bucket.",
+            "A 5 to 10 litre bucket can be used to measure garbage quantity.",
+            "Knowing the amount of garbage increases awareness of waste generation.",
+            "Instead of simply throwing leftover food, one should think about how it can be used.",
+            "A banana-leaf platter can be an alternative to a plastic plate."
+          ]
+        },
+        {
+          "title": "Recycling of Paper",
+          "concept": "Old paper can be recycled to make useful products.",
+          "explanation": "This section explains the main ideas related to garbage disposal, use of organic waste and responsible waste management.",
+          "example": "Paper recycling can reduce the need for raw material for new paper.",
+          "keyPoints": [
+            "Old paper can be recycled to make useful products.",
+            "Paper recycling can reduce the need for raw material for new paper.",
+            "Different paper pieces can be collected to check their suitability for recycling.",
+            "A difference in appearance may be observed between recycled and new paper.",
+            "A lens can be used to observe the material of recycled and new paper."
+          ]
+        },
+        {
+          "title": "Plastics: Boon or Curse",
+          "concept": "Plastic bags are used as packaging material.",
+          "explanation": "This section explains the main ideas related to garbage disposal, use of organic waste and responsible waste management.",
+          "example": "Plastic packaging can become garbage after use.",
+          "keyPoints": [
+            "Plastic bags are used as packaging material.",
+            "Plastic packaging can become garbage after use.",
+            "Plastic cannot be converted into less harmful substances by composting.",
+            "Plastic is an example of non-biodegradable waste.",
+            "Plastic waste can remain in the environment for a long time."
+          ]
+        },
+        {
+          "title": "Reducing Waste, Reuse and Responsibility",
+          "concept": "Garbage disposal is not only the government's responsibility.",
+          "explanation": "This section explains the main ideas related to garbage disposal, use of organic waste and responsible waste management.",
+          "example": "Every person can contribute to reducing the garbage problem.",
+          "keyPoints": [
+            "Garbage disposal is not only the government's responsibility.",
+            "Every person can contribute to reducing the garbage problem.",
+            "Producing less garbage is a direct way to reduce the disposal problem.",
+            "Reuse can extend the useful life of an object.",
+            "Recycling can make new useful products from waste material."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "City garbage can be dumped in a landfill.",
+        "Biodegradable waste can be converted into compost.",
+        "Vermicomposting uses redworms.",
+        "Paper can be recycled into useful products.",
+        "Plastic does not become less harmful through composting and its waste should be reduced.",
+        "Packaging can increase garbage.",
+        "Garbage disposal is not only the government's responsibility."
+      ],
+      "examFocus": [
+        "Definition and process of landfill.",
+        "Composting and vermicomposting.",
+        "Redworms and gizzard.",
+        "Biodegradable and non-biodegradable waste.",
+        "Paper recycling.",
+        "Packaging and plastic waste.",
+        "Reuse and garbage reduction."
+      ],
+      "examTraps": [
+        {
+          "title": "Composting and vermicomposting",
+          "fact": "Composting turns organic waste into manure, while vermicomposting uses redworms to make compost.",
+          "confusion": "Do not treat every compost as vermicompost."
+        },
+        {
+          "title": "Food of redworms",
+          "fact": "Redworms work on biodegradable plant and animal waste.",
+          "confusion": "Redworms do not compost plastic, glass or metal."
+        },
+        {
+          "title": "Landfill",
+          "fact": "Garbage is dumped in a landfill and useful and non-useful parts can be separated.",
+          "confusion": "Do not confuse a landfill with a compost pit."
+        },
+        {
+          "title": "Plastic",
+          "fact": "Plastic is not converted into less harmful substances by composting.",
+          "confusion": "Plastic should not be put into a compost pit with biodegradable kitchen waste."
+        },
+        {
+          "title": "Reuse and recycling",
+          "fact": "Reuse means using an item again, while recycling makes useful products from waste material.",
+          "confusion": "Do not treat the two as exactly the same process."
+        },
+        {
+          "title": "Garbage responsibility",
+          "fact": "Garbage disposal is not only the responsibility of the government.",
+          "confusion": "Do not ignore the responsibility of individuals and communities."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Is the waste biodegradable?",
+        "Is the question about landfill, compost or vermicompost?",
+        "Can redworms work on this waste?",
+        "Can the item be reused or recycled?",
+        "Can packaging be reduced?",
+        "Should plastic be put into composting?"
+      ],
+      "memoryTricks": [
+        "Organic waste → compost.",
+        "Redworms → vermicompost.",
+        "Landfill → garbage dumping area.",
+        "Paper → recycle.",
+        "Plastic → not composted.",
+        "Less waste → easier disposal."
+      ],
+      "pyqSignals": [
+        "Landfill.",
+        "Composting and vermicomposting.",
+        "Redworms.",
+        "Paper recycling.",
+        "Plastic waste.",
+        "Packaging.",
+        "Reuse and responsible disposal."
+      ],
+      "mustRemember": [
+        "Landfill → garbage dumping area",
+        "Composting → organic waste to manure",
+        "Vermicomposting → compost with redworms",
+        "Redworms → eat rotting organic waste",
+        "Gizzard → helps grind food",
+        "Paper → can be recycled",
+        "Plastic → non-biodegradable and not composted",
+        "Packaging → can increase garbage",
+        "Reuse → use an item again",
+        "Garbage disposal → shared responsibility"
+      ],
+      "quickRevision": "Garbage → collection → useful and non-useful separation → landfill → composting → organic waste to manure → redworms → vermicomposting → paper recycling → plastic waste → reduce packaging → reuse → recycle → responsible garbage disposal"
+    }
+  }
+}
