@@ -1,1 +1,399 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-05",
+  "chapterNumber": 5,
+  "chapterName": {
+    "hi": "हमारे चारों ओर होने वाले परिवर्तन",
+    "en": "Changes Around Us"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "changes-around-us",
+      "name": {
+        "hi": "हमारे चारों ओर होने वाले परिवर्तन",
+        "en": "Changes Around Us"
+      }
+    },
+    {
+      "id": "reversible-changes",
+      "name": {
+        "hi": "उत्क्रमणीय परिवर्तन",
+        "en": "Reversible Changes"
+      }
+    },
+    {
+      "id": "irreversible-changes",
+      "name": {
+        "hi": "अनुत्क्रमणीय परिवर्तन",
+        "en": "Irreversible Changes"
+      }
+    },
+    {
+      "id": "heating-cooling",
+      "name": {
+        "hi": "गरम करना और ठंडा करना",
+        "en": "Heating and Cooling"
+      }
+    },
+    {
+      "id": "expansion-contraction",
+      "name": {
+        "hi": "प्रसार और संकुचन",
+        "en": "Expansion and Contraction"
+      }
+    },
+    {
+      "id": "shape-size-changes",
+      "name": {
+        "hi": "आकार और आकृति में परिवर्तन",
+        "en": "Changes in Shape and Size"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "हमारे चारों ओर अनेक प्रकार के परिवर्तन होते हैं। कुछ परिवर्तन उत्क्रमणीय होते हैं, जबकि कुछ अनुत्क्रमणीय होते हैं। गरम करने और ठंडा करने से पदार्थों की अवस्था, आकार या आकृति में परिवर्तन हो सकता है। तापमान में परिवर्तन से कई पदार्थों में प्रसार या संकुचन भी हो सकता है।",
+      "example": "बर्फ का पिघलना और फिर पानी का जमना उत्क्रमणीय परिवर्तन का उदाहरण है। कागज को जलाना और भोजन पकाना ऐसे परिवर्तन हैं जिन्हें पहले जैसी अवस्था में आसानी से वापस नहीं लाया जा सकता।",
+      "sections": [
+        {
+          "title": "परिवर्तन की पहचान",
+          "concept": "परिवर्तन को समझने के लिए पहले और बाद की अवस्था की तुलना की जाती है।",
+          "explanation": "परिवर्तन को पहचानने के लिए वस्तु या पदार्थ में हुए बदलाव को देखा जाता है।",
+          "example": "कपड़े का सूखना और बर्फ का पिघलना हमारे आसपास के परिवर्तन हैं।",
+          "keyPoints": [
+            "पहले और बाद की तुलना",
+            "आकार में बदलाव",
+            "आकृति में बदलाव",
+            "अवस्था में बदलाव",
+            "दैनिक जीवन के उदाहरण"
+          ]
+        },
+        {
+          "title": "उत्क्रमणीय परिवर्तन",
+          "concept": "उत्क्रमणीय परिवर्तन वह है जिसमें उचित प्रक्रिया से पहले जैसी अवस्था प्राप्त की जा सकती है।",
+          "explanation": "बर्फ को पिघलाकर पानी और पानी को जमाकर फिर बर्फ बनाया जा सकता है।",
+          "example": "बर्फ का पिघलना और फिर जमना उत्क्रमणीय परिवर्तन है।",
+          "keyPoints": [
+            "मूल अवस्था में वापसी",
+            "बर्फ और पानी",
+            "मोड़ना और खोलना",
+            "खींचना और छोड़ना",
+            "गरम और ठंडा करना"
+          ]
+        },
+        {
+          "title": "अनुत्क्रमणीय परिवर्तन",
+          "concept": "अनुत्क्रमणीय परिवर्तन वह है जिसमें पहले जैसी अवस्था वापस प्राप्त नहीं की जा सकती।",
+          "explanation": "कागज जलने या भोजन पकने के बाद मूल अवस्था वापस पाना संभव नहीं होता।",
+          "example": "कागज का जलना, भोजन पकना और फल पकना उदाहरण हैं।",
+          "keyPoints": [
+            "मूल अवस्था वापस नहीं मिलती",
+            "कागज जलना",
+            "भोजन पकना",
+            "दूध से दही",
+            "फल पकना"
+          ]
+        },
+        {
+          "title": "गरम करना और ठंडा करना",
+          "concept": "गरम करने और ठंडा करने से तापमान, अवस्था और अन्य भौतिक गुणों में परिवर्तन हो सकते हैं।",
+          "explanation": "बर्फ को गरम करने पर वह पानी बन सकती है और पानी को ठंडा करने पर बर्फ बन सकती है।",
+          "example": "गरम और ठंडा करने से अवस्था परिवर्तन के उदाहरण मिलते हैं।",
+          "keyPoints": [
+            "गरम करने का प्रभाव",
+            "ठंडा करने का प्रभाव",
+            "पिघलना",
+            "जमना",
+            "वाष्पीकरण और संघनन"
+          ]
+        },
+        {
+          "title": "प्रसार और संकुचन",
+          "concept": "तापमान बढ़ने पर कई पदार्थों में प्रसार और तापमान घटने पर संकुचन हो सकता है।",
+          "explanation": "गरम धातु की छड़ फैल सकती है और ठंडी करने पर सिकुड़ सकती है।",
+          "example": "रेल की पटरियों में जगह छोड़ना प्रसार के प्रभाव को ध्यान में रखने का उदाहरण है।",
+          "keyPoints": [
+            "प्रसार",
+            "संकुचन",
+            "तापमान का प्रभाव",
+            "रेल की पटरियों में जगह",
+            "गरम ढक्कन"
+          ]
+        },
+        {
+          "title": "आकार और आकृति में परिवर्तन",
+          "concept": "वस्तुएँ अपना आकार या आकृति बदल सकती हैं और इससे हमेशा नया पदार्थ नहीं बनता।",
+          "explanation": "कागज मोड़ना, रबर बैंड खींचना और मिट्टी को आकार देना आकृति परिवर्तन के उदाहरण हैं।",
+          "example": "रबर बैंड को खींचकर छोड़ने पर वह पहले जैसी आकृति की ओर लौट सकता है।",
+          "keyPoints": [
+            "आकृति बदलना",
+            "आकार बदलना",
+            "कागज मोड़ना",
+            "रबर बैंड खींचना",
+            "मिट्टी को आकार देना"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "हमारे चारों ओर लगातार परिवर्तन होते रहते हैं।",
+        "उत्क्रमणीय परिवर्तन को उचित प्रक्रिया से वापस किया जा सकता है।",
+        "अनुत्क्रमणीय परिवर्तन को पहले जैसी अवस्था में वापस नहीं लाया जा सकता।",
+        "गरम करने और ठंडा करने से कई भौतिक परिवर्तन होते हैं।",
+        "गरम करने पर कई पदार्थों में प्रसार हो सकता है।",
+        "ठंडा करने पर कई पदार्थों में संकुचन हो सकता है।",
+        "आकार और आकृति में बदलाव हमेशा नया पदार्थ बनने का अर्थ नहीं है।",
+        "परिवर्तन को पहचानने के लिए पहले और बाद की अवस्था की तुलना की जा सकती है।"
+      ],
+      "examFocus": [
+        "उत्क्रमणीय और अनुत्क्रमणीय परिवर्तन की पहचान",
+        "गरम करने और ठंडा करने के प्रभाव",
+        "प्रसार और संकुचन",
+        "दैनिक जीवन के परिवर्तन",
+        "आकार और आकृति में परिवर्तन",
+        "किस परिवर्तन को वापस किया जा सकता है"
+      ],
+      "examTraps": [
+        {
+          "title": "उत्क्रमणीय बनाम अनुत्क्रमणीय",
+          "fact": "बर्फ का पिघलना वापस जमाया जा सकता है, जबकि कागज का जलना वापस कागज नहीं बनाता।",
+          "confusion": "सिर्फ परिवर्तन होना देखकर उसे अनुत्क्रमणीय न मानें; देखें कि मूल अवस्था वापस मिल सकती है या नहीं।"
+        },
+        {
+          "title": "गरम करना और नया पदार्थ",
+          "fact": "गरम करने से हर बार नया पदार्थ नहीं बनता।",
+          "confusion": "बर्फ का पिघलना जैसे अवस्था परिवर्तन को नया पदार्थ बनने का उदाहरण न समझें।"
+        },
+        {
+          "title": "प्रसार और संकुचन",
+          "fact": "गरम करने पर प्रसार और ठंडा करने पर संकुचन हो सकता है।",
+          "confusion": "दोनों को एक ही दिशा का परिवर्तन न समझें।"
+        },
+        {
+          "title": "आकृति बदलना",
+          "fact": "आकृति बदलने से जरूरी नहीं कि पदार्थ बदल जाए।",
+          "confusion": "कागज मोड़ने को नया पदार्थ बनने का उदाहरण न मानें।"
+        },
+        {
+          "title": "समय के साथ परिवर्तन",
+          "fact": "समय के साथ होने वाला परिवर्तन उत्क्रमणीय या अनुत्क्रमणीय दोनों हो सकता है।",
+          "confusion": "धीमा या तेज होना अकेले परिवर्तन के प्रकार को तय नहीं करता।"
+        },
+        {
+          "title": "वापस होने का अर्थ",
+          "fact": "उत्क्रमणीय का अर्थ है कि उचित प्रक्रिया से पहले जैसी अवस्था प्राप्त की जा सके।",
+          "confusion": "यह जरूरी नहीं कि परिवर्तन अपने आप उलट जाए।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "परिवर्तन से पहले और बाद में क्या अलग है?",
+        "क्या वस्तु को पहले जैसी अवस्था में वापस लाया जा सकता है?",
+        "क्या गरम करने या ठंडा करने का प्रभाव है?",
+        "क्या आकार या आकृति बदली है?",
+        "क्या पदार्थ की मूल पहचान बनी हुई है?",
+        "क्या परिवर्तन धीरे-धीरे या अचानक हुआ, और क्या इससे उसकी प्रकृति तय होती है?"
+      ],
+      "memoryTricks": [
+        "वापस ला सकते हैं → उत्क्रमणीय।",
+        "वापस नहीं ला सकते → अनुत्क्रमणीय।",
+        "गरम करो → प्रसार हो सकता है।",
+        "ठंडा करो → संकुचन हो सकता है।",
+        "बर्फ पिघले, फिर जमे → उत्क्रमणीय।",
+        "कागज जले → अनुत्क्रमणीय।"
+      ],
+      "pyqSignals": [
+        "किसी उदाहरण का परिवर्तन पहचानना",
+        "उत्क्रमणीय और अनुत्क्रमणीय में अंतर",
+        "गरम या ठंडा करने पर होने वाला परिवर्तन",
+        "प्रसार और संकुचन के उदाहरण",
+        "दैनिक जीवन की घटनाओं का वर्गीकरण"
+      ],
+      "mustRemember": [
+        "परिवर्तन → वस्तु या पदार्थ में होने वाला बदलाव",
+        "उत्क्रमणीय → पहले जैसी अवस्था में वापस लाया जा सकने वाला परिवर्तन",
+        "अनुत्क्रमणीय → पहले जैसी अवस्था में वापस न लाया जा सकने वाला परिवर्तन",
+        "गरम करना → तापमान बढ़ाकर परिवर्तन कराना",
+        "ठंडा करना → तापमान घटाकर परिवर्तन कराना",
+        "प्रसार → ताप बढ़ने पर आकार बढ़ना",
+        "संकुचन → ताप घटने पर आकार घटना",
+        "आकृति परिवर्तन → वस्तु के रूप में बदलाव",
+        "अवस्था परिवर्तन → ठोस, द्रव या वाष्प अवस्था के बीच बदलाव"
+      ],
+      "quickRevision": "परिवर्तन → पहले और बाद की अवस्था की तुलना → उत्क्रमणीय या अनुत्क्रमणीय → गरम करना और ठंडा करना → अवस्था में बदलाव → प्रसार और संकुचन → आकार और आकृति में बदलाव → दैनिक जीवन के उदाहरणों से पहचान।"
+    },
+    "en": {
+      "concept": "Many kinds of changes occur around us. Some changes are reversible, while some are irreversible. Heating and cooling can change the state, size or shape of materials. A change in temperature can also cause expansion or contraction in many materials.",
+      "example": "Melting ice and then freezing the water again is an example of a reversible change. Burning paper and cooking food are changes that cannot easily be brought back to the earlier state.",
+      "sections": [
+        {
+          "title": "Changes Around Us",
+          "concept": "Changes can be understood by comparing the state before and after an event.",
+          "explanation": "A change is identified by observing what has changed in an object or material.",
+          "example": "Drying clothes and melting ice are changes around us.",
+          "keyPoints": [
+            "Comparing before and after",
+            "Change in size",
+            "Change in shape",
+            "Change of state",
+            "Everyday examples"
+          ]
+        },
+        {
+          "title": "Reversible Changes",
+          "concept": "A reversible change is one in which the earlier state can be obtained again by a suitable process.",
+          "explanation": "Ice can be changed into water and water can be frozen back into ice.",
+          "example": "Melting and then freezing ice is a reversible change.",
+          "keyPoints": [
+            "Return to earlier state",
+            "Ice and water",
+            "Folding and unfolding",
+            "Stretching and releasing",
+            "Heating and cooling"
+          ]
+        },
+        {
+          "title": "Irreversible Changes",
+          "concept": "An irreversible change is one in which the earlier state cannot be obtained again.",
+          "explanation": "After paper burns or food is cooked, the original state cannot be obtained again.",
+          "example": "Burning paper, cooking food and ripening fruit are examples.",
+          "keyPoints": [
+            "Original state is not recovered",
+            "Burning paper",
+            "Cooking food",
+            "Milk to curd",
+            "Ripening fruit"
+          ]
+        },
+        {
+          "title": "Heating and Cooling",
+          "concept": "Heating and cooling can change temperature, state and other physical properties.",
+          "explanation": "Heating ice can turn it into water, and cooling water can turn it into ice.",
+          "example": "Heating and cooling provide examples of changes of state.",
+          "keyPoints": [
+            "Effect of heating",
+            "Effect of cooling",
+            "Melting",
+            "Freezing",
+            "Evaporation and condensation"
+          ]
+        },
+        {
+          "title": "Expansion and Contraction",
+          "concept": "Many materials can expand when temperature rises and contract when temperature falls.",
+          "explanation": "A heated metal rod can expand and a cooled rod can contract.",
+          "example": "Gaps in railway tracks account for the effect of expansion.",
+          "keyPoints": [
+            "Expansion",
+            "Contraction",
+            "Effect of temperature",
+            "Gaps in railway tracks",
+            "Heating a lid"
+          ]
+        },
+        {
+          "title": "Changes in Shape and Size",
+          "concept": "Objects can change their size or shape without necessarily forming a new substance.",
+          "explanation": "Folding paper, stretching a rubber band and shaping clay are examples of changes in shape.",
+          "example": "A stretched rubber band can return toward its earlier shape when released.",
+          "keyPoints": [
+            "Change in shape",
+            "Change in size",
+            "Folding paper",
+            "Stretching a rubber band",
+            "Shaping clay"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Many changes occur around us continuously.",
+        "A reversible change can be reversed by a suitable process.",
+        "An irreversible change cannot be brought back to the earlier state.",
+        "Heating and cooling cause many physical changes.",
+        "Heating can cause expansion in many materials.",
+        "Cooling can cause contraction in many materials.",
+        "A change in shape or size does not always mean a new substance has formed.",
+        "A change can be identified by comparing the state before and after it."
+      ],
+      "examFocus": [
+        "Identifying reversible and irreversible changes",
+        "Effects of heating and cooling",
+        "Expansion and contraction",
+        "Changes in everyday life",
+        "Changes in size and shape",
+        "Whether a change can be reversed"
+      ],
+      "examTraps": [
+        {
+          "title": "Reversible versus irreversible",
+          "fact": "Melting ice can be reversed by freezing, while burning paper does not return it to paper.",
+          "confusion": "Do not classify a change as irreversible merely because a change occurred; check whether the original state can be obtained."
+        },
+        {
+          "title": "Heating and new substances",
+          "fact": "Heating does not always produce a new substance.",
+          "confusion": "Do not treat a state change such as melting ice as formation of a new substance."
+        },
+        {
+          "title": "Expansion and contraction",
+          "fact": "Heating can cause expansion and cooling can cause contraction.",
+          "confusion": "Do not treat both as changes in the same direction."
+        },
+        {
+          "title": "Change in shape",
+          "fact": "Changing shape does not necessarily change the material.",
+          "confusion": "Do not treat folding paper as formation of a new substance."
+        },
+        {
+          "title": "Change over time",
+          "fact": "A change occurring over time can be reversible or irreversible.",
+          "confusion": "Being slow or fast alone does not decide the type of change."
+        },
+        {
+          "title": "Meaning of reversible",
+          "fact": "Reversible means that the earlier state can be obtained by a suitable process.",
+          "confusion": "It does not necessarily mean that the change reverses by itself."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "What is different before and after the change?",
+        "Can the object be brought back to its earlier state?",
+        "Is heating or cooling involved?",
+        "Has the size or shape changed?",
+        "Has the original identity of the material remained?",
+        "Did the change happen slowly or quickly, and does that alone decide its type?"
+      ],
+      "memoryTricks": [
+        "Can be brought back → reversible.",
+        "Cannot be brought back → irreversible.",
+        "Heat it → expansion may occur.",
+        "Cool it → contraction may occur.",
+        "Ice melts, then freezes → reversible.",
+        "Paper burns → irreversible."
+      ],
+      "pyqSignals": [
+        "Identifying the type of a change from an example",
+        "Difference between reversible and irreversible changes",
+        "Changes caused by heating or cooling",
+        "Examples of expansion and contraction",
+        "Classifying everyday events"
+      ],
+      "mustRemember": [
+        "Change → a change occurring in an object or material",
+        "Reversible → a change that can be brought back to the earlier state",
+        "Irreversible → a change that cannot be brought back to the earlier state",
+        "Heating → causing a change by increasing temperature",
+        "Cooling → causing a change by decreasing temperature",
+        "Expansion → increase in size on heating",
+        "Contraction → decrease in size on cooling",
+        "Change in shape → change in the form of an object",
+        "Change of state → change among solid, liquid and vapour states"
+      ],
+      "quickRevision": "Change → compare before and after → reversible or irreversible → heating and cooling → change of state → expansion and contraction → changes in size and shape → identify using everyday examples."
+    }
+  }
+}
