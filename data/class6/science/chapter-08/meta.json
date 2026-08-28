@@ -1,1 +1,401 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-08",
+  "chapterNumber": 8,
+  "chapterName": {
+    "hi": "सजीव एवं उनका परिवेश",
+    "en": "The Living Organisms and Their Surroundings"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "living-nonliving",
+      "name": {
+        "hi": "सजीव और निर्जीव",
+        "en": "Living and Non-living"
+      }
+    },
+    {
+      "id": "habitat-surroundings",
+      "name": {
+        "hi": "परिवेश और आवास",
+        "en": "Surroundings and Habitat"
+      }
+    },
+    {
+      "id": "adaptation",
+      "name": {
+        "hi": "अनुकूलन",
+        "en": "Adaptation"
+      }
+    },
+    {
+      "id": "terrestrial-habitats",
+      "name": {
+        "hi": "स्थलीय आवास",
+        "en": "Terrestrial Habitats"
+      }
+    },
+    {
+      "id": "aquatic-habitats",
+      "name": {
+        "hi": "जलीय आवास",
+        "en": "Aquatic Habitats"
+      }
+    },
+    {
+      "id": "characteristics-of-living",
+      "name": {
+        "hi": "सजीवों की विशेषताएँ",
+        "en": "Characteristics of Living Organisms"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "सजीव अपने परिवेश में रहते हैं और उनकी जीवन प्रक्रियाएँ उनके habitat से जुड़ी होती हैं। Habitat में जैविक और अजैविक घटक होते हैं। अलग-अलग habitats की परिस्थितियों के अनुसार जीवों में adaptations पाए जाते हैं।",
+      "example": "रेगिस्तान में ऊँट, जल में मछली और शुष्क स्थानों में कैक्टस अपने-अपने habitat के अनुसार विशेष adaptations दिखाते हैं।",
+      "sections": [
+        {
+          "title": "सजीव और निर्जीव",
+          "concept": "सजीवों में वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी जीवन प्रक्रियाएँ होती हैं।",
+          "explanation": "सिर्फ गति देखकर सजीव और निर्जीव में अंतर करना पर्याप्त नहीं है।",
+          "example": "जीवित वस्तु की पहचान में केवल गति पर्याप्त नहीं है",
+          "keyPoints": [
+            "यह topic chapter की मुख्य अवधारणा से जुड़ा है।",
+            "उदाहरण को उसके सही habitat या life process से जोड़ें।",
+            "Biotic और abiotic घटकों को अलग पहचानें।",
+            "एक ही विशेषता के आधार पर जल्द निष्कर्ष न निकालें।",
+            "NCERT में दिए गए examples को ध्यान से याद रखें।"
+          ]
+        },
+        {
+          "title": "परिवेश और आवास",
+          "concept": "Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है और अपनी आवश्यकताएँ पूरी करता है।",
+          "explanation": "Habitat में जैविक और अजैविक दोनों घटक होते हैं।",
+          "example": "Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है",
+          "keyPoints": [
+            "यह topic chapter की मुख्य अवधारणा से जुड़ा है।",
+            "उदाहरण को उसके सही habitat या life process से जोड़ें।",
+            "Biotic और abiotic घटकों को अलग पहचानें।",
+            "एक ही विशेषता के आधार पर जल्द निष्कर्ष न निकालें।",
+            "NCERT में दिए गए examples को ध्यान से याद रखें।"
+          ]
+        },
+        {
+          "title": "अनुकूलन",
+          "concept": "अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है।",
+          "explanation": "ऊँट, मछली और कैक्टस के adaptations अलग-अलग habitats की परिस्थितियों से जुड़े हैं।",
+          "example": "अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है",
+          "keyPoints": [
+            "यह topic chapter की मुख्य अवधारणा से जुड़ा है।",
+            "उदाहरण को उसके सही habitat या life process से जोड़ें।",
+            "Biotic और abiotic घटकों को अलग पहचानें।",
+            "एक ही विशेषता के आधार पर जल्द निष्कर्ष न निकालें।",
+            "NCERT में दिए गए examples को ध्यान से याद रखें।"
+          ]
+        },
+        {
+          "title": "स्थलीय आवास",
+          "concept": "स्थलीय habitats भूमि पर पाए जाते हैं, जैसे रेगिस्तान, वन, घास के मैदान और पर्वत।",
+          "explanation": "इन habitats में जल, तापमान, मिट्टी और प्रकाश जैसी परिस्थितियाँ अलग हो सकती हैं।",
+          "example": "रेगिस्तान में पानी बहुत कम उपलब्ध हो सकता है",
+          "keyPoints": [
+            "यह topic chapter की मुख्य अवधारणा से जुड़ा है।",
+            "उदाहरण को उसके सही habitat या life process से जोड़ें।",
+            "Biotic और abiotic घटकों को अलग पहचानें।",
+            "एक ही विशेषता के आधार पर जल्द निष्कर्ष न निकालें।",
+            "NCERT में दिए गए examples को ध्यान से याद रखें।"
+          ]
+        },
+        {
+          "title": "जलीय आवास",
+          "concept": "जलीय habitats जल में पाए जाते हैं, जैसे तालाब, झील, नदी और समुद्र।",
+          "explanation": "मछली के गलफड़े, fins और streamlined शरीर जल में रहने के adaptations हैं।",
+          "example": "तालाब, झील, नदी और समुद्र जलीय habitats के उदाहरण हैं",
+          "keyPoints": [
+            "यह topic chapter की मुख्य अवधारणा से जुड़ा है।",
+            "उदाहरण को उसके सही habitat या life process से जोड़ें।",
+            "Biotic और abiotic घटकों को अलग पहचानें।",
+            "एक ही विशेषता के आधार पर जल्द निष्कर्ष न निकालें।",
+            "NCERT में दिए गए examples को ध्यान से याद रखें।"
+          ]
+        },
+        {
+          "title": "सजीवों की विशेषताएँ",
+          "concept": "सजीव वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी life processes दिखाते हैं।",
+          "explanation": "इन विशेषताओं को एक साथ देखकर सजीवों की पहचान करना अधिक विश्वसनीय है।",
+          "example": "सजीव वृद्धि करते हैं",
+          "keyPoints": [
+            "यह topic chapter की मुख्य अवधारणा से जुड़ा है।",
+            "उदाहरण को उसके सही habitat या life process से जोड़ें।",
+            "Biotic और abiotic घटकों को अलग पहचानें।",
+            "एक ही विशेषता के आधार पर जल्द निष्कर्ष न निकालें।",
+            "NCERT में दिए गए examples को ध्यान से याद रखें।"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "सजीवों में अनेक life processes होती हैं।",
+        "केवल गति सजीव होने का पर्याप्त प्रमाण नहीं है।",
+        "Habitat जीव का रहने का स्थान और परिवेश है।",
+        "Habitat में biotic और abiotic दोनों components होते हैं।",
+        "Terrestrial habitats में desert, forest, grassland और mountain शामिल हैं।",
+        "Aquatic habitats में pond, lake, river और sea शामिल हैं।",
+        "Adaptation जीव को उसके habitat में रहने में मदद करता है।",
+        "Camel, fish और cactus महत्वपूर्ण adaptation examples हैं।"
+      ],
+      "examFocus": [
+        "Living और non-living में अंतर।",
+        "Habitat और biotic तथा abiotic components।",
+        "Terrestrial और aquatic habitats के उदाहरण।",
+        "Adaptation की परिभाषा और महत्व।",
+        "Camel, fish और cactus adaptations।",
+        "Desert और mountain habitats की विशेषताएँ।",
+        "Fish के gills, fins और streamlined body।"
+      ],
+      "examTraps": [
+        {
+          "title": "केवल गति",
+          "fact": "केवल गति सजीव होने का पर्याप्त प्रमाण नहीं है।",
+          "confusion": "हवा या मशीन जैसी निर्जीव चीजें भी गति कर सकती हैं।"
+        },
+        {
+          "title": "Habitat",
+          "fact": "Habitat वह स्थान और परिवेश है जहाँ जीव रहता है।",
+          "confusion": "Habitat को केवल भोजन या केवल जीव न समझें।"
+        },
+        {
+          "title": "Biotic और abiotic",
+          "fact": "पौधे और जानवर biotic, हवा और पानी abiotic हैं।",
+          "confusion": "पानी को जीवित component न मानें।"
+        },
+        {
+          "title": "Adaptation",
+          "fact": "Adaptation जीव को उसके surroundings में रहने में मदद करता है।",
+          "confusion": "हर अस्थायी बदलाव को adaptation न मानें।"
+        },
+        {
+          "title": "Fish gills",
+          "fact": "Fish gills जल में respiration के लिए होते हैं।",
+          "confusion": "Gills को भोजन पचाने वाला अंग न समझें।"
+        },
+        {
+          "title": "Cactus spines",
+          "fact": "Cactus spines पानी की हानि कम करने में मदद करते हैं।",
+          "confusion": "Spines को सामान्य leaves न समझें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "क्या प्रश्न life process पूछ रहा है या movement?",
+        "क्या उदाहरण habitat है या habitat component?",
+        "Component biotic है या abiotic?",
+        "Adaptation structural है या behavioural?",
+        "उदाहरण desert, mountain या aquatic है?",
+        "Fish के gills, fins और streamlined body के कार्य अलग रखें।"
+      ],
+      "memoryTricks": [
+        "Habitat → रहने का स्थान और परिवेश।",
+        "Biotic → जीवित component।",
+        "Abiotic → निर्जीव component।",
+        "Desert → कम पानी और विशेष adaptations।",
+        "Fish → streamlined body, fins, gills।",
+        "Cactus → spines और water storage।"
+      ],
+      "pyqSignals": [
+        "Living और non-living पर MCQ।",
+        "Habitat components पर प्रश्न।",
+        "Desert, mountain और aquatic habitat examples।",
+        "Adaptation और examples।",
+        "Fish और camel adaptations।",
+        "Life processes पर statement questions।"
+      ],
+      "mustRemember": [
+        "Living organism → growth, respiration, nutrition, response, excretion and reproduction",
+        "Habitat → जीव का रहने का स्थान और परिवेश",
+        "Biotic component → जीवित component",
+        "Abiotic component → निर्जीव component",
+        "Desert → कम पानी और water-saving adaptations",
+        "Fish → gills, fins and streamlined body",
+        "Cactus → spines and thick green stem",
+        "Adaptation → surroundings में रहने में मदद करने वाली feature या habit"
+      ],
+      "quickRevision": "सजीव → growth, respiration, nutrition, response, excretion, reproduction → habitat → रहने का स्थान और परिवेश → biotic + abiotic → terrestrial → desert, forest, grassland, mountain → aquatic → pond, lake, river, sea → adaptation → habitat के अनुसार useful features or habits → camel, fish, cactus।"
+    },
+    "en": {
+      "concept": "Living organisms live in their surroundings and their life processes are related to their habitats. A habitat has biotic and abiotic components. Organisms show adaptations suited to different habitat conditions.",
+      "example": "Camel in the desert, fish in water and cactus in dry regions show special adaptations suited to their habitats.",
+      "sections": [
+        {
+          "title": "Living and Non-living",
+          "concept": "Living organisms show life processes such as growth, respiration, nutrition, response, excretion and reproduction.",
+          "explanation": "Movement alone is not sufficient to distinguish living from non-living things.",
+          "example": "Movement alone is not sufficient to identify a living thing",
+          "keyPoints": [
+            "This topic is connected with a main chapter concept.",
+            "Connect each example with its correct habitat or life process.",
+            "Distinguish biotic and abiotic components.",
+            "Avoid quick conclusions from only one characteristic.",
+            "Remember the examples given in NCERT."
+          ]
+        },
+        {
+          "title": "Surroundings and Habitat",
+          "concept": "A habitat is the place and surroundings where an organism lives and meets its needs.",
+          "explanation": "A habitat has both biotic and abiotic components.",
+          "example": "A habitat is the place and surroundings where an organism lives",
+          "keyPoints": [
+            "This topic is connected with a main chapter concept.",
+            "Connect each example with its correct habitat or life process.",
+            "Distinguish biotic and abiotic components.",
+            "Avoid quick conclusions from only one characteristic.",
+            "Remember the examples given in NCERT."
+          ]
+        },
+        {
+          "title": "Adaptation",
+          "concept": "Adaptation is a feature or habit that helps an organism live in its surroundings.",
+          "explanation": "Camel, fish and cactus adaptations are linked with different habitat conditions.",
+          "example": "Adaptation is a feature or habit that helps an organism live in its surroundings",
+          "keyPoints": [
+            "This topic is connected with a main chapter concept.",
+            "Connect each example with its correct habitat or life process.",
+            "Distinguish biotic and abiotic components.",
+            "Avoid quick conclusions from only one characteristic.",
+            "Remember the examples given in NCERT."
+          ]
+        },
+        {
+          "title": "Terrestrial Habitats",
+          "concept": "Terrestrial habitats are found on land, such as deserts, forests, grasslands and mountains.",
+          "explanation": "Water, temperature, soil and light conditions can differ among these habitats.",
+          "example": "Water can be very scarce in deserts",
+          "keyPoints": [
+            "This topic is connected with a main chapter concept.",
+            "Connect each example with its correct habitat or life process.",
+            "Distinguish biotic and abiotic components.",
+            "Avoid quick conclusions from only one characteristic.",
+            "Remember the examples given in NCERT."
+          ]
+        },
+        {
+          "title": "Aquatic Habitats",
+          "concept": "Aquatic habitats are found in water, such as ponds, lakes, rivers and seas.",
+          "explanation": "Fish gills, fins and a streamlined body are adaptations for living in water.",
+          "example": "Ponds, lakes, rivers and seas are examples of aquatic habitats",
+          "keyPoints": [
+            "This topic is connected with a main chapter concept.",
+            "Connect each example with its correct habitat or life process.",
+            "Distinguish biotic and abiotic components.",
+            "Avoid quick conclusions from only one characteristic.",
+            "Remember the examples given in NCERT."
+          ]
+        },
+        {
+          "title": "Characteristics of Living Organisms",
+          "concept": "Living organisms show life processes such as growth, respiration, nutrition, response, excretion and reproduction.",
+          "explanation": "Considering several characteristics together is more reliable for identifying living things.",
+          "example": "Living organisms grow",
+          "keyPoints": [
+            "This topic is connected with a main chapter concept.",
+            "Connect each example with its correct habitat or life process.",
+            "Distinguish biotic and abiotic components.",
+            "Avoid quick conclusions from only one characteristic.",
+            "Remember the examples given in NCERT."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Living organisms show several life processes.",
+        "Movement alone is not sufficient evidence of life.",
+        "A habitat is the place and surroundings where an organism lives.",
+        "A habitat has both biotic and abiotic components.",
+        "Terrestrial habitats include deserts, forests, grasslands and mountains.",
+        "Aquatic habitats include ponds, lakes, rivers and seas.",
+        "Adaptation helps organisms live in their habitats.",
+        "Camel, fish and cactus are important adaptation examples."
+      ],
+      "examFocus": [
+        "Living and non-living distinction.",
+        "Habitat and biotic and abiotic components.",
+        "Examples of terrestrial and aquatic habitats.",
+        "Definition and importance of adaptation.",
+        "Camel, fish and cactus adaptations.",
+        "Features of desert and mountain habitats.",
+        "Fish gills, fins and streamlined body."
+      ],
+      "examTraps": [
+        {
+          "title": "Movement alone",
+          "fact": "Movement alone is not sufficient evidence of life.",
+          "confusion": "Non-living things such as air or machines can also move."
+        },
+        {
+          "title": "Habitat",
+          "fact": "A habitat is the place and surroundings where an organism lives.",
+          "confusion": "Do not treat habitat as only food or as the organism itself."
+        },
+        {
+          "title": "Biotic and abiotic",
+          "fact": "Plants and animals are biotic, while air and water are abiotic.",
+          "confusion": "Do not treat water as a living component."
+        },
+        {
+          "title": "Adaptation",
+          "fact": "Adaptation helps an organism live in its surroundings.",
+          "confusion": "Do not treat every temporary change as adaptation."
+        },
+        {
+          "title": "Fish gills",
+          "fact": "Fish gills are for respiration in water.",
+          "confusion": "Do not confuse gills with a digestive organ."
+        },
+        {
+          "title": "Cactus spines",
+          "fact": "Cactus spines help reduce water loss.",
+          "confusion": "Do not treat spines as ordinary leaves."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Is the question about a life process or movement?",
+        "Is the example a habitat or a habitat component?",
+        "Is the component biotic or abiotic?",
+        "Is the adaptation structural or behavioural?",
+        "Is the example from desert, mountain or aquatic habitat?",
+        "Keep the functions of gills, fins and streamlined body separate."
+      ],
+      "memoryTricks": [
+        "Habitat → place and surroundings where an organism lives.",
+        "Biotic → living component.",
+        "Abiotic → non-living component.",
+        "Desert → little water and special adaptations.",
+        "Fish → streamlined body, fins, gills.",
+        "Cactus → spines and water storage."
+      ],
+      "pyqSignals": [
+        "MCQs on living and non-living things.",
+        "Questions on habitat components.",
+        "Desert, mountain and aquatic habitat examples.",
+        "Adaptation and examples.",
+        "Fish and camel adaptations.",
+        "Statement questions on life processes."
+      ],
+      "mustRemember": [
+        "Living organism → growth, respiration, nutrition, response, excretion and reproduction",
+        "Habitat → place and surroundings where an organism lives",
+        "Biotic component → living component",
+        "Abiotic component → non-living component",
+        "Desert → little water and water-saving adaptations",
+        "Fish → gills, fins and streamlined body",
+        "Cactus → spines and thick green stem",
+        "Adaptation → feature or habit helping survival in surroundings"
+      ],
+      "quickRevision": "Living organism → growth, respiration, nutrition, response, excretion, reproduction → habitat → place and surroundings → biotic + abiotic → terrestrial → desert, forest, grassland, mountain → aquatic → pond, lake, river, sea → adaptation → useful features or habits suited to habitat → camel, fish, cactus."
+    }
+  }
+}
