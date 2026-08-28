@@ -1,1 +1,4202 @@
-
+[
+  {
+    "id": "ch5_q101",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "हमारे चारों ओर परिवर्तन क्यों दिखाई देते हैं?",
+      "en": "Why do we observe changes around us?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि वस्तुओं और पदार्थों की अवस्था, आकार या अन्य गुण बदल सकते हैं",
+        "किसी वस्तु या पदार्थ में होने वाला बदलाव",
+        "परिवर्तन",
+        "उसकी आकृति"
+      ],
+      "en": [
+        "Because the state, shape or other properties of objects and materials can change",
+        "A change occurring in an object or material",
+        "A change",
+        "Its shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर क्योंकि वस्तुओं और पदार्थों की अवस्था, आकार या अन्य गुण बदल सकते हैं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Because the state, shape or other properties of objects and materials can change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q102",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परिवर्तन का सरल अर्थ क्या है?",
+      "en": "What is the simple meaning of a change?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि मूल अवस्था में लौटना संभव नहीं होता",
+        "किसी वस्तु या पदार्थ में होने वाला बदलाव",
+        "नहीं",
+        "क्योंकि वस्तु को फिर से पहले जैसी अवस्था में लाया जा सकता है"
+      ],
+      "en": [
+        "Because returning to the original state is not possible",
+        "A change occurring in an object or material",
+        "No",
+        "Because the object can be brought back to its earlier state"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर किसी वस्तु या पदार्थ में होने वाला बदलाव है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change occurring in an object or material because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q103",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बर्फ का पानी में बदलना किसका उदाहरण है?",
+      "en": "Ice changing into water is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "नहीं, हमारे आसपास की अनेक वस्तुओं और घटनाओं में परिवर्तन होते हैं",
+        "आकृति में बदलाव",
+        "परिवर्तन",
+        "गरम या ठंडा करने से कई परिवर्तन हो सकते हैं"
+      ],
+      "en": [
+        "No, changes occur in many objects and events around us",
+        "A change in shape",
+        "A change",
+        "Heating or cooling can cause many changes"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q104",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कपड़े को मोड़ने पर क्या बदल सकता है?",
+      "en": "What can change when a cloth is folded?"
+    },
+    "options": {
+      "hi": [
+        "पहले और बाद की अवस्था से",
+        "कुछ परिवर्तन समय के साथ धीरे-धीरे होते हैं",
+        "ऐसा परिवर्तन जिसे आसानी से वापस नहीं किया जा सकता",
+        "उसकी आकृति"
+      ],
+      "en": [
+        "The state before and after the change",
+        "Some changes occur gradually with time",
+        "A change that cannot be easily reversed",
+        "Its shape"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर उसकी आकृति है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Its shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q105",
+    "topic": "changes-around-us",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कागज को फाड़ने पर क्या होता है?",
+      "en": "What happens when paper is torn?"
+    },
+    "options": {
+      "hi": [
+        "उसकी आकृति और आकार में परिवर्तन होता है",
+        "नहीं",
+        "क्या परिवर्तन को वापस किया जा सकता है या नहीं",
+        "कपड़े का सूखना"
+      ],
+      "en": [
+        "Its shape and size change",
+        "No",
+        "Whether the change can be reversed or not",
+        "Drying of clothes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर उसकी आकृति और आकार में परिवर्तन होता है है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Its shape and size change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q106",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "परिवर्तन को पहचानने के लिए क्या देखा जा सकता है?",
+      "en": "What can be observed to identify a change?"
+    },
+    "options": {
+      "hi": [
+        "उसकी आकृति",
+        "आकार, आकृति या अवस्था में बदलाव",
+        "किसी वस्तु या पदार्थ में होने वाला बदलाव",
+        "परिवर्तन"
+      ],
+      "en": [
+        "Its shape",
+        "A change in size, shape or state",
+        "A change occurring in an object or material",
+        "A change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर आकार, आकृति या अवस्था में बदलाव है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change in size, shape or state because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q107",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या हर परिवर्तन एक जैसा होता है?",
+      "en": "Are all changes the same?"
+    },
+    "options": {
+      "hi": [
+        "ठंडा करने से होने वाला परिवर्तन",
+        "गरम करने से होने वाला परिवर्तन",
+        "नहीं",
+        "क्योंकि मूल अवस्था में लौटना संभव नहीं होता"
+      ],
+      "en": [
+        "A change caused by cooling",
+        "A change caused by heating",
+        "No",
+        "Because returning to the original state is not possible"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q108",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कुछ परिवर्तन वापस क्यों किए जा सकते हैं?",
+      "en": "Why can some changes be reversed?"
+    },
+    "options": {
+      "hi": [
+        "नहीं, हमारे आसपास की अनेक वस्तुओं और घटनाओं में परिवर्तन होते हैं",
+        "आकृति में बदलाव",
+        "अवस्था में परिवर्तन",
+        "क्योंकि वस्तु को फिर से पहले जैसी अवस्था में लाया जा सकता है"
+      ],
+      "en": [
+        "No, changes occur in many objects and events around us",
+        "A change in shape",
+        "A change of state",
+        "Because the object can be brought back to its earlier state"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर क्योंकि वस्तु को फिर से पहले जैसी अवस्था में लाया जा सकता है है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Because the object can be brought back to its earlier state because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q109",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कुछ परिवर्तन वापस क्यों नहीं किए जा सकते?",
+      "en": "Why can some changes not be reversed?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि मूल अवस्था में लौटना संभव नहीं होता",
+        "कुछ परिवर्तन समय के साथ धीरे-धीरे होते हैं",
+        "ऐसा परिवर्तन जिसे आसानी से वापस नहीं किया जा सकता",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Because returning to the original state is not possible",
+        "Some changes occur gradually with time",
+        "A change that cannot be easily reversed",
+        "An irreversible change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर क्योंकि मूल अवस्था में लौटना संभव नहीं होता है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Because returning to the original state is not possible because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q110",
+    "topic": "changes-around-us",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पानी का बर्फ बनना किससे संबंधित है?",
+      "en": "Water turning into ice is related to what?"
+    },
+    "options": {
+      "hi": [
+        "तेज या धीमी",
+        "ठंडा करने से होने वाला परिवर्तन",
+        "क्या परिवर्तन को वापस किया जा सकता है या नहीं",
+        "कपड़े का सूखना"
+      ],
+      "en": [
+        "Fast or slow",
+        "A change caused by cooling",
+        "Whether the change can be reversed or not",
+        "Drying of clothes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर ठंडा करने से होने वाला परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change caused by cooling because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q111",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "बर्फ का पिघलना किससे संबंधित है?",
+      "en": "Ice melting is related to what?"
+    },
+    "options": {
+      "hi": [
+        "उसकी आकृति",
+        "उसकी आकृति और आकार में परिवर्तन होता है",
+        "गरम करने से होने वाला परिवर्तन",
+        "परिवर्तन"
+      ],
+      "en": [
+        "Its shape",
+        "Its shape and size change",
+        "A change caused by heating",
+        "A change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर गरम करने से होने वाला परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change caused by heating because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q112",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परिवर्तन के अध्ययन में ताप का क्या महत्व है?",
+      "en": "What is the importance of heat in studying changes?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि वस्तु को फिर से पहले जैसी अवस्था में लाया जा सकता है",
+        "क्योंकि मूल अवस्था में लौटना संभव नहीं होता",
+        "ठंडा करने से होने वाला परिवर्तन",
+        "गरम या ठंडा करने से कई परिवर्तन हो सकते हैं"
+      ],
+      "en": [
+        "Because the object can be brought back to its earlier state",
+        "Because returning to the original state is not possible",
+        "A change caused by cooling",
+        "Heating or cooling can cause many changes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर गरम या ठंडा करने से कई परिवर्तन हो सकते हैं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Heating or cooling can cause many changes because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q113",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या केवल पदार्थों में ही परिवर्तन होते हैं?",
+      "en": "Do changes occur only in materials?"
+    },
+    "options": {
+      "hi": [
+        "नहीं, हमारे आसपास की अनेक वस्तुओं और घटनाओं में परिवर्तन होते हैं",
+        "आकृति में बदलाव",
+        "अवस्था में परिवर्तन",
+        "भौतिक परिवर्तन"
+      ],
+      "en": [
+        "No, changes occur in many objects and events around us",
+        "A change in shape",
+        "A change of state",
+        "A physical change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर नहीं, हमारे आसपास की अनेक वस्तुओं और घटनाओं में परिवर्तन होते हैं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No, changes occur in many objects and events around us because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q114",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कागज को मोड़ना किस प्रकार का बदलाव है?",
+      "en": "What kind of change is folding paper?"
+    },
+    "options": {
+      "hi": [
+        "अवस्था में परिवर्तन",
+        "आकृति में बदलाव",
+        "ऐसा परिवर्तन जिसे आसानी से वापस नहीं किया जा सकता",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "A change of state",
+        "A change in shape",
+        "A change that cannot be easily reversed",
+        "An irreversible change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर आकृति में बदलाव है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change in shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q115",
+    "topic": "changes-around-us",
+    "difficulty": "hard",
+    "question": {
+      "hi": "मोमबत्ती की मोम का पिघलना किसका उदाहरण है?",
+      "en": "Melting candle wax is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "परिवर्तन",
+        "उसकी आकृति",
+        "अवस्था में परिवर्तन",
+        "किसी वस्तु या पदार्थ में होने वाला बदलाव"
+      ],
+      "en": [
+        "A change",
+        "Its shape",
+        "A change of state",
+        "A change occurring in an object or material"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर अवस्था में परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change of state because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q116",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किसी वस्तु का आकार बदलना किसका उदाहरण है?",
+      "en": "A change in the size of an object is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "उसकी आकृति",
+        "उसकी आकृति और आकार में परिवर्तन होता है",
+        "आकार, आकृति या अवस्था में बदलाव",
+        "भौतिक परिवर्तन"
+      ],
+      "en": [
+        "Its shape",
+        "Its shape and size change",
+        "A change in size, shape or state",
+        "A physical change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर भौतिक परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A physical change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q117",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परिवर्तन को समझने के लिए तुलना किससे की जाती है?",
+      "en": "What is used for comparison to understand a change?"
+    },
+    "options": {
+      "hi": [
+        "पहले और बाद की अवस्था से",
+        "क्योंकि मूल अवस्था में लौटना संभव नहीं होता",
+        "ठंडा करने से होने वाला परिवर्तन",
+        "गरम करने से होने वाला परिवर्तन"
+      ],
+      "en": [
+        "The state before and after the change",
+        "Because returning to the original state is not possible",
+        "A change caused by cooling",
+        "A change caused by heating"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर पहले और बाद की अवस्था से है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is The state before and after the change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q118",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परिवर्तन में समय की क्या भूमिका हो सकती है?",
+      "en": "What role can time play in a change?"
+    },
+    "options": {
+      "hi": [
+        "भौतिक परिवर्तन",
+        "कुछ परिवर्तन समय के साथ धीरे-धीरे होते हैं",
+        "आकृति में बदलाव",
+        "अवस्था में परिवर्तन"
+      ],
+      "en": [
+        "A physical change",
+        "Some changes occur gradually with time",
+        "A change in shape",
+        "A change of state"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर कुछ परिवर्तन समय के साथ धीरे-धीरे होते हैं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Some changes occur gradually with time because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q119",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंग लगना किस प्रकार का परिवर्तन माना जाता है?",
+      "en": "What type of change is rusting considered?"
+    },
+    "options": {
+      "hi": [
+        "अवस्था में परिवर्तन",
+        "नहीं",
+        "ऐसा परिवर्तन जिसे आसानी से वापस नहीं किया जा सकता",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "A change of state",
+        "No",
+        "A change that cannot be easily reversed",
+        "An irreversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर ऐसा परिवर्तन जिसे आसानी से वापस नहीं किया जा सकता है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change that cannot be easily reversed because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q120",
+    "topic": "changes-around-us",
+    "difficulty": "hard",
+    "question": {
+      "hi": "फल का पकना किसका उदाहरण है?",
+      "en": "Ripening of fruit is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "तेज या धीमी",
+        "क्योंकि वस्तुओं और पदार्थों की अवस्था, आकार या अन्य गुण बदल सकते हैं",
+        "किसी वस्तु या पदार्थ में होने वाला बदलाव",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Fast or slow",
+        "Because the state, shape or other properties of objects and materials can change",
+        "A change occurring in an object or material",
+        "An irreversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अनुत्क्रमणीय परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is An irreversible change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q121",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पानी का वाष्प बनना किसका उदाहरण है?",
+      "en": "Water changing into vapour is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "अवस्था में परिवर्तन",
+        "क्योंकि मूल अवस्था में लौटना संभव नहीं होता",
+        "ठंडा करने से होने वाला परिवर्तन",
+        "गरम करने से होने वाला परिवर्तन"
+      ],
+      "en": [
+        "A change of state",
+        "Because returning to the original state is not possible",
+        "A change caused by cooling",
+        "A change caused by heating"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर अवस्था में परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change of state because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q122",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या परिवर्तन हमेशा स्थायी होता है?",
+      "en": "Is a change always permanent?"
+    },
+    "options": {
+      "hi": [
+        "पहले और बाद की अवस्था से",
+        "नहीं",
+        "अवस्था में परिवर्तन",
+        "भौतिक परिवर्तन"
+      ],
+      "en": [
+        "The state before and after the change",
+        "No",
+        "A change of state",
+        "A physical change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q123",
+    "topic": "changes-around-us",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परिवर्तन का वर्गीकरण किस आधार पर किया जा सकता है?",
+      "en": "On what basis can changes be classified?"
+    },
+    "options": {
+      "hi": [
+        "भौतिक परिवर्तन",
+        "पहले और बाद की अवस्था से",
+        "क्या परिवर्तन को वापस किया जा सकता है या नहीं",
+        "अवस्था में परिवर्तन"
+      ],
+      "en": [
+        "A physical change",
+        "The state before and after the change",
+        "Whether the change can be reversed or not",
+        "A change of state"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर क्या परिवर्तन को वापस किया जा सकता है या नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Whether the change can be reversed or not because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q124",
+    "topic": "changes-around-us",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दैनिक जीवन में परिवर्तन का उदाहरण कौन सा है?",
+      "en": "Which is an example of change in daily life?"
+    },
+    "options": {
+      "hi": [
+        "अनुत्क्रमणीय परिवर्तन",
+        "अवस्था में परिवर्तन",
+        "नहीं",
+        "कपड़े का सूखना"
+      ],
+      "en": [
+        "An irreversible change",
+        "A change of state",
+        "No",
+        "Drying of clothes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर कपड़े का सूखना है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Drying of clothes because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q125",
+    "topic": "changes-around-us",
+    "difficulty": "hard",
+    "question": {
+      "hi": "परिवर्तन की गति कैसी हो सकती है?",
+      "en": "How can the rate of a change be?"
+    },
+    "options": {
+      "hi": [
+        "तेज या धीमी",
+        "क्योंकि वस्तुओं और पदार्थों की अवस्था, आकार या अन्य गुण बदल सकते हैं",
+        "किसी वस्तु या पदार्थ में होने वाला बदलाव",
+        "परिवर्तन"
+      ],
+      "en": [
+        "Fast or slow",
+        "Because the state, shape or other properties of objects and materials can change",
+        "A change occurring in an object or material",
+        "A change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर तेज या धीमी है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Fast or slow because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q126",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन क्या है?",
+      "en": "What is a reversible change?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय परिवर्तन",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है",
+        "आकृति पहले जैसी हो सकती है",
+        "जिसे पहले जैसी अवस्था में वापस लाया जा सके"
+      ],
+      "en": [
+        "A reversible change",
+        "It can return toward its earlier shape",
+        "Its shape can return to the earlier form",
+        "A change that can be reversed to the earlier state"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q127",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बर्फ का पिघलना और फिर जमना किस प्रकार का परिवर्तन है?",
+      "en": "Melting ice and then freezing it again is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "पानी का बर्फ बनना और फिर पिघलना",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है"
+      ],
+      "en": [
+        "A reversible change",
+        "No",
+        "Water freezing and then melting",
+        "It may return toward its earlier shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q128",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रबर बैंड को खींचकर छोड़ने पर क्या होता है?",
+      "en": "What happens when a stretched rubber band is released?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है",
+        "आकार, आकृति या अवस्था",
+        "उत्क्रमणीय अवस्था परिवर्तन"
+      ],
+      "en": [
+        "No",
+        "It can return toward its earlier shape",
+        "Size, shape or state",
+        "A reversible change of state"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q129",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कागज को मोड़कर फिर खोलने पर कौन सा परिवर्तन हो सकता है?",
+      "en": "What change can occur when folded paper is unfolded?"
+    },
+    "options": {
+      "hi": [
+        "वह बर्फ में बदल सकता है",
+        "वह पानी में बदल सकती है",
+        "आकृति पहले जैसी हो सकती है",
+        "बर्फ का पिघलना"
+      ],
+      "en": [
+        "It can change into ice",
+        "It can change into water",
+        "Its shape can return to the earlier form",
+        "Melting of ice"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q130",
+    "topic": "reversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पानी को जमा कर बर्फ और फिर बर्फ को पिघलाकर पानी बनाना किसका उदाहरण है?",
+      "en": "Turning water into ice and then melting it back to water is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "जिसे पहले जैसी अवस्था में वापस लाया जा सके",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "No",
+        "A change that can be reversed to the earlier state",
+        "It can return toward its earlier shape",
+        "A reversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q131",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन की मुख्य पहचान क्या है?",
+      "en": "What is the main sign of a reversible change?"
+    },
+    "options": {
+      "hi": [
+        "मूल अवस्था में लौटने की संभावना",
+        "उत्क्रमणीय परिवर्तन",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है",
+        "आकृति पहले जैसी हो सकती है"
+      ],
+      "en": [
+        "The possibility of returning to the original state",
+        "A reversible change",
+        "It can return toward its earlier shape",
+        "Its shape can return to the earlier form"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q132",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गर्म करने पर मोम का पिघलना और ठंडा करने पर जमना किसका उदाहरण है?",
+      "en": "Wax melting on heating and solidifying on cooling is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "जब वस्तु को बिना स्थायी नुकसान के फिर खोला जा सके",
+        "उत्क्रमणीय परिवर्तन",
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "नहीं"
+      ],
+      "en": [
+        "When the object can be unfolded without permanent damage",
+        "A reversible change",
+        "A reversible change of state",
+        "No"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q133",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "खींचे गए स्प्रिंग को छोड़ने पर क्या हो सकता है?",
+      "en": "What may happen when a stretched spring is released?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "नहीं",
+        "वह अपनी मूल आकृति की ओर लौट सकता है",
+        "आकार, आकृति या अवस्था"
+      ],
+      "en": [
+        "A reversible change of state",
+        "No",
+        "It may return toward its original shape",
+        "Size, shape or state"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q134",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन में मूल पदार्थ हमेशा नष्ट हो जाता है?",
+      "en": "Is the original material always destroyed in a reversible change?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय",
+        "कि हर परिवर्तन अपने आप वापस हो जाएगा",
+        "जिसे पहले जैसी अवस्था में वापस लाया जा सके",
+        "नहीं"
+      ],
+      "en": [
+        "Reversible",
+        "That every change will reverse by itself",
+        "A change that can be reversed to the earlier state",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q135",
+    "topic": "reversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस परिवर्तन को वापस किया जा सकता है?",
+      "en": "Which change can be reversed?"
+    },
+    "options": {
+      "hi": [
+        "पानी का बर्फ बनना और फिर पिघलना",
+        "कि हर परिवर्तन अपने आप वापस हो जाएगा",
+        "नहीं",
+        "जिसे पहले जैसी अवस्था में वापस लाया जा सके"
+      ],
+      "en": [
+        "Water freezing and then melting",
+        "That every change will reverse by itself",
+        "No",
+        "A change that can be reversed to the earlier state"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q136",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कपड़े को मोड़ना और फिर खोलना किसका उदाहरण है?",
+      "en": "Folding and then unfolding cloth is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "उत्क्रमणीय परिवर्तन",
+        "आकार, आकृति या अवस्था",
+        "उत्क्रमणीय अवस्था परिवर्तन"
+      ],
+      "en": [
+        "No",
+        "A reversible change",
+        "Size, shape or state",
+        "A reversible change of state"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q137",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गुब्बारे को दबाने के बाद छोड़ने पर क्या हो सकता है?",
+      "en": "What may happen when a balloon is pressed and released?"
+    },
+    "options": {
+      "hi": [
+        "आकार, आकृति या अवस्था",
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Size, shape or state",
+        "A reversible change of state",
+        "It may return toward its earlier shape",
+        "A reversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q138",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन में क्या बदल सकता है?",
+      "en": "What can change in a reversible change?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "नहीं",
+        "जब वस्तु को बिना स्थायी नुकसान के फिर खोला जा सके",
+        "आकार, आकृति या अवस्था"
+      ],
+      "en": [
+        "A reversible change of state",
+        "No",
+        "When the object can be unfolded without permanent damage",
+        "Size, shape or state"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q139",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पानी का वाष्पीकरण और फिर संघनन किससे संबंधित है?",
+      "en": "Evaporation followed by condensation of water is related to what?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "वह पानी में बदल सकती है",
+        "क्योंकि परिवर्तन को उलटी दिशा में किया जा सकता है",
+        "आकृति में वापस आने की क्षमता"
+      ],
+      "en": [
+        "A reversible change of state",
+        "It can change into water",
+        "Because the change can be carried out in the reverse direction",
+        "Ability to return in shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q140",
+    "topic": "reversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या हर आकार परिवर्तन उत्क्रमणीय होता है?",
+      "en": "Is every change in shape reversible?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "वह अपनी मूल आकृति की ओर लौट सकता है",
+        "पानी का बर्फ बनना और फिर पिघलना"
+      ],
+      "en": [
+        "A reversible change",
+        "No",
+        "It may return toward its original shape",
+        "Water freezing and then melting"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q141",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस स्थिति में मोड़ना उत्क्रमणीय हो सकता है?",
+      "en": "When can folding be reversible?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय परिवर्तन",
+        "मूल अवस्था में लौटने की संभावना",
+        "जब वस्तु को बिना स्थायी नुकसान के फिर खोला जा सके",
+        "आकृति पहले जैसी हो सकती है"
+      ],
+      "en": [
+        "A reversible change",
+        "The possibility of returning to the original state",
+        "When the object can be unfolded without permanent damage",
+        "Its shape can return to the earlier form"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q142",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन का एक उदाहरण क्या है?",
+      "en": "What is an example of a reversible change?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "पानी का बर्फ बनना और फिर पिघलना",
+        "उत्क्रमणीय परिवर्तन",
+        "बर्फ का पिघलना"
+      ],
+      "en": [
+        "No",
+        "Water freezing and then melting",
+        "A reversible change",
+        "Melting of ice"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q143",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने से पानी में क्या परिवर्तन हो सकता है?",
+      "en": "What change can cooling cause in water?"
+    },
+    "options": {
+      "hi": [
+        "वह बर्फ में बदल सकता है",
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "नहीं",
+        "जब वस्तु को बिना स्थायी नुकसान के फिर खोला जा सके"
+      ],
+      "en": [
+        "It can change into ice",
+        "A reversible change of state",
+        "No",
+        "When the object can be unfolded without permanent damage"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q144",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गरम करने से बर्फ में क्या परिवर्तन हो सकता है?",
+      "en": "What change can heating cause in ice?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय",
+        "वह पानी में बदल सकती है",
+        "क्योंकि परिवर्तन को उलटी दिशा में किया जा सकता है",
+        "आकृति में वापस आने की क्षमता"
+      ],
+      "en": [
+        "Reversible",
+        "It can change into water",
+        "Because the change can be carried out in the reverse direction",
+        "Ability to return in shape"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q145",
+    "topic": "reversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन में पहले की अवस्था क्यों मिल सकती है?",
+      "en": "Why can the earlier state be obtained in a reversible change?"
+    },
+    "options": {
+      "hi": [
+        "जिसे पहले जैसी अवस्था में वापस लाया जा सके",
+        "उत्क्रमणीय परिवर्तन",
+        "क्योंकि परिवर्तन को उलटी दिशा में किया जा सकता है",
+        "नहीं"
+      ],
+      "en": [
+        "A change that can be reversed to the earlier state",
+        "A reversible change",
+        "Because the change can be carried out in the reverse direction",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q146",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "रबर बैंड का खिंचना किस गुण को दिखाता है?",
+      "en": "What does stretching a rubber band demonstrate?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय परिवर्तन",
+        "मूल अवस्था में लौटने की संभावना",
+        "वह अपनी मूल आकृति की ओर लौट सकता है",
+        "आकृति में वापस आने की क्षमता"
+      ],
+      "en": [
+        "A reversible change",
+        "The possibility of returning to the original state",
+        "It may return toward its original shape",
+        "Ability to return in shape"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q147",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कपड़े का मोड़ना और खोलना किस प्रकार का उदाहरण है?",
+      "en": "Folding and unfolding cloth is what kind of example?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय",
+        "पानी का बर्फ बनना और फिर पिघलना",
+        "उत्क्रमणीय परिवर्तन",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है"
+      ],
+      "en": [
+        "Reversible",
+        "Water freezing and then melting",
+        "A reversible change",
+        "It may return toward its earlier shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q148",
+    "topic": "reversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "उत्क्रमणीय परिवर्तन का अर्थ क्या नहीं है?",
+      "en": "What does reversible change not mean?"
+    },
+    "options": {
+      "hi": [
+        "बर्फ का पिघलना",
+        "कि हर परिवर्तन अपने आप वापस हो जाएगा",
+        "नहीं",
+        "जब वस्तु को बिना स्थायी नुकसान के फिर खोला जा सके"
+      ],
+      "en": [
+        "Melting of ice",
+        "That every change will reverse by itself",
+        "No",
+        "When the object can be unfolded without permanent damage"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q149",
+    "topic": "reversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या उत्क्रमणीय परिवर्तन में हमेशा गर्मी लगती है?",
+      "en": "Does a reversible change always require heating?"
+    },
+    "options": {
+      "hi": [
+        "आकार, आकृति या अवस्था",
+        "उत्क्रमणीय अवस्था परिवर्तन",
+        "नहीं",
+        "वह अपनी पहले की आकृति की ओर लौट सकता है"
+      ],
+      "en": [
+        "Size, shape or state",
+        "A reversible change of state",
+        "No",
+        "It may return toward its earlier shape"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q150",
+    "topic": "reversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या उत्क्रमणीय परिवर्तन का मूल पदार्थ जरूरी रूप से बदल जाता है?",
+      "en": "Does a reversible change necessarily change the original material?"
+    },
+    "options": {
+      "hi": [
+        "वह बर्फ में बदल सकता है",
+        "वह पानी में बदल सकती है",
+        "क्योंकि परिवर्तन को उलटी दिशा में किया जा सकता है",
+        "नहीं"
+      ],
+      "en": [
+        "It can change into ice",
+        "It can change into water",
+        "Because the change can be carried out in the reverse direction",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि उत्क्रमणीय परिवर्तन में वस्तु को उचित प्रक्रिया से पहले जैसी अवस्था में वापस लाया जा सकता है।",
+      "en": "The answer is correct because a reversible change allows the object to be brought back to its earlier state by a suitable process."
+    }
+  },
+  {
+    "id": "ch5_q151",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अनुत्क्रमणीय परिवर्तन क्या है?",
+      "en": "What is an irreversible change?"
+    },
+    "options": {
+      "hi": [
+        "राख और अन्य नए पदार्थ",
+        "मूल अवस्था में आसानी से वापस न आ पाना",
+        "जिसे पहले जैसी अवस्था में वापस नहीं लाया जा सकता",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Ash and other new substances",
+        "Not being able to return easily to the original state",
+        "A change that cannot be brought back to the earlier state",
+        "An irreversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q152",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कागज को जलाना किस प्रकार का परिवर्तन है?",
+      "en": "Burning paper is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "नए पदार्थ बन सकते हैं",
+        "नहीं",
+        "भोजन पकाना",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "New substances may form",
+        "No",
+        "Cooking food",
+        "An irreversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q153",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "लकड़ी को जलाने पर क्या बन सकता है?",
+      "en": "What can form when wood is burned?"
+    },
+    "options": {
+      "hi": [
+        "राख और अन्य नए पदार्थ",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "भोजन पकाना"
+      ],
+      "en": [
+        "Ash and other new substances",
+        "An irreversible change",
+        "No",
+        "Cooking food"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q154",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दूध का दही बनना किस प्रकार का परिवर्तन है?",
+      "en": "Milk turning into curd is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "मूल अवस्था में आसानी से वापस न आ पाना",
+        "अनुत्क्रमणीय परिवर्तन",
+        "जिसे पहले जैसी अवस्था में वापस नहीं लाया जा सकता",
+        "राख और अन्य नए पदार्थ"
+      ],
+      "en": [
+        "Not being able to return easily to the original state",
+        "An irreversible change",
+        "A change that cannot be brought back to the earlier state",
+        "Ash and other new substances"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q155",
+    "topic": "irreversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "फल का पकना किस प्रकार का परिवर्तन है?",
+      "en": "Ripening of fruit is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "भोजन पकाना",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नए पदार्थ बन सकते हैं"
+      ],
+      "en": [
+        "No",
+        "Cooking food",
+        "An irreversible change",
+        "New substances may form"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q156",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कागज को फाड़ना किस प्रकार का परिवर्तन हो सकता है?",
+      "en": "Tearing paper can be what type of change?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता",
+        "हाँ",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "No",
+        "The original form cannot be recovered after the change",
+        "Yes",
+        "An irreversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q157",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अनुत्क्रमणीय परिवर्तन की मुख्य पहचान क्या है?",
+      "en": "What is the main sign of an irreversible change?"
+    },
+    "options": {
+      "hi": [
+        "मूल अवस्था में आसानी से वापस न आ पाना",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "नए पदार्थ बन सकते हैं"
+      ],
+      "en": [
+        "Not being able to return easily to the original state",
+        "An irreversible change",
+        "No",
+        "New substances may form"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q158",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रोटी का पकना किस प्रकार का परिवर्तन है?",
+      "en": "Cooking bread is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "भोजन पकाना",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नए पदार्थ बन सकते हैं",
+        "नहीं"
+      ],
+      "en": [
+        "Cooking food",
+        "An irreversible change",
+        "New substances may form",
+        "No"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q159",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "सब्जी पकाने के बाद उसे कच्ची अवस्था में लाना क्या संभव है?",
+      "en": "Can cooked vegetables be returned to their raw state?"
+    },
+    "options": {
+      "hi": [
+        "अनुत्क्रमणीय परिवर्तन",
+        "नए पदार्थ बन सकते हैं",
+        "नहीं",
+        "मूल अवस्था में आसानी से वापस न आ पाना"
+      ],
+      "en": [
+        "An irreversible change",
+        "New substances may form",
+        "No",
+        "Not being able to return easily to the original state"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q160",
+    "topic": "irreversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जंग लगने के बाद लोहे की मूल चमक आसानी से वापस आती है?",
+      "en": "Does the original shine of iron easily return after rusting?"
+    },
+    "options": {
+      "hi": [
+        "अनुत्क्रमणीय परिवर्तन",
+        "अनुत्क्रमणीय परिवर्तन",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता",
+        "नहीं"
+      ],
+      "en": [
+        "Irreversible change",
+        "An irreversible change",
+        "The original form cannot be recovered after the change",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q161",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अनुत्क्रमणीय परिवर्तन में क्या हो सकता है?",
+      "en": "What can happen in an irreversible change?"
+    },
+    "options": {
+      "hi": [
+        "नए पदार्थ बन सकते हैं",
+        "राख और अन्य नए पदार्थ",
+        "अनुत्क्रमणीय परिवर्तन",
+        "मूल अवस्था में आसानी से वापस न आ पाना"
+      ],
+      "en": [
+        "New substances may form",
+        "Ash and other new substances",
+        "An irreversible change",
+        "Not being able to return easily to the original state"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q162",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कागज जलाने पर धुआँ और राख बनना किसका संकेत है?",
+      "en": "Formation of smoke and ash when paper burns is a sign of what?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता"
+      ],
+      "en": [
+        "Yes",
+        "An irreversible change",
+        "No",
+        "The original form cannot be recovered after the change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q163",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "दूध से दही बनना वापस दूध में आसानी से बदलता है?",
+      "en": "Can curd easily be changed back into milk?"
+    },
+    "options": {
+      "hi": [
+        "भोजन पकाना",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Cooking food",
+        "Irreversible change",
+        "No",
+        "An irreversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q164",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अनुत्क्रमणीय परिवर्तन का एक दैनिक उदाहरण",
+      "en": "An everyday example of an irreversible change"
+    },
+    "options": {
+      "hi": [
+        "अनुत्क्रमणीय परिवर्तन",
+        "नहीं",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता",
+        "भोजन पकाना"
+      ],
+      "en": [
+        "An irreversible change",
+        "No",
+        "The original form cannot be recovered after the change",
+        "Cooking food"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q165",
+    "topic": "irreversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या हर आकार परिवर्तन अनुत्क्रमणीय होता है?",
+      "en": "Is every change in shape irreversible?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "राख और अन्य नए पदार्थ",
+        "अनुत्क्रमणीय परिवर्तन",
+        "मूल अवस्था में आसानी से वापस न आ पाना"
+      ],
+      "en": [
+        "No",
+        "Ash and other new substances",
+        "An irreversible change",
+        "Not being able to return easily to the original state"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q166",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मिट्टी से खिलौना बनाकर उसे फिर मिट्टी में बदलना हमेशा आसान है?",
+      "en": "Is it always easy to turn a clay toy back into the same clay?"
+    },
+    "options": {
+      "hi": [
+        "भोजन पकाना",
+        "नहीं",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नए पदार्थ बन सकते हैं"
+      ],
+      "en": [
+        "Cooking food",
+        "No",
+        "An irreversible change",
+        "New substances may form"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q167",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "लकड़ी को काटने के बाद उसी मूल लकड़ी को वापस पाना संभव है?",
+      "en": "Is it possible to get the same original piece of wood back after cutting it?"
+    },
+    "options": {
+      "hi": [
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता",
+        "हाँ",
+        "नहीं",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "The original form cannot be recovered after the change",
+        "Yes",
+        "No",
+        "An irreversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q168",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस परिवर्तन में वापस लाना कठिन या असंभव होता है?",
+      "en": "In which change is returning difficult or impossible?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता",
+        "हाँ",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "No",
+        "The original form cannot be recovered after the change",
+        "Yes",
+        "Irreversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q169",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "खाना पकाने में किस प्रकार का परिवर्तन होता है?",
+      "en": "What type of change occurs during cooking?"
+    },
+    "options": {
+      "hi": [
+        "अनुत्क्रमणीय परिवर्तन",
+        "जिसे पहले जैसी अवस्था में वापस नहीं लाया जा सकता",
+        "राख और अन्य नए पदार्थ",
+        "मूल अवस्था में आसानी से वापस न आ पाना"
+      ],
+      "en": [
+        "An irreversible change",
+        "A change that cannot be brought back to the earlier state",
+        "Ash and other new substances",
+        "Not being able to return easily to the original state"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q170",
+    "topic": "irreversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पटाखा फूटना किस प्रकार का परिवर्तन है?",
+      "en": "Bursting a firecracker is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "भोजन पकाना",
+        "अनुत्क्रमणीय परिवर्तन",
+        "नए पदार्थ बन सकते हैं",
+        "नहीं"
+      ],
+      "en": [
+        "Cooking food",
+        "An irreversible change",
+        "New substances may form",
+        "No"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q171",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कागज जलने के बाद राख को फिर वही कागज बनाया जा सकता है?",
+      "en": "Can ash after burning paper be made into the same paper again?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "जिसे पहले जैसी अवस्था में वापस नहीं लाया जा सकता",
+        "नहीं",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता"
+      ],
+      "en": [
+        "Yes",
+        "A change that cannot be brought back to the earlier state",
+        "No",
+        "The original form cannot be recovered after the change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q172",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "फल का सड़ना किस प्रकार का परिवर्तन है?",
+      "en": "Spoiling of fruit is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "जिसे पहले जैसी अवस्था में वापस नहीं लाया जा सकता",
+        "राख और अन्य नए पदार्थ",
+        "मूल अवस्था में आसानी से वापस न आ पाना",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "A change that cannot be brought back to the earlier state",
+        "Ash and other new substances",
+        "Not being able to return easily to the original state",
+        "An irreversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q173",
+    "topic": "irreversible-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अनुत्क्रमणीय परिवर्तन में मूल अवस्था क्यों नहीं मिलती?",
+      "en": "Why is the original state not obtained in an irreversible change?"
+    },
+    "options": {
+      "hi": [
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता",
+        "नहीं",
+        "अनुत्क्रमणीय परिवर्तन",
+        "अनुत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "The original form cannot be recovered after the change",
+        "No",
+        "Irreversible change",
+        "An irreversible change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q174",
+    "topic": "irreversible-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या अनुत्क्रमणीय परिवर्तन हमेशा बहुत तेज होते हैं?",
+      "en": "Are irreversible changes always very fast?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "नहीं",
+        "अनुत्क्रमणीय परिवर्तन",
+        "परिवर्तन के बाद मूल रूप को पुनः पाना संभव नहीं होता"
+      ],
+      "en": [
+        "Yes",
+        "No",
+        "An irreversible change",
+        "The original form cannot be recovered after the change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q175",
+    "topic": "irreversible-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या समय के साथ होने वाला परिवर्तन अनुत्क्रमणीय हो सकता है?",
+      "en": "Can a change that occurs over time be irreversible?"
+    },
+    "options": {
+      "hi": [
+        "अनुत्क्रमणीय परिवर्तन",
+        "राख और अन्य नए पदार्थ",
+        "हाँ",
+        "जिसे पहले जैसी अवस्था में वापस नहीं लाया जा सकता"
+      ],
+      "en": [
+        "An irreversible change",
+        "Ash and other new substances",
+        "Yes",
+        "A change that cannot be brought back to the earlier state"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि अनुत्क्रमणीय परिवर्तन के बाद मूल अवस्था में लौटना संभव नहीं होता या बहुत कठिन होता है।",
+      "en": "The answer is correct because after an irreversible change, returning to the original state is not possible or is very difficult."
+    }
+  },
+  {
+    "id": "ch5_q176",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गरम करने से बर्फ पर क्या प्रभाव पड़ता है?",
+      "en": "What effect does heating have on ice?"
+    },
+    "options": {
+      "hi": [
+        "वह फिर जम सकता है",
+        "बर्फ पिघल सकती है",
+        "पानी बर्फ बन सकता है",
+        "वह पिघल सकता है"
+      ],
+      "en": [
+        "It can solidify again",
+        "Ice can melt",
+        "Water can turn into ice",
+        "It can melt"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q177",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने से पानी पर क्या प्रभाव पड़ता है?",
+      "en": "What effect does cooling have on water?"
+    },
+    "options": {
+      "hi": [
+        "उसका प्रसार हो सकता है",
+        "वह संकुचित हो सकती है",
+        "पानी बर्फ बन सकता है",
+        "वह संघनित होकर जल की बूंदें बना सकती है"
+      ],
+      "en": [
+        "It may expand",
+        "It may contract",
+        "Water can turn into ice",
+        "It can condense into water droplets"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q178",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम करने पर मोम का क्या हो सकता है?",
+      "en": "What can happen to wax on heating?"
+    },
+    "options": {
+      "hi": [
+        "द्रव से वाष्प",
+        "वह द्रव में बदल सकती है",
+        "उत्क्रमणीय",
+        "वह पिघल सकता है"
+      ],
+      "en": [
+        "Liquid to vapour",
+        "It can change into liquid",
+        "Reversible",
+        "It can melt"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q179",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ठंडा करने पर पिघली मोम का क्या हो सकता है?",
+      "en": "What can happen to melted wax on cooling?"
+    },
+    "options": {
+      "hi": [
+        "वह फिर जम सकता है",
+        "पदार्थ का तापमान बढ़ना",
+        "पदार्थ का तापमान घटना",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "It can solidify again",
+        "Increase in temperature",
+        "Decrease in temperature",
+        "A reversible change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q180",
+    "topic": "heating-cooling",
+    "difficulty": "hard",
+    "question": {
+      "hi": "गरम और ठंडा करने से पदार्थ की अवस्था बदल सकती है?",
+      "en": "Can heating and cooling change the state of a material?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "हाँ",
+        "प्रसार",
+        "संकुचन"
+      ],
+      "en": [
+        "No",
+        "Yes",
+        "Expansion",
+        "Contraction"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q181",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कपड़े सुखाने में गर्मी किस प्रक्रिया को बढ़ावा दे सकती है?",
+      "en": "What process can heat promote when drying clothes?"
+    },
+    "options": {
+      "hi": [
+        "वह फिर जम सकता है",
+        "हाँ",
+        "वाष्पीकरण",
+        "वह पिघल सकता है"
+      ],
+      "en": [
+        "It can solidify again",
+        "Yes",
+        "Evaporation",
+        "It can melt"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q182",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडी सतह पर जलवाष्प का क्या हो सकता है?",
+      "en": "What can happen to water vapour on a cool surface?"
+    },
+    "options": {
+      "hi": [
+        "उसका प्रसार हो सकता है",
+        "वह संकुचित हो सकती है",
+        "नहीं",
+        "वह संघनित होकर जल की बूंदें बना सकती है"
+      ],
+      "en": [
+        "It may expand",
+        "It may contract",
+        "No",
+        "It can condense into water droplets"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q183",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम करने पर धातु की छड़ में क्या परिवर्तन हो सकता है?",
+      "en": "What change can occur in a metal rod on heating?"
+    },
+    "options": {
+      "hi": [
+        "उसका प्रसार हो सकता है",
+        "वह द्रव में बदल सकती है",
+        "उत्क्रमणीय",
+        "अवस्था परिवर्तन उत्क्रमणीय हो सकता है"
+      ],
+      "en": [
+        "It may expand",
+        "It can change into liquid",
+        "Reversible",
+        "A change of state can be reversible"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q184",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ठंडा करने पर गर्म धातु की छड़ में क्या परिवर्तन हो सकता है?",
+      "en": "What change can occur in a hot metal rod on cooling?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "वह संकुचित हो सकती है",
+        "पदार्थ का तापमान घटना",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Evaporation",
+        "It may contract",
+        "Decrease in temperature",
+        "A reversible change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q185",
+    "topic": "heating-cooling",
+    "difficulty": "hard",
+    "question": {
+      "hi": "गरम करने से पदार्थ में हमेशा नया पदार्थ बनता है?",
+      "en": "Does heating always produce a new substance?"
+    },
+    "options": {
+      "hi": [
+        "वह पिघल सकता है",
+        "वह फिर जम सकता है",
+        "नहीं",
+        "पानी बर्फ बन सकता है"
+      ],
+      "en": [
+        "It can melt",
+        "It can solidify again",
+        "No",
+        "Water can turn into ice"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q186",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ठंडा करने से हर पदार्थ जम जाता है?",
+      "en": "Does cooling make every material freeze?"
+    },
+    "options": {
+      "hi": [
+        "वह संघनित होकर जल की बूंदें बना सकती है",
+        "उसका प्रसार हो सकता है",
+        "वह संकुचित हो सकती है",
+        "नहीं"
+      ],
+      "en": [
+        "It can condense into water droplets",
+        "It may expand",
+        "It may contract",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q187",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पानी को गरम करने पर किस अवस्था में परिवर्तन हो सकता है?",
+      "en": "What state change can occur when water is heated?"
+    },
+    "options": {
+      "hi": [
+        "द्रव से वाष्प",
+        "उसका प्रसार हो सकता है",
+        "वह संकुचित हो सकती है",
+        "नहीं"
+      ],
+      "en": [
+        "Liquid to vapour",
+        "It may expand",
+        "It may contract",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q188",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वाष्प को ठंडा करने पर क्या हो सकता है?",
+      "en": "What can happen when vapour is cooled?"
+    },
+    "options": {
+      "hi": [
+        "बूंदों में बदल सकती है",
+        "वह द्रव में बदल सकती है",
+        "उत्क्रमणीय",
+        "अवस्था परिवर्तन उत्क्रमणीय हो सकता है"
+      ],
+      "en": [
+        "It can form droplets",
+        "It can change into liquid",
+        "Reversible",
+        "A change of state can be reversible"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q189",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गरम करने और ठंडा करने से होने वाले कुछ परिवर्तन कैसे हो सकते हैं?",
+      "en": "How can some changes caused by heating and cooling be?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "संघनन",
+        "उत्क्रमणीय",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Evaporation",
+        "Condensation",
+        "Reversible",
+        "A reversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q190",
+    "topic": "heating-cooling",
+    "difficulty": "hard",
+    "question": {
+      "hi": "बर्फ को बार-बार पिघलाने और जमाने से क्या दिखता है?",
+      "en": "What does repeatedly melting and freezing ice show?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "हाँ",
+        "बर्फ पिघल सकती है",
+        "अवस्था परिवर्तन उत्क्रमणीय हो सकता है"
+      ],
+      "en": [
+        "No",
+        "Yes",
+        "Ice can melt",
+        "A change of state can be reversible"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q191",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गरम पानी से निकलने वाली जलवाष्प ठंडी होने पर क्या कर सकती है?",
+      "en": "What can water vapour from hot water do when cooled?"
+    },
+    "options": {
+      "hi": [
+        "बूंदों में बदल सकती है",
+        "वह फिर जम सकता है",
+        "हाँ",
+        "वाष्पीकरण"
+      ],
+      "en": [
+        "It can form droplets",
+        "It can solidify again",
+        "Yes",
+        "Evaporation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q192",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम करने का एक सामान्य प्रभाव",
+      "en": "One common effect of heating"
+    },
+    "options": {
+      "hi": [
+        "द्रव से वाष्प",
+        "पदार्थ का तापमान बढ़ना",
+        "वह संकुचित हो सकती है",
+        "नहीं"
+      ],
+      "en": [
+        "Liquid to vapour",
+        "Increase in temperature",
+        "It may contract",
+        "No"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q193",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने का एक सामान्य प्रभाव",
+      "en": "One common effect of cooling"
+    },
+    "options": {
+      "hi": [
+        "अवस्था परिवर्तन उत्क्रमणीय हो सकता है",
+        "बूंदों में बदल सकती है",
+        "पदार्थ का तापमान घटना",
+        "उत्क्रमणीय"
+      ],
+      "en": [
+        "A change of state can be reversible",
+        "It can form droplets",
+        "Decrease in temperature",
+        "Reversible"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q194",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गरम करने पर मोम का पिघलना और ठंडा करने पर जमना किसका उदाहरण है?",
+      "en": "Wax melting on heating and solidifying on cooling is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "संघनन",
+        "प्रसार",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "Evaporation",
+        "Condensation",
+        "Expansion",
+        "A reversible change"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q195",
+    "topic": "heating-cooling",
+    "difficulty": "hard",
+    "question": {
+      "hi": "धूप में पानी का सूखना किससे जुड़ा है?",
+      "en": "Drying of water in sunlight is related to what?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "वह फिर जम सकता है",
+        "हाँ",
+        "वह संघनित होकर जल की बूंदें बना सकती है"
+      ],
+      "en": [
+        "Evaporation",
+        "It can solidify again",
+        "Yes",
+        "It can condense into water droplets"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q196",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ठंडे गिलास पर बूंदें बनना किससे जुड़ा है?",
+      "en": "Droplets forming on a cold glass are related to what?"
+    },
+    "options": {
+      "hi": [
+        "वह संघनित होकर जल की बूंदें बना सकती है",
+        "संघनन",
+        "हाँ",
+        "वाष्पीकरण"
+      ],
+      "en": [
+        "It can condense into water droplets",
+        "Condensation",
+        "Yes",
+        "Evaporation"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q197",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम करने पर किसी पदार्थ का फैलना क्या कहलाता है?",
+      "en": "What is the spreading of a material on heating called?"
+    },
+    "options": {
+      "hi": [
+        "द्रव से वाष्प",
+        "वह द्रव में बदल सकती है",
+        "प्रसार",
+        "नहीं"
+      ],
+      "en": [
+        "Liquid to vapour",
+        "It can change into liquid",
+        "Expansion",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q198",
+    "topic": "heating-cooling",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने पर किसी पदार्थ का सिकुड़ना क्या कहलाता है?",
+      "en": "What is the shrinking of a material on cooling called?"
+    },
+    "options": {
+      "hi": [
+        "अवस्था परिवर्तन उत्क्रमणीय हो सकता है",
+        "बूंदों में बदल सकती है",
+        "पदार्थ का तापमान बढ़ना",
+        "संकुचन"
+      ],
+      "en": [
+        "A change of state can be reversible",
+        "It can form droplets",
+        "Increase in temperature",
+        "Contraction"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q199",
+    "topic": "heating-cooling",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या गरम करने और ठंडा करने से होने वाला हर परिवर्तन वापस किया जा सकता है?",
+      "en": "Can every change caused by heating and cooling be reversed?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "वाष्पीकरण",
+        "वह संघनित होकर जल की बूंदें बना सकती है",
+        "उसका प्रसार हो सकता है"
+      ],
+      "en": [
+        "No",
+        "Evaporation",
+        "It can condense into water droplets",
+        "It may expand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q200",
+    "topic": "heating-cooling",
+    "difficulty": "hard",
+    "question": {
+      "hi": "गरम करने से परिवर्तन की दर कभी बढ़ सकती है?",
+      "en": "Can heating sometimes increase the rate of a change?"
+    },
+    "options": {
+      "hi": [
+        "वह संकुचित हो सकती है",
+        "हाँ",
+        "वह संघनित होकर जल की बूंदें बना सकती है",
+        "उसका प्रसार हो सकता है"
+      ],
+      "en": [
+        "It may contract",
+        "Yes",
+        "It can condense into water droplets",
+        "It may expand"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि गरम करने या ठंडा करने से पदार्थ की अवस्था, तापमान या अन्य भौतिक गुणों में परिवर्तन हो सकता है।",
+      "en": "The answer is correct because heating or cooling can change the state, temperature or other physical properties of a material."
+    }
+  },
+  {
+    "id": "ch5_q201",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रसार का अर्थ क्या है?",
+      "en": "What is expansion?"
+    },
+    "options": {
+      "hi": [
+        "ताप बढ़ने पर पदार्थ का फैलना",
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "वह फैल सकती है",
+        "वह सिकुड़ सकती है"
+      ],
+      "en": [
+        "Increase in size on heating",
+        "Decrease in size on cooling",
+        "It can expand",
+        "It can contract"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q202",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "संकुचन का अर्थ क्या है?",
+      "en": "What is contraction?"
+    },
+    "options": {
+      "hi": [
+        "तापमान में परिवर्तन",
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "वे फैल सकते हैं",
+        "वे सिकुड़ सकते हैं"
+      ],
+      "en": [
+        "Change in temperature",
+        "Decrease in size on cooling",
+        "They can expand",
+        "They can contract"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q203",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम धातु की छड़ में क्या हो सकता है?",
+      "en": "What can happen to a heated metal rod?"
+    },
+    "options": {
+      "hi": [
+        "कम हो सकता है",
+        "वह बढ़ सकती है",
+        "वह फैल सकती है",
+        "हाँ"
+      ],
+      "en": [
+        "It can decrease",
+        "It can increase",
+        "It can expand",
+        "Yes"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q204",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ठंडी धातु की छड़ में क्या हो सकता है?",
+      "en": "What can happen to a cooled metal rod?"
+    },
+    "options": {
+      "hi": [
+        "वह फैल सकता है",
+        "वह सिकुड़ सकता है",
+        "वस्तु पर अनावश्यक दबाव पड़ सकता है",
+        "वह सिकुड़ सकती है"
+      ],
+      "en": [
+        "It can expand",
+        "It can contract",
+        "The object may experience unwanted stress",
+        "It can contract"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q205",
+    "topic": "expansion-contraction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "रेल की पटरियों के बीच थोड़ी जगह क्यों छोड़ी जाती है?",
+      "en": "Why is a small gap left between railway tracks?"
+    },
+    "options": {
+      "hi": [
+        "ताप बढ़ने पर प्रसार के लिए जगह देने के लिए",
+        "प्रसार",
+        "भौतिक परिवर्तन",
+        "हाँ"
+      ],
+      "en": [
+        "To allow room for expansion when temperature rises",
+        "Expansion",
+        "A physical change",
+        "Yes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q206",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "धातु के ढक्कन को गर्म पानी में रखने पर वह ढीला क्यों हो सकता है?",
+      "en": "Why can a metal lid loosen when placed in hot water?"
+    },
+    "options": {
+      "hi": [
+        "वह सिकुड़ सकती है",
+        "गरम होने पर धातु का प्रसार हो सकता है",
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "वह फैल सकती है"
+      ],
+      "en": [
+        "It can contract",
+        "The metal may expand on heating",
+        "Decrease in size on cooling",
+        "It can expand"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q207",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम करने पर अधिकांश ठोस पदार्थों में क्या हो सकता है?",
+      "en": "What can happen to many solids on heating?"
+    },
+    "options": {
+      "hi": [
+        "तापमान में परिवर्तन",
+        "नहीं",
+        "वे फैल सकते हैं",
+        "वे सिकुड़ सकते हैं"
+      ],
+      "en": [
+        "Change in temperature",
+        "No",
+        "They can expand",
+        "They can contract"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q208",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने पर अधिकांश ठोस पदार्थों में क्या हो सकता है?",
+      "en": "What can happen to many solids on cooling?"
+    },
+    "options": {
+      "hi": [
+        "कम हो सकता है",
+        "वह बढ़ सकती है",
+        "वह घट सकती है",
+        "वे सिकुड़ सकते हैं"
+      ],
+      "en": [
+        "It can decrease",
+        "It can increase",
+        "It can decrease",
+        "They can contract"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q209",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रसार और संकुचन किस कारण से जुड़े हैं?",
+      "en": "What are expansion and contraction related to?"
+    },
+    "options": {
+      "hi": [
+        "तापमान में परिवर्तन",
+        "वह सिकुड़ सकता है",
+        "वस्तु पर अनावश्यक दबाव पड़ सकता है",
+        "ठंडा करना"
+      ],
+      "en": [
+        "Change in temperature",
+        "It can contract",
+        "The object may experience unwanted stress",
+        "Cooling"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q210",
+    "topic": "expansion-contraction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या प्रसार केवल धातुओं में होता है?",
+      "en": "Does expansion occur only in metals?"
+    },
+    "options": {
+      "hi": [
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "नहीं",
+        "तापमान से संबंधित भौतिक परिवर्तन",
+        "ताप बढ़ने पर पदार्थ का फैलना"
+      ],
+      "en": [
+        "Decrease in size on cooling",
+        "No",
+        "Physical changes related to temperature",
+        "Increase in size on heating"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q211",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या संकुचन केवल ठोसों में होता है?",
+      "en": "Does contraction occur only in solids?"
+    },
+    "options": {
+      "hi": [
+        "गरम होने पर धातु का प्रसार हो सकता है",
+        "वे फैल सकते हैं",
+        "नहीं",
+        "ताप बढ़ने पर प्रसार के लिए जगह देने के लिए"
+      ],
+      "en": [
+        "The metal may expand on heating",
+        "They can expand",
+        "No",
+        "To allow room for expansion when temperature rises"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q212",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम हवा फैल सकती है?",
+      "en": "Can warm air expand?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "कम हो सकता है",
+        "वह बढ़ सकती है",
+        "हाँ"
+      ],
+      "en": [
+        "No",
+        "It can decrease",
+        "It can increase",
+        "Yes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q213",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडी हवा का आयतन सामान्यतः क्या कर सकता है?",
+      "en": "What can the volume of cooler air generally do?"
+    },
+    "options": {
+      "hi": [
+        "कम हो सकता है",
+        "वह बढ़ सकती है",
+        "वह घट सकती है",
+        "रेल की पटरियों में खाली जगह"
+      ],
+      "en": [
+        "It can decrease",
+        "It can increase",
+        "It can decrease",
+        "Gaps in railway tracks"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q214",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ताप बढ़ने पर पदार्थ के कणों की गति में क्या बदलाव हो सकता है?",
+      "en": "What can happen to particle motion when temperature increases?"
+    },
+    "options": {
+      "hi": [
+        "गरम करना",
+        "वह बढ़ सकती है",
+        "वस्तु पर अनावश्यक दबाव पड़ सकता है",
+        "ठंडा करना"
+      ],
+      "en": [
+        "Heating",
+        "It can increase",
+        "The object may experience unwanted stress",
+        "Cooling"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q215",
+    "topic": "expansion-contraction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "ताप घटने पर पदार्थ के कणों की गति में क्या हो सकता है?",
+      "en": "What can happen to particle motion when temperature decreases?"
+    },
+    "options": {
+      "hi": [
+        "तापमान से संबंधित भौतिक परिवर्तन",
+        "ताप बढ़ने पर पदार्थ का फैलना",
+        "वह घट सकती है",
+        "हाँ"
+      ],
+      "en": [
+        "Physical changes related to temperature",
+        "Increase in size on heating",
+        "It can decrease",
+        "Yes"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q216",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रसार का दैनिक जीवन में एक उदाहरण",
+      "en": "One daily-life example of expansion"
+    },
+    "options": {
+      "hi": [
+        "वह सिकुड़ सकती है",
+        "ताप बढ़ने पर प्रसार के लिए जगह देने के लिए",
+        "गरम होने पर धातु का प्रसार हो सकता है",
+        "रेल की पटरियों में खाली जगह"
+      ],
+      "en": [
+        "It can contract",
+        "To allow room for expansion when temperature rises",
+        "The metal may expand on heating",
+        "Gaps in railway tracks"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q217",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "धातु के तार को गर्म करने पर क्या हो सकता है?",
+      "en": "What can happen when a metal wire is heated?"
+    },
+    "options": {
+      "hi": [
+        "वह फैल सकता है",
+        "तापमान में परिवर्तन",
+        "नहीं",
+        "हाँ"
+      ],
+      "en": [
+        "It can expand",
+        "Change in temperature",
+        "No",
+        "Yes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q218",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "धातु के तार को ठंडा करने पर क्या हो सकता है?",
+      "en": "What can happen when a metal wire is cooled?"
+    },
+    "options": {
+      "hi": [
+        "रेल की पटरियों में खाली जगह",
+        "वह सिकुड़ सकता है",
+        "वह बढ़ सकती है",
+        "वह घट सकती है"
+      ],
+      "en": [
+        "Gaps in railway tracks",
+        "It can contract",
+        "It can increase",
+        "It can decrease"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q219",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रसार के लिए जगह न देने पर क्या समस्या हो सकती है?",
+      "en": "What problem can occur if no room is allowed for expansion?"
+    },
+    "options": {
+      "hi": [
+        "गरम करना",
+        "प्रसार",
+        "वस्तु पर अनावश्यक दबाव पड़ सकता है",
+        "ठंडा करना"
+      ],
+      "en": [
+        "Heating",
+        "Expansion",
+        "The object may experience unwanted stress",
+        "Cooling"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q220",
+    "topic": "expansion-contraction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "संकुचन किस स्थिति में अधिक संबंधित है?",
+      "en": "Contraction is more closely associated with which condition?"
+    },
+    "options": {
+      "hi": [
+        "तापमान से संबंधित भौतिक परिवर्तन",
+        "ताप बढ़ने पर पदार्थ का फैलना",
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "ठंडा करना"
+      ],
+      "en": [
+        "Physical changes related to temperature",
+        "Increase in size on heating",
+        "Decrease in size on cooling",
+        "Cooling"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q221",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रसार किस स्थिति में अधिक संबंधित है?",
+      "en": "Expansion is more closely associated with which condition?"
+    },
+    "options": {
+      "hi": [
+        "गरम करना",
+        "ताप बढ़ने पर प्रसार के लिए जगह देने के लिए",
+        "गरम होने पर धातु का प्रसार हो सकता है",
+        "वे फैल सकते हैं"
+      ],
+      "en": [
+        "Heating",
+        "To allow room for expansion when temperature rises",
+        "The metal may expand on heating",
+        "They can expand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q222",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गरम करके ढक्कन खोलना किस गुण पर आधारित है?",
+      "en": "Opening a lid by heating it is based on which property?"
+    },
+    "options": {
+      "hi": [
+        "कम हो सकता है",
+        "प्रसार",
+        "नहीं",
+        "हाँ"
+      ],
+      "en": [
+        "It can decrease",
+        "Expansion",
+        "No",
+        "Yes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q223",
+    "topic": "expansion-contraction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तापमान बदलने पर आकार बदलना किस प्रकार का परिवर्तन है?",
+      "en": "Change in size due to temperature change is what type of change?"
+    },
+    "options": {
+      "hi": [
+        "रेल की पटरियों में खाली जगह",
+        "वह फैल सकता है",
+        "भौतिक परिवर्तन",
+        "वह घट सकती है"
+      ],
+      "en": [
+        "Gaps in railway tracks",
+        "It can expand",
+        "A physical change",
+        "It can decrease"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q224",
+    "topic": "expansion-contraction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या प्रसार के बाद वस्तु ठंडी करने पर कुछ हद तक वापस सिकुड़ सकती है?",
+      "en": "Can an object contract after expansion when cooled?"
+    },
+    "options": {
+      "hi": [
+        "ताप बढ़ने पर पदार्थ का फैलना",
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "वह फैल सकती है",
+        "हाँ"
+      ],
+      "en": [
+        "Increase in size on heating",
+        "Decrease in size on cooling",
+        "It can expand",
+        "Yes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q225",
+    "topic": "expansion-contraction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "प्रसार और संकुचन को किस प्रकार के परिवर्तन के उदाहरण के रूप में देखा जा सकता है?",
+      "en": "How can expansion and contraction be viewed?"
+    },
+    "options": {
+      "hi": [
+        "तापमान से संबंधित भौतिक परिवर्तन",
+        "ताप बढ़ने पर पदार्थ का फैलना",
+        "ताप घटने पर पदार्थ का सिकुड़ना",
+        "वह फैल सकती है"
+      ],
+      "en": [
+        "Physical changes related to temperature",
+        "Increase in size on heating",
+        "Decrease in size on cooling",
+        "It can expand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर है क्योंकि तापमान बढ़ने पर प्रसार और घटने पर संकुचन हो सकता है।",
+      "en": "The answer is correct because heating can cause expansion and cooling can cause contraction."
+    }
+  },
+  {
+    "id": "ch5_q226",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कागज को मोड़ने से मुख्यतः क्या बदलता है?",
+      "en": "What mainly changes when paper is folded?"
+    },
+    "options": {
+      "hi": [
+        "आकृति में परिवर्तन उत्क्रमणीय हो सकता है",
+        "आकृति और लंबाई",
+        "नहीं, आकार भी बदल सकता है",
+        "आकृति"
+      ],
+      "en": [
+        "A change in shape can be reversible",
+        "Shape and length",
+        "No, its size can change too",
+        "Shape"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर आकृति है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q227",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कपड़े को मोड़ने और खोलने से क्या दिखता है?",
+      "en": "What does folding and unfolding cloth show?"
+    },
+    "options": {
+      "hi": [
+        "आकृति में परिवर्तन उत्क्रमणीय हो सकता है",
+        "उत्क्रमणीय परिवर्तन",
+        "आकृति में परिवर्तन",
+        "जब वस्तु को मूल आकृति में वापस लाया जा सके"
+      ],
+      "en": [
+        "A change in shape can be reversible",
+        "A reversible change",
+        "A change in shape",
+        "When the object can be returned to its original shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर आकृति में परिवर्तन उत्क्रमणीय हो सकता है है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change in shape can be reversible because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q228",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रबर बैंड को खींचने पर क्या बदलता है?",
+      "en": "What changes when a rubber band is stretched?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "आकृति और लंबाई",
+        "आकार और आकृति",
+        "उसका आकार और आकृति"
+      ],
+      "en": [
+        "Yes",
+        "Shape and length",
+        "Size and shape",
+        "Its size and shape"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर आकृति और लंबाई है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Shape and length because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q229",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मिट्टी को दबाकर गेंद बनाने पर क्या बदलता है?",
+      "en": "What changes when clay is pressed into a ball?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "आकृति बदलने से पदार्थ जरूरी नहीं कि बदल जाए",
+        "आकृति",
+        "कागज की आकृति फिर बदली जा सकती है"
+      ],
+      "en": [
+        "No",
+        "Changing shape does not necessarily change the material",
+        "Shape",
+        "The paper's shape can be changed back"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर आकृति है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q230",
+    "topic": "shape-size-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कागज को फाड़ने से केवल आकृति ही बदलती है?",
+      "en": "Does tearing paper change only its shape?"
+    },
+    "options": {
+      "hi": [
+        "रबर बैंड",
+        "पेंसिल को तेज करना",
+        "कागज मोड़ना",
+        "नहीं, आकार भी बदल सकता है"
+      ],
+      "en": [
+        "Rubber band",
+        "Sharpening a pencil",
+        "Folding paper",
+        "No, its size can change too"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं, आकार भी बदल सकता है है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No, its size can change too because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q231",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "आटे से रोटी बनाने में क्या बदला जा सकता है?",
+      "en": "What can change when dough is made into a roti?"
+    },
+    "options": {
+      "hi": [
+        "आकृति और आकार",
+        "आकृति में परिवर्तन उत्क्रमणीय हो सकता है",
+        "आकृति और लंबाई",
+        "आकृति"
+      ],
+      "en": [
+        "Shape and size",
+        "A change in shape can be reversible",
+        "Shape and length",
+        "Shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर आकृति और आकार है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Shape and size because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q232",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रबर बैंड का खिंचाव छोड़ने पर वापस आना किसका उदाहरण है?",
+      "en": "A rubber band returning after stretching is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "जब मूल वस्तु को पहले जैसा बनाना संभव न हो",
+        "उत्क्रमणीय परिवर्तन",
+        "आकृति में परिवर्तन",
+        "जब वस्तु को मूल आकृति में वापस लाया जा सके"
+      ],
+      "en": [
+        "When the original object cannot be restored",
+        "A reversible change",
+        "A change in shape",
+        "When the object can be returned to its original shape"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर उत्क्रमणीय परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A reversible change because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q233",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मिट्टी से खिलौना बनाना किस प्रकार का परिवर्तन हो सकता है?",
+      "en": "Making a toy from clay can be what type of change?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "वस्तु को स्थानांतरित करना",
+        "आकृति में परिवर्तन",
+        "उसका आकार और आकृति"
+      ],
+      "en": [
+        "Yes",
+        "Moving an object",
+        "A change in shape",
+        "Its size and shape"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर आकृति में परिवर्तन है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is A change in shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q234",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस स्थिति में आकार परिवर्तन उत्क्रमणीय हो सकता है?",
+      "en": "When can a change in shape be reversible?"
+    },
+    "options": {
+      "hi": [
+        "कागज की आकृति फिर बदली जा सकती है",
+        "आकृति",
+        "नहीं",
+        "जब वस्तु को मूल आकृति में वापस लाया जा सके"
+      ],
+      "en": [
+        "The paper's shape can be changed back",
+        "Shape",
+        "No",
+        "When the object can be returned to its original shape"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर जब वस्तु को मूल आकृति में वापस लाया जा सके है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is When the object can be returned to its original shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q235",
+    "topic": "shape-size-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस स्थिति में आकृति परिवर्तन अनुत्क्रमणीय हो सकता है?",
+      "en": "When can a change in shape be irreversible?"
+    },
+    "options": {
+      "hi": [
+        "जब मूल वस्तु को पहले जैसा बनाना संभव न हो",
+        "पेंसिल को तेज करना",
+        "कागज मोड़ना",
+        "नहीं"
+      ],
+      "en": [
+        "When the original object cannot be restored",
+        "Sharpening a pencil",
+        "Folding paper",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर जब मूल वस्तु को पहले जैसा बनाना संभव न हो है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is When the original object cannot be restored because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q236",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कागज को काटने के बाद वही मूल शीट वापस मिलती है?",
+      "en": "Does the same original sheet return after cutting paper?"
+    },
+    "options": {
+      "hi": [
+        "आकार और आकृति",
+        "नहीं",
+        "जब वस्तु को मूल आकृति में वापस लाया जा सके",
+        "जब मूल वस्तु को पहले जैसा बनाना संभव न हो"
+      ],
+      "en": [
+        "Size and shape",
+        "No",
+        "When the object can be returned to its original shape",
+        "When the original object cannot be restored"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q237",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "लकड़ी को काटने से क्या बदलता है?",
+      "en": "What changes when wood is cut?"
+    },
+    "options": {
+      "hi": [
+        "जब वस्तु को मूल आकृति में वापस लाया जा सके",
+        "जब मूल वस्तु को पहले जैसा बनाना संभव न हो",
+        "आकार और आकृति",
+        "आकृति में परिवर्तन"
+      ],
+      "en": [
+        "When the object can be returned to its original shape",
+        "When the original object cannot be restored",
+        "Size and shape",
+        "A change in shape"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर आकार और आकृति है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Size and shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q238",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पेंसिल को तेज करने से क्या बदलता है?",
+      "en": "What changes when a pencil is sharpened?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "वस्तु को स्थानांतरित करना",
+        "नहीं",
+        "उसका आकार और आकृति"
+      ],
+      "en": [
+        "Yes",
+        "Moving an object",
+        "No",
+        "Its size and shape"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर उसका आकार और आकृति है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Its size and shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q239",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मोम को पिघलाकर फिर जमाने से आकृति बदल सकती है?",
+      "en": "Can the shape of wax change when it is melted and then solidified?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "रबर बैंड",
+        "पेंसिल को तेज करना",
+        "कागज मोड़ना"
+      ],
+      "en": [
+        "Yes",
+        "Rubber band",
+        "Sharpening a pencil",
+        "Folding paper"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर हाँ है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Yes because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q240",
+    "topic": "shape-size-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस परिवर्तन में केवल स्थान बदल सकता है, पदार्थ वही रह सकता है?",
+      "en": "In which change can only the position change while the material remains the same?"
+    },
+    "options": {
+      "hi": [
+        "आकृति",
+        "वस्तु को स्थानांतरित करना",
+        "कागज मोड़ना",
+        "नहीं"
+      ],
+      "en": [
+        "Shape",
+        "Moving an object",
+        "Folding paper",
+        "No"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वस्तु को स्थानांतरित करना है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Moving an object because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q241",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किसी वस्तु को खींचने पर उसकी लंबाई बदल सकती है?",
+      "en": "Can the length of an object change when it is stretched?"
+    },
+    "options": {
+      "hi": [
+        "आकृति में परिवर्तन",
+        "जब वस्तु को मूल आकृति में वापस लाया जा सके",
+        "हाँ",
+        "उत्क्रमणीय परिवर्तन"
+      ],
+      "en": [
+        "A change in shape",
+        "When the object can be returned to its original shape",
+        "Yes",
+        "A reversible change"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर हाँ है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Yes because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q242",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या आकार बदलने से हमेशा नया पदार्थ बनता है?",
+      "en": "Does changing shape always create a new substance?"
+    },
+    "options": {
+      "hi": [
+        "आकृति बदलने से पदार्थ जरूरी नहीं कि बदल जाए",
+        "रबर बैंड",
+        "पेंसिल को तेज करना",
+        "नहीं"
+      ],
+      "en": [
+        "Changing shape does not necessarily change the material",
+        "Rubber band",
+        "Sharpening a pencil",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q243",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कागज की नाव बनाकर फिर कागज खोलने पर क्या संभव है?",
+      "en": "What is possible after making a paper boat and unfolding it?"
+    },
+    "options": {
+      "hi": [
+        "कागज की आकृति फिर बदली जा सकती है",
+        "हाँ",
+        "वस्तु को स्थानांतरित करना",
+        "नहीं"
+      ],
+      "en": [
+        "The paper's shape can be changed back",
+        "Yes",
+        "Moving an object",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कागज की आकृति फिर बदली जा सकती है है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is The paper's shape can be changed back because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q244",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मिट्टी को दबाने पर कौन सा गुण बदल सकता है?",
+      "en": "Which property can change when clay is pressed?"
+    },
+    "options": {
+      "hi": [
+        "उत्क्रमणीय परिवर्तन",
+        "आकृति",
+        "नहीं, आकार भी बदल सकता है",
+        "आकृति और आकार"
+      ],
+      "en": [
+        "A reversible change",
+        "Shape",
+        "No, its size can change too",
+        "Shape and size"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर आकृति है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Shape because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q245",
+    "topic": "shape-size-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कपड़े को काटने के बाद टुकड़े को फिर मूल कपड़ा बनाया जा सकता है?",
+      "en": "Can a cut cloth piece be made back into the original cloth?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "वस्तु को स्थानांतरित करना",
+        "नहीं",
+        "उसका आकार और आकृति"
+      ],
+      "en": [
+        "Yes",
+        "Moving an object",
+        "No",
+        "Its size and shape"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q246",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "आकृति में परिवर्तन और पदार्थ की पहचान में क्या संबंध हो सकता है?",
+      "en": "What can be the relation between shape change and material identity?"
+    },
+    "options": {
+      "hi": [
+        "नहीं, आकार भी बदल सकता है",
+        "आकृति और आकार",
+        "उत्क्रमणीय परिवर्तन",
+        "आकृति बदलने से पदार्थ जरूरी नहीं कि बदल जाए"
+      ],
+      "en": [
+        "No, its size can change too",
+        "Shape and size",
+        "A reversible change",
+        "Changing shape does not necessarily change the material"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर आकृति बदलने से पदार्थ जरूरी नहीं कि बदल जाए है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Changing shape does not necessarily change the material because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q247",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रबर बैंड और कागज में किसका खिंचाव अधिक स्पष्ट है?",
+      "en": "In which is stretching more clearly observed, rubber band or paper?"
+    },
+    "options": {
+      "hi": [
+        "रबर बैंड",
+        "जब मूल वस्तु को पहले जैसा बनाना संभव न हो",
+        "नहीं",
+        "आकार और आकृति"
+      ],
+      "en": [
+        "Rubber band",
+        "When the original object cannot be restored",
+        "No",
+        "Size and shape"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर रबर बैंड है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Rubber band because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q248",
+    "topic": "shape-size-changes",
+    "difficulty": "medium",
+    "question": {
+      "hi": "आकार में परिवर्तन का दैनिक जीवन का उदाहरण",
+      "en": "An everyday example of change in size"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "पेंसिल को तेज करना",
+        "वस्तु को स्थानांतरित करना",
+        "हाँ"
+      ],
+      "en": [
+        "No",
+        "Sharpening a pencil",
+        "Moving an object",
+        "Yes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर पेंसिल को तेज करना है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Sharpening a pencil because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q249",
+    "topic": "shape-size-changes",
+    "difficulty": "easy",
+    "question": {
+      "hi": "आकृति में परिवर्तन का दैनिक जीवन का उदाहरण",
+      "en": "An everyday example of change in shape"
+    },
+    "options": {
+      "hi": [
+        "आकृति बदलने से पदार्थ जरूरी नहीं कि बदल जाए",
+        "रबर बैंड",
+        "कागज मोड़ना",
+        "नहीं"
+      ],
+      "en": [
+        "Changing shape does not necessarily change the material",
+        "Rubber band",
+        "Folding paper",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "सही उत्तर कागज मोड़ना है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is Folding paper because it relates to the nature of the change or whether it can be reversed."
+    }
+  },
+  {
+    "id": "ch5_q250",
+    "topic": "shape-size-changes",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या हर आकृति परिवर्तन उत्क्रमणीय है?",
+      "en": "Is every change in shape reversible?"
+    },
+    "options": {
+      "hi": [
+        "कागज की आकृति फिर बदली जा सकती है",
+        "आकृति",
+        "आकृति बदलने से पदार्थ जरूरी नहीं कि बदल जाए",
+        "नहीं"
+      ],
+      "en": [
+        "The paper's shape can be changed back",
+        "Shape",
+        "Changing shape does not necessarily change the material",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है, क्योंकि यह परिवर्तन की प्रकृति या उसे वापस करने की संभावना से संबंधित है।",
+      "en": "The correct answer is No because it relates to the nature of the change or whether it can be reversed."
+    }
+  }
+]
