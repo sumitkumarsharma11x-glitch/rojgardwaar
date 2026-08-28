@@ -1,1 +1,335 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-11",
+  "chapterNumber": 11,
+  "chapterName": {
+    "hi": "विद्युत तथा परिपथ",
+    "en": "Electricity and Circuits"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "transparent-opaque-translucent",
+      "name": {
+        "hi": "पारदर्शी, अपारदर्शी और पारभासी वस्तुएँ",
+        "en": "Transparent, Opaque and Translucent Objects"
+      }
+    },
+    {
+      "id": "shadows",
+      "name": {
+        "hi": "छायाएँ",
+        "en": "Shadows"
+      }
+    },
+    {
+      "id": "pinhole-camera",
+      "name": {
+        "hi": "पिनहोल कैमरा",
+        "en": "Pinhole Camera"
+      }
+    },
+    {
+      "id": "mirrors-reflections",
+      "name": {
+        "hi": "दर्पण और परावर्तन",
+        "en": "Mirrors and Reflections"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "इस अध्याय में विद्युत सेल, विद्युत परिपथ, परिपथ के संकेत, स्विच तथा चालक और कुचालक पदार्थों का अध्ययन किया जाता है। सेल विद्युत ऊर्जा का स्रोत है और complete conducting path होने पर परिपथ में विद्युत धारा प्रवाहित हो सकती है।",
+      "example": "एक सरल परिपथ में cell, bulb और connecting wires को इस तरह जोड़ा जाता है कि complete path बने। Switch को open या close करके bulb के circuit को control किया जा सकता है।",
+      "sections": [
+        {
+          "title": "पारदर्शी, अपारदर्शी और पारभासी वस्तुएँ",
+          "concept": "वस्तुएँ इस आधार पर transparent, translucent या opaque हो सकती हैं कि वे प्रकाश को कितना अपने आर-पार जाने देती हैं।",
+          "explanation": "इस section में NCERT के अनुसार प्रकाश और वस्तुओं के व्यवहार, छाया बनने की conditions, pinhole camera या reflection से जुड़े मुख्य observations समझे जाते हैं।",
+          "example": "पारदर्शी वस्तुएँ प्रकाश को लगभग पूरी तरह अपने आर-पार जाने देती हैं।",
+          "keyPoints": [
+            "पारदर्शी वस्तुएँ प्रकाश को लगभग पूरी तरह अपने आर-पार जाने देती हैं।",
+            "पारभासी वस्तुएँ प्रकाश को आंशिक रूप से अपने आर-पार जाने देती हैं।",
+            "अपारदर्शी वस्तुएँ प्रकाश को अपने आर-पार नहीं जाने देतीं।",
+            "स्वच्छ काँच पारदर्शी पदार्थ का उदाहरण है।",
+            "कागज की मोम लगी शीट पारभासी पदार्थ का उदाहरण हो सकती है।"
+          ]
+        },
+        {
+          "title": "छायाएँ",
+          "concept": "छाया तब बनती है जब opaque object प्रकाश के रास्ते को रोकता है और उसकी छाया screen पर दिखाई जाती है।",
+          "explanation": "इस section में NCERT के अनुसार प्रकाश और वस्तुओं के व्यवहार, छाया बनने की conditions, pinhole camera या reflection से जुड़े मुख्य observations समझे जाते हैं।",
+          "example": "छाया बनने के लिए light source, opaque object और screen की आवश्यकता होती है।",
+          "keyPoints": [
+            "छाया बनने के लिए light source, opaque object और screen की आवश्यकता होती है।",
+            "छाया तब बनती है जब opaque object light के रास्ते को रोकता है।",
+            "छाया को देखने के लिए screen की आवश्यकता होती है।",
+            "छाया सामान्यतः उस दिशा में बनती है जो light source के opposite side पर होती है।",
+            "opaque object light को रोकता है और उसके पीछे dark region बन सकता है।"
+          ]
+        },
+        {
+          "title": "पिनहोल कैमरा",
+          "concept": "पिनहोल कैमरा छोटे छेद वाले opaque box से बनाया जा सकता है और यह प्रकाश के straight-line travel के कारण inverted image बनाता है।",
+          "explanation": "इस section में NCERT के अनुसार प्रकाश और वस्तुओं के व्यवहार, छाया बनने की conditions, pinhole camera या reflection से जुड़े मुख्य observations समझे जाते हैं।",
+          "example": "पिनहोल कैमरा एक छोटे छेद वाला सरल camera है।",
+          "keyPoints": [
+            "पिनहोल कैमरा एक छोटे छेद वाला सरल camera है।",
+            "पिनहोल कैमरे में lens की आवश्यकता नहीं होती।",
+            "पिनहोल कैमरा opaque box से बनाया जा सकता है।",
+            "box के एक side पर छोटा pinhole बनाया जाता है।",
+            "पिनहोल कैमरे में opposite side पर image दिखाई देती है।"
+          ]
+        },
+        {
+          "title": "दर्पण और परावर्तन",
+          "concept": "दर्पण प्रकाश को reflect करके image देखने में सहायता करता है। Plane mirror में left-right reversal दिखाई दे सकता है।",
+          "explanation": "इस section में NCERT के अनुसार प्रकाश और वस्तुओं के व्यवहार, छाया बनने की conditions, pinhole camera या reflection से जुड़े मुख्य observations समझे जाते हैं।",
+          "example": "दर्पण पर पड़ने वाली light वापस लौट सकती है; इसे reflection कहते हैं।",
+          "keyPoints": [
+            "दर्पण पर पड़ने वाली light वापस लौट सकती है; इसे reflection कहते हैं।",
+            "चिकनी और चमकीली surface light को reflect कर सकती है।",
+            "plane mirror में बनने वाली image को mirror image कहा जाता है।",
+            "हम mirror में किसी वस्तु को इसलिए देख पाते हैं क्योंकि light reflect होकर आँखों तक पहुँचती है।",
+            "plane mirror image में left-right reversal दिखाई दे सकता है।"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "प्रकाश हमें वस्तुओं को देखने में सहायता करता है।",
+        "प्रकाश सीधी रेखा में चलता है।",
+        "Transparent, translucent और opaque वस्तुएँ light transmission के आधार पर अलग होती हैं।",
+        "Shadow के लिए light source, opaque object और screen आवश्यक हैं।",
+        "Pinhole camera में छोटी opening के कारण inverted image बनती है।",
+        "Mirror light को reflect करता है।",
+        "Plane mirror में left-right reversal दिखाई दे सकता है।",
+        "Shadow और reflection अलग phenomena हैं।"
+      ],
+      "examFocus": [
+        "Transparent, translucent और opaque का अंतर।",
+        "Luminous और non-luminous objects की पहचान।",
+        "Shadow बनने की आवश्यक conditions।",
+        "Shadow की position और size पर light source की position का प्रभाव।",
+        "Pinhole camera का construction और inverted image।",
+        "Reflection और plane mirror।",
+        "Lateral inversion या left-right reversal।"
+      ],
+      "examTraps": [
+        {
+          "title": "Transparent और luminous",
+          "fact": "Transparent होना और स्वयं light produce करना अलग गुण हैं।",
+          "confusion": "हर transparent object को luminous न मानें।"
+        },
+        {
+          "title": "Shadow के लिए screen",
+          "fact": "Shadow को देखने के लिए screen या suitable surface चाहिए।",
+          "confusion": "Shadow को हवा में अलग से दिखाई देने वाली वस्तु न समझें।"
+        },
+        {
+          "title": "Shadow और reflection",
+          "fact": "Shadow blocked light का dark region है, जबकि reflection reflected light से image बनाती है।",
+          "confusion": "दोनों को एक ही phenomenon न मानें।"
+        },
+        {
+          "title": "Pinhole image",
+          "fact": "Pinhole camera में image सामान्यतः inverted होती है।",
+          "confusion": "इसे mirror image समझना गलत है।"
+        },
+        {
+          "title": "Mirror में light",
+          "fact": "Mirror में image देखने के लिए light का mirror से reflect होकर आँख तक पहुँचना जरूरी है।",
+          "confusion": "पूरे अँधेरे में स्पष्ट mirror image की उम्मीद न करें।"
+        },
+        {
+          "title": "Translucent",
+          "fact": "Translucent material कुछ light pass करता है लेकिन clear view नहीं देता।",
+          "confusion": "इसे transparent की तरह पूरी clarity वाला न समझें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "क्या object light को पूरी, कुछ या बिल्कुल नहीं pass करता है?",
+        "क्या प्रश्न shadow की condition पूछ रहा है?",
+        "क्या light source, object और screen की relative position सही समझी है?",
+        "क्या pinhole camera में image inverted है?",
+        "क्या image reflection से बन रही है या shadow से?",
+        "क्या mirror image में left-right reversal पूछा गया है?"
+      ],
+      "memoryTricks": [
+        "Transparent → light लगभग पूरी pass।",
+        "Translucent → light कुछ pass।",
+        "Opaque → light block।",
+        "Shadow → source + opaque object + screen।",
+        "Pinhole → small hole + inverted image।",
+        "Mirror → reflection + image।",
+        "Left-right reversal → lateral inversion।"
+      ],
+      "pyqSignals": [
+        "Materials को transparent, translucent और opaque में classify करना।",
+        "Shadow formation की conditions।",
+        "Pinhole camera की image और working।",
+        "Mirror reflection और lateral inversion।",
+        "Shadow और reflection में difference।"
+      ],
+      "mustRemember": [
+        "Transparent → प्रकाश को लगभग पूरी तरह pass होने देता है",
+        "Translucent → प्रकाश को आंशिक रूप से pass होने देता है",
+        "Opaque → प्रकाश को रोकता है",
+        "Shadow → blocked light के कारण screen पर dark region",
+        "Pinhole camera → small hole से inverted image",
+        "Reflection → surface से light का bounce back",
+        "Plane mirror → reflected image और left-right reversal",
+        "Shadow versus reflection → dark outline बनाम reflected image"
+      ],
+      "quickRevision": "Light → straight-line travel → materials → transparent + translucent + opaque → shadow → light source + opaque object + screen → pinhole camera → small hole + inverted image → mirror → reflection → plane mirror → left-right reversal"
+    },
+    "en": {
+      "concept": "This chapter studies electric cells, electric circuits, circuit symbols, switches, and conductors and insulators. A cell is a source of electrical energy, and an electric current can flow through a complete conducting path.",
+      "example": "In a simple circuit, a cell, bulb and connecting wires are connected to make a complete path. A switch can open or close the circuit to control the bulb.",
+      "sections": [
+        {
+          "title": "Transparent, Opaque and Translucent Objects",
+          "concept": "Objects can be transparent, translucent or opaque depending on how much light they allow to pass through.",
+          "explanation": "This section explains the main observations from NCERT about light and materials, conditions for shadows, the pinhole camera or reflection.",
+          "example": "Transparent objects allow light to pass through them almost completely.",
+          "keyPoints": [
+            "Transparent objects allow light to pass through them almost completely.",
+            "Translucent objects allow light to pass through them partially.",
+            "Opaque objects do not allow light to pass through them.",
+            "Clear glass is an example of a transparent material.",
+            "A butter paper sheet can be an example of a translucent material."
+          ]
+        },
+        {
+          "title": "Shadows",
+          "concept": "A shadow forms when an opaque object blocks light and the shadow is seen on a screen.",
+          "explanation": "This section explains the main observations from NCERT about light and materials, conditions for shadows, the pinhole camera or reflection.",
+          "example": "A shadow requires a light source, an opaque object and a screen.",
+          "keyPoints": [
+            "A shadow requires a light source, an opaque object and a screen.",
+            "A shadow forms when an opaque object blocks the path of light.",
+            "A screen is needed to see a shadow.",
+            "A shadow generally forms on the side opposite the light source.",
+            "An opaque object blocks light and a dark region can form behind it."
+          ]
+        },
+        {
+          "title": "Pinhole Camera",
+          "concept": "A pinhole camera can be made from an opaque box with a small hole and forms an inverted image because light travels in straight lines.",
+          "explanation": "This section explains the main observations from NCERT about light and materials, conditions for shadows, the pinhole camera or reflection.",
+          "example": "A pinhole camera is a simple camera with a small hole.",
+          "keyPoints": [
+            "A pinhole camera is a simple camera with a small hole.",
+            "A pinhole camera does not require a lens.",
+            "A pinhole camera can be made from an opaque box.",
+            "A small pinhole is made on one side of the box.",
+            "In a pinhole camera, an image appears on the opposite side."
+          ]
+        },
+        {
+          "title": "Mirrors and Reflections",
+          "concept": "A mirror reflects light and helps us see an image. A plane mirror can show left-right reversal.",
+          "explanation": "This section explains the main observations from NCERT about light and materials, conditions for shadows, the pinhole camera or reflection.",
+          "example": "Light falling on a mirror can bounce back; this is called reflection.",
+          "keyPoints": [
+            "Light falling on a mirror can bounce back; this is called reflection.",
+            "A smooth and shiny surface can reflect light.",
+            "The image formed in a plane mirror is called a mirror image.",
+            "We see an object in a mirror because reflected light reaches our eyes.",
+            "A plane mirror image can show left-right reversal."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Light helps us see objects.",
+        "Light travels in a straight line.",
+        "Transparent, translucent and opaque objects differ in light transmission.",
+        "A shadow requires a light source, an opaque object and a screen.",
+        "A pinhole camera forms an inverted image through a small opening.",
+        "A mirror reflects light.",
+        "A plane mirror can show left-right reversal.",
+        "A shadow and a reflection are different phenomena."
+      ],
+      "examFocus": [
+        "Difference among transparent, translucent and opaque materials.",
+        "Identifying luminous and non-luminous objects.",
+        "Conditions required for shadow formation.",
+        "Effect of light-source position on shadow position and size.",
+        "Construction and inverted image of a pinhole camera.",
+        "Reflection and plane mirrors.",
+        "Lateral inversion or left-right reversal."
+      ],
+      "examTraps": [
+        {
+          "title": "Transparent and luminous",
+          "fact": "Being transparent and producing light are different properties.",
+          "confusion": "Do not assume every transparent object is luminous."
+        },
+        {
+          "title": "Screen for a shadow",
+          "fact": "A shadow needs a screen or suitable surface to be seen.",
+          "confusion": "Do not treat a shadow as an independently visible object in air."
+        },
+        {
+          "title": "Shadow and reflection",
+          "fact": "A shadow is a dark region caused by blocked light, while reflection forms an image through reflected light.",
+          "confusion": "Do not treat them as the same phenomenon."
+        },
+        {
+          "title": "Pinhole image",
+          "fact": "A pinhole camera generally forms an inverted image.",
+          "confusion": "Do not confuse it with a mirror image."
+        },
+        {
+          "title": "Light in a mirror",
+          "fact": "To see an image in a mirror, light must reflect from the mirror to the eye.",
+          "confusion": "Do not expect a clear mirror image in complete darkness."
+        },
+        {
+          "title": "Translucent",
+          "fact": "A translucent material lets some light pass but does not give a clear view.",
+          "confusion": "Do not treat it like a transparent material with full clarity."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Does the object allow all, some or no light to pass?",
+        "Is the question asking about a condition for shadow formation?",
+        "Are the relative positions of source, object and screen understood correctly?",
+        "Is the pinhole image inverted?",
+        "Is the image formed by reflection or is it a shadow?",
+        "Is left-right reversal being asked about?"
+      ],
+      "memoryTricks": [
+        "Transparent → most light passes.",
+        "Translucent → some light passes.",
+        "Opaque → blocks light.",
+        "Shadow → source + opaque object + screen.",
+        "Pinhole → small hole + inverted image.",
+        "Mirror → reflection + image.",
+        "Left-right reversal → lateral inversion."
+      ],
+      "pyqSignals": [
+        "Classifying materials as transparent, translucent and opaque.",
+        "Conditions for shadow formation.",
+        "Pinhole camera image and working.",
+        "Mirror reflection and lateral inversion.",
+        "Difference between shadow and reflection."
+      ],
+      "mustRemember": [
+        "Transparent → allows most light to pass",
+        "Translucent → allows some light to pass",
+        "Opaque → blocks light",
+        "Shadow → dark region caused by blocked light on a screen",
+        "Pinhole camera → inverted image through a small hole",
+        "Reflection → light bouncing back from a surface",
+        "Plane mirror → reflected image and left-right reversal",
+        "Shadow versus reflection → dark outline versus reflected image"
+      ],
+      "quickRevision": "Light → straight-line travel → materials → transparent + translucent + opaque → shadow → light source + opaque object + screen → pinhole camera → small hole + inverted image → mirror → reflection → plane mirror → left-right reversal"
+    }
+  }
+}
