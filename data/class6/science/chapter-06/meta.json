@@ -1,1 +1,376 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-06",
+  "chapterNumber": 6,
+  "chapterName": {
+    "hi": "पौधों को जानिए",
+    "en": "Getting to Know Plants"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "herbs-shrubs-trees",
+      "name": {
+        "hi": "शाक, झाड़ियाँ और वृक्ष",
+        "en": "Herbs, Shrubs and Trees"
+      }
+    },
+    {
+      "id": "stem",
+      "name": {
+        "hi": "तना",
+        "en": "Stem"
+      }
+    },
+    {
+      "id": "leaf",
+      "name": {
+        "hi": "पत्ती",
+        "en": "Leaf"
+      }
+    },
+    {
+      "id": "root",
+      "name": {
+        "hi": "जड़",
+        "en": "Root"
+      }
+    },
+    {
+      "id": "flower",
+      "name": {
+        "hi": "फूल",
+        "en": "Flower"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "इस अध्याय में पौधों को उनके आकार, तने और शाखाओं की प्रकृति के आधार पर समझा जाता है। पौधे के प्रमुख भागों में जड़, तना, पत्ती और फूल शामिल हैं। जड़ पौधे को मिट्टी में स्थिर रखती है और जल तथा खनिज लेती है, तना सहारा देता है और पदार्थों का परिवहन करता है, जबकि पत्तियाँ भोजन बनाती हैं। फूल के प्रमुख भाग दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर हैं।",
+      "example": "किसी पौधे को देखकर उसके तने और शाखाओं की प्रकृति से उसे शाक, झाड़ी या वृक्ष के रूप में समझा जा सकता है। पत्ती के शिराविन्यास को देखकर जड़ के प्रकार का अनुमान भी लगाया जा सकता है।",
+      "sections": [
+        {
+          "title": "शाक, झाड़ियाँ और वृक्ष",
+          "concept": "पौधों को आकार, तने की प्रकृति और शाखाओं की स्थिति के आधार पर शाक, झाड़ी और वृक्ष जैसे समूहों में समझा जा सकता है।",
+          "explanation": "शाक छोटे पौधे होते हैं जिनके तने सामान्यतः कोमल और हरे होते हैं। झाड़ियों के तने कठोर होते हैं और शाखाएँ आधार के पास निकलती हैं। वृक्ष बड़े होते हैं और उनका मुख्य तना मोटा तथा कठोर होता है। कमजोर तने वाले पौधे सहारा लेकर चढ़ें तो लता और जमीन पर फैलें तो रेंगने वाले पौधे कहलाते हैं।",
+          "example": "गुलाब को झाड़ी और आम को वृक्ष के उदाहरण के रूप में देखा जा सकता है। मनी प्लांट एक लता का उदाहरण है।",
+          "keyPoints": [
+            "शाक के तने सामान्यतः कोमल और हरे होते हैं।",
+            "झाड़ियों में शाखाएँ आधार के पास निकलती हैं।",
+            "वृक्षों का मुख्य तना मोटा और कठोर होता है।",
+            "लताओं को ऊपर बढ़ने के लिए सहारे की आवश्यकता होती है।",
+            "रेंगने वाले पौधे जमीन पर फैलते हैं."
+          ]
+        },
+        {
+          "title": "तना",
+          "concept": "तना पौधे को सहारा देता है और जड़ों से आए जल तथा पत्तियों में बने भोजन के परिवहन में मदद करता है।",
+          "explanation": "तना पत्तियों, शाखाओं, फूलों और फलों को सहारा देता है। जड़ों द्वारा लिया गया जल तने से होकर पत्तियों और अन्य भागों तक पहुँचता है। पत्तियों द्वारा बनाया गया भोजन भी तने के माध्यम से पौधे के अन्य भागों तक पहुँच सकता है। रंगीन पानी में तना रखने का प्रयोग जल के ऊपर जाने को दिखा सकता है।",
+          "example": "रंगीन पानी में पौधे का तना रखने पर कुछ समय बाद रंग पत्तियों की शिराओं में दिखाई दे सकता है।",
+          "keyPoints": [
+            "तना पौधे को सीधा रखने में मदद करता है।",
+            "तना पत्तियों और शाखाओं को सहारा देता है।",
+            "तना जल को जड़ों से ऊपर की ओर ले जाता है।",
+            "पत्तियों का भोजन अन्य भागों तक पहुँच सकता है।",
+            "रंगीन पानी वाला प्रयोग तने के जल परिवहन को समझाता है."
+          ]
+        },
+        {
+          "title": "पत्ती",
+          "concept": "पत्ती का चौड़ा भाग पर्णफलक और तने से जोड़ने वाला डंठल पर्णवृंत कहलाता है। पत्तियों में शिराएँ होती हैं और उनकी व्यवस्था को शिराविन्यास कहते हैं।",
+          "explanation": "पत्तियाँ पौधे के लिए भोजन बनाने का मुख्य स्थान हैं। प्रकाश संश्लेषण में सूर्य के प्रकाश की उपस्थिति में जल और कार्बन डाइऑक्साइड का उपयोग होता है। पत्तियों से जलवाष्प निकलने की प्रक्रिया वाष्पोत्सर्जन कहलाती है। शिराविन्यास जालिकावत या समांतर हो सकता है।",
+          "example": "गेहूँ की पत्ती में समांतर शिराविन्यास और तुलसी की पत्ती में जालिकावत शिराविन्यास देखा जा सकता है।",
+          "keyPoints": [
+            "पर्णफलक पत्ती का चौड़ा भाग है।",
+            "पर्णवृंत पत्ती को तने से जोड़ता है।",
+            "शिराओं की व्यवस्था शिराविन्यास कहलाती है।",
+            "पत्तियाँ प्रकाश संश्लेषण द्वारा भोजन बनाती हैं।",
+            "पत्तियों से जलवाष्प निकलने को वाष्पोत्सर्जन कहते हैं."
+          ]
+        },
+        {
+          "title": "जड़",
+          "concept": "जड़ सामान्यतः मिट्टी के अंदर होती है और पौधे को स्थिर रखने के साथ जल तथा खनिजों को अवशोषित करती है।",
+          "explanation": "जड़ों के मुख्य प्रकार मूसला जड़ और रेशेदार जड़ हैं। मूसला जड़ में एक मुख्य जड़ होती है और उससे छोटी पार्श्व जड़ें निकलती हैं। रेशेदार जड़ में कई पतली लगभग समान आकार की जड़ें होती हैं। पत्ती के शिराविन्यास और जड़ के प्रकार के बीच भी संबंध देखा जा सकता है।",
+          "example": "चना और सरसों में मूसला जड़ तथा गेहूँ और घास में रेशेदार जड़ का उदाहरण दिया जा सकता है।",
+          "keyPoints": [
+            "जड़ पौधे को मिट्टी में मजबूती से पकड़ती है।",
+            "जड़ मिट्टी से जल और खनिज लेती है।",
+            "मूसला जड़ में एक मुख्य जड़ होती है।",
+            "रेशेदार जड़ में कई पतली जड़ें होती हैं।",
+            "जालिकावत शिराविन्यास का संबंध मूसला जड़ से और समांतर शिराविन्यास का संबंध रेशेदार जड़ से हो सकता है."
+          ]
+        },
+        {
+          "title": "फूल",
+          "concept": "फूल पौधे का महत्वपूर्ण प्रजनन संबंधी भाग है और इसके प्रमुख भाग दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर हैं।",
+          "explanation": "दल फूल की कली की रक्षा करते हैं और पंखुड़ियाँ अक्सर रंगीन होती हैं। पुंकेसर फूल का नर भाग है जिसमें तंतु और परागकोश होते हैं। स्त्रीकेसर फूल का मादा भाग है जिसमें वर्तिकाग्र, वर्तिका और अंडाशय होते हैं। अंडाशय के अंदर बीजांड पाए जाते हैं।",
+          "example": "किसी फूल को खोलकर उसके दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर की पहचान की जा सकती है।",
+          "keyPoints": [
+            "दल फूल की कली की रक्षा करते हैं।",
+            "पंखुड़ियाँ अक्सर रंगीन होती हैं।",
+            "पुंकेसर नर प्रजनन भाग है।",
+            "स्त्रीकेसर मादा प्रजनन भाग है।",
+            "अंडाशय स्त्रीकेसर के निचले भाग में होता है."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "पौधों को उनके आकार, तने और शाखाओं की प्रकृति से समझा जा सकता है।",
+        "शाक, झाड़ियाँ और वृक्ष तने तथा शाखाओं की विशेषताओं में अलग होते हैं।",
+        "तना पौधे को सहारा देता है और जल तथा भोजन के परिवहन में मदद करता है।",
+        "पत्ती में पर्णफलक, पर्णवृंत और शिराएँ होती हैं।",
+        "पत्तियाँ प्रकाश संश्लेषण द्वारा भोजन बनाती हैं।",
+        "जड़ पौधे को मिट्टी में स्थिर करती है और जल तथा खनिज अवशोषित करती है।",
+        "मूसला और रेशेदार जड़ प्रमुख प्रकार हैं।",
+        "फूल के प्रमुख भाग दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर हैं।",
+        "शिराविन्यास जड़ के प्रकार से संबंधित संकेत दे सकता है."
+      ],
+      "examFocus": [
+        "शाक, झाड़ी, वृक्ष, लता और रेंगने वाले पौधों की पहचान",
+        "तने के कार्य",
+        "पत्ती के भाग और शिराविन्यास",
+        "प्रकाश संश्लेषण और वाष्पोत्सर्जन",
+        "मूसला और रेशेदार जड़",
+        "जड़ और पत्ती के शिराविन्यास का संबंध",
+        "फूल के भाग और उनके कार्य"
+      ],
+      "examTraps": [
+        {
+          "title": "तना और जड़ का कार्य",
+          "fact": "जड़ मिट्टी से जल और खनिज लेती है तथा तना उन्हें पौधे के अन्य भागों तक पहुँचाने में मदद करता है।",
+          "confusion": "जल अवशोषण का मुख्य कार्य तने को न दें।"
+        },
+        {
+          "title": "शिराविन्यास और जड़",
+          "fact": "जालिकावत शिराविन्यास का संबंध मूसला जड़ और समांतर शिराविन्यास का संबंध रेशेदार जड़ से हो सकता है।",
+          "confusion": "शिराविन्यास को जड़ का प्रकार न समझें।"
+        },
+        {
+          "title": "पुंकेसर और स्त्रीकेसर",
+          "fact": "पुंकेसर नर भाग और स्त्रीकेसर मादा भाग है।",
+          "confusion": "दोनों को एक ही प्रजनन भाग न मानें।"
+        },
+        {
+          "title": "अंडाशय का स्थान",
+          "fact": "अंडाशय स्त्रीकेसर के निचले फूले हुए भाग में होता है।",
+          "confusion": "अंडाशय को वर्तिकाग्र के ऊपर न रखें।"
+        },
+        {
+          "title": "लता और रेंगने वाला पौधा",
+          "fact": "लता सहारे से ऊपर चढ़ती है, जबकि रेंगने वाला पौधा जमीन पर फैलता है।",
+          "confusion": "दोनों कमजोर तने वाले हैं, लेकिन बढ़ने का तरीका अलग है।"
+        },
+        {
+          "title": "पत्ती का भोजन बनाना",
+          "fact": "पत्तियाँ प्रकाश संश्लेषण द्वारा भोजन बनाती हैं।",
+          "confusion": "तने को भोजन बनाने का मुख्य स्थान न समझें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न पौधे के किस भाग के बारे में है?",
+        "क्या पूछा गया कार्य है या संरचना?",
+        "यदि पत्ती का शिराविन्यास दिया है तो उससे जड़ के प्रकार का क्या संकेत मिलता है?",
+        "फूल के भागों में नर और मादा भाग कौन से हैं?",
+        "क्या पौधा सहारे से चढ़ता है या जमीन पर फैलता है?",
+        "क्या प्रश्न जल के अवशोषण की बात कर रहा है या उसके परिवहन की?"
+      ],
+      "memoryTricks": [
+        "जड़ → पकड़ और जल-खनिज।",
+        "तना → सहारा और परिवहन।",
+        "पत्ती → भोजन और वाष्पोत्सर्जन।",
+        "पुंकेसर → नर भाग।",
+        "स्त्रीकेसर → मादा भाग।",
+        "मूसला → एक मुख्य जड़।",
+        "रेशेदार → कई पतली जड़ें।"
+      ],
+      "pyqSignals": [
+        "पौधे की श्रेणी पहचानना",
+        "तने के कार्य",
+        "पत्ती के भाग",
+        "शिराविन्यास और जड़ का संबंध",
+        "फूल के भाग",
+        "प्रकाश संश्लेषण और वाष्पोत्सर्जन"
+      ],
+      "mustRemember": [
+        "शाक → कोमल हरे तने वाला छोटा पौधा",
+        "झाड़ी → कठोर तना और आधार के पास शाखाएँ",
+        "वृक्ष → मोटा कठोर मुख्य तना",
+        "तना → सहारा और पदार्थों का परिवहन",
+        "पर्णफलक → पत्ती का चौड़ा भाग",
+        "पर्णवृंत → पत्ती को तने से जोड़ने वाला डंठल",
+        "मूसला जड़ → एक मुख्य जड़",
+        "रेशेदार जड़ → कई पतली लगभग समान जड़ें",
+        "पुंकेसर → फूल का नर भाग",
+        "स्त्रीकेसर → फूल का मादा भाग"
+      ],
+      "quickRevision": "पौधे → आकार और तना → शाक, झाड़ी, वृक्ष, लता, रेंगने वाले पौधे → तना → सहारा और परिवहन → पत्ती → शिराविन्यास, प्रकाश संश्लेषण और वाष्पोत्सर्जन → जड़ → मूसला या रेशेदार, जल-खनिज और सहारा → फूल → दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर।"
+    },
+    "en": {
+      "concept": "This chapter examines plants using their size, stem and branch characteristics. The main plant parts include roots, stem, leaves and flowers. Roots anchor plants and take up water and minerals, stems provide support and transport materials, and leaves make food. The main parts of a flower are sepals, petals, stamens and pistil.",
+      "example": "A plant can be classified by observing its stem and branch pattern. The type of root can also be suggested by observing the venation of its leaves.",
+      "sections": [
+        {
+          "title": "Herbs, Shrubs and Trees",
+          "concept": "Plants can be understood as herbs, shrubs and trees using features such as size, stem nature and branch position.",
+          "explanation": "Herbs are small plants with generally soft green stems. Shrubs have hard stems with branches arising near the base. Trees are larger and have a thick, hard main stem. Weak-stemmed plants that climb with support are climbers, while weak-stemmed plants that spread along the ground are creepers.",
+          "example": "Rose can be considered a shrub and mango a tree. Money plant is an example of a climber.",
+          "keyPoints": [
+            "Herbs generally have soft green stems.",
+            "Branches of shrubs arise near the base.",
+            "Trees have thick hard main stems.",
+            "Climbers need support to grow upward.",
+            "Creepers spread along the ground."
+          ]
+        },
+        {
+          "title": "Stem",
+          "concept": "The stem supports the plant and helps transport water from roots and food made by leaves.",
+          "explanation": "The stem supports leaves, branches, flowers and fruits. Water taken up by roots travels through the stem to leaves and other parts. Food made by leaves can also move through the stem to other parts. The coloured-water experiment can demonstrate upward movement of water through a stem.",
+          "example": "When a plant stem is placed in coloured water, the colour may later appear in the leaf veins.",
+          "keyPoints": [
+            "The stem helps keep the plant upright.",
+            "The stem supports leaves and branches.",
+            "The stem carries water upward from roots.",
+            "Food made by leaves can reach other parts.",
+            "The coloured-water experiment demonstrates water transport through the stem."
+          ]
+        },
+        {
+          "title": "Leaf",
+          "concept": "The broad part of a leaf is the lamina and the stalk connecting it to the stem is the petiole. Leaves contain veins and their arrangement is called venation.",
+          "explanation": "Leaves are the main site of food making in a plant. In photosynthesis, sunlight, water and carbon dioxide are involved. The process by which leaves give out water vapour is transpiration. Venation can be reticulate or parallel.",
+          "example": "Wheat commonly has parallel venation, while tulsi commonly has reticulate venation.",
+          "keyPoints": [
+            "The lamina is the broad part of a leaf.",
+            "The petiole attaches a leaf to the stem.",
+            "The arrangement of veins is called venation.",
+            "Leaves make food by photosynthesis.",
+            "Giving out water vapour from leaves is called transpiration."
+          ]
+        },
+        {
+          "title": "Root",
+          "concept": "Roots are generally underground and anchor the plant while absorbing water and minerals.",
+          "explanation": "The main types are tap roots and fibrous roots. A tap root has one main root with smaller lateral roots. A fibrous root system has many thin roots of nearly similar size. Leaf venation can also be associated with root type.",
+          "example": "Gram and mustard have tap roots, while wheat and grass have fibrous roots.",
+          "keyPoints": [
+            "Roots anchor plants firmly in soil.",
+            "Roots absorb water and minerals.",
+            "A tap root has one main root.",
+            "Fibrous roots consist of many thin roots.",
+            "Reticulate venation can be associated with tap roots and parallel venation with fibrous roots."
+          ]
+        },
+        {
+          "title": "Flower",
+          "concept": "A flower is an important reproductive part of a plant. Its main parts are sepals, petals, stamens and pistil.",
+          "explanation": "Sepals protect the flower bud and petals are often colourful. The stamen is the male part and has a filament and anther. The pistil is the female part and has stigma, style and ovary. Ovules are found inside the ovary.",
+          "example": "A flower can be opened carefully to identify sepals, petals, stamens and pistil.",
+          "keyPoints": [
+            "Sepals protect the flower bud.",
+            "Petals are often colourful.",
+            "The stamen is the male reproductive part.",
+            "The pistil is the female reproductive part.",
+            "The ovary is at the lower part of the pistil."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Plants can be understood by their size, stems and branches.",
+        "Herbs, shrubs and trees differ in stem and branch characteristics.",
+        "The stem supports the plant and helps transport water and food.",
+        "A leaf has a lamina, petiole and veins.",
+        "Leaves make food by photosynthesis.",
+        "Roots anchor the plant and absorb water and minerals.",
+        "Tap and fibrous roots are the main types.",
+        "The main flower parts are sepals, petals, stamens and pistil.",
+        "Venation can indicate the associated root type."
+      ],
+      "examFocus": [
+        "Identifying herbs, shrubs, trees, climbers and creepers",
+        "Functions of the stem",
+        "Parts of a leaf and venation",
+        "Photosynthesis and transpiration",
+        "Tap and fibrous roots",
+        "Relationship between venation and root type",
+        "Parts and functions of a flower"
+      ],
+      "examTraps": [
+        {
+          "title": "Stem versus root function",
+          "fact": "Roots absorb water and minerals from soil, while the stem helps carry them to other parts.",
+          "confusion": "Do not assign the main absorption function to the stem."
+        },
+        {
+          "title": "Venation and roots",
+          "fact": "Reticulate venation can be associated with tap roots and parallel venation with fibrous roots.",
+          "confusion": "Venation is not itself a type of root."
+        },
+        {
+          "title": "Stamen and pistil",
+          "fact": "The stamen is the male part and the pistil is the female part.",
+          "confusion": "Do not treat both as the same reproductive part."
+        },
+        {
+          "title": "Position of ovary",
+          "fact": "The ovary is in the lower swollen part of the pistil.",
+          "confusion": "Do not place the ovary above the stigma."
+        },
+        {
+          "title": "Climber versus creeper",
+          "fact": "A climber grows upward with support, while a creeper spreads along the ground.",
+          "confusion": "Both have weak stems, but their growth pattern is different."
+        },
+        {
+          "title": "Leaf and food making",
+          "fact": "Leaves make food through photosynthesis.",
+          "confusion": "Do not treat the stem as the main site of food making."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Which plant part is the question about?",
+        "Is the question asking about a function or a structure?",
+        "If leaf venation is given, what root type can it indicate?",
+        "Which flower parts are male and female?",
+        "Does the plant climb with support or spread on the ground?",
+        "Is the question about absorption by roots or transport through the stem?"
+      ],
+      "memoryTricks": [
+        "Root → anchoring and water-minerals.",
+        "Stem → support and transport.",
+        "Leaf → food and transpiration.",
+        "Stamen → male part.",
+        "Pistil → female part.",
+        "Tap → one main root.",
+        "Fibrous → many thin roots."
+      ],
+      "pyqSignals": [
+        "Identifying a plant category",
+        "Functions of the stem",
+        "Parts of a leaf",
+        "Venation and root relationship",
+        "Parts of a flower",
+        "Photosynthesis and transpiration"
+      ],
+      "mustRemember": [
+        "Herb → small plant with a generally soft green stem",
+        "Shrub → hard stem with branches near the base",
+        "Tree → thick hard main stem",
+        "Stem → support and transport",
+        "Lamina → broad part of a leaf",
+        "Petiole → stalk connecting leaf to stem",
+        "Tap root → one main root",
+        "Fibrous root → many thin nearly similar roots",
+        "Stamen → male part of a flower",
+        "Pistil → female part of a flower"
+      ],
+      "quickRevision": "Plants → size and stems → herbs, shrubs, trees, climbers and creepers → stem → support and transport → leaf → venation, photosynthesis and transpiration → root → tap or fibrous, anchoring and water-minerals → flower → sepals, petals, stamen and pistil."
+    }
+  }
+}
