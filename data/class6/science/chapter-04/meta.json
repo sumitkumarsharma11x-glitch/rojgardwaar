@@ -1,1 +1,41 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-04",
+  "chapterNumber": 4,
+  "chapterName": {
+    "hi": "पदार्थों का पृथक्करण",
+    "en": "Separation of Substances"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "need-for-separation",
+      "name": {
+        "hi": "पृथक्करण की आवश्यकता",
+        "en": "Need for Separation"
+      }
+    },
+    {
+      "id": "handpicking-threshing",
+      "name": {
+        "hi": "हस्तचयन और थ्रेशिंग",
+        "en": "Handpicking and Threshing"
+      }
+    },
+    {
+      "id": "winnowing-sieving",
+      "name": {
+        "hi": "ओसाई और चालनी से पृथक्करण",
+        "en": "Winnowing and Sieving"
+      }
+    },
+    {
+      "id": "sedimentation-decantation-filtration",
+      "name": {
+        "hi": "अवसादन, निस्तारण और निस्यंदन",
+}
