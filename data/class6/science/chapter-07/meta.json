@@ -5,372 +5,401 @@
     "hi": "विज्ञान",
     "en": "Science"
   },
-  "chapter": "chapter-06",
-  "chapterNumber": 6,
+  "chapter": "chapter-07",
+  "chapterNumber": 7,
   "chapterName": {
-    "hi": "पौधों को जानिए",
-    "en": "Getting to Know Plants"
+    "hi": "शरीर में गति",
+    "en": "Body Movements"
   },
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "herbs-shrubs-trees",
+      "id": "human-body-joints",
       "name": {
-        "hi": "शाक, झाड़ियाँ और वृक्ष",
-        "en": "Herbs, Shrubs and Trees"
+        "hi": "मानव शरीर और संधियाँ",
+        "en": "Human Body and Joints"
       }
     },
     {
-      "id": "stem",
+      "id": "human-skeleton",
       "name": {
-        "hi": "तना",
-        "en": "Stem"
+        "hi": "मानव कंकाल",
+        "en": "Human Skeleton"
       }
     },
     {
-      "id": "leaf",
+      "id": "muscles-and-movement",
       "name": {
-        "hi": "पत्ती",
-        "en": "Leaf"
+        "hi": "मांसपेशियाँ और गति",
+        "en": "Muscles and Movement"
       }
     },
     {
-      "id": "root",
+      "id": "animal-movements",
       "name": {
-        "hi": "जड़",
-        "en": "Root"
+        "hi": "जानवरों की गति",
+        "en": "Animal Movements"
       }
     },
     {
-      "id": "flower",
+      "id": "animal-adaptations",
       "name": {
-        "hi": "फूल",
-        "en": "Flower"
+        "hi": "गति के लिए अनुकूलन",
+        "en": "Adaptations for Movement"
+      }
+    },
+    {
+      "id": "body-movement-integration",
+      "name": {
+        "hi": "शरीर की गति का समेकित अध्ययन",
+        "en": "Integrated Body Movement Concepts"
       }
     }
   ],
   "notes": {
     "hi": {
-      "concept": "इस अध्याय में पौधों को उनके आकार, तने और शाखाओं की प्रकृति के आधार पर समझा जाता है। पौधे के प्रमुख भागों में जड़, तना, पत्ती और फूल शामिल हैं। जड़ पौधे को मिट्टी में स्थिर रखती है और जल तथा खनिज लेती है, तना सहारा देता है और पदार्थों का परिवहन करता है, जबकि पत्तियाँ भोजन बनाती हैं। फूल के प्रमुख भाग दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर हैं।",
-      "example": "किसी पौधे को देखकर उसके तने और शाखाओं की प्रकृति से उसे शाक, झाड़ी या वृक्ष के रूप में समझा जा सकता है। पत्ती के शिराविन्यास को देखकर जड़ के प्रकार का अनुमान भी लगाया जा सकता है।",
+      "concept": "हमारे शरीर की गति अस्थियों, संधियों और मांसपेशियों के सहयोग से होती है। अलग-अलग संधियाँ अलग प्रकार की गति की अनुमति देती हैं। मानव कंकाल शरीर को आकार, सहारा और सुरक्षा देता है। अलग-अलग जानवर अपनी शरीर संरचना और वातावरण के अनुसार अलग-अलग तरीकों से गति करते हैं।",
+      "example": "मनुष्य चलता है, मछली तैरती है, पक्षी उड़ता है और साँप अपने शरीर को मोड़कर आगे बढ़ता है। इन अलग-अलग गतियों को समझने के लिए शरीर की संरचना को देखना आवश्यक है।",
       "sections": [
         {
-          "title": "शाक, झाड़ियाँ और वृक्ष",
-          "concept": "पौधों को आकार, तने की प्रकृति और शाखाओं की स्थिति के आधार पर शाक, झाड़ी और वृक्ष जैसे समूहों में समझा जा सकता है।",
-          "explanation": "शाक छोटे पौधे होते हैं जिनके तने सामान्यतः कोमल और हरे होते हैं। झाड़ियों के तने कठोर होते हैं और शाखाएँ आधार के पास निकलती हैं। वृक्ष बड़े होते हैं और उनका मुख्य तना मोटा तथा कठोर होता है। कमजोर तने वाले पौधे सहारा लेकर चढ़ें तो लता और जमीन पर फैलें तो रेंगने वाले पौधे कहलाते हैं।",
-          "example": "गुलाब को झाड़ी और आम को वृक्ष के उदाहरण के रूप में देखा जा सकता है। मनी प्लांट एक लता का उदाहरण है।",
+          "title": "मानव शरीर और संधियाँ",
+          "concept": "अस्थियाँ, संधियाँ और मांसपेशियाँ मिलकर शरीर की गति में सहायता करती हैं।",
+          "explanation": "जहाँ दो अस्थियाँ मिलती हैं वहाँ संधि बनती है। अलग-अलग संधियाँ अलग प्रकार की गति देती हैं। बॉल और सॉकेट संधि कई दिशाओं में, कब्जा संधि आगे-पीछे और पिवट संधि घूर्णन जैसी गति देती है। स्थिर संधि गति नहीं होने देती।",
+          "example": "कंधे की संधि बॉल और सॉकेट तथा कोहनी की संधि कब्जा संधि का उदाहरण है।",
           "keyPoints": [
-            "शाक के तने सामान्यतः कोमल और हरे होते हैं।",
-            "झाड़ियों में शाखाएँ आधार के पास निकलती हैं।",
-            "वृक्षों का मुख्य तना मोटा और कठोर होता है।",
-            "लताओं को ऊपर बढ़ने के लिए सहारे की आवश्यकता होती है।",
-            "रेंगने वाले पौधे जमीन पर फैलते हैं."
+            "अस्थियाँ, संधियाँ और मांसपेशियाँ मिलकर शरीर की गति में सहायता करती हैं।",
+            "शरीर की संरचना और कार्य को साथ समझने से गति के कारण स्पष्ट होते हैं।",
+            "संधि की संरचना गति की दिशा को प्रभावित करती है।",
+            "मांसपेशियों का संकुचन अस्थियों को खींचकर गति में सहायता करता है।",
+            "जानवरों की गति उनकी शरीर संरचना और वातावरण के अनुसार बदल सकती है।"
           ]
         },
         {
-          "title": "तना",
-          "concept": "तना पौधे को सहारा देता है और जड़ों से आए जल तथा पत्तियों में बने भोजन के परिवहन में मदद करता है।",
-          "explanation": "तना पत्तियों, शाखाओं, फूलों और फलों को सहारा देता है। जड़ों द्वारा लिया गया जल तने से होकर पत्तियों और अन्य भागों तक पहुँचता है। पत्तियों द्वारा बनाया गया भोजन भी तने के माध्यम से पौधे के अन्य भागों तक पहुँच सकता है। रंगीन पानी में तना रखने का प्रयोग जल के ऊपर जाने को दिखा सकता है।",
-          "example": "रंगीन पानी में पौधे का तना रखने पर कुछ समय बाद रंग पत्तियों की शिराओं में दिखाई दे सकता है।",
+          "title": "मानव कंकाल",
+          "concept": "अस्थियों और उपास्थियों से बना कंकाल शरीर को आकार, सहारा और सुरक्षा देता है।",
+          "explanation": "खोपड़ी मस्तिष्क की रक्षा करती है और रिब केज हृदय तथा फेफड़ों की रक्षा करता है। रीढ़ या कशेरुक स्तंभ शरीर को सहारा देता है। निचला जबड़ा चल सकता है जबकि ऊपरी जबड़े की संधि स्थिर होती है।",
+          "example": "मानव शरीर में पसलियाँ छाती के अंगों की रक्षा करने वाला पिंजरे जैसा ढाँचा बनाती हैं।",
           "keyPoints": [
-            "तना पौधे को सीधा रखने में मदद करता है।",
-            "तना पत्तियों और शाखाओं को सहारा देता है।",
-            "तना जल को जड़ों से ऊपर की ओर ले जाता है।",
-            "पत्तियों का भोजन अन्य भागों तक पहुँच सकता है।",
-            "रंगीन पानी वाला प्रयोग तने के जल परिवहन को समझाता है."
+            "अस्थियों और उपास्थियों से बना कंकाल शरीर को आकार, सहारा और सुरक्षा देता है।",
+            "शरीर की संरचना और कार्य को साथ समझने से गति के कारण स्पष्ट होते हैं।",
+            "संधि की संरचना गति की दिशा को प्रभावित करती है।",
+            "मांसपेशियों का संकुचन अस्थियों को खींचकर गति में सहायता करता है।",
+            "जानवरों की गति उनकी शरीर संरचना और वातावरण के अनुसार बदल सकती है।"
           ]
         },
         {
-          "title": "पत्ती",
-          "concept": "पत्ती का चौड़ा भाग पर्णफलक और तने से जोड़ने वाला डंठल पर्णवृंत कहलाता है। पत्तियों में शिराएँ होती हैं और उनकी व्यवस्था को शिराविन्यास कहते हैं।",
-          "explanation": "पत्तियाँ पौधे के लिए भोजन बनाने का मुख्य स्थान हैं। प्रकाश संश्लेषण में सूर्य के प्रकाश की उपस्थिति में जल और कार्बन डाइऑक्साइड का उपयोग होता है। पत्तियों से जलवाष्प निकलने की प्रक्रिया वाष्पोत्सर्जन कहलाती है। शिराविन्यास जालिकावत या समांतर हो सकता है।",
-          "example": "गेहूँ की पत्ती में समांतर शिराविन्यास और तुलसी की पत्ती में जालिकावत शिराविन्यास देखा जा सकता है।",
+          "title": "मांसपेशियाँ और गति",
+          "concept": "मांसपेशियों का संकुचन अस्थियों को खींचता है और संधियों पर शरीर की गति संभव होती है।",
+          "explanation": "अस्थियाँ स्वयं सिकुड़कर गति नहीं करतीं। मांसपेशियाँ संकुचन करके अस्थियों को खींचती हैं। संधियों की संरचना यह तय करती है कि गति किस दिशा में हो सकती है। इस प्रकार अस्थियाँ, संधियाँ और मांसपेशियाँ मिलकर नियंत्रित गति कराती हैं।",
+          "example": "हाथ को मोड़ते समय मांसपेशियों का संकुचन कोहनी की संधि पर अस्थियों को चलाता है।",
           "keyPoints": [
-            "पर्णफलक पत्ती का चौड़ा भाग है।",
-            "पर्णवृंत पत्ती को तने से जोड़ता है।",
-            "शिराओं की व्यवस्था शिराविन्यास कहलाती है।",
-            "पत्तियाँ प्रकाश संश्लेषण द्वारा भोजन बनाती हैं।",
-            "पत्तियों से जलवाष्प निकलने को वाष्पोत्सर्जन कहते हैं."
+            "मांसपेशियों का संकुचन अस्थियों को खींचता है और संधियों पर शरीर की गति संभव होती है।",
+            "शरीर की संरचना और कार्य को साथ समझने से गति के कारण स्पष्ट होते हैं।",
+            "संधि की संरचना गति की दिशा को प्रभावित करती है।",
+            "मांसपेशियों का संकुचन अस्थियों को खींचकर गति में सहायता करता है।",
+            "जानवरों की गति उनकी शरीर संरचना और वातावरण के अनुसार बदल सकती है।"
           ]
         },
         {
-          "title": "जड़",
-          "concept": "जड़ सामान्यतः मिट्टी के अंदर होती है और पौधे को स्थिर रखने के साथ जल तथा खनिजों को अवशोषित करती है।",
-          "explanation": "जड़ों के मुख्य प्रकार मूसला जड़ और रेशेदार जड़ हैं। मूसला जड़ में एक मुख्य जड़ होती है और उससे छोटी पार्श्व जड़ें निकलती हैं। रेशेदार जड़ में कई पतली लगभग समान आकार की जड़ें होती हैं। पत्ती के शिराविन्यास और जड़ के प्रकार के बीच भी संबंध देखा जा सकता है।",
-          "example": "चना और सरसों में मूसला जड़ तथा गेहूँ और घास में रेशेदार जड़ का उदाहरण दिया जा सकता है।",
+          "title": "जानवरों की गति",
+          "concept": "अलग-अलग जानवर अपनी शरीर संरचना के अनुसार अलग-अलग तरीकों से चलते हैं।",
+          "explanation": "earthworm शरीर को सिकोड़कर और फैलाकर चलता है। घोंघा धीरे-धीरे पेशीय पैर से चलता है। कॉकरोच बाह्य कंकाल, पैर और पंखों की सहायता लेता है। मछली fins और streamlined शरीर से तैरती है तथा पक्षी पंखों से उड़ते हैं।",
+          "example": "मछली की पूँछ और अन्य fins तैरने तथा दिशा बदलने में सहायता करते हैं।",
           "keyPoints": [
-            "जड़ पौधे को मिट्टी में मजबूती से पकड़ती है।",
-            "जड़ मिट्टी से जल और खनिज लेती है।",
-            "मूसला जड़ में एक मुख्य जड़ होती है।",
-            "रेशेदार जड़ में कई पतली जड़ें होती हैं।",
-            "जालिकावत शिराविन्यास का संबंध मूसला जड़ से और समांतर शिराविन्यास का संबंध रेशेदार जड़ से हो सकता है."
+            "अलग-अलग जानवर अपनी शरीर संरचना के अनुसार अलग-अलग तरीकों से चलते हैं।",
+            "शरीर की संरचना और कार्य को साथ समझने से गति के कारण स्पष्ट होते हैं।",
+            "संधि की संरचना गति की दिशा को प्रभावित करती है।",
+            "मांसपेशियों का संकुचन अस्थियों को खींचकर गति में सहायता करता है।",
+            "जानवरों की गति उनकी शरीर संरचना और वातावरण के अनुसार बदल सकती है।"
           ]
         },
         {
-          "title": "फूल",
-          "concept": "फूल पौधे का महत्वपूर्ण प्रजनन संबंधी भाग है और इसके प्रमुख भाग दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर हैं।",
-          "explanation": "दल फूल की कली की रक्षा करते हैं और पंखुड़ियाँ अक्सर रंगीन होती हैं। पुंकेसर फूल का नर भाग है जिसमें तंतु और परागकोश होते हैं। स्त्रीकेसर फूल का मादा भाग है जिसमें वर्तिकाग्र, वर्तिका और अंडाशय होते हैं। अंडाशय के अंदर बीजांड पाए जाते हैं।",
-          "example": "किसी फूल को खोलकर उसके दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर की पहचान की जा सकती है।",
+          "title": "गति के लिए अनुकूलन",
+          "concept": "जानवरों की शरीर संरचना उनके वातावरण में गति करने के लिए अनुकूलित होती है।",
+          "explanation": "मछली का streamlined शरीर पानी के प्रतिरोध को कम करता है। पक्षियों के अग्रपाद पंखों में बदल गए हैं और उनकी कुछ अस्थियाँ हल्की तथा खोखली होती हैं। साँप रीढ़ और मांसपेशियों की सहायता से शरीर को loops में मोड़कर चलता है।",
+          "example": "साँप जमीन पर अपने शरीर के घुमावदार loops को दबाकर आगे बढ़ता है।",
           "keyPoints": [
-            "दल फूल की कली की रक्षा करते हैं।",
-            "पंखुड़ियाँ अक्सर रंगीन होती हैं।",
-            "पुंकेसर नर प्रजनन भाग है।",
-            "स्त्रीकेसर मादा प्रजनन भाग है।",
-            "अंडाशय स्त्रीकेसर के निचले भाग में होता है."
+            "जानवरों की शरीर संरचना उनके वातावरण में गति करने के लिए अनुकूलित होती है।",
+            "शरीर की संरचना और कार्य को साथ समझने से गति के कारण स्पष्ट होते हैं।",
+            "संधि की संरचना गति की दिशा को प्रभावित करती है।",
+            "मांसपेशियों का संकुचन अस्थियों को खींचकर गति में सहायता करता है।",
+            "जानवरों की गति उनकी शरीर संरचना और वातावरण के अनुसार बदल सकती है।"
+          ]
+        },
+        {
+          "title": "शरीर की गति का समेकित अध्ययन",
+          "concept": "शरीर की गति को समझने के लिए कंकाल, संधियाँ, मांसपेशियाँ और जानवरों की विशेष शरीर संरचनाओं को साथ देखना आवश्यक है।",
+          "explanation": "मनुष्य में कंकाल शरीर को सहारा देता है, संधियाँ गति की अनुमति देती हैं और मांसपेशियाँ खिंचाव पैदा करती हैं। जानवरों में movement उनकी संरचना और पर्यावरण के अनुसार बदलता है। इसलिए locomotion का तरीका सभी जानवरों में एक जैसा नहीं होता।",
+          "example": "मनुष्य चलता है, मछली तैरती है, पक्षी उड़ता है और साँप लहरदार शरीर से आगे बढ़ता है।",
+          "keyPoints": [
+            "शरीर की गति को समझने के लिए कंकाल, संधियाँ, मांसपेशियाँ और जानवरों की विशेष शरीर संरचनाओं को साथ देखना आवश्यक है।",
+            "शरीर की संरचना और कार्य को साथ समझने से गति के कारण स्पष्ट होते हैं।",
+            "संधि की संरचना गति की दिशा को प्रभावित करती है।",
+            "मांसपेशियों का संकुचन अस्थियों को खींचकर गति में सहायता करता है।",
+            "जानवरों की गति उनकी शरीर संरचना और वातावरण के अनुसार बदल सकती है।"
           ]
         }
       ],
       "keyPoints": [
-        "पौधों को उनके आकार, तने और शाखाओं की प्रकृति से समझा जा सकता है।",
-        "शाक, झाड़ियाँ और वृक्ष तने तथा शाखाओं की विशेषताओं में अलग होते हैं।",
-        "तना पौधे को सहारा देता है और जल तथा भोजन के परिवहन में मदद करता है।",
-        "पत्ती में पर्णफलक, पर्णवृंत और शिराएँ होती हैं।",
-        "पत्तियाँ प्रकाश संश्लेषण द्वारा भोजन बनाती हैं।",
-        "जड़ पौधे को मिट्टी में स्थिर करती है और जल तथा खनिज अवशोषित करती है।",
-        "मूसला और रेशेदार जड़ प्रमुख प्रकार हैं।",
-        "फूल के प्रमुख भाग दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर हैं।",
-        "शिराविन्यास जड़ के प्रकार से संबंधित संकेत दे सकता है."
+        "संधियाँ अस्थियों के बीच गति में सहायता करती हैं।",
+        "अस्थियों और उपास्थियों से कंकाल बनता है।",
+        "मांसपेशियों का संकुचन अस्थियों को खींचता है।",
+        "बॉल और सॉकेट संधि कई दिशाओं में गति देती है।",
+        "कब्जा संधि मुख्यतः आगे-पीछे की गति देती है।",
+        "पिवट संधि घूर्णन जैसी गति में सहायता करती है।",
+        "स्थिर संधि गति नहीं होने देती।",
+        "जानवरों की गति उनकी शरीर संरचना के अनुसार अलग होती है."
       ],
       "examFocus": [
-        "शाक, झाड़ी, वृक्ष, लता और रेंगने वाले पौधों की पहचान",
-        "तने के कार्य",
-        "पत्ती के भाग और शिराविन्यास",
-        "प्रकाश संश्लेषण और वाष्पोत्सर्जन",
-        "मूसला और रेशेदार जड़",
-        "जड़ और पत्ती के शिराविन्यास का संबंध",
-        "फूल के भाग और उनके कार्य"
+        "विभिन्न संधियों और उनके उदाहरण।",
+        "कंकाल, खोपड़ी, रिब केज और रीढ़ के कार्य।",
+        "मांसपेशियों के संकुचन की भूमिका।",
+        "earthworm, snail, cockroach, fish, bird और snake की गति।",
+        "fish के fins और streamlined body का महत्व।",
+        "bird के wings और हल्की अस्थियों का संबंध।",
+        "movement और locomotion में अंतर।"
       ],
       "examTraps": [
         {
-          "title": "तना और जड़ का कार्य",
-          "fact": "जड़ मिट्टी से जल और खनिज लेती है तथा तना उन्हें पौधे के अन्य भागों तक पहुँचाने में मदद करता है।",
-          "confusion": "जल अवशोषण का मुख्य कार्य तने को न दें।"
+          "title": "Joint और muscle",
+          "fact": "संधि गति की अनुमति देती है और muscle अस्थि को खींचती है।",
+          "confusion": "दोनों के कार्य को एक ही न मानें।"
         },
         {
-          "title": "शिराविन्यास और जड़",
-          "fact": "जालिकावत शिराविन्यास का संबंध मूसला जड़ और समांतर शिराविन्यास का संबंध रेशेदार जड़ से हो सकता है।",
-          "confusion": "शिराविन्यास को जड़ का प्रकार न समझें।"
+          "title": "Ball and socket",
+          "fact": "यह कई दिशाओं में गति देती है।",
+          "confusion": "इसे केवल आगे-पीछे वाली hinge joint से न मिलाएँ।"
         },
         {
-          "title": "पुंकेसर और स्त्रीकेसर",
-          "fact": "पुंकेसर नर भाग और स्त्रीकेसर मादा भाग है।",
-          "confusion": "दोनों को एक ही प्रजनन भाग न मानें।"
+          "title": "Hinge joint",
+          "fact": "कोहनी और घुटने में मुख्यतः आगे-पीछे की गति होती है।",
+          "confusion": "इसे shoulder की बहुदिशीय गति से न मिलाएँ।"
         },
         {
-          "title": "अंडाशय का स्थान",
-          "fact": "अंडाशय स्त्रीकेसर के निचले फूले हुए भाग में होता है।",
-          "confusion": "अंडाशय को वर्तिकाग्र के ऊपर न रखें।"
+          "title": "Fixed joint",
+          "fact": "ऊपरी जबड़े और खोपड़ी की कई अस्थियों के बीच स्थिर संधि होती है।",
+          "confusion": "निचले जबड़े को upper jaw जैसा fixed न मानें।"
         },
         {
-          "title": "लता और रेंगने वाला पौधा",
-          "fact": "लता सहारे से ऊपर चढ़ती है, जबकि रेंगने वाला पौधा जमीन पर फैलता है।",
-          "confusion": "दोनों कमजोर तने वाले हैं, लेकिन बढ़ने का तरीका अलग है।"
+          "title": "Cartilage और bone",
+          "fact": "उपास्थि हड्डी की तुलना में अधिक मुलायम होती है।",
+          "confusion": "cartilage को bone से अधिक कठोर न समझें।"
         },
         {
-          "title": "पत्ती का भोजन बनाना",
-          "fact": "पत्तियाँ प्रकाश संश्लेषण द्वारा भोजन बनाती हैं।",
-          "confusion": "तने को भोजन बनाने का मुख्य स्थान न समझें।"
+          "title": "Animal locomotion",
+          "fact": "हर जानवर एक ही तरीके से नहीं चलता।",
+          "confusion": "पैर न होने का अर्थ यह नहीं कि जानवर चल नहीं सकता।"
         }
       ],
       "thinkBeforeAnswer": [
-        "प्रश्न पौधे के किस भाग के बारे में है?",
-        "क्या पूछा गया कार्य है या संरचना?",
-        "यदि पत्ती का शिराविन्यास दिया है तो उससे जड़ के प्रकार का क्या संकेत मिलता है?",
-        "फूल के भागों में नर और मादा भाग कौन से हैं?",
-        "क्या पौधा सहारे से चढ़ता है या जमीन पर फैलता है?",
-        "क्या प्रश्न जल के अवशोषण की बात कर रहा है या उसके परिवहन की?"
+        "क्या प्रश्न joint का प्रकार पूछ रहा है या उसका उदाहरण?",
+        "क्या गति कई दिशाओं में है या केवल आगे-पीछे?",
+        "क्या प्रश्न muscle के contraction के बारे में है?",
+        "क्या skeleton का काम support है या protection?",
+        "जानवर की गति समझते समय उसके शरीर की विशेष संरचना देखें।",
+        "fish, bird, snake, snail और earthworm के movement को आपस में न मिलाएँ।"
       ],
       "memoryTricks": [
-        "जड़ → पकड़ और जल-खनिज।",
-        "तना → सहारा और परिवहन।",
-        "पत्ती → भोजन और वाष्पोत्सर्जन।",
-        "पुंकेसर → नर भाग।",
-        "स्त्रीकेसर → मादा भाग।",
-        "मूसला → एक मुख्य जड़।",
-        "रेशेदार → कई पतली जड़ें।"
+        "Ball and socket → कई दिशाएँ.",
+        "Hinge → आगे-पीछे.",
+        "Pivot → घूर्णन.",
+        "Fixed → कोई गति नहीं.",
+        "Muscle → contract and pull.",
+        "Fish → fins and streamlined body.",
+        "Bird → wings; Snake → loops."
       ],
       "pyqSignals": [
-        "पौधे की श्रेणी पहचानना",
-        "तने के कार्य",
-        "पत्ती के भाग",
-        "शिराविन्यास और जड़ का संबंध",
-        "फूल के भाग",
-        "प्रकाश संश्लेषण और वाष्पोत्सर्जन"
+        "संधियों के प्रकार और उदाहरण।",
+        "कंकाल के भाग और उनके कार्य।",
+        "fill in the blanks में movement, skeleton, hinge और muscle।",
+        "earthworm, snail, cockroach, fish और bird की locomotion।",
+        "सही और गलत कथनों की पहचान।",
+        "animal movement को body structure से जोड़ना।"
       ],
       "mustRemember": [
-        "शाक → कोमल हरे तने वाला छोटा पौधा",
-        "झाड़ी → कठोर तना और आधार के पास शाखाएँ",
-        "वृक्ष → मोटा कठोर मुख्य तना",
-        "तना → सहारा और पदार्थों का परिवहन",
-        "पर्णफलक → पत्ती का चौड़ा भाग",
-        "पर्णवृंत → पत्ती को तने से जोड़ने वाला डंठल",
-        "मूसला जड़ → एक मुख्य जड़",
-        "रेशेदार जड़ → कई पतली लगभग समान जड़ें",
-        "पुंकेसर → फूल का नर भाग",
-        "स्त्रीकेसर → फूल का मादा भाग"
+        "Joint → अस्थियों के बीच गति का स्थान",
+        "Skeleton → शरीर को आकार और सहारा देने वाला ढाँचा",
+        "Muscle → संकुचन करके अस्थियों को खींचती है",
+        "Ball and socket → कई दिशाओं में गति",
+        "Hinge → आगे-पीछे की गति",
+        "Pivot → घूर्णन जैसी गति",
+        "Fixed joint → गति नहीं",
+        "Fish → fins और streamlined body से तैरना",
+        "Bird → wings से उड़ना"
       ],
-      "quickRevision": "पौधे → आकार और तना → शाक, झाड़ी, वृक्ष, लता, रेंगने वाले पौधे → तना → सहारा और परिवहन → पत्ती → शिराविन्यास, प्रकाश संश्लेषण और वाष्पोत्सर्जन → जड़ → मूसला या रेशेदार, जल-खनिज और सहारा → फूल → दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर।"
+      "quickRevision": "Body movement → bones and cartilages → skeleton → joints → ball and socket, pivot, hinge, fixed → muscles contract and pull bones → humans move through coordinated joints and muscles → animals move differently → earthworm shortens and extends → snail crawls slowly → cockroach uses exoskeleton and legs → fish swims with fins and streamlined body → bird flies with wings → snake moves in loops."
     },
     "en": {
-      "concept": "This chapter examines plants using their size, stem and branch characteristics. The main plant parts include roots, stem, leaves and flowers. Roots anchor plants and take up water and minerals, stems provide support and transport materials, and leaves make food. The main parts of a flower are sepals, petals, stamens and pistil.",
-      "example": "A plant can be classified by observing its stem and branch pattern. The type of root can also be suggested by observing the venation of its leaves.",
+      "concept": "Movement of our body occurs through the cooperation of bones, joints and muscles. Different joints allow different kinds of movement. The human skeleton gives shape, support and protection. Different animals move in different ways according to their body structures and environments.",
+      "example": "Humans walk, fish swim, birds fly and snakes move forward by bending their bodies. Understanding these different movements requires looking at body structure.",
       "sections": [
         {
-          "title": "Herbs, Shrubs and Trees",
-          "concept": "Plants can be understood as herbs, shrubs and trees using features such as size, stem nature and branch position.",
-          "explanation": "Herbs are small plants with generally soft green stems. Shrubs have hard stems with branches arising near the base. Trees are larger and have a thick, hard main stem. Weak-stemmed plants that climb with support are climbers, while weak-stemmed plants that spread along the ground are creepers.",
-          "example": "Rose can be considered a shrub and mango a tree. Money plant is an example of a climber.",
+          "title": "Human Body and Joints",
+          "concept": "Bones, joints and muscles work together to help the body move.",
+          "explanation": "A joint is formed where two bones meet. Different joints allow different kinds of movement. A ball and socket joint allows movement in many directions, a hinge joint mainly allows back-and-forth movement, and a pivot joint allows rotational movement. A fixed joint does not allow movement.",
+          "example": "The shoulder has a ball and socket joint, while the elbow has a hinge joint.",
           "keyPoints": [
-            "Herbs generally have soft green stems.",
-            "Branches of shrubs arise near the base.",
-            "Trees have thick hard main stems.",
-            "Climbers need support to grow upward.",
-            "Creepers spread along the ground."
+            "Bones, joints and muscles work together to help the body move.",
+            "Understanding body structure and function together explains the causes of movement.",
+            "Joint structure affects the direction of movement.",
+            "Muscle contraction helps movement by pulling bones.",
+            "Animal movement can vary according to body structure and environment."
           ]
         },
         {
-          "title": "Stem",
-          "concept": "The stem supports the plant and helps transport water from roots and food made by leaves.",
-          "explanation": "The stem supports leaves, branches, flowers and fruits. Water taken up by roots travels through the stem to leaves and other parts. Food made by leaves can also move through the stem to other parts. The coloured-water experiment can demonstrate upward movement of water through a stem.",
-          "example": "When a plant stem is placed in coloured water, the colour may later appear in the leaf veins.",
+          "title": "Human Skeleton",
+          "concept": "The skeleton made of bones and cartilages gives the body shape, support and protection.",
+          "explanation": "The skull protects the brain and the rib cage protects the heart and lungs. The vertebral column supports the body. The lower jaw can move while the upper jaw has a fixed joint.",
+          "example": "In the human body, the ribs form a cage-like structure that protects organs in the chest.",
           "keyPoints": [
-            "The stem helps keep the plant upright.",
-            "The stem supports leaves and branches.",
-            "The stem carries water upward from roots.",
-            "Food made by leaves can reach other parts.",
-            "The coloured-water experiment demonstrates water transport through the stem."
+            "The skeleton made of bones and cartilages gives the body shape, support and protection.",
+            "Understanding body structure and function together explains the causes of movement.",
+            "Joint structure affects the direction of movement.",
+            "Muscle contraction helps movement by pulling bones.",
+            "Animal movement can vary according to body structure and environment."
           ]
         },
         {
-          "title": "Leaf",
-          "concept": "The broad part of a leaf is the lamina and the stalk connecting it to the stem is the petiole. Leaves contain veins and their arrangement is called venation.",
-          "explanation": "Leaves are the main site of food making in a plant. In photosynthesis, sunlight, water and carbon dioxide are involved. The process by which leaves give out water vapour is transpiration. Venation can be reticulate or parallel.",
-          "example": "Wheat commonly has parallel venation, while tulsi commonly has reticulate venation.",
+          "title": "Muscles and Movement",
+          "concept": "Contraction of muscles pulls bones and helps produce movement at joints.",
+          "explanation": "Bones do not contract by themselves to produce movement. Muscles contract and pull bones. The structure of a joint determines the directions in which movement can occur. Thus bones, joints and muscles work together for controlled movement.",
+          "example": "When the arm is bent, muscle contraction moves the bones at the elbow joint.",
           "keyPoints": [
-            "The lamina is the broad part of a leaf.",
-            "The petiole attaches a leaf to the stem.",
-            "The arrangement of veins is called venation.",
-            "Leaves make food by photosynthesis.",
-            "Giving out water vapour from leaves is called transpiration."
+            "Contraction of muscles pulls bones and helps produce movement at joints.",
+            "Understanding body structure and function together explains the causes of movement.",
+            "Joint structure affects the direction of movement.",
+            "Muscle contraction helps movement by pulling bones.",
+            "Animal movement can vary according to body structure and environment."
           ]
         },
         {
-          "title": "Root",
-          "concept": "Roots are generally underground and anchor the plant while absorbing water and minerals.",
-          "explanation": "The main types are tap roots and fibrous roots. A tap root has one main root with smaller lateral roots. A fibrous root system has many thin roots of nearly similar size. Leaf venation can also be associated with root type.",
-          "example": "Gram and mustard have tap roots, while wheat and grass have fibrous roots.",
+          "title": "Animal Movements",
+          "concept": "Different animals move in different ways according to their body structures.",
+          "explanation": "An earthworm moves by shortening and extending its body. A snail moves slowly using its muscular foot. A cockroach uses its exoskeleton, legs and wings. A fish swims using fins and a streamlined body, while birds fly using wings.",
+          "example": "A fish uses its tail and other fins for swimming and changing direction.",
           "keyPoints": [
-            "Roots anchor plants firmly in soil.",
-            "Roots absorb water and minerals.",
-            "A tap root has one main root.",
-            "Fibrous roots consist of many thin roots.",
-            "Reticulate venation can be associated with tap roots and parallel venation with fibrous roots."
+            "Different animals move in different ways according to their body structures.",
+            "Understanding body structure and function together explains the causes of movement.",
+            "Joint structure affects the direction of movement.",
+            "Muscle contraction helps movement by pulling bones.",
+            "Animal movement can vary according to body structure and environment."
           ]
         },
         {
-          "title": "Flower",
-          "concept": "A flower is an important reproductive part of a plant. Its main parts are sepals, petals, stamens and pistil.",
-          "explanation": "Sepals protect the flower bud and petals are often colourful. The stamen is the male part and has a filament and anther. The pistil is the female part and has stigma, style and ovary. Ovules are found inside the ovary.",
-          "example": "A flower can be opened carefully to identify sepals, petals, stamens and pistil.",
+          "title": "Adaptations for Movement",
+          "concept": "Animal body structures are adapted for movement in their environments.",
+          "explanation": "A fish has a streamlined body that reduces resistance in water. The forelimbs of birds are modified into wings and some of their bones are light and hollow. A snake bends its body into loops using its backbone and muscles.",
+          "example": "A snake moves forward by pressing the curved loops of its body against the ground.",
           "keyPoints": [
-            "Sepals protect the flower bud.",
-            "Petals are often colourful.",
-            "The stamen is the male reproductive part.",
-            "The pistil is the female reproductive part.",
-            "The ovary is at the lower part of the pistil."
+            "Animal body structures are adapted for movement in their environments.",
+            "Understanding body structure and function together explains the causes of movement.",
+            "Joint structure affects the direction of movement.",
+            "Muscle contraction helps movement by pulling bones.",
+            "Animal movement can vary according to body structure and environment."
+          ]
+        },
+        {
+          "title": "Integrated Body Movement Concepts",
+          "concept": "Understanding movement requires considering the skeleton, joints, muscles and special body structures of animals together.",
+          "explanation": "In humans, the skeleton supports the body, joints allow movement and muscles produce the pull. In animals, movement varies according to body structure and environment. Therefore, locomotion is not the same in all animals.",
+          "example": "Humans walk, fish swim, birds fly and snakes move forward using their curved bodies.",
+          "keyPoints": [
+            "Understanding movement requires considering the skeleton, joints, muscles and special body structures of animals together.",
+            "Understanding body structure and function together explains the causes of movement.",
+            "Joint structure affects the direction of movement.",
+            "Muscle contraction helps movement by pulling bones.",
+            "Animal movement can vary according to body structure and environment."
           ]
         }
       ],
       "keyPoints": [
-        "Plants can be understood by their size, stems and branches.",
-        "Herbs, shrubs and trees differ in stem and branch characteristics.",
-        "The stem supports the plant and helps transport water and food.",
-        "A leaf has a lamina, petiole and veins.",
-        "Leaves make food by photosynthesis.",
-        "Roots anchor the plant and absorb water and minerals.",
-        "Tap and fibrous roots are the main types.",
-        "The main flower parts are sepals, petals, stamens and pistil.",
-        "Venation can indicate the associated root type."
+        "Joints help movement between bones.",
+        "Bones and cartilages form the skeleton.",
+        "Muscle contraction pulls bones.",
+        "Ball and socket joints allow movement in many directions.",
+        "Hinge joints mainly allow back-and-forth movement.",
+        "Pivot joints help rotational movement.",
+        "Fixed joints do not allow movement.",
+        "Animal movement differs according to body structure."
       ],
       "examFocus": [
-        "Identifying herbs, shrubs, trees, climbers and creepers",
-        "Functions of the stem",
-        "Parts of a leaf and venation",
-        "Photosynthesis and transpiration",
-        "Tap and fibrous roots",
-        "Relationship between venation and root type",
-        "Parts and functions of a flower"
+        "Types of joints and their examples.",
+        "Functions of the skeleton, skull, rib cage and backbone.",
+        "Role of muscle contraction.",
+        "Movement of earthworm, snail, cockroach, fish, bird and snake.",
+        "Importance of fins and a streamlined body in fish.",
+        "Relationship of wings and light bones with bird flight.",
+        "Difference between movement and locomotion."
       ],
       "examTraps": [
         {
-          "title": "Stem versus root function",
-          "fact": "Roots absorb water and minerals from soil, while the stem helps carry them to other parts.",
-          "confusion": "Do not assign the main absorption function to the stem."
+          "title": "Joint and muscle",
+          "fact": "A joint permits movement and a muscle pulls a bone.",
+          "confusion": "Do not treat their functions as identical."
         },
         {
-          "title": "Venation and roots",
-          "fact": "Reticulate venation can be associated with tap roots and parallel venation with fibrous roots.",
-          "confusion": "Venation is not itself a type of root."
+          "title": "Ball and socket",
+          "fact": "It allows movement in many directions.",
+          "confusion": "Do not confuse it with the mainly back-and-forth hinge joint."
         },
         {
-          "title": "Stamen and pistil",
-          "fact": "The stamen is the male part and the pistil is the female part.",
-          "confusion": "Do not treat both as the same reproductive part."
+          "title": "Hinge joint",
+          "fact": "The elbow and knee mainly allow back-and-forth movement.",
+          "confusion": "Do not confuse it with the multi-directional shoulder joint."
         },
         {
-          "title": "Position of ovary",
-          "fact": "The ovary is in the lower swollen part of the pistil.",
-          "confusion": "Do not place the ovary above the stigma."
+          "title": "Fixed joint",
+          "fact": "The upper jaw and many skull bones have fixed joints.",
+          "confusion": "Do not treat the lower jaw as fixed like the upper jaw."
         },
         {
-          "title": "Climber versus creeper",
-          "fact": "A climber grows upward with support, while a creeper spreads along the ground.",
-          "confusion": "Both have weak stems, but their growth pattern is different."
+          "title": "Cartilage and bone",
+          "fact": "Cartilage is softer than bone.",
+          "confusion": "Do not assume cartilage is harder than bone."
         },
         {
-          "title": "Leaf and food making",
-          "fact": "Leaves make food through photosynthesis.",
-          "confusion": "Do not treat the stem as the main site of food making."
+          "title": "Animal locomotion",
+          "fact": "Animals do not all move in the same way.",
+          "confusion": "Lack of legs does not mean an animal cannot move."
         }
       ],
       "thinkBeforeAnswer": [
-        "Which plant part is the question about?",
-        "Is the question asking about a function or a structure?",
-        "If leaf venation is given, what root type can it indicate?",
-        "Which flower parts are male and female?",
-        "Does the plant climb with support or spread on the ground?",
-        "Is the question about absorption by roots or transport through the stem?"
+        "Is the question asking for a joint type or an example?",
+        "Is the movement in many directions or mainly back and forth?",
+        "Is the question about muscle contraction?",
+        "Is the skeleton's role support or protection?",
+        "When identifying animal movement, look at the animal's special body structure.",
+        "Do not mix up the movement patterns of fish, birds, snakes, snails and earthworms."
       ],
       "memoryTricks": [
-        "Root → anchoring and water-minerals.",
-        "Stem → support and transport.",
-        "Leaf → food and transpiration.",
-        "Stamen → male part.",
-        "Pistil → female part.",
-        "Tap → one main root.",
-        "Fibrous → many thin roots."
+        "Ball and socket → many directions.",
+        "Hinge → back and forth.",
+        "Pivot → rotation.",
+        "Fixed → no movement.",
+        "Muscle → contract and pull.",
+        "Fish → fins and streamlined body.",
+        "Bird → wings; Snake → loops."
       ],
       "pyqSignals": [
-        "Identifying a plant category",
-        "Functions of the stem",
-        "Parts of a leaf",
-        "Venation and root relationship",
-        "Parts of a flower",
-        "Photosynthesis and transpiration"
+        "Types of joints and examples.",
+        "Parts of the skeleton and their functions.",
+        "Fill in the blanks using movement, skeleton, hinge and muscle.",
+        "Locomotion of earthworm, snail, cockroach, fish and bird.",
+        "Identifying true and false statements.",
+        "Connecting animal movement with body structure."
       ],
       "mustRemember": [
-        "Herb → small plant with a generally soft green stem",
-        "Shrub → hard stem with branches near the base",
-        "Tree → thick hard main stem",
-        "Stem → support and transport",
-        "Lamina → broad part of a leaf",
-        "Petiole → stalk connecting leaf to stem",
-        "Tap root → one main root",
-        "Fibrous root → many thin nearly similar roots",
-        "Stamen → male part of a flower",
-        "Pistil → female part of a flower"
+        "Joint → place allowing movement between bones",
+        "Skeleton → framework giving shape and support",
+        "Muscle → contracts and pulls bones",
+        "Ball and socket → movement in many directions",
+        "Hinge → back-and-forth movement",
+        "Pivot → rotational movement",
+        "Fixed joint → no movement",
+        "Fish → swimming with fins and a streamlined body",
+        "Bird → flight with wings"
       ],
-      "quickRevision": "Plants → size and stems → herbs, shrubs, trees, climbers and creepers → stem → support and transport → leaf → venation, photosynthesis and transpiration → root → tap or fibrous, anchoring and water-minerals → flower → sepals, petals, stamen and pistil."
+      "quickRevision": "Body movement → bones and cartilages → skeleton → joints → ball and socket, pivot, hinge, fixed → muscles contract and pull bones → humans move through coordinated joints and muscles → animals move differently → earthworm shortens and extends → snail crawls slowly → cockroach uses exoskeleton and legs → fish swims with fins and streamlined body → bird flies with wings → snake moves in loops."
     }
   }
 }
