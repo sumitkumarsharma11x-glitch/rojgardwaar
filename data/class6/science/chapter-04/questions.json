@@ -1,1 +1,4202 @@
-
+[
+  {
+    "id": "ch4_q101",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पृथक्करण का मुख्य उद्देश्य क्या है?",
+      "en": "What is main purpose of separation?"
+    },
+    "options": {
+      "hi": [
+        "अनुपयोगी या हानिकारक घटक हटाना",
+        "हस्तचयन",
+        "पृथक्करण",
+        "अशुद्धियाँ हटाना"
+      ],
+      "en": [
+        "removing unwanted or harmful components",
+        "handpicking",
+        "separation",
+        "removing impurities"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर अनुपयोगी या हानिकारक घटक हटाना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is removing unwanted or harmful components because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q102",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "चावल से पत्थर हटाने की सरल विधि किसके लिए उपयोगी है?",
+      "en": "What is simple method for removing stones from rice useful for?"
+    },
+    "options": {
+      "hi": [
+        "हस्तचयन",
+        "घटकों के गुणों में अंतर",
+        "आवश्यक पदार्थ को मिश्रण से अलग करना",
+        "पत्थर अनुपयोगी और हानिकारक हो सकते हैं"
+      ],
+      "en": [
+        "handpicking",
+        "differences in component properties",
+        "separating a required substance from a mixture",
+        "stones may be unwanted and harmful"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q103",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मिश्रण से उपयोगी घटक प्राप्त करने का तरीका में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about way to obtain a useful component from a mixture?"
+    },
+    "options": {
+      "hi": [
+        "पृथक्करण",
+        "मिश्रण के घटकों को अलग करना",
+        "नहीं",
+        "घटक का स्पष्ट दिखाई देना"
+      ],
+      "en": [
+        "separation",
+        "separating the components of a mixture",
+        "no",
+        "being clearly distinguishable"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर पृथक्करण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q104",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अधिक शुद्ध नमूना पाने का तरीका का मुख्य आधार क्या है?",
+      "en": "What is the main basis of way to obtain a purer sample?"
+    },
+    "options": {
+      "hi": [
+        "अशुद्धियाँ हटाना",
+        "कणों के आकार में अंतर",
+        "भारी रेत का नीचे बैठना",
+        "जल का वाष्पीकरण"
+      ],
+      "en": [
+        "removing impurities",
+        "difference in particle size",
+        "settling of heavier sand",
+        "evaporation of water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर अशुद्धियाँ हटाना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is removing impurities because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q105",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पृथक्करण विधि चुनने का आधार के बारे में सही कथन क्या है?",
+      "en": "Which statement about basis for choosing a separation method is correct?"
+    },
+    "options": {
+      "hi": [
+        "घटकों के गुणों में अंतर",
+        "नहीं",
+        "उपयोगी अनाज प्राप्त करना",
+        "मिश्रण के घटकों के गुण"
+      ],
+      "en": [
+        "differences in component properties",
+        "no",
+        "obtaining useful grain",
+        "properties of mixture components"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर घटकों के गुणों में अंतर है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is differences in component properties because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q106",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पृथक्करण की आवश्यकता का दैनिक जीवन वाला कारण क्या है?",
+      "en": "What is daily-life reason for separation?"
+    },
+    "options": {
+      "hi": [
+        "आवश्यक पदार्थ को मिश्रण से अलग करना",
+        "पृथक्करण",
+        "नहीं",
+        "अनुपयोगी या हानिकारक घटक हटाना"
+      ],
+      "en": [
+        "separating a required substance from a mixture",
+        "separation",
+        "no",
+        "removing unwanted or harmful components"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर आवश्यक पदार्थ को मिश्रण से अलग करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separating a required substance from a mixture because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q107",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अनाज से पत्थर हटाने का कारण किसके लिए उपयोगी है?",
+      "en": "What is reason for removing stones from grains useful for?"
+    },
+    "options": {
+      "hi": [
+        "पत्थर अनुपयोगी और हानिकारक हो सकते हैं",
+        "एक से अधिक विधियों का उपयोग",
+        "उपयोगी पदार्थ को अलग करना",
+        "अनुपयोगी या हानिकारक घटक हटाना"
+      ],
+      "en": [
+        "stones may be unwanted and harmful",
+        "using more than one method",
+        "separating a useful substance",
+        "removing unwanted or harmful components"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर पत्थर अनुपयोगी और हानिकारक हो सकते हैं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is stones may be unwanted and harmful because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q108",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पृथक्करण की परिभाषा में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about definition of separation?"
+    },
+    "options": {
+      "hi": [
+        "मिश्रण के घटकों को अलग करना",
+        "हस्तचयन",
+        "पृथक्करण",
+        "अशुद्धियाँ हटाना"
+      ],
+      "en": [
+        "separating the components of a mixture",
+        "handpicking",
+        "separation",
+        "removing impurities"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर मिश्रण के घटकों को अलग करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separating the components of a mixture because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q109",
+    "topic": "need-for-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या एक विधि हर मिश्रण के लिए पर्याप्त होती है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of whether one method is enough for every mixture?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "पत्थर अनुपयोगी और हानिकारक हो सकते हैं",
+        "मिश्रण के घटकों को अलग करना",
+        "घटक का स्पष्ट दिखाई देना"
+      ],
+      "en": [
+        "no",
+        "stones may be unwanted and harmful",
+        "separating the components of a mixture",
+        "being clearly distinguishable"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is no because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q110",
+    "topic": "need-for-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "हस्तचयन के लिए उपयोगी अंतर के बारे में सही कथन क्या है?",
+      "en": "Which statement about useful difference for handpicking is correct?"
+    },
+    "options": {
+      "hi": [
+        "घटक का स्पष्ट दिखाई देना",
+        "मिश्रण के घटकों को अलग करना",
+        "नहीं",
+        "कणों के आकार में अंतर"
+      ],
+      "en": [
+        "being clearly distinguishable",
+        "separating the components of a mixture",
+        "no",
+        "difference in particle size"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर घटक का स्पष्ट दिखाई देना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is being clearly distinguishable because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q111",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "चालनी के लिए उपयोगी अंतर क्या है?",
+      "en": "What is useful difference for sieving?"
+    },
+    "options": {
+      "hi": [
+        "कणों के आकार में अंतर",
+        "भारी रेत का नीचे बैठना",
+        "जल का वाष्पीकरण",
+        "नहीं"
+      ],
+      "en": [
+        "difference in particle size",
+        "settling of heavier sand",
+        "evaporation of water",
+        "no"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कणों के आकार में अंतर है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is difference in particle size because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q112",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "रेत और पानी में उपयोगी गुण किसके लिए उपयोगी है?",
+      "en": "What is useful property in sand and water useful for?"
+    },
+    "options": {
+      "hi": [
+        "भारी रेत का नीचे बैठना",
+        "उपयोगी अनाज प्राप्त करना",
+        "मिश्रण के घटकों के गुण",
+        "पृथक्करण"
+      ],
+      "en": [
+        "settling of heavier sand",
+        "obtaining useful grain",
+        "properties of mixture components",
+        "separation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर भारी रेत का नीचे बैठना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is settling of heavier sand because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q113",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "नमक और पानी को अलग करने का आधार में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about basis for separating salt and water?"
+    },
+    "options": {
+      "hi": [
+        "जल का वाष्पीकरण",
+        "पृथक्करण",
+        "नहीं",
+        "एक से अधिक विधियों का उपयोग"
+      ],
+      "en": [
+        "evaporation of water",
+        "separation",
+        "no",
+        "using more than one method"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर जल का वाष्पीकरण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is evaporation of water because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q114",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या पृथक्करण हमेशा पदार्थ को नष्ट करता है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of whether separation always destroys material?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "अशुद्धियाँ हटाना",
+        "घटकों के गुणों में अंतर",
+        "आवश्यक पदार्थ को मिश्रण से अलग करना"
+      ],
+      "en": [
+        "no",
+        "removing impurities",
+        "differences in component properties",
+        "separating a required substance from a mixture"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is no because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q115",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "भूसी अलग करने का उद्देश्य के बारे में सही कथन क्या है?",
+      "en": "Which statement about purpose of removing husk is correct?"
+    },
+    "options": {
+      "hi": [
+        "उपयोगी अनाज प्राप्त करना",
+        "पृथक्करण",
+        "अशुद्धियाँ हटाना",
+        "घटकों के गुणों में अंतर"
+      ],
+      "en": [
+        "obtaining useful grain",
+        "separation",
+        "removing impurities",
+        "differences in component properties"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर उपयोगी अनाज प्राप्त करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is obtaining useful grain because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q116",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विधि चुनने से पहले क्या देखना चाहिए क्या है?",
+      "en": "What is what to consider before choosing a method?"
+    },
+    "options": {
+      "hi": [
+        "मिश्रण के घटकों के गुण",
+        "आवश्यक पदार्थ को मिश्रण से अलग करना",
+        "पत्थर अनुपयोगी और हानिकारक हो सकते हैं",
+        "मिश्रण के घटकों को अलग करना"
+      ],
+      "en": [
+        "properties of mixture components",
+        "separating a required substance from a mixture",
+        "stones may be unwanted and harmful",
+        "separating the components of a mixture"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर मिश्रण के घटकों के गुण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is properties of mixture components because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q117",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अशुद्धि हटाना किसका उद्देश्य हो सकता है किसके लिए उपयोगी है?",
+      "en": "What is what can be a purpose of separation useful for?"
+    },
+    "options": {
+      "hi": [
+        "पृथक्करण",
+        "नहीं",
+        "उपयोगी अनाज प्राप्त करना",
+        "मिश्रण के घटकों के गुण"
+      ],
+      "en": [
+        "separation",
+        "no",
+        "obtaining useful grain",
+        "properties of mixture components"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर पृथक्करण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q118",
+    "topic": "need-for-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "उपयोगी पदार्थ अलग करना किसका उद्देश्य हो सकता है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about what can be a purpose of separation?"
+    },
+    "options": {
+      "hi": [
+        "पृथक्करण",
+        "नहीं",
+        "एक से अधिक विधियों का उपयोग",
+        "उपयोगी पदार्थ को अलग करना"
+      ],
+      "en": [
+        "separation",
+        "no",
+        "using more than one method",
+        "separating a useful substance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर पृथक्करण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q119",
+    "topic": "need-for-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "सभी घटकों को समान बनाना क्या पृथक्करण का उद्देश्य है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of whether making all components identical is a purpose?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "अनुपयोगी या हानिकारक घटक हटाना",
+        "हस्तचयन",
+        "पृथक्करण"
+      ],
+      "en": [
+        "no",
+        "removing unwanted or harmful components",
+        "handpicking",
+        "separation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is no because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q120",
+    "topic": "need-for-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "चरणबद्ध पृथक्करण में क्या संभव है के बारे में सही कथन क्या है?",
+      "en": "Which statement about what is possible in stepwise separation is correct?"
+    },
+    "options": {
+      "hi": [
+        "एक से अधिक विधियों का उपयोग",
+        "पृथक्करण",
+        "नहीं",
+        "उपयोगी पदार्थ को अलग करना"
+      ],
+      "en": [
+        "using more than one method",
+        "separation",
+        "no",
+        "separating a useful substance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर एक से अधिक विधियों का उपयोग है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is using more than one method because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q121",
+    "topic": "need-for-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पृथक्करण का एक लाभ क्या है?",
+      "en": "What is one benefit of separation?"
+    },
+    "options": {
+      "hi": [
+        "उपयोगी पदार्थ को अलग करना",
+        "अनुपयोगी या हानिकारक घटक हटाना",
+        "हस्तचयन",
+        "पृथक्करण"
+      ],
+      "en": [
+        "separating a useful substance",
+        "removing unwanted or harmful components",
+        "handpicking",
+        "separation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर उपयोगी पदार्थ को अलग करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separating a useful substance because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q122",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "हस्तचयन की परिभाषा क्या है?",
+      "en": "What is definition of handpicking?"
+    },
+    "options": {
+      "hi": [
+        "हस्तचयन",
+        "जब अवांछित घटक कम और स्पष्ट हों",
+        "आकार या रंग में स्पष्ट अंतर",
+        "हाथ से अवांछित घटक चुनकर अलग करना"
+      ],
+      "en": [
+        "handpicking",
+        "when unwanted components are few and distinct",
+        "clear difference in size or colour",
+        "separating unwanted components by hand"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हाथ से अवांछित घटक चुनकर अलग करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separating unwanted components by hand because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q123",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "चावल से बड़े पत्थर निकालने की विधि किसके लिए उपयोगी है?",
+      "en": "What is method for removing large stones from rice useful for?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "अनाज को डंठलों से अलग करना",
+        "डंठलों को पीटकर दाने अलग किए जाते हैं",
+        "हस्तचयन"
+      ],
+      "en": [
+        "no",
+        "separating grains from stalks",
+        "stalks are beaten to release grains",
+        "handpicking"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q124",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दाल से कंकड़ चुनने की विधि में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about method for picking pebbles from pulses?"
+    },
+    "options": {
+      "hi": [
+        "थ्रेशिंग",
+        "अनाज और डंठल",
+        "दाने अलग होकर गिरते हैं",
+        "हस्तचयन"
+      ],
+      "en": [
+        "threshing",
+        "grains and stalks",
+        "grains are released and fall",
+        "handpicking"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q125",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "हस्तचयन कब सुविधाजनक है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of when handpicking is convenient?"
+    },
+    "options": {
+      "hi": [
+        "दाने अलग होकर गिरते हैं",
+        "हस्तचयन में हाथ से चुनते हैं, थ्रेशिंग में डंठल से दाने निकालते हैं",
+        "हस्तचयन",
+        "जब अवांछित घटक कम और स्पष्ट हों"
+      ],
+      "en": [
+        "grains are released and fall",
+        "handpicking selects components by hand, while threshing releases grains from stalks",
+        "handpicking",
+        "when unwanted components are few and distinct"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर जब अवांछित घटक कम और स्पष्ट हों है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is when unwanted components are few and distinct because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q126",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "हस्तचयन में उपयोगी गुण के बारे में सही कथन क्या है?",
+      "en": "Which statement about useful property in handpicking is correct?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "नहीं",
+        "हाथ से अवांछित घटक चुनकर अलग करना",
+        "आकार या रंग में स्पष्ट अंतर"
+      ],
+      "en": [
+        "winnowing",
+        "no",
+        "separating unwanted components by hand",
+        "clear difference in size or colour"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर आकार या रंग में स्पष्ट अंतर है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is clear difference in size or colour because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q127",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या हस्तचयन के लिए पानी जरूरी है क्या है?",
+      "en": "What is whether water is necessary for handpicking?"
+    },
+    "options": {
+      "hi": [
+        "अनाज की कटाई के बाद दाने अलग करना",
+        "थ्रेशिंग",
+        "सरल और छोटे स्तर पर उपयोगी",
+        "नहीं"
+      ],
+      "en": [
+        "releasing grains after harvesting",
+        "threshing",
+        "simple and useful on a small scale",
+        "no"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is no because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q128",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "थ्रेशिंग का मुख्य उद्देश्य किसके लिए उपयोगी है?",
+      "en": "What is main purpose of threshing useful for?"
+    },
+    "options": {
+      "hi": [
+        "थ्रेशिंग",
+        "सरल और छोटे स्तर पर उपयोगी",
+        "दाने और हल्की भूसी",
+        "अनाज को डंठलों से अलग करना"
+      ],
+      "en": [
+        "threshing",
+        "simple and useful on a small scale",
+        "grains and light husk",
+        "separating grains from stalks"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अनाज को डंठलों से अलग करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is separating grains from stalks because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q129",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "थ्रेशिंग में क्या किया जाता है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about what is done in threshing?"
+    },
+    "options": {
+      "hi": [
+        "हाथ से अवांछित घटक चुनकर अलग करना",
+        "हस्तचयन",
+        "जब अवांछित घटक कम और स्पष्ट हों",
+        "डंठलों को पीटकर दाने अलग किए जाते हैं"
+      ],
+      "en": [
+        "separating unwanted components by hand",
+        "handpicking",
+        "when unwanted components are few and distinct",
+        "stalks are beaten to release grains"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर डंठलों को पीटकर दाने अलग किए जाते हैं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is stalks are beaten to release grains because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q130",
+    "topic": "handpicking-threshing",
+    "difficulty": "hard",
+    "question": {
+      "hi": "गेहूँ के दाने डंठल से अलग करने की विधि का मुख्य आधार क्या है?",
+      "en": "What is the main basis of method for separating wheat grains from stalks?"
+    },
+    "options": {
+      "hi": [
+        "आकार या रंग में स्पष्ट अंतर",
+        "नहीं",
+        "अनाज को डंठलों से अलग करना",
+        "थ्रेशिंग"
+      ],
+      "en": [
+        "clear difference in size or colour",
+        "no",
+        "separating grains from stalks",
+        "threshing"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर थ्रेशिंग है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is threshing because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q131",
+    "topic": "handpicking-threshing",
+    "difficulty": "hard",
+    "question": {
+      "hi": "थ्रेशिंग में अलग होने वाले मुख्य भाग के बारे में सही कथन क्या है?",
+      "en": "Which statement about main parts separated in threshing is correct?"
+    },
+    "options": {
+      "hi": [
+        "अनाज को डंठलों से अलग करना",
+        "डंठलों को पीटकर दाने अलग किए जाते हैं",
+        "थ्रेशिंग",
+        "अनाज और डंठल"
+      ],
+      "en": [
+        "separating grains from stalks",
+        "stalks are beaten to release grains",
+        "threshing",
+        "grains and stalks"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अनाज और डंठल है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is grains and stalks because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q132",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किसान द्वारा डंठल पीटने का परिणाम क्या है?",
+      "en": "What is result of beating stalks?"
+    },
+    "options": {
+      "hi": [
+        "अनाज और डंठल",
+        "हस्तचयन में हाथ से चुनते हैं, थ्रेशिंग में डंठल से दाने निकालते हैं",
+        "हस्तचयन",
+        "दाने अलग होकर गिरते हैं"
+      ],
+      "en": [
+        "grains and stalks",
+        "handpicking selects components by hand, while threshing releases grains from stalks",
+        "handpicking",
+        "grains are released and fall"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर दाने अलग होकर गिरते हैं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is grains are released and fall because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q133",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "हस्तचयन और थ्रेशिंग का मुख्य अंतर किसके लिए उपयोगी है?",
+      "en": "What is main difference between handpicking and threshing useful for?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "नहीं",
+        "हाथ से अवांछित घटक चुनकर अलग करना",
+        "हस्तचयन में हाथ से चुनते हैं, थ्रेशिंग में डंठल से दाने निकालते हैं"
+      ],
+      "en": [
+        "winnowing",
+        "no",
+        "separating unwanted components by hand",
+        "handpicking selects components by hand, while threshing releases grains from stalks"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन में हाथ से चुनते हैं, थ्रेशिंग में डंठल से दाने निकालते हैं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking selects components by hand, while threshing releases grains from stalks because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q134",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "बड़े और कम पत्थरों वाले मिश्रण की उपयुक्त विधि में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about suitable method for a mixture with few large stones?"
+    },
+    "options": {
+      "hi": [
+        "सरल और छोटे स्तर पर उपयोगी",
+        "दाने और हल्की भूसी",
+        "हाथ से अवांछित घटक चुनकर अलग करना",
+        "हस्तचयन"
+      ],
+      "en": [
+        "simple and useful on a small scale",
+        "grains and light husk",
+        "separating unwanted components by hand",
+        "handpicking"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q135",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "थ्रेशिंग के बाद हल्की भूसी अलग करने की अगली विधि का मुख्य आधार क्या है?",
+      "en": "What is the main basis of next method for light husk after threshing?"
+    },
+    "options": {
+      "hi": [
+        "थ्रेशिंग",
+        "सरल और छोटे स्तर पर उपयोगी",
+        "दाने और हल्की भूसी",
+        "ओसाई"
+      ],
+      "en": [
+        "threshing",
+        "simple and useful on a small scale",
+        "grains and light husk",
+        "winnowing"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर ओसाई है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is winnowing because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q136",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या थ्रेशिंग नमक और पानी को अलग करती है के बारे में सही कथन क्या है?",
+      "en": "Which statement about whether threshing separates salt and water is correct?"
+    },
+    "options": {
+      "hi": [
+        "आकार या रंग में स्पष्ट अंतर",
+        "अनाज को डंठलों से अलग करना",
+        "डंठलों को पीटकर दाने अलग किए जाते हैं",
+        "नहीं"
+      ],
+      "en": [
+        "clear difference in size or colour",
+        "separating grains from stalks",
+        "stalks are beaten to release grains",
+        "no"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is no because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q137",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या थ्रेशिंग चाय की पत्तियों के लिए है क्या है?",
+      "en": "What is whether threshing is for tea leaves?"
+    },
+    "options": {
+      "hi": [
+        "थ्रेशिंग",
+        "अनाज और डंठल",
+        "दाने अलग होकर गिरते हैं",
+        "नहीं"
+      ],
+      "en": [
+        "threshing",
+        "grains and stalks",
+        "grains are released and fall",
+        "no"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is no because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q138",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "हस्तचयन में सबसे जरूरी बात किसके लिए उपयोगी है?",
+      "en": "What is most important feature for handpicking useful for?"
+    },
+    "options": {
+      "hi": [
+        "अनाज को डंठलों से अलग करना",
+        "डंठलों को पीटकर दाने अलग किए जाते हैं",
+        "थ्रेशिंग",
+        "अवांछित घटक पहचानने योग्य हो"
+      ],
+      "en": [
+        "separating grains from stalks",
+        "stalks are beaten to release grains",
+        "threshing",
+        "the unwanted component should be identifiable"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अवांछित घटक पहचानने योग्य हो है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is the unwanted component should be identifiable because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q139",
+    "topic": "handpicking-threshing",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पत्थर चावल के समान दिखें तो हस्तचयन में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about handpicking when stones look like rice?"
+    },
+    "options": {
+      "hi": [
+        "अनाज और डंठल",
+        "दाने अलग होकर गिरते हैं",
+        "हस्तचयन में हाथ से चुनते हैं, थ्रेशिंग में डंठल से दाने निकालते हैं",
+        "कम सुविधाजनक"
+      ],
+      "en": [
+        "grains and stalks",
+        "grains are released and fall",
+        "handpicking selects components by hand, while threshing releases grains from stalks",
+        "less convenient"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर कम सुविधाजनक है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is less convenient because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q140",
+    "topic": "handpicking-threshing",
+    "difficulty": "hard",
+    "question": {
+      "hi": "थ्रेशिंग का संबंध किस कार्य से है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of activity associated with threshing?"
+    },
+    "options": {
+      "hi": [
+        "हस्तचयन",
+        "ओसाई",
+        "नहीं",
+        "अनाज की कटाई के बाद दाने अलग करना"
+      ],
+      "en": [
+        "handpicking",
+        "winnowing",
+        "no",
+        "releasing grains after harvesting"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अनाज की कटाई के बाद दाने अलग करना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is releasing grains after harvesting because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q141",
+    "topic": "handpicking-threshing",
+    "difficulty": "hard",
+    "question": {
+      "hi": "डंठल से दाने निकालने में यांत्रिक प्रहार का उपयोग के बारे में सही कथन क्या है?",
+      "en": "Which statement about use of mechanical beating to release grains is correct?"
+    },
+    "options": {
+      "hi": [
+        "अनाज की कटाई के बाद दाने अलग करना",
+        "सरल और छोटे स्तर पर उपयोगी",
+        "दाने और हल्की भूसी",
+        "थ्रेशिंग"
+      ],
+      "en": [
+        "releasing grains after harvesting",
+        "simple and useful on a small scale",
+        "grains and light husk",
+        "threshing"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर थ्रेशिंग है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is threshing because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q142",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "हस्तचयन का एक लाभ क्या है?",
+      "en": "What is one advantage of handpicking?"
+    },
+    "options": {
+      "hi": [
+        "अनाज की कटाई के बाद दाने अलग करना",
+        "थ्रेशिंग",
+        "दाने और हल्की भूसी",
+        "सरल और छोटे स्तर पर उपयोगी"
+      ],
+      "en": [
+        "releasing grains after harvesting",
+        "threshing",
+        "grains and light husk",
+        "simple and useful on a small scale"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर सरल और छोटे स्तर पर उपयोगी है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is simple and useful on a small scale because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q143",
+    "topic": "handpicking-threshing",
+    "difficulty": "easy",
+    "question": {
+      "hi": "थ्रेशिंग के बाद दानों और भूसी का मिश्रण किसके लिए उपयोगी है?",
+      "en": "What is mixture after threshing useful for?"
+    },
+    "options": {
+      "hi": [
+        "हाथ से अवांछित घटक चुनकर अलग करना",
+        "हस्तचयन",
+        "जब अवांछित घटक कम और स्पष्ट हों",
+        "दाने और हल्की भूसी"
+      ],
+      "en": [
+        "separating unwanted components by hand",
+        "handpicking",
+        "when unwanted components are few and distinct",
+        "grains and light husk"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर दाने और हल्की भूसी है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is grains and light husk because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q144",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ओसाई की परिभाषा क्या है?",
+      "en": "What is definition of winnowing?"
+    },
+    "options": {
+      "hi": [
+        "हल्के और भारी घटकों का अंतर",
+        "हवा से हल्के घटक को भारी घटक से अलग करना",
+        "हल्के घटक को दूर ले जाना",
+        "ओसाई"
+      ],
+      "en": [
+        "difference between lighter and heavier components",
+        "separating a lighter component from a heavier one using air",
+        "carrying the lighter component away",
+        "winnowing"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हवा से हल्के घटक को भारी घटक से अलग करना है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is separating a lighter component from a heavier one using air. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q145",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ओसाई में हवा की भूमिका किसके लिए उपयोगी है?",
+      "en": "What is role of air in winnowing useful for?"
+    },
+    "options": {
+      "hi": [
+        "अलग आकार के कणों को छिद्रों से अलग करना",
+        "हल्के घटक को दूर ले जाना",
+        "वे नीचे गिरते हैं",
+        "हवा उसे दूर ले जाती है"
+      ],
+      "en": [
+        "separating differently sized particles using sieve holes",
+        "carrying the lighter component away",
+        "they fall downward",
+        "air carries it away"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हल्के घटक को दूर ले जाना है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is carrying the lighter component away. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q146",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "भूसी और गेहूँ के दानों की उपयुक्त विधि में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about suitable method for husk and wheat grains?"
+    },
+    "options": {
+      "hi": [
+        "हवा से हल्के घटक को भारी घटक से अलग करना",
+        "ओसाई",
+        "कणों के आकार में अंतर",
+        "चालनी"
+      ],
+      "en": [
+        "separating a lighter component from a heavier one using air",
+        "winnowing",
+        "difference in particle size",
+        "sieving"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर ओसाई है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is winnowing. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q147",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ओसाई का मुख्य आधार का मुख्य आधार क्या है?",
+      "en": "What is the main basis of main basis of winnowing?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई हवा और चालनी छिद्रों का उपयोग करती है",
+        "हल्के और भारी घटकों का अंतर",
+        "वे चालनी पर रुकते हैं",
+        "वे छिद्रों से गुजर सकते हैं"
+      ],
+      "en": [
+        "winnowing uses air while sieving uses holes",
+        "difference between lighter and heavier components",
+        "they remain on the sieve",
+        "they can pass through the holes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हल्के और भारी घटकों का अंतर है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is difference between lighter and heavier components. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q148",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ओसाई में भारी दानों का व्यवहार के बारे में सही कथन क्या है?",
+      "en": "Which statement about behaviour of heavier grains in winnowing is correct?"
+    },
+    "options": {
+      "hi": [
+        "हवा से हल्के घटक को भारी घटक से अलग करना",
+        "वे नीचे गिरते हैं",
+        "नहीं",
+        "वह तय करता है कि कौन से कण गुजरेंगे"
+      ],
+      "en": [
+        "separating a lighter component from a heavier one using air",
+        "they fall downward",
+        "no",
+        "it determines which particles can pass"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वे नीचे गिरते हैं है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is they fall downward. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q149",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ओसाई में हल्की भूसी का व्यवहार क्या है?",
+      "en": "What is behaviour of light husk in winnowing?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "हवा उसे दूर ले जाती है",
+        "हल्की भूसी और भारी अनाज",
+        "अलग आकार वाले ठोस कण"
+      ],
+      "en": [
+        "winnowing",
+        "air carries it away",
+        "light husk and heavier grain",
+        "solid particles of different sizes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हवा उसे दूर ले जाती है है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is air carries it away. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q150",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चालनी की परिभाषा किसके लिए उपयोगी है?",
+      "en": "What is definition of sieving useful for?"
+    },
+    "options": {
+      "hi": [
+        "हवा",
+        "अलग आकार के कणों को छिद्रों से अलग करना",
+        "बड़े कण",
+        "हल्का घटक"
+      ],
+      "en": [
+        "air",
+        "separating differently sized particles using sieve holes",
+        "larger particles",
+        "lighter component"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर अलग आकार के कणों को छिद्रों से अलग करना है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is separating differently sized particles using sieve holes. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q151",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चालनी का मुख्य आधार में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about main basis of sieving?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "कणों के आकार में अंतर",
+        "हवा से हल्के घटक को भारी घटक से अलग करना",
+        "हल्के घटक को दूर ले जाना"
+      ],
+      "en": [
+        "winnowing",
+        "difference in particle size",
+        "separating a lighter component from a heavier one using air",
+        "carrying the lighter component away"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर कणों के आकार में अंतर है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is difference in particle size. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q152",
+    "topic": "winnowing-sieving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "आटे से बड़े कण अलग करने की विधि का मुख्य आधार क्या है?",
+      "en": "What is the main basis of method for separating large particles from flour?"
+    },
+    "options": {
+      "hi": [
+        "अलग आकार के कणों को छिद्रों से अलग करना",
+        "चालनी",
+        "वे नीचे गिरते हैं",
+        "हवा उसे दूर ले जाती है"
+      ],
+      "en": [
+        "separating differently sized particles using sieve holes",
+        "sieving",
+        "they fall downward",
+        "air carries it away"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर चालनी है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is sieving. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q153",
+    "topic": "winnowing-sieving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निर्माण स्थल पर रेत और कंकड़ अलग करने की विधि के बारे में सही कथन क्या है?",
+      "en": "Which statement about method for separating sand and pebbles at a construction site is correct?"
+    },
+    "options": {
+      "hi": [
+        "वे छिद्रों से गुजर सकते हैं",
+        "चालनी",
+        "कणों के आकार में अंतर",
+        "वे चालनी पर रुकते हैं"
+      ],
+      "en": [
+        "they can pass through the holes",
+        "sieving",
+        "difference in particle size",
+        "they remain on the sieve"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर चालनी है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is sieving. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q154",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "चालनी में बड़े कणों का व्यवहार क्या है?",
+      "en": "What is behaviour of larger particles in a sieve?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई हवा और चालनी छिद्रों का उपयोग करती है",
+        "वे चालनी पर रुकते हैं",
+        "चालनी",
+        "वे छिद्रों से गुजर सकते हैं"
+      ],
+      "en": [
+        "winnowing uses air while sieving uses holes",
+        "they remain on the sieve",
+        "sieving",
+        "they can pass through the holes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वे चालनी पर रुकते हैं है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is they remain on the sieve. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q155",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "चालनी में छोटे कणों का व्यवहार किसके लिए उपयोगी है?",
+      "en": "What is behaviour of smaller particles in a sieve useful for?"
+    },
+    "options": {
+      "hi": [
+        "हवा से हल्के घटक को भारी घटक से अलग करना",
+        "वे छिद्रों से गुजर सकते हैं",
+        "नहीं",
+        "वह तय करता है कि कौन से कण गुजरेंगे"
+      ],
+      "en": [
+        "separating a lighter component from a heavier one using air",
+        "they can pass through the holes",
+        "no",
+        "it determines which particles can pass"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वे छिद्रों से गुजर सकते हैं है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is they can pass through the holes. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q156",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ओसाई और चालनी का मुख्य अंतर में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about main difference between winnowing and sieving?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "ओसाई हवा और चालनी छिद्रों का उपयोग करती है",
+        "हल्की भूसी और भारी अनाज",
+        "अलग आकार वाले ठोस कण"
+      ],
+      "en": [
+        "winnowing",
+        "winnowing uses air while sieving uses holes",
+        "light husk and heavier grain",
+        "solid particles of different sizes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर ओसाई हवा और चालनी छिद्रों का उपयोग करती है है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is winnowing uses air while sieving uses holes. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q157",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या चालनी घुले नमक को पानी से अलग करती है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of whether a sieve separates dissolved salt from water?"
+    },
+    "options": {
+      "hi": [
+        "हल्के घटक को दूर ले जाना",
+        "नहीं",
+        "हवा",
+        "हवा से हल्के घटक को भारी घटक से अलग करना"
+      ],
+      "en": [
+        "carrying the lighter component away",
+        "no",
+        "air",
+        "separating a lighter component from a heavier one using air"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is no. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q158",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या ओसाई नमक और पानी को अलग करती है के बारे में सही कथन क्या है?",
+      "en": "Which statement about whether winnowing separates salt and water is correct?"
+    },
+    "options": {
+      "hi": [
+        "वे नीचे गिरते हैं",
+        "नहीं",
+        "ओसाई",
+        "हल्के और भारी घटकों का अंतर"
+      ],
+      "en": [
+        "they fall downward",
+        "no",
+        "winnowing",
+        "difference between lighter and heavier components"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is no. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q159",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चालनी के छिद्रों का आकार क्यों महत्वपूर्ण है क्या है?",
+      "en": "What is why sieve-hole size matters?"
+    },
+    "options": {
+      "hi": [
+        "हवा उसे दूर ले जाती है",
+        "वह तय करता है कि कौन से कण गुजरेंगे",
+        "हल्के और भारी घटकों का अंतर",
+        "वे नीचे गिरते हैं"
+      ],
+      "en": [
+        "air carries it away",
+        "it determines which particles can pass",
+        "difference between lighter and heavier components",
+        "they fall downward"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वह तय करता है कि कौन से कण गुजरेंगे है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is it determines which particles can pass. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q160",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस मिश्रण में ओसाई उपयोगी है किसके लिए उपयोगी है?",
+      "en": "What is mixture in which winnowing is useful useful for?"
+    },
+    "options": {
+      "hi": [
+        "चालनी",
+        "हल्की भूसी और भारी अनाज",
+        "अलग आकार के कणों को छिद्रों से अलग करना",
+        "कणों के आकार में अंतर"
+      ],
+      "en": [
+        "sieving",
+        "light husk and heavier grain",
+        "separating differently sized particles using sieve holes",
+        "difference in particle size"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हल्की भूसी और भारी अनाज है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is light husk and heavier grain. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q161",
+    "topic": "winnowing-sieving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस मिश्रण में चालनी उपयोगी है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about mixture in which sieving is useful?"
+    },
+    "options": {
+      "hi": [
+        "वे छिद्रों से गुजर सकते हैं",
+        "अलग आकार वाले ठोस कण",
+        "चालनी",
+        "वे चालनी पर रुकते हैं"
+      ],
+      "en": [
+        "they can pass through the holes",
+        "solid particles of different sizes",
+        "sieving",
+        "they remain on the sieve"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर अलग आकार वाले ठोस कण है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is solid particles of different sizes. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q162",
+    "topic": "winnowing-sieving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस विधि में मिश्रण हवा में उछाला जाता है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of method in which a mixture is tossed in air?"
+    },
+    "options": {
+      "hi": [
+        "अलग आकार वाले ठोस कण",
+        "ओसाई",
+        "वह तय करता है कि कौन से कण गुजरेंगे",
+        "हल्की भूसी और भारी अनाज"
+      ],
+      "en": [
+        "solid particles of different sizes",
+        "winnowing",
+        "it determines which particles can pass",
+        "light husk and heavier grain"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर ओसाई है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is winnowing. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q163",
+    "topic": "winnowing-sieving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "चालनी से कौन सा पदार्थ रोका जाता है के बारे में सही कथन क्या है?",
+      "en": "Which statement about what is retained by a sieve is correct?"
+    },
+    "options": {
+      "hi": [
+        "अलग आकार वाले ठोस कण",
+        "बड़े कण",
+        "वह तय करता है कि कौन से कण गुजरेंगे",
+        "हल्की भूसी और भारी अनाज"
+      ],
+      "en": [
+        "solid particles of different sizes",
+        "larger particles",
+        "it determines which particles can pass",
+        "light husk and heavier grain"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर बड़े कण है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is larger particles. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q164",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ओसाई में कौन सा घटक हवा से अधिक प्रभावित होता है क्या है?",
+      "en": "What is which component is more affected by air in winnowing?"
+    },
+    "options": {
+      "hi": [
+        "हवा",
+        "हल्का घटक",
+        "ओसाई",
+        "बड़े कण"
+      ],
+      "en": [
+        "air",
+        "lighter component",
+        "winnowing",
+        "larger particles"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हल्का घटक है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is lighter component. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q165",
+    "topic": "winnowing-sieving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "चालनी से पृथक्करण में किसका उपयोग नहीं होता किसके लिए उपयोगी है?",
+      "en": "What is what is not used in sieving useful for?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "हवा",
+        "हवा से हल्के घटक को भारी घटक से अलग करना",
+        "हल्के घटक को दूर ले जाना"
+      ],
+      "en": [
+        "winnowing",
+        "air",
+        "separating a lighter component from a heavier one using air",
+        "carrying the lighter component away"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर हवा है। इस विधि में घटकों के हल्के-भारी होने या कणों के आकार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is air. This method uses a difference in weight or in particle size, as appropriate."
+    }
+  },
+  {
+    "id": "ch4_q166",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अवसादन की परिभाषा क्या है?",
+      "en": "What is definition of sedimentation?"
+    },
+    "options": {
+      "hi": [
+        "नीचे बैठना",
+        "भारी अघुलनशील घटक",
+        "ऊपर के साफ द्रव को धीरे से अलग करना",
+        "भारी अघुलनशील कणों का नीचे बैठना"
+      ],
+      "en": [
+        "settling at the bottom",
+        "heavier insoluble component",
+        "gently pouring off the clearer upper liquid",
+        "settling of heavier insoluble particles"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर भारी अघुलनशील कणों का नीचे बैठना है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is settling of heavier insoluble particles. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q167",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "रेत और पानी को स्थिर छोड़ने पर रेत का व्यवहार किसके लिए उपयोगी है?",
+      "en": "What is behaviour of sand when sand and water are left still useful for?"
+    },
+    "options": {
+      "hi": [
+        "अवसादन",
+        "ताकि वह द्रव में फिर न मिले",
+        "फिल्टर से अघुलनशील ठोस को द्रव से अलग करना",
+        "नीचे बैठना"
+      ],
+      "en": [
+        "sedimentation",
+        "so it does not mix back into the liquid",
+        "separating an insoluble solid from a liquid using a filter",
+        "settling at the bottom"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नीचे बैठना है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is settling at the bottom. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q168",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अवसादन में नीचे कौन बैठता है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about what settles during sedimentation?"
+    },
+    "options": {
+      "hi": [
+        "अघुलनशील ठोस और द्रव",
+        "निस्यंदन",
+        "भारी अघुलनशील कणों का नीचे बैठना",
+        "भारी अघुलनशील घटक"
+      ],
+      "en": [
+        "an insoluble solid and a liquid",
+        "filtration",
+        "settling of heavier insoluble particles",
+        "heavier insoluble component"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर भारी अघुलनशील घटक है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is heavier insoluble component. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q169",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निस्तारण की परिभाषा का मुख्य आधार क्या है?",
+      "en": "What is the main basis of definition of decantation?"
+    },
+    "options": {
+      "hi": [
+        "ठोस कणों को रोकना",
+        "नहीं",
+        "अवसादन में कण नीचे बैठते हैं, निस्यंदन में फिल्टर उन्हें रोकता है",
+        "ऊपर के साफ द्रव को धीरे से अलग करना"
+      ],
+      "en": [
+        "retaining solid particles",
+        "no",
+        "particles settle in sedimentation, while a filter retains them in filtration",
+        "gently pouring off the clearer upper liquid"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर ऊपर के साफ द्रव को धीरे से अलग करना है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is gently pouring off the clearer upper liquid. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q170",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निस्तारण किसके बाद किया जा सकता है के बारे में सही कथन क्या है?",
+      "en": "Which statement about what can precede decantation is correct?"
+    },
+    "options": {
+      "hi": [
+        "रेत का नीचे बैठना",
+        "वे अघुलनशील ठोस कण हैं",
+        "वह ठोस कणों को रोक सकता है",
+        "अवसादन"
+      ],
+      "en": [
+        "sand settling at the bottom",
+        "they are insoluble solid particles",
+        "it can retain solid particles",
+        "sedimentation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अवसादन है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is sedimentation. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q171",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निस्तारण में तलछट को क्यों नहीं हिलाना चाहिए क्या है?",
+      "en": "What is why sediment should not be disturbed?"
+    },
+    "options": {
+      "hi": [
+        "हाँ, अवसादन के बाद",
+        "नहीं",
+        "भारी कणों को बैठने देने के लिए",
+        "ताकि वह द्रव में फिर न मिले"
+      ],
+      "en": [
+        "yes, after sedimentation",
+        "no",
+        "to allow heavy particles to settle",
+        "so it does not mix back into the liquid"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर ताकि वह द्रव में फिर न मिले है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is so it does not mix back into the liquid. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q172",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निस्यंदन की परिभाषा किसके लिए उपयोगी है?",
+      "en": "What is definition of filtration useful for?"
+    },
+    "options": {
+      "hi": [
+        "द्रव और बहुत छोटे छिद्रों से गुजरने वाले कण",
+        "ऊपरी द्रव",
+        "तलछट",
+        "फिल्टर से अघुलनशील ठोस को द्रव से अलग करना"
+      ],
+      "en": [
+        "liquid and particles small enough to pass",
+        "upper liquid",
+        "sediment",
+        "separating an insoluble solid from a liquid using a filter"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर फिल्टर से अघुलनशील ठोस को द्रव से अलग करना है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is separating an insoluble solid from a liquid using a filter. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q173",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निस्यंदन किस मिश्रण के लिए उपयोगी है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about mixture suitable for filtration?"
+    },
+    "options": {
+      "hi": [
+        "भारी अघुलनशील कणों का नीचे बैठना",
+        "नीचे बैठना",
+        "भारी अघुलनशील घटक",
+        "अघुलनशील ठोस और द्रव"
+      ],
+      "en": [
+        "settling of heavier insoluble particles",
+        "settling at the bottom",
+        "heavier insoluble component",
+        "an insoluble solid and a liquid"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अघुलनशील ठोस और द्रव है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is an insoluble solid and a liquid. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q174",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "hard",
+    "question": {
+      "hi": "चाय से पत्तियाँ अलग करने की विधि का मुख्य आधार क्या है?",
+      "en": "What is the main basis of method for separating tea leaves?"
+    },
+    "options": {
+      "hi": [
+        "अवसादन",
+        "ताकि वह द्रव में फिर न मिले",
+        "फिल्टर से अघुलनशील ठोस को द्रव से अलग करना",
+        "निस्यंदन"
+      ],
+      "en": [
+        "sedimentation",
+        "so it does not mix back into the liquid",
+        "separating an insoluble solid from a liquid using a filter",
+        "filtration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर निस्यंदन है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is filtration. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q175",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "hard",
+    "question": {
+      "hi": "रेत और पानी में महीन कण हटाने की विधि के बारे में सही कथन क्या है?",
+      "en": "Which statement about method for removing fine particles from sand and water is correct?"
+    },
+    "options": {
+      "hi": [
+        "अघुलनशील ठोस और द्रव",
+        "ठोस कणों को रोकना",
+        "नहीं",
+        "निस्यंदन"
+      ],
+      "en": [
+        "an insoluble solid and a liquid",
+        "retaining solid particles",
+        "no",
+        "filtration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर निस्यंदन है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is filtration. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q176",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फिल्टर का मुख्य काम क्या है?",
+      "en": "What is main function of a filter?"
+    },
+    "options": {
+      "hi": [
+        "निस्यंदन",
+        "नहीं",
+        "अवसादन में कण नीचे बैठते हैं, निस्यंदन में फिल्टर उन्हें रोकता है",
+        "ठोस कणों को रोकना"
+      ],
+      "en": [
+        "filtration",
+        "no",
+        "particles settle in sedimentation, while a filter retains them in filtration",
+        "retaining solid particles"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर ठोस कणों को रोकना है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is retaining solid particles. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q177",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या निस्यंदन घुले नमक को पानी से अलग करता है किसके लिए उपयोगी है?",
+      "en": "What is whether filtration separates dissolved salt useful for?"
+    },
+    "options": {
+      "hi": [
+        "वे अघुलनशील ठोस कण हैं",
+        "वह ठोस कणों को रोक सकता है",
+        "हाँ, अवसादन के बाद",
+        "नहीं"
+      ],
+      "en": [
+        "they are insoluble solid particles",
+        "it can retain solid particles",
+        "yes, after sedimentation",
+        "no"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is no. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q178",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अवसादन और निस्यंदन का अंतर में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about difference between sedimentation and filtration?"
+    },
+    "options": {
+      "hi": [
+        "हाँ, अवसादन के बाद",
+        "नहीं",
+        "भारी कणों को बैठने देने के लिए",
+        "अवसादन में कण नीचे बैठते हैं, निस्यंदन में फिल्टर उन्हें रोकता है"
+      ],
+      "en": [
+        "yes, after sedimentation",
+        "no",
+        "to allow heavy particles to settle",
+        "particles settle in sedimentation, while a filter retains them in filtration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अवसादन में कण नीचे बैठते हैं, निस्यंदन में फिल्टर उन्हें रोकता है है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is particles settle in sedimentation, while a filter retains them in filtration. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q179",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रेत और पानी में निस्तारण के लिए जरूरी पहला चरण का मुख्य आधार क्या है?",
+      "en": "What is the main basis of first step needed for decanting sand and water?"
+    },
+    "options": {
+      "hi": [
+        "द्रव और बहुत छोटे छिद्रों से गुजरने वाले कण",
+        "ऊपरी द्रव",
+        "तलछट",
+        "रेत का नीचे बैठना"
+      ],
+      "en": [
+        "liquid and particles small enough to pass",
+        "upper liquid",
+        "sediment",
+        "sand settling at the bottom"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर रेत का नीचे बैठना है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is sand settling at the bottom. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q180",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चाय की पत्तियाँ फिल्टर पर क्यों रुकती हैं के बारे में सही कथन क्या है?",
+      "en": "Which statement about why tea leaves remain on a filter is correct?"
+    },
+    "options": {
+      "hi": [
+        "भारी अघुलनशील कणों का नीचे बैठना",
+        "नीचे बैठना",
+        "भारी अघुलनशील घटक",
+        "वे अघुलनशील ठोस कण हैं"
+      ],
+      "en": [
+        "settling of heavier insoluble particles",
+        "settling at the bottom",
+        "heavier insoluble component",
+        "they are insoluble solid particles"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर वे अघुलनशील ठोस कण हैं है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is they are insoluble solid particles. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q181",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कपड़े को फिल्टर की तरह क्यों उपयोग किया जा सकता है क्या है?",
+      "en": "What is why cloth can be used as a filter?"
+    },
+    "options": {
+      "hi": [
+        "ऊपर के साफ द्रव को धीरे से अलग करना",
+        "अवसादन",
+        "ताकि वह द्रव में फिर न मिले",
+        "वह ठोस कणों को रोक सकता है"
+      ],
+      "en": [
+        "gently pouring off the clearer upper liquid",
+        "sedimentation",
+        "so it does not mix back into the liquid",
+        "it can retain solid particles"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर वह ठोस कणों को रोक सकता है है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is it can retain solid particles. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q182",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मिट्टी और पानी में निस्तारण की संभावना किसके लिए उपयोगी है?",
+      "en": "What is possibility of decantation for mud and water useful for?"
+    },
+    "options": {
+      "hi": [
+        "फिल्टर से अघुलनशील ठोस को द्रव से अलग करना",
+        "अघुलनशील ठोस और द्रव",
+        "निस्यंदन",
+        "हाँ, अवसादन के बाद"
+      ],
+      "en": [
+        "separating an insoluble solid from a liquid using a filter",
+        "an insoluble solid and a liquid",
+        "filtration",
+        "yes, after sedimentation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हाँ, अवसादन के बाद है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is yes, after sedimentation. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q183",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या निस्तारण हमेशा पूरी तरह साफ द्रव देता है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about whether decantation always gives a completely clear liquid?"
+    },
+    "options": {
+      "hi": [
+        "अवसादन में कण नीचे बैठते हैं, निस्यंदन में फिल्टर उन्हें रोकता है",
+        "रेत का नीचे बैठना",
+        "वे अघुलनशील ठोस कण हैं",
+        "नहीं"
+      ],
+      "en": [
+        "particles settle in sedimentation, while a filter retains them in filtration",
+        "sand settling at the bottom",
+        "they are insoluble solid particles",
+        "no"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is no. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q184",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अवसादन के लिए मिश्रण को स्थिर क्यों रखते हैं का मुख्य आधार क्या है?",
+      "en": "What is the main basis of why a mixture is left undisturbed for sedimentation?"
+    },
+    "options": {
+      "hi": [
+        "अवसादन में कण नीचे बैठते हैं, निस्यंदन में फिल्टर उन्हें रोकता है",
+        "रेत का नीचे बैठना",
+        "वे अघुलनशील ठोस कण हैं",
+        "भारी कणों को बैठने देने के लिए"
+      ],
+      "en": [
+        "particles settle in sedimentation, while a filter retains them in filtration",
+        "sand settling at the bottom",
+        "they are insoluble solid particles",
+        "to allow heavy particles to settle"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर भारी कणों को बैठने देने के लिए है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is to allow heavy particles to settle. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q185",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "hard",
+    "question": {
+      "hi": "फिल्टर से कौन सा भाग गुजरता है के बारे में सही कथन क्या है?",
+      "en": "Which statement about what passes through a filter is correct?"
+    },
+    "options": {
+      "hi": [
+        "वह ठोस कणों को रोक सकता है",
+        "हाँ, अवसादन के बाद",
+        "नहीं",
+        "द्रव और बहुत छोटे छिद्रों से गुजरने वाले कण"
+      ],
+      "en": [
+        "it can retain solid particles",
+        "yes, after sedimentation",
+        "no",
+        "liquid and particles small enough to pass"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर द्रव और बहुत छोटे छिद्रों से गुजरने वाले कण है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is liquid and particles small enough to pass. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q186",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निस्तारण में कौन सा भाग अलग किया जाता है क्या है?",
+      "en": "What is what part is separated in decantation?"
+    },
+    "options": {
+      "hi": [
+        "भारी कणों को बैठने देने के लिए",
+        "द्रव और बहुत छोटे छिद्रों से गुजरने वाले कण",
+        "तलछट",
+        "ऊपरी द्रव"
+      ],
+      "en": [
+        "to allow heavy particles to settle",
+        "liquid and particles small enough to pass",
+        "sediment",
+        "upper liquid"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर ऊपरी द्रव है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is upper liquid. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q187",
+    "topic": "sedimentation-decantation-filtration",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अवसादन में तल पर जमा पदार्थ किसके लिए उपयोगी है?",
+      "en": "What is material deposited at the bottom in sedimentation useful for?"
+    },
+    "options": {
+      "hi": [
+        "भारी अघुलनशील कणों का नीचे बैठना",
+        "नीचे बैठना",
+        "भारी अघुलनशील घटक",
+        "तलछट"
+      ],
+      "en": [
+        "settling of heavier insoluble particles",
+        "settling at the bottom",
+        "heavier insoluble component",
+        "sediment"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर तलछट है। इस प्रक्रिया में अघुलनशील ठोस और द्रव के व्यवहार के अंतर का उपयोग किया जाता है।",
+      "en": "The correct answer is sediment. The process uses the difference in behaviour of an insoluble solid and a liquid."
+    }
+  },
+  {
+    "id": "ch4_q188",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "वाष्पीकरण की परिभाषा क्या है?",
+      "en": "What is definition of evaporation?"
+    },
+    "options": {
+      "hi": [
+        "संघनन",
+        "द्रव का वाष्प में बदलना",
+        "वाष्प का द्रव में बदलना",
+        "वाष्पीकरण"
+      ],
+      "en": [
+        "condensation",
+        "conversion of liquid into vapour",
+        "conversion of vapour into liquid",
+        "evaporation"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर द्रव का वाष्प में बदलना है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is conversion of liquid into vapour. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q189",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "संघनन की परिभाषा किसके लिए उपयोगी है?",
+      "en": "What is definition of condensation useful for?"
+    },
+    "options": {
+      "hi": [
+        "द्रव से वाष्प",
+        "वाष्प का द्रव में बदलना",
+        "वाष्पीकरण",
+        "संघनन"
+      ],
+      "en": [
+        "liquid to vapour",
+        "conversion of vapour into liquid",
+        "evaporation",
+        "condensation"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्प का द्रव में बदलना है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is conversion of vapour into liquid. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q190",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "नमक के घोल से नमक पाने की विधि में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about method for obtaining salt from salt solution?"
+    },
+    "options": {
+      "hi": [
+        "वाष्प बनकर हवा में",
+        "वाष्पीकरण",
+        "पीछे रह सकता है",
+        "नहीं"
+      ],
+      "en": [
+        "into the air as vapour",
+        "evaporation",
+        "may remain behind",
+        "no"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्पीकरण है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is evaporation. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q191",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "समुद्री जल से नमक प्राप्त करने की महत्वपूर्ण प्रक्रिया का मुख्य आधार क्या है?",
+      "en": "What is the main basis of important process for obtaining salt from seawater?"
+    },
+    "options": {
+      "hi": [
+        "वाष्प को द्रव में बदलने में सहायता",
+        "वाष्पीकरण",
+        "जलवाष्प का संघनन",
+        "घुला ठोस और द्रव"
+      ],
+      "en": [
+        "helping vapour change to liquid",
+        "evaporation",
+        "condensation of water vapour",
+        "dissolved solid and liquid"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्पीकरण है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is evaporation. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q192",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "धूप में कपड़े सूखने की प्रक्रिया के बारे में सही कथन क्या है?",
+      "en": "Which statement about process when clothes dry in sunlight is correct?"
+    },
+    "options": {
+      "hi": [
+        "अधिक सतह से वाष्पीकरण",
+        "वाष्पीकरण",
+        "विपरीत अवस्था परिवर्तन",
+        "नमक घुला हुआ है"
+      ],
+      "en": [
+        "evaporation from a larger exposed surface",
+        "evaporation",
+        "opposite state changes",
+        "salt is dissolved"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्पीकरण है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is evaporation. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q193",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडी सतह पर जल की बूंदें बनने की प्रक्रिया क्या है?",
+      "en": "What is process forming water droplets on a cool surface?"
+    },
+    "options": {
+      "hi": [
+        "जल की बूंदें",
+        "संघनन",
+        "नमक घुला हुआ है",
+        "अधिक सतह से वाष्पीकरण"
+      ],
+      "en": [
+        "water droplets",
+        "condensation",
+        "salt is dissolved",
+        "evaporation from a larger exposed surface"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर संघनन है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is condensation. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q194",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वाष्पीकरण में अवस्था परिवर्तन किसके लिए उपयोगी है?",
+      "en": "What is state change in evaporation useful for?"
+    },
+    "options": {
+      "hi": [
+        "द्रव का वाष्प में बदलना",
+        "द्रव से वाष्प",
+        "अवशेष",
+        "गैसीय अवस्था से द्रव अवस्था"
+      ],
+      "en": [
+        "conversion of liquid into vapour",
+        "liquid to vapour",
+        "residue",
+        "gaseous state to liquid state"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर द्रव से वाष्प है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is liquid to vapour. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q195",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "संघनन में अवस्था परिवर्तन में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about state change in condensation?"
+    },
+    "options": {
+      "hi": [
+        "द्रव का वाष्प में बदलना",
+        "वाष्प से द्रव",
+        "वाष्प का द्रव में बदलना",
+        "वाष्पीकरण"
+      ],
+      "en": [
+        "conversion of liquid into vapour",
+        "vapour to liquid",
+        "conversion of vapour into liquid",
+        "evaporation"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्प से द्रव है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is vapour to liquid. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q196",
+    "topic": "evaporation-condensation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "वाष्पीकरण से अलग किया जाने वाला घटक का मुख्य आधार क्या है?",
+      "en": "What is the main basis of component removed by evaporation?"
+    },
+    "options": {
+      "hi": [
+        "द्रव से वाष्प",
+        "द्रव",
+        "वाष्पीकरण",
+        "संघनन"
+      ],
+      "en": [
+        "liquid to vapour",
+        "liquid",
+        "evaporation",
+        "condensation"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर द्रव है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is liquid. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q197",
+    "topic": "evaporation-condensation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "वाष्पीकरण के बाद घुला ठोस के बारे में सही कथन क्या है?",
+      "en": "Which statement about dissolved solid after evaporation is correct?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "पीछे रह सकता है",
+        "वाष्प से द्रव",
+        "द्रव"
+      ],
+      "en": [
+        "no",
+        "may remain behind",
+        "vapour to liquid",
+        "liquid"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर पीछे रह सकता है है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is may remain behind. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q198",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या वाष्पीकरण केवल उबालने पर होता है क्या है?",
+      "en": "What is whether evaporation occurs only at boiling?"
+    },
+    "options": {
+      "hi": [
+        "घुला ठोस और द्रव",
+        "नहीं",
+        "वाष्प बनकर हवा में",
+        "जलवाष्प का संघनन"
+      ],
+      "en": [
+        "dissolved solid and liquid",
+        "no",
+        "into the air as vapour",
+        "condensation of water vapour"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is no. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q199",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कपड़ों का पानी सूखने पर कहाँ जाता है किसके लिए उपयोगी है?",
+      "en": "What is where water goes when clothes dry useful for?"
+    },
+    "options": {
+      "hi": [
+        "नमक घुला हुआ है",
+        "वाष्प बनकर हवा में",
+        "वाष्प को द्रव में बदलने में सहायता",
+        "विपरीत अवस्था परिवर्तन"
+      ],
+      "en": [
+        "salt is dissolved",
+        "into the air as vapour",
+        "helping vapour change to liquid",
+        "opposite state changes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्प बनकर हवा में है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is into the air as vapour. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q200",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ठंडे गिलास के बाहर बूंदों का कारण में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about cause of droplets outside a cold glass?"
+    },
+    "options": {
+      "hi": [
+        "अवशेष",
+        "जलवाष्प का संघनन",
+        "अधिक सतह से वाष्पीकरण",
+        "जल की बूंदें"
+      ],
+      "en": [
+        "residue",
+        "condensation of water vapour",
+        "evaporation from a larger exposed surface",
+        "water droplets"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर जलवाष्प का संघनन है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is condensation of water vapour. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q201",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वाष्पीकरण का उपयोग किस मिश्रण में का मुख्य आधार क्या है?",
+      "en": "What is the main basis of mixture suitable for evaporation?"
+    },
+    "options": {
+      "hi": [
+        "वाष्प का द्रव में बदलना",
+        "घुला ठोस और द्रव",
+        "गैसीय अवस्था से द्रव अवस्था",
+        "द्रव का वाष्प में बदलना"
+      ],
+      "en": [
+        "conversion of vapour into liquid",
+        "dissolved solid and liquid",
+        "gaseous state to liquid state",
+        "conversion of liquid into vapour"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर घुला ठोस और द्रव है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is dissolved solid and liquid. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q202",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "संघनन में ठंडा करने की भूमिका के बारे में सही कथन क्या है?",
+      "en": "Which statement about role of cooling in condensation is correct?"
+    },
+    "options": {
+      "hi": [
+        "वाष्प का द्रव में बदलना",
+        "वाष्प को द्रव में बदलने में सहायता",
+        "वाष्पीकरण",
+        "द्रव का वाष्प में बदलना"
+      ],
+      "en": [
+        "conversion of vapour into liquid",
+        "helping vapour change to liquid",
+        "evaporation",
+        "conversion of liquid into vapour"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर वाष्प को द्रव में बदलने में सहायता है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is helping vapour change to liquid. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q203",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वाष्पीकरण और संघनन का संबंध क्या है?",
+      "en": "What is relationship between evaporation and condensation?"
+    },
+    "options": {
+      "hi": [
+        "वाष्प से द्रव",
+        "विपरीत अवस्था परिवर्तन",
+        "संघनन",
+        "द्रव से वाष्प"
+      ],
+      "en": [
+        "vapour to liquid",
+        "opposite state changes",
+        "condensation",
+        "liquid to vapour"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर विपरीत अवस्था परिवर्तन है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is opposite state changes. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q204",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "नमक के घोल को फिल्टर करने से नमक क्यों नहीं मिलता किसके लिए उपयोगी है?",
+      "en": "What is why filtration does not recover salt from salt solution useful for?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "नमक घुला हुआ है",
+        "द्रव",
+        "पीछे रह सकता है"
+      ],
+      "en": [
+        "no",
+        "salt is dissolved",
+        "liquid",
+        "may remain behind"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर नमक घुला हुआ है है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is salt is dissolved. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q205",
+    "topic": "evaporation-condensation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "उथले पात्र में पानी जल्दी सूखने का कारण में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about reason water can dry faster in a shallow container?"
+    },
+    "options": {
+      "hi": [
+        "घुला ठोस और द्रव",
+        "अधिक सतह से वाष्पीकरण",
+        "वाष्प बनकर हवा में",
+        "जलवाष्प का संघनन"
+      ],
+      "en": [
+        "dissolved solid and liquid",
+        "evaporation from a larger exposed surface",
+        "into the air as vapour",
+        "condensation of water vapour"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर अधिक सतह से वाष्पीकरण है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is evaporation from a larger exposed surface. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q206",
+    "topic": "evaporation-condensation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जलवाष्प ठंडी सतह पर क्या बनाती है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of what water vapour can form on a cool surface?"
+    },
+    "options": {
+      "hi": [
+        "नमक घुला हुआ है",
+        "जल की बूंदें",
+        "वाष्प को द्रव में बदलने में सहायता",
+        "विपरीत अवस्था परिवर्तन"
+      ],
+      "en": [
+        "salt is dissolved",
+        "water droplets",
+        "helping vapour change to liquid",
+        "opposite state changes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर जल की बूंदें है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is water droplets. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q207",
+    "topic": "evaporation-condensation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "वाष्पीकरण से प्राप्त ठोस के बारे में सही कथन क्या है?",
+      "en": "Which statement about solid obtained after evaporation is correct?"
+    },
+    "options": {
+      "hi": [
+        "गैसीय अवस्था से द्रव अवस्था",
+        "अवशेष",
+        "अधिक सतह से वाष्पीकरण",
+        "जल की बूंदें"
+      ],
+      "en": [
+        "gaseous state to liquid state",
+        "residue",
+        "evaporation from a larger exposed surface",
+        "water droplets"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर अवशेष है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is residue. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q208",
+    "topic": "evaporation-condensation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "संघनन में वाष्प की दिशा क्या है?",
+      "en": "What is change during condensation?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "गैसीय अवस्था से द्रव अवस्था",
+        "द्रव का वाष्प में बदलना",
+        "वाष्प का द्रव में बदलना"
+      ],
+      "en": [
+        "evaporation",
+        "gaseous state to liquid state",
+        "conversion of liquid into vapour",
+        "conversion of vapour into liquid"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सही उत्तर गैसीय अवस्था से द्रव अवस्था है। यह द्रव और वाष्प के बीच होने वाले अवस्था परिवर्तन से संबंधित है।",
+      "en": "The correct answer is gaseous state to liquid state. It concerns the change of state between liquid and vapour."
+    }
+  },
+  {
+    "id": "ch4_q209",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "संतृप्त विलयन की परिभाषा क्या है?",
+      "en": "What is definition of saturated solution?"
+    },
+    "options": {
+      "hi": [
+        "निश्चित तापमान पर जिसमें और विलेय नहीं घुलता",
+        "और विलेय डालने पर उसका न घुलना",
+        "तापमान",
+        "तापमान बढ़ने से घुलने की क्षमता बढ़ सकती है"
+      ],
+      "en": [
+        "a solution in which no more solute dissolves at a given temperature",
+        "additional solute does not dissolve",
+        "temperature",
+        "higher temperature can increase dissolving capacity"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर निश्चित तापमान पर जिसमें और विलेय नहीं घुलता है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is a solution in which no more solute dissolves at a given temperature. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q210",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "संतृप्त विलयन की पहचान किसके लिए उपयोगी है?",
+      "en": "What is identifying a saturated solution useful for?"
+    },
+    "options": {
+      "hi": [
+        "और विलेय डालने पर उसका न घुलना",
+        "कुछ विलेय अलग हो सकता है",
+        "जो पदार्थ विलायक में घुलता है",
+        "जिस द्रव में विलेय घुलता है"
+      ],
+      "en": [
+        "additional solute does not dissolve",
+        "some solute may separate",
+        "the substance that dissolves in the solvent",
+        "the liquid in which the solute dissolves"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर और विलेय डालने पर उसका न घुलना है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is additional solute does not dissolve. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q211",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "संतृप्ति की सीमा किससे बदल सकती है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about what can change the saturation limit?"
+    },
+    "options": {
+      "hi": [
+        "तापमान",
+        "चीनी",
+        "पानी",
+        "संतृप्ति की स्थिति"
+      ],
+      "en": [
+        "temperature",
+        "sugar",
+        "water",
+        "a saturated condition"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर तापमान है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is temperature. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q212",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गर्म पानी में अधिक चीनी घुलने का कारण का मुख्य आधार क्या है?",
+      "en": "What is the main basis of reason more sugar can dissolve in warm water?"
+    },
+    "options": {
+      "hi": [
+        "तापमान बढ़ने से घुलने की क्षमता बढ़ सकती है",
+        "घुल नहीं सकता",
+        "हाँ",
+        "नहीं"
+      ],
+      "en": [
+        "higher temperature can increase dissolving capacity",
+        "cannot dissolve",
+        "yes",
+        "no"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर तापमान बढ़ने से घुलने की क्षमता बढ़ सकती है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is higher temperature can increase dissolving capacity. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q213",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने पर अतिरिक्त विलेय का परिणाम के बारे में सही कथन क्या है?",
+      "en": "Which statement about result for excess solute on cooling is correct?"
+    },
+    "options": {
+      "hi": [
+        "कुछ विलेय अलग हो सकता है",
+        "घुलने की सीमा तापमान पर निर्भर कर सकती है",
+        "कुछ ठोसों की घुलनशीलता बढ़ सकती है",
+        "कुछ ठोसों की घुलनशीलता घट सकती है"
+      ],
+      "en": [
+        "some solute may separate",
+        "the dissolving limit can depend on temperature",
+        "solubility of some solids can increase",
+        "solubility of some solids can decrease"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कुछ विलेय अलग हो सकता है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is some solute may separate. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q214",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विलेय की परिभाषा क्या है?",
+      "en": "What is definition of solute?"
+    },
+    "options": {
+      "hi": [
+        "जो पदार्थ विलायक में घुलता है",
+        "अतिरिक्त विलेय नीचे रह सकता है",
+        "विलेय विलायक में घुलता है",
+        "कोई निश्चित रंग जरूरी नहीं"
+      ],
+      "en": [
+        "the substance that dissolves in the solvent",
+        "extra solute may remain at the bottom",
+        "solute dissolves in solvent",
+        "no particular colour is required"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर जो पदार्थ विलायक में घुलता है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is the substance that dissolves in the solvent. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q215",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विलायक की परिभाषा किसके लिए उपयोगी है?",
+      "en": "What is definition of solvent useful for?"
+    },
+    "options": {
+      "hi": [
+        "जिस द्रव में विलेय घुलता है",
+        "कि कोई विलेय घुला ही नहीं है",
+        "घुलने की सीमा बदल सकती है",
+        "निश्चित तापमान पर जिसमें और विलेय नहीं घुलता"
+      ],
+      "en": [
+        "the liquid in which the solute dissolves",
+        "that no solute is dissolved",
+        "the dissolving limit can change",
+        "a solution in which no more solute dissolves at a given temperature"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर जिस द्रव में विलेय घुलता है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is the liquid in which the solute dissolves. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q216",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चीनी-पानी में विलेय में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about solute in sugar-water?"
+    },
+    "options": {
+      "hi": [
+        "चीनी",
+        "और विलेय डालने पर उसका न घुलना",
+        "तापमान",
+        "तापमान बढ़ने से घुलने की क्षमता बढ़ सकती है"
+      ],
+      "en": [
+        "sugar",
+        "additional solute does not dissolve",
+        "temperature",
+        "higher temperature can increase dissolving capacity"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर चीनी है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is sugar. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q217",
+    "topic": "saturated-solution",
+    "difficulty": "hard",
+    "question": {
+      "hi": "चीनी-पानी में विलायक का मुख्य आधार क्या है?",
+      "en": "What is the main basis of solvent in sugar-water?"
+    },
+    "options": {
+      "hi": [
+        "पानी",
+        "कुछ विलेय अलग हो सकता है",
+        "जो पदार्थ विलायक में घुलता है",
+        "जिस द्रव में विलेय घुलता है"
+      ],
+      "en": [
+        "water",
+        "some solute may separate",
+        "the substance that dissolves in the solvent",
+        "the liquid in which the solute dissolves"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर पानी है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is water. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q218",
+    "topic": "saturated-solution",
+    "difficulty": "hard",
+    "question": {
+      "hi": "नमक डालते रहने पर घुलना बंद होने का अर्थ के बारे में सही कथन क्या है?",
+      "en": "Which statement about meaning when salt stops dissolving is correct?"
+    },
+    "options": {
+      "hi": [
+        "संतृप्ति की स्थिति",
+        "चीनी",
+        "पानी",
+        "घुल नहीं सकता"
+      ],
+      "en": [
+        "a saturated condition",
+        "sugar",
+        "water",
+        "cannot dissolve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर संतृप्ति की स्थिति है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is a saturated condition. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q219",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "संतृप्त विलयन में अतिरिक्त नमक क्या है?",
+      "en": "What is extra salt in a saturated solution?"
+    },
+    "options": {
+      "hi": [
+        "घुल नहीं सकता",
+        "हाँ",
+        "नहीं",
+        "घुलने की सीमा तापमान पर निर्भर कर सकती है"
+      ],
+      "en": [
+        "cannot dissolve",
+        "yes",
+        "no",
+        "the dissolving limit can depend on temperature"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर घुल नहीं सकता है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is cannot dissolve. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q220",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या संतृप्त विलयन में विलेय होता है किसके लिए उपयोगी है?",
+      "en": "What is whether a saturated solution contains solute useful for?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "कुछ ठोसों की घुलनशीलता बढ़ सकती है",
+        "कुछ ठोसों की घुलनशीलता घट सकती है",
+        "अतिरिक्त विलेय नीचे रह सकता है"
+      ],
+      "en": [
+        "yes",
+        "solubility of some solids can increase",
+        "solubility of some solids can decrease",
+        "extra solute may remain at the bottom"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर हाँ है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is yes. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q221",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या संतृप्त विलयन में और विलेय अनंत मात्रा में घुलता है में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about whether unlimited solute dissolves in a saturated solution?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "विलेय विलायक में घुलता है",
+        "कोई निश्चित रंग जरूरी नहीं",
+        "कि कोई विलेय घुला ही नहीं है"
+      ],
+      "en": [
+        "no",
+        "solute dissolves in solvent",
+        "no particular colour is required",
+        "that no solute is dissolved"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर नहीं है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is no. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q222",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निश्चित तापमान का महत्व का मुख्य आधार क्या है?",
+      "en": "What is the main basis of importance of a given temperature?"
+    },
+    "options": {
+      "hi": [
+        "घुलने की सीमा तापमान पर निर्भर कर सकती है",
+        "घुलने की सीमा बदल सकती है",
+        "निश्चित तापमान पर जिसमें और विलेय नहीं घुलता",
+        "और विलेय डालने पर उसका न घुलना"
+      ],
+      "en": [
+        "the dissolving limit can depend on temperature",
+        "the dissolving limit can change",
+        "a solution in which no more solute dissolves at a given temperature",
+        "additional solute does not dissolve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर घुलने की सीमा तापमान पर निर्भर कर सकती है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is the dissolving limit can depend on temperature. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q223",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गर्म करने का सामान्य प्रभाव के बारे में सही कथन क्या है?",
+      "en": "Which statement about general effect of heating is correct?"
+    },
+    "options": {
+      "hi": [
+        "कुछ ठोसों की घुलनशीलता बढ़ सकती है",
+        "तापमान",
+        "तापमान बढ़ने से घुलने की क्षमता बढ़ सकती है",
+        "कुछ विलेय अलग हो सकता है"
+      ],
+      "en": [
+        "solubility of some solids can increase",
+        "temperature",
+        "higher temperature can increase dissolving capacity",
+        "some solute may separate"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कुछ ठोसों की घुलनशीलता बढ़ सकती है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is solubility of some solids can increase. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q224",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ठंडा करने का सामान्य प्रभाव क्या है?",
+      "en": "What is general effect of cooling?"
+    },
+    "options": {
+      "hi": [
+        "कुछ ठोसों की घुलनशीलता घट सकती है",
+        "जो पदार्थ विलायक में घुलता है",
+        "जिस द्रव में विलेय घुलता है",
+        "चीनी"
+      ],
+      "en": [
+        "solubility of some solids can decrease",
+        "the substance that dissolves in the solvent",
+        "the liquid in which the solute dissolves",
+        "sugar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कुछ ठोसों की घुलनशीलता घट सकती है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is solubility of some solids can decrease. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q225",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "घुलनशीलता की सीमा पार होने पर किसके लिए उपयोगी है?",
+      "en": "What is when the solubility limit is reached useful for?"
+    },
+    "options": {
+      "hi": [
+        "अतिरिक्त विलेय नीचे रह सकता है",
+        "पानी",
+        "संतृप्ति की स्थिति",
+        "घुल नहीं सकता"
+      ],
+      "en": [
+        "extra solute may remain at the bottom",
+        "water",
+        "a saturated condition",
+        "cannot dissolve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर अतिरिक्त विलेय नीचे रह सकता है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is extra solute may remain at the bottom. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q226",
+    "topic": "saturated-solution",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विलेय और विलायक का संबंध में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about relationship between solute and solvent?"
+    },
+    "options": {
+      "hi": [
+        "विलेय विलायक में घुलता है",
+        "हाँ",
+        "नहीं",
+        "घुलने की सीमा तापमान पर निर्भर कर सकती है"
+      ],
+      "en": [
+        "solute dissolves in solvent",
+        "yes",
+        "no",
+        "the dissolving limit can depend on temperature"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर विलेय विलायक में घुलता है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is solute dissolves in solvent. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q227",
+    "topic": "saturated-solution",
+    "difficulty": "hard",
+    "question": {
+      "hi": "संतृप्त विलयन का रंग कैसा होना जरूरी है का मुख्य आधार क्या है?",
+      "en": "What is the main basis of whether a saturated solution must have a particular colour?"
+    },
+    "options": {
+      "hi": [
+        "कोई निश्चित रंग जरूरी नहीं",
+        "कुछ ठोसों की घुलनशीलता बढ़ सकती है",
+        "कुछ ठोसों की घुलनशीलता घट सकती है",
+        "अतिरिक्त विलेय नीचे रह सकता है"
+      ],
+      "en": [
+        "no particular colour is required",
+        "solubility of some solids can increase",
+        "solubility of some solids can decrease",
+        "extra solute may remain at the bottom"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कोई निश्चित रंग जरूरी नहीं है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is no particular colour is required. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q228",
+    "topic": "saturated-solution",
+    "difficulty": "hard",
+    "question": {
+      "hi": "संतृप्त विलयन का अर्थ क्या नहीं है के बारे में सही कथन क्या है?",
+      "en": "Which statement about what saturated solution does not mean is correct?"
+    },
+    "options": {
+      "hi": [
+        "कि कोई विलेय घुला ही नहीं है",
+        "विलेय विलायक में घुलता है",
+        "कोई निश्चित रंग जरूरी नहीं",
+        "घुलने की सीमा बदल सकती है"
+      ],
+      "en": [
+        "that no solute is dissolved",
+        "solute dissolves in solvent",
+        "no particular colour is required",
+        "the dissolving limit can change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर कि कोई विलेय घुला ही नहीं है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is that no solute is dissolved. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q229",
+    "topic": "saturated-solution",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तापमान बदलने पर संतृप्ति क्या है?",
+      "en": "What is saturation when temperature changes?"
+    },
+    "options": {
+      "hi": [
+        "घुलने की सीमा बदल सकती है",
+        "निश्चित तापमान पर जिसमें और विलेय नहीं घुलता",
+        "और विलेय डालने पर उसका न घुलना",
+        "तापमान"
+      ],
+      "en": [
+        "the dissolving limit can change",
+        "a solution in which no more solute dissolves at a given temperature",
+        "additional solute does not dissolve",
+        "temperature"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सही उत्तर घुलने की सीमा बदल सकती है है। संतृप्त विलयन में निश्चित तापमान पर और विलेय के घुलने की सीमा पूरी हो जाती है।",
+      "en": "The correct answer is the dissolving limit can change. In a saturated solution, the dissolving limit is reached at a given temperature."
+    }
+  },
+  {
+    "id": "ch4_q230",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्थर और चावल के मिश्रण में पहले उपयोगी सरल विधि क्या है?",
+      "en": "What is simple first method for stones and rice?"
+    },
+    "options": {
+      "hi": [
+        "थ्रेशिंग",
+        "ओसाई",
+        "चालनी",
+        "हस्तचयन"
+      ],
+      "en": [
+        "threshing",
+        "winnowing",
+        "sieving",
+        "handpicking"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q231",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गेहूँ के पौधे से दाने अलग करने की पहली विधि किसके लिए उपयोगी है?",
+      "en": "What is first method for separating grains from wheat stalks useful for?"
+    },
+    "options": {
+      "hi": [
+        "अवसादन",
+        "निस्तारण",
+        "निस्यंदन",
+        "थ्रेशिंग"
+      ],
+      "en": [
+        "sedimentation",
+        "decantation",
+        "filtration",
+        "threshing"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर थ्रेशिंग है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is threshing because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q232",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "थ्रेशिंग के बाद हल्की भूसी अलग करने की विधि में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about method for separating light husk after threshing?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "नमक को घोलना",
+        "हस्तचयन",
+        "ओसाई"
+      ],
+      "en": [
+        "evaporation",
+        "to dissolve the salt",
+        "handpicking",
+        "winnowing"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर ओसाई है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is winnowing because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q233",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "आटे में बड़े कण अलग करने की विधि का मुख्य आधार क्या है?",
+      "en": "What is the main basis of method for separating large particles from flour?"
+    },
+    "options": {
+      "hi": [
+        "निस्यंदन",
+        "जल का वाष्पीकरण",
+        "अवसादन के बाद निस्यंदन",
+        "चालनी"
+      ],
+      "en": [
+        "filtration",
+        "evaporation of water",
+        "sedimentation followed by filtration",
+        "sieving"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर चालनी है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is sieving because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q234",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रेत-पानी में पहले होने वाली प्रक्रिया के बारे में सही कथन क्या है?",
+      "en": "Which statement about first process in sand-water mixture is correct?"
+    },
+    "options": {
+      "hi": [
+        "हस्तचयन के बाद ओसाई",
+        "अलग घटकों के अलग गुण",
+        "घटकों के गुण और वांछित पदार्थ",
+        "अवसादन"
+      ],
+      "en": [
+        "handpicking followed by winnowing",
+        "different properties of different components",
+        "component properties and the desired substance",
+        "sedimentation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अवसादन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is sedimentation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q235",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अवसादन के बाद ऊपर का पानी अलग करने की विधि क्या है?",
+      "en": "What is method for separating upper water after sedimentation?"
+    },
+    "options": {
+      "hi": [
+        "नमक घुला हुआ है",
+        "पानी में घोलना, निस्यंदन, वाष्पीकरण",
+        "निस्यंदन फिर वाष्पीकरण",
+        "निस्तारण"
+      ],
+      "en": [
+        "salt is dissolved",
+        "dissolving in water, filtration, evaporation",
+        "filtration then evaporation",
+        "decantation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर निस्तारण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is decantation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q236",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रेत-पानी के महीन कणों के लिए विधि किसके लिए उपयोगी है?",
+      "en": "What is method for fine particles in sand-water useful for?"
+    },
+    "options": {
+      "hi": [
+        "हर घटक के लिए उपयुक्त गुण का उपयोग",
+        "हस्तचयन",
+        "थ्रेशिंग",
+        "निस्यंदन"
+      ],
+      "en": [
+        "using a suitable property for each component",
+        "handpicking",
+        "threshing",
+        "filtration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर निस्यंदन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is filtration because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q237",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "नमक-पानी से नमक पाने की विधि में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about method for obtaining salt from salt water?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "चालनी",
+        "अवसादन",
+        "वाष्पीकरण"
+      ],
+      "en": [
+        "winnowing",
+        "sieving",
+        "sedimentation",
+        "evaporation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर वाष्पीकरण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is evaporation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q238",
+    "topic": "combined-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "चाय की पत्तियाँ हटाने के बाद घुली चीनी पाने की विधि का मुख्य आधार क्या है?",
+      "en": "What is the main basis of method for recovering dissolved sugar after removing tea leaves?"
+    },
+    "options": {
+      "hi": [
+        "निस्तारण",
+        "निस्यंदन",
+        "नमक को घोलना",
+        "वाष्पीकरण"
+      ],
+      "en": [
+        "decantation",
+        "filtration",
+        "to dissolve the salt",
+        "evaporation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर वाष्पीकरण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is evaporation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q239",
+    "topic": "combined-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "नमक और रेत के मिश्रण में पानी डालने का उद्देश्य के बारे में सही कथन क्या है?",
+      "en": "Which statement about purpose of adding water to salt and sand is correct?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "निस्यंदन",
+        "हस्तचयन",
+        "नमक को घोलना"
+      ],
+      "en": [
+        "evaporation",
+        "filtration",
+        "handpicking",
+        "to dissolve the salt"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नमक को घोलना है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is to dissolve the salt because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q240",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "नमक-रेत-पानी में रेत अलग करने की विधि क्या है?",
+      "en": "What is method for separating sand from salt-water mixture?"
+    },
+    "options": {
+      "hi": [
+        "हस्तचयन के बाद ओसाई",
+        "अलग घटकों के अलग गुण",
+        "घटकों के गुण और वांछित पदार्थ",
+        "निस्यंदन"
+      ],
+      "en": [
+        "handpicking followed by winnowing",
+        "different properties of different components",
+        "component properties and the desired substance",
+        "filtration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर निस्यंदन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is filtration because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q241",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "नमक-रेत मिश्रण में अंतिम नमक प्राप्त करने की विधि किसके लिए उपयोगी है?",
+      "en": "What is method for finally obtaining salt from salt-sand mixture useful for?"
+    },
+    "options": {
+      "hi": [
+        "अलग घटकों के अलग गुण",
+        "घटकों के गुण और वांछित पदार्थ",
+        "नमक घुला हुआ है",
+        "जल का वाष्पीकरण"
+      ],
+      "en": [
+        "different properties of different components",
+        "component properties and the desired substance",
+        "salt is dissolved",
+        "evaporation of water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर जल का वाष्पीकरण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is evaporation of water because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q242",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मिट्टी वाले पानी को अधिक साफ करने का क्रम में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about sequence to make muddy water clearer?"
+    },
+    "options": {
+      "hi": [
+        "पानी में घोलना, निस्यंदन, वाष्पीकरण",
+        "निस्यंदन फिर वाष्पीकरण",
+        "हल्के और भारी घटकों का अंतर",
+        "अवसादन के बाद निस्यंदन"
+      ],
+      "en": [
+        "dissolving in water, filtration, evaporation",
+        "filtration then evaporation",
+        "difference between lighter and heavier components",
+        "sedimentation followed by filtration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अवसादन के बाद निस्यंदन है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is sedimentation followed by filtration because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q243",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बड़े पत्थर और भूसी वाले अनाज का क्रम का मुख्य आधार क्या है?",
+      "en": "What is the main basis of sequence for grain with large stones and husk?"
+    },
+    "options": {
+      "hi": [
+        "हर घटक के लिए उपयुक्त गुण का उपयोग",
+        "हस्तचयन",
+        "थ्रेशिंग",
+        "हस्तचयन के बाद ओसाई"
+      ],
+      "en": [
+        "using a suitable property for each component",
+        "handpicking",
+        "threshing",
+        "handpicking followed by winnowing"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हस्तचयन के बाद ओसाई है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is handpicking followed by winnowing because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q244",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "एक मिश्रण में कई विधियाँ क्यों लग सकती हैं के बारे में सही कथन क्या है?",
+      "en": "Which statement about why several methods may be needed for one mixture is correct?"
+    },
+    "options": {
+      "hi": [
+        "ओसाई",
+        "चालनी",
+        "अवसादन",
+        "अलग घटकों के अलग गुण"
+      ],
+      "en": [
+        "winnowing",
+        "sieving",
+        "sedimentation",
+        "different properties of different components"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर अलग घटकों के अलग गुण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is different properties of different components because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q245",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विधियों का क्रम किस पर निर्भर करता है क्या है?",
+      "en": "What is what determines the sequence of methods?"
+    },
+    "options": {
+      "hi": [
+        "निस्तारण",
+        "निस्यंदन",
+        "वाष्पीकरण",
+        "घटकों के गुण और वांछित पदार्थ"
+      ],
+      "en": [
+        "decantation",
+        "filtration",
+        "evaporation",
+        "component properties and the desired substance"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर घटकों के गुण और वांछित पदार्थ है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is component properties and the desired substance because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q246",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "नमक-पानी को चालनी से अलग करने की असफलता का कारण किसके लिए उपयोगी है?",
+      "en": "What is reason sieving fails for salt-water useful for?"
+    },
+    "options": {
+      "hi": [
+        "वाष्पीकरण",
+        "नमक को घोलना",
+        "निस्यंदन",
+        "नमक घुला हुआ है"
+      ],
+      "en": [
+        "evaporation",
+        "to dissolve the salt",
+        "filtration",
+        "salt is dissolved"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर नमक घुला हुआ है है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is salt is dissolved because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q247",
+    "topic": "combined-separation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रेत और नमक को सूखे मिश्रण से अलग करने का उचित क्रम में कौन सा उत्तर सही है?",
+      "en": "Which answer is correct about suitable sequence for dry sand and salt?"
+    },
+    "options": {
+      "hi": [
+        "जल का वाष्पीकरण",
+        "अवसादन के बाद निस्यंदन",
+        "हस्तचयन के बाद ओसाई",
+        "पानी में घोलना, निस्यंदन, वाष्पीकरण"
+      ],
+      "en": [
+        "evaporation of water",
+        "sedimentation followed by filtration",
+        "handpicking followed by winnowing",
+        "dissolving in water, filtration, evaporation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर पानी में घोलना, निस्यंदन, वाष्पीकरण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is dissolving in water, filtration, evaporation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q248",
+    "topic": "combined-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "चाय से पत्तियाँ और फिर चीनी अलग करने का क्रम का मुख्य आधार क्या है?",
+      "en": "What is the main basis of sequence to separate tea leaves and then sugar?"
+    },
+    "options": {
+      "hi": [
+        "अलग घटकों के अलग गुण",
+        "घटकों के गुण और वांछित पदार्थ",
+        "नमक घुला हुआ है",
+        "निस्यंदन फिर वाष्पीकरण"
+      ],
+      "en": [
+        "different properties of different components",
+        "component properties and the desired substance",
+        "salt is dissolved",
+        "filtration then evaporation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर निस्यंदन फिर वाष्पीकरण है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is filtration then evaporation because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q249",
+    "topic": "combined-separation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "भूसी और अनाज में अलगाव का आधार के बारे में सही कथन क्या है?",
+      "en": "Which statement about basis for separating husk and grain is correct?"
+    },
+    "options": {
+      "hi": [
+        "पानी में घोलना, निस्यंदन, वाष्पीकरण",
+        "निस्यंदन फिर वाष्पीकरण",
+        "हर घटक के लिए उपयुक्त गुण का उपयोग",
+        "हल्के और भारी घटकों का अंतर"
+      ],
+      "en": [
+        "dissolving in water, filtration, evaporation",
+        "filtration then evaporation",
+        "using a suitable property for each component",
+        "difference between lighter and heavier components"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हल्के और भारी घटकों का अंतर है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is difference between lighter and heavier components because it states the process or principle described in this chapter on separation of substances."
+    }
+  },
+  {
+    "id": "ch4_q250",
+    "topic": "combined-separation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अलग-अलग चरणों में अलग विधि चुनने का लाभ क्या है?",
+      "en": "What is benefit of choosing different methods at different stages?"
+    },
+    "options": {
+      "hi": [
+        "हस्तचयन",
+        "थ्रेशिंग",
+        "ओसाई",
+        "हर घटक के लिए उपयुक्त गुण का उपयोग"
+      ],
+      "en": [
+        "handpicking",
+        "threshing",
+        "winnowing",
+        "using a suitable property for each component"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सही उत्तर हर घटक के लिए उपयुक्त गुण का उपयोग है क्योंकि यह पदार्थों के पृथक्करण से संबंधित अध्याय में वर्णित प्रक्रिया या सिद्धांत को बताता है।",
+      "en": "The correct answer is using a suitable property for each component because it states the process or principle described in this chapter on separation of substances."
+    }
+  }
+]
