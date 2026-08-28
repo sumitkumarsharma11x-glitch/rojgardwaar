@@ -8,467 +8,396 @@
   "chapter": "chapter-02",
   "chapterNumber": 2,
   "chapterName": {
-    "hi": "पदार्थों का समूहों में वर्गीकरण",
-    "en": "Sorting Materials into Groups"
+    "hi": "रेशों से वस्त्र तक",
+    "en": "Fibre to Fabric"
   },
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "objects-materials",
+      "id": "fibres-overview",
       "name": {
-        "hi": "वस्तुएँ और पदार्थ",
-        "en": "Objects and Materials"
+        "hi": "रेशों का परिचय",
+        "en": "Introduction to Fibres"
       }
     },
     {
-      "id": "properties",
+      "id": "cotton-jute",
       "name": {
-        "hi": "पदार्थों के गुण",
-        "en": "Properties of Materials"
+        "hi": "कपास और जूट",
+        "en": "Cotton and Jute"
       }
     },
     {
-      "id": "appearance",
+      "id": "wool",
       "name": {
-        "hi": "दिखावट और लस्टर",
-        "en": "Appearance and Lustre"
+        "hi": "ऊन",
+        "en": "Wool"
       }
     },
     {
-      "id": "hardness",
+      "id": "silk",
       "name": {
-        "hi": "कठोरता और मुलायमपन",
-        "en": "Hardness and Softness"
+        "hi": "रेशम",
+        "en": "Silk"
       }
     },
     {
-      "id": "solubility",
+      "id": "spinning-weaving",
       "name": {
-        "hi": "जल में घुलनशीलता",
-        "en": "Solubility in Water"
+        "hi": "कताई और बुनाई",
+        "en": "Spinning and Weaving"
       }
     },
     {
-      "id": "liquids",
+      "id": "fibre-to-fabric",
       "name": {
-        "hi": "द्रव और जल",
-        "en": "Liquids and Water"
-      }
-    },
-    {
-      "id": "float-sink",
-      "name": {
-        "hi": "तैरना और डूबना",
-        "en": "Floating and Sinking"
-      }
-    },
-    {
-      "id": "transparency",
-      "name": {
-        "hi": "पारदर्शिता",
-        "en": "Transparency"
-      }
-    },
-    {
-      "id": "grouping",
-      "name": {
-        "hi": "पदार्थों का वर्गीकरण",
-        "en": "Grouping Materials"
+        "hi": "रेशे से वस्त्र तक",
+        "en": "From Fibre to Fabric"
       }
     }
   ],
   "notes": {
     "hi": {
-      "concept": "हमारे आसपास अनेक प्रकार की वस्तुएँ हैं और वे अलग-अलग पदार्थों से बनी होती हैं। पदार्थों के गुण, जैसे दिखावट, लस्टर, कठोरता और जल में घुलनशीलता अलग-अलग हो सकते हैं। इन समानताओं और अंतरों के आधार पर वस्तुओं और पदार्थों को समूहों में बाँटा जा सकता है।",
-      "example": "घर और दुकान में समान वस्तुएँ साथ रखी जाती हैं। इससे वस्तुओं को ढूँढना आसान होता है और उनके गुणों का अध्ययन भी सुविधाजनक होता है।",
+      "concept": "रेशे पौधों और जन्तुओं से प्राप्त प्राकृतिक पदार्थ हैं जिनसे धागा और वस्त्र बनाए जाते हैं। कपास और जूट पौधों से, जबकि ऊन और रेशम जन्तुओं से प्राप्त होते हैं। कताई से धागा और बुनाई से कपड़ा बनाया जाता है।",
+      "example": "कपास के रेशे को कातकर धागा बनाया जाता है। धागे को करघे पर बुनकर कपड़ा और फिर कपड़े से वस्त्र तैयार किया जा सकता है।",
       "sections": [
         {
-          "title": "वस्तुएँ और पदार्थ",
-          "concept": "वस्तुएँ एक या अधिक पदार्थों से बनी हो सकती हैं।",
-          "explanation": "एक पदार्थ से कई वस्तुएँ बन सकती हैं और एक वस्तु कई पदार्थों से बनी हो सकती है। आकार या पदार्थ के आधार पर समूह बनाए जा सकते हैं।",
-          "example": "प्लास्टिक से बाल्टी, खिलौना और पाइप बनाए जा सकते हैं।",
+          "title": "रेशों का परिचय",
+          "concept": "रेशे पतले पदार्थ होते हैं जिनसे धागा और वस्त्र बनाए जा सकते हैं।",
+          "explanation": "कुछ रेशे पौधों से और कुछ जन्तुओं से प्राप्त होते हैं। कपास और जूट पौध रेशे हैं। ऊन और रेशम जन्तु स्रोतों से प्राप्त होते हैं। रेशों को उपयुक्त प्रक्रिया से धागे में बदला जाता है और धागे से कपड़ा बनाया जाता है।",
+          "example": "",
           "keyPoints": [
-            "गुण पहचानें",
-            "उदाहरण से जोड़ें",
-            "समानता और अंतर देखें",
-            "उपयोग के अनुसार पदार्थ चुनें",
-            "समूह बनाने का कारण समझें"
+            "रेशे पतले पदार्थ होते हैं जिनसे धागा और वस्त्र बनाए जा सकते हैं।",
+            "रेशे का स्रोत उसकी प्राप्ति की विधि को निर्धारित करता है।",
+            "रेशे से धागा बनाया जा सकता है।",
+            "धागे से कपड़ा बनाया जा सकता है।",
+            "विभिन्न रेशों की तैयारी अलग हो सकती है।"
           ]
         },
         {
-          "title": "पदार्थों के गुण",
-          "concept": "पदार्थों के अलग-अलग गुण होते हैं।",
-          "explanation": "किसी वस्तु के लिए पदार्थ चुनते समय उसके गुण और वस्तु का उद्देश्य दोनों देखे जाते हैं।",
-          "example": "जल रखने वाले गिलास के लिए कपड़ा उपयुक्त नहीं है।",
+          "title": "कपास और जूट",
+          "concept": "कपास और जूट पौधों से प्राप्त प्राकृतिक रेशे हैं।",
+          "explanation": "कपास के रेशे कपास के पौधे के फल में पाए जाते हैं। कपास की खेती गर्म परिस्थितियों में की जाती है। जूट का रेशा जूट पौधे के तने से प्राप्त होता है। जूट के तनों को पानी में भिगोने से रेशों को अलग करने में सहायता मिलती है।",
+          "example": "",
           "keyPoints": [
-            "गुण पहचानें",
-            "उदाहरण से जोड़ें",
-            "समानता और अंतर देखें",
-            "उपयोग के अनुसार पदार्थ चुनें",
-            "समूह बनाने का कारण समझें"
+            "कपास और जूट पौधों से प्राप्त प्राकृतिक रेशे हैं।",
+            "रेशे का स्रोत उसकी प्राप्ति की विधि को निर्धारित करता है।",
+            "रेशे से धागा बनाया जा सकता है।",
+            "धागे से कपड़ा बनाया जा सकता है।",
+            "विभिन्न रेशों की तैयारी अलग हो सकती है।"
           ]
         },
         {
-          "title": "दिखावट और लस्टर",
-          "concept": "कुछ पदार्थ चमकीले दिखाई देते हैं; इस चमक को लस्टर कहते हैं।",
-          "explanation": "लोहा, ताँबा, एल्युमिनियम और सोना लस्टर दिखाने वाली धातुओं के उदाहरण हैं। हवा और नमी से कुछ धातुओं की चमक कम हो सकती है।",
-          "example": "ताज़ा कटी धातु की सतह अधिक चमकीली दिखाई दे सकती है।",
+          "title": "ऊन",
+          "concept": "ऊन मुख्यतः भेड़ और कुछ अन्य जन्तुओं के बालों से प्राप्त होती है।",
+          "explanation": "भेड़ के शरीर का बालों वाला आवरण काटकर ऊन प्राप्त की जाती है। प्राप्त सामग्री को साफ और छाँटकर आगे उपयोग के लिए तैयार किया जाता है। बकरी, याक और ऊँट जैसे जन्तुओं से भी ऊन प्राप्त की जा सकती है। ऊन से गर्म वस्त्र बनाए जाते हैं।",
+          "example": "",
           "keyPoints": [
-            "गुण पहचानें",
-            "उदाहरण से जोड़ें",
-            "समानता और अंतर देखें",
-            "उपयोग के अनुसार पदार्थ चुनें",
-            "समूह बनाने का कारण समझें"
+            "ऊन मुख्यतः भेड़ और कुछ अन्य जन्तुओं के बालों से प्राप्त होती है।",
+            "रेशे का स्रोत उसकी प्राप्ति की विधि को निर्धारित करता है।",
+            "रेशे से धागा बनाया जा सकता है।",
+            "धागे से कपड़ा बनाया जा सकता है।",
+            "विभिन्न रेशों की तैयारी अलग हो सकती है।"
           ]
         },
         {
-          "title": "कठोरता और मुलायमपन",
-          "concept": "जो पदार्थ आसानी से दब या खरोंचे जाएँ वे मुलायम और जो कठिनाई से दबें या खरोंचे जाएँ वे कठोर कहलाते हैं।",
-          "explanation": "खरोंचने या दबाने के अवलोकन से पदार्थों की कठोरता की तुलना की जा सकती है।",
-          "example": "कपास मुलायम और लोहा कठोर पदार्थ है।",
+          "title": "रेशम",
+          "concept": "रेशम रेशमकीट के कोकून से प्राप्त प्राकृतिक रेशा है।",
+          "explanation": "रेशमकीट के जीवन चक्र में अंडा, लार्वा या कैटरपिलर, प्यूपा और वयस्क अवस्थाएँ होती हैं। कैटरपिलर रेशम का धागा बनाकर अपने चारों ओर कोकून बनाता है। कोकून से महीन रेशम का धागा प्राप्त किया जाता है।",
+          "example": "",
           "keyPoints": [
-            "गुण पहचानें",
-            "उदाहरण से जोड़ें",
-            "समानता और अंतर देखें",
-            "उपयोग के अनुसार पदार्थ चुनें",
-            "समूह बनाने का कारण समझें"
+            "रेशम रेशमकीट के कोकून से प्राप्त प्राकृतिक रेशा है।",
+            "रेशे का स्रोत उसकी प्राप्ति की विधि को निर्धारित करता है।",
+            "रेशे से धागा बनाया जा सकता है।",
+            "धागे से कपड़ा बनाया जा सकता है।",
+            "विभिन्न रेशों की तैयारी अलग हो सकती है।"
           ]
         },
         {
-          "title": "जल में घुलनशीलता",
-          "concept": "कुछ पदार्थ जल में घुलते हैं और कुछ नहीं।",
-          "explanation": "जल में घुलने वाले पदार्थ घुलनशील और न घुलने वाले अघुलनशील कहलाते हैं।",
-          "example": "नमक और चीनी जल में घुलते हैं।",
+          "title": "कताई और बुनाई",
+          "concept": "कताई में रेशों को धागे में बदला जाता है और बुनाई में धागे से कपड़ा बनाया जाता है।",
+          "explanation": "तकली और चरखा कताई के उपकरण हैं। करघे पर धागों को व्यवस्थित करके कपड़ा बनाया जाता है। हाथकरघा और बिजली से चलने वाले करघे कपड़ा बनाने में उपयोग किए जाते हैं।",
+          "example": "",
           "keyPoints": [
-            "गुण पहचानें",
-            "उदाहरण से जोड़ें",
-            "समानता और अंतर देखें",
-            "उपयोग के अनुसार पदार्थ चुनें",
-            "समूह बनाने का कारण समझें"
+            "कताई में रेशों को धागे में बदला जाता है और बुनाई में धागे से कपड़ा बनाया जाता है।",
+            "रेशे का स्रोत उसकी प्राप्ति की विधि को निर्धारित करता है।",
+            "रेशे से धागा बनाया जा सकता है।",
+            "धागे से कपड़ा बनाया जा सकता है।",
+            "विभिन्न रेशों की तैयारी अलग हो सकती है।"
           ]
         },
         {
-          "title": "पदार्थों का वर्गीकरण",
-          "concept": "समानताओं और अंतरों के आधार पर पदार्थों को समूहों में रखा जा सकता है।",
-          "explanation": "समूह बनाना रोजमर्रा में सुविधा देता है और पदार्थों के गुणों का अध्ययन आसान करता है।",
-          "example": "किराना दुकानदार बिस्कुट, साबुन, अनाज और दालों को अलग-अलग रखता है।",
+          "title": "रेशे से वस्त्र तक",
+          "concept": "रेशे से वस्त्र बनने में कई क्रमिक चरण होते हैं।",
+          "explanation": "प्राकृतिक स्रोत से रेशा प्राप्त किया जाता है और उसे आवश्यक रूप से साफ तथा तैयार किया जाता है। फिर कताई से धागा बनाया जाता है। धागे से बुनाई द्वारा कपड़ा बनाया जाता है। कपड़े से विभिन्न वस्त्र तैयार किए जाते हैं।",
+          "example": "",
           "keyPoints": [
-            "गुण पहचानें",
-            "उदाहरण से जोड़ें",
-            "समानता और अंतर देखें",
-            "उपयोग के अनुसार पदार्थ चुनें",
-            "समूह बनाने का कारण समझें"
-          ]
-        },
-        {
-          "title": "द्रव और जल",
-          "concept": "अलग-अलग द्रव जल के साथ अलग व्यवहार कर सकते हैं।",
-          "explanation": "कुछ द्रव जल में मिल जाते हैं और कुछ नहीं मिलते।",
-          "example": "सिरका जल में मिलता है, जबकि तेल और केरोसिन नहीं मिलते।",
-          "keyPoints": [
-            "अवधारणा पहचानें",
-            "उदाहरण याद रखें",
-            "गुणों में अंतर समझें",
-            "अवलोकन पर ध्यान दें",
-            "MCQ में शब्दों को ध्यान से पढ़ें"
-          ]
-        },
-        {
-          "title": "तैरना और डूबना",
-          "concept": "कुछ पदार्थ जल पर तैरते हैं और कुछ जल में डूबते हैं।",
-          "explanation": "वस्तुओं को जल में रखकर उनके व्यवहार का अवलोकन किया जा सकता है।",
-          "example": "अलग-अलग वस्तुओं को जल में डालकर तैरने या डूबने का परीक्षण किया जा सकता है।",
-          "keyPoints": [
-            "अवधारणा पहचानें",
-            "उदाहरण याद रखें",
-            "गुणों में अंतर समझें",
-            "अवलोकन पर ध्यान दें",
-            "MCQ में शब्दों को ध्यान से पढ़ें"
-          ]
-        },
-        {
-          "title": "पारदर्शिता",
-          "concept": "पदार्थ पारदर्शी, पारभासी या अपारदर्शी हो सकते हैं।",
-          "explanation": "पारदर्शी में वस्तुएँ स्पष्ट दिखती हैं, पारभासी में स्पष्ट नहीं और अपारदर्शी में दिखाई नहीं देतीं।",
-          "example": "काँच पारदर्शी और लकड़ी अपारदर्शी का उदाहरण है।",
-          "keyPoints": [
-            "अवधारणा पहचानें",
-            "उदाहरण याद रखें",
-            "गुणों में अंतर समझें",
-            "अवलोकन पर ध्यान दें",
-            "MCQ में शब्दों को ध्यान से पढ़ें"
+            "रेशे से वस्त्र बनने में कई क्रमिक चरण होते हैं।",
+            "रेशे का स्रोत उसकी प्राप्ति की विधि को निर्धारित करता है।",
+            "रेशे से धागा बनाया जा सकता है।",
+            "धागे से कपड़ा बनाया जा सकता है।",
+            "विभिन्न रेशों की तैयारी अलग हो सकती है।"
           ]
         }
       ],
       "keyPoints": [
-        "वस्तुएँ एक या अधिक पदार्थों से बनी हो सकती हैं।",
-        "एक पदार्थ से कई वस्तुएँ बन सकती हैं।",
-        "पदार्थों के गुण अलग-अलग होते हैं।",
-        "लस्टर कुछ पदार्थों की चमकीली उपस्थिति है।",
-        "कठोरता खरोंचने या दबाने की कठिनाई से जुड़ी है।",
-        "कुछ पदार्थ जल में घुलनशील और कुछ अघुलनशील होते हैं।",
-        "समानताओं और अंतरों के आधार पर समूह बनाए जाते हैं।"
+        "रेशे पौधों और जन्तुओं से प्राप्त हो सकते हैं।",
+        "कपास और जूट पौध रेशे हैं।",
+        "ऊन मुख्यतः भेड़ के बालों से प्राप्त होती है।",
+        "रेशम रेशमकीट के कोकून से प्राप्त होता है।",
+        "कताई से रेशे का धागा बनता है।",
+        "बुनाई से धागे का कपड़ा बनता है।",
+        "कपड़े से वस्त्र बनाए जाते हैं।",
+        "रेशे से वस्त्र बनने में कई चरण होते हैं।"
       ],
       "examFocus": [
-        "वस्तु और पदार्थ का संबंध",
-        "लस्टर और धातुओं के उदाहरण",
-        "कठोर तथा मुलायम पदार्थ",
-        "घुलनशील और अघुलनशील पदार्थ",
-        "गुणों के आधार पर वर्गीकरण"
+        "रेशों के पौध और जन्तु स्रोत",
+        "कपास और जूट के स्रोत",
+        "जूट के तने को पानी में भिगोना",
+        "ऊन देने वाले जन्तु",
+        "रेशमकीट और कोकून",
+        "कताई और बुनाई का अंतर",
+        "तकली और चरखे का उपयोग",
+        "रेशे से वस्त्र बनने का क्रम"
       ],
       "examTraps": [
         {
-          "title": "लस्टर और पारदर्शिता",
-          "fact": "लस्टर चमक से संबंधित है, जबकि पारदर्शिता आर-पार देखने से संबंधित है।",
-          "confusion": "चमकीली वस्तु को पारदर्शी समझना गलत है।"
+          "title": "कपास का स्रोत",
+          "fact": "कपास पौधे से प्राप्त रेशा है।",
+          "confusion": "कपास को ऊन या किसी जन्तु स्रोत से जोड़ना गलत है।"
         },
         {
-          "title": "कठोर और भारी",
-          "fact": "कठोरता खरोंचने या दबाने की कठिनाई से संबंधित है।",
-          "confusion": "भारी होना कठोर होने का प्रमाण नहीं है।"
+          "title": "जूट का स्रोत",
+          "fact": "जूट का रेशा पौधे के तने से प्राप्त होता है।",
+          "confusion": "जूट को फल या जड़ से प्राप्त मानना गलत है।"
         },
         {
-          "title": "घुलनशील और अघुलनशील",
-          "fact": "घुलनशील पदार्थ जल में घुलते हैं, अघुलनशील नहीं।",
-          "confusion": "जल में दिखाई न देना हमेशा समान अर्थ नहीं रखता; घुलने का परीक्षण देखें।"
+          "title": "ऊन का स्रोत",
+          "fact": "ऊन मुख्यतः भेड़ के बालों से प्राप्त होती है।",
+          "confusion": "ऊन को पौध रेशा समझना गलत है।"
         },
         {
-          "title": "एक वस्तु, अनेक पदार्थ",
-          "fact": "एक वस्तु कई पदार्थों से बनी हो सकती है।",
-          "confusion": "हर वस्तु को केवल एक पदार्थ से बना मानना गलत है।"
+          "title": "रेशम का स्रोत",
+          "fact": "रेशम रेशमकीट के कोकून से प्राप्त होता है।",
+          "confusion": "केवल रेशमकीट का नाम याद रखना पर्याप्त नहीं है; कोकून महत्वपूर्ण है।"
         },
         {
-          "title": "एक पदार्थ, अनेक वस्तुएँ",
-          "fact": "एक पदार्थ से कई वस्तुएँ बन सकती हैं।",
-          "confusion": "पदार्थ और वस्तु को एक ही समझने से यह बात छूटती है।"
+          "title": "कताई और बुनाई",
+          "fact": "कताई से धागा और बुनाई से कपड़ा बनता है।",
+          "confusion": "दोनों प्रक्रियाओं को एक ही समझना सामान्य गलती है।"
+        },
+        {
+          "title": "जूट भिगोना",
+          "fact": "जूट के तनों को पानी में भिगोने से रेशे अलग करने में सहायता मिलती है।",
+          "confusion": "इसे केवल सुखाने की प्रक्रिया समझना गलत है।"
         }
       ],
       "thinkBeforeAnswer": [
-        "प्रश्न वस्तु के बारे में है या पदार्थ के बारे में?",
-        "कौन-सा गुण पूछा गया है?",
-        "क्या प्रश्न जल में घुलने की बात कर रहा है?",
-        "क्या लस्टर या पारदर्शिता पूछा गया है?",
-        "समूह बनाने का आधार क्या है?"
+        "स्रोत पौधा है या जन्तु?",
+        "प्रश्न रेशे के स्रोत के बारे में है या प्रक्रिया के बारे में?",
+        "कताई का परिणाम धागा है या कपड़ा?",
+        "बुनाई का परिणाम कपड़ा है या धागा?",
+        "रेशम के प्रश्न में कोकून का संबंध है या नहीं?",
+        "जूट के प्रश्न में तना और पानी का संबंध है या नहीं?"
       ],
       "memoryTricks": [
-        "Lustre → चमक",
-        "Hard → आसानी से खरोंचता नहीं",
-        "Soluble → जल में घुलता है",
-        "Transparent → आर-पार स्पष्ट",
-        "Opaque → आर-पार नहीं"
+        "कपास और जूट को पौध रेशों के रूप में याद रखें।",
+        "ऊन को भेड़ और अन्य ऊन देने वाले जन्तुओं से जोड़ें।",
+        "रेशम को रेशमकीट के कोकून से जोड़ें।",
+        "कताई का परिणाम धागा है।",
+        "बुनाई का परिणाम कपड़ा है।",
+        "क्रम याद रखें: रेशा → धागा → कपड़ा → वस्त्र।"
       ],
       "pyqSignals": [
-        "पदार्थ-वस्तु मिलान",
-        "चमकीली वस्तु पहचानना",
-        "घुलनशीलता",
-        "कठोर/मुलायम",
-        "गुणों के आधार पर समूह"
+        "रेशे के स्रोत पर प्रश्न",
+        "कपास और जूट की पहचान",
+        "ऊन देने वाले जन्तुओं की पहचान",
+        "रेशमकीट और कोकून का संबंध",
+        "कताई और बुनाई में अंतर",
+        "रेशे से वस्त्र बनने के क्रम पर प्रश्न"
       ],
       "mustRemember": [
-        "वस्तु → एक या अधिक पदार्थों से बनी हो सकती है",
-        "पदार्थ → कई वस्तुएँ बना सकता है",
-        "Lustre → चमकीली उपस्थिति",
-        "Hard → आसानी से खरोंचता/दबता नहीं",
-        "Soluble → जल में घुलता है",
-        "Insoluble → जल में नहीं घुलता"
+        "कपास → पौध रेशा",
+        "जूट → पौधे के तने से रेशा",
+        "ऊन → मुख्यतः भेड़ के बालों से",
+        "रेशम → रेशमकीट के कोकून से",
+        "कताई → रेशे से धागा",
+        "बुनाई → धागे से कपड़ा",
+        "तकली और चरखा → कताई",
+        "करघा → कपड़ा बनाना"
       ],
-      "quickRevision": "वस्तुएँ → पदार्थों से बनती हैं → पदार्थों के अलग-अलग गुण होते हैं → लस्टर और कठोरता → जल में घुलनशीलता → समानता और अंतर → समूह बनाना → सुविधा और गुणों का अध्ययन।"
+      "quickRevision": "पौधा या जन्तु → रेशा → तैयारी → कताई से धागा → बुनाई से कपड़ा → कपड़े से वस्त्र; कपास और जूट पौध रेशे हैं → ऊन और रेशम जन्तु स्रोतों से मिलते हैं → रेशम कोकून से मिलता है।"
     },
     "en": {
-      "concept": "Objects around us are made from different materials. Materials have different properties such as appearance, lustre, hardness and solubility. Objects and materials can be grouped on the basis of similarities and differences in their properties.",
-      "example": "At home and in shops, similar objects are kept together. This makes them easier to find and makes the study of their properties convenient.",
+      "concept": "Fibres are natural materials obtained from plants and animals that can be used to make yarn and fabric. Cotton and jute come from plants, while wool and silk come from animals. Spinning makes yarn and weaving makes fabric.",
+      "example": "Cotton fibres can be spun into yarn. The yarn can be woven on a loom into fabric, and the fabric can then be made into garments.",
       "sections": [
         {
-          "title": "Objects and Materials",
-          "concept": "Objects may be made of one or more materials.",
-          "explanation": "One material can make many objects and one object can contain several materials. Objects can be grouped by shape or material.",
-          "example": "Plastic can be used for buckets, toys and pipes.",
+          "title": "Introduction to Fibres",
+          "concept": "Fibres are thin materials from which yarn and fabric can be made.",
+          "explanation": "Some fibres come from plants and some from animals. Cotton and jute are plant fibres. Wool and silk come from animal sources. Fibres are converted into yarn by suitable processes and yarn is used to make fabric.",
+          "example": "",
           "keyPoints": [
-            "Identify the property",
-            "Connect it with an example",
-            "Look for similarities and differences",
-            "Choose materials according to use",
-            "Understand why grouping is useful"
+            "Fibres are thin materials from which yarn and fabric can be made.",
+            "The source of a fibre determines how it is obtained.",
+            "Fibres can be converted into yarn.",
+            "Yarn can be converted into fabric.",
+            "Different fibres may need different preparation."
           ]
         },
         {
-          "title": "Properties of Materials",
-          "concept": "Different materials have different properties.",
-          "explanation": "When choosing a material, both its properties and the purpose of the object are considered.",
-          "example": "Cloth is unsuitable for an ordinary water-holding tumbler.",
+          "title": "Cotton and Jute",
+          "concept": "Cotton and jute are natural fibres obtained from plants.",
+          "explanation": "Cotton fibres are found in the fruit of the cotton plant. Cotton is cultivated in warm conditions. Jute fibre is obtained from the stem of the jute plant. Soaking jute stems in water helps separate the fibres.",
+          "example": "",
           "keyPoints": [
-            "Identify the property",
-            "Connect it with an example",
-            "Look for similarities and differences",
-            "Choose materials according to use",
-            "Understand why grouping is useful"
+            "Cotton and jute are natural fibres obtained from plants.",
+            "The source of a fibre determines how it is obtained.",
+            "Fibres can be converted into yarn.",
+            "Yarn can be converted into fabric.",
+            "Different fibres may need different preparation."
           ]
         },
         {
-          "title": "Appearance and Lustre",
-          "concept": "Some materials look shiny; this shine is called lustre.",
-          "explanation": "Iron, copper, aluminium and gold are examples of metals that show lustre. Air and moisture can reduce shine.",
-          "example": "A freshly cut metal surface may look more shiny.",
+          "title": "Wool",
+          "concept": "Wool is mainly obtained from the hair of sheep and some other animals.",
+          "explanation": "The hairy covering of sheep is removed to obtain wool. The collected material is cleaned and sorted before further use. Wool can also be obtained from animals such as goats, yaks and camels. Wool is used to make warm garments.",
+          "example": "",
           "keyPoints": [
-            "Identify the property",
-            "Connect it with an example",
-            "Look for similarities and differences",
-            "Choose materials according to use",
-            "Understand why grouping is useful"
+            "Wool is mainly obtained from the hair of sheep and some other animals.",
+            "The source of a fibre determines how it is obtained.",
+            "Fibres can be converted into yarn.",
+            "Yarn can be converted into fabric.",
+            "Different fibres may need different preparation."
           ]
         },
         {
-          "title": "Hardness and Softness",
-          "concept": "Materials that are easily compressed or scratched are soft, while those that are difficult to compress or scratch are hard.",
-          "explanation": "Observing scratching or pressing helps compare hardness.",
-          "example": "Cotton is soft and iron is hard.",
+          "title": "Silk",
+          "concept": "Silk is a natural fibre obtained from the cocoon of the silkworm.",
+          "explanation": "The silkworm life cycle includes egg, larva or caterpillar, pupa and adult stages. The caterpillar produces silk thread and forms a cocoon around itself. Fine silk thread is obtained from the cocoon.",
+          "example": "",
           "keyPoints": [
-            "Identify the property",
-            "Connect it with an example",
-            "Look for similarities and differences",
-            "Choose materials according to use",
-            "Understand why grouping is useful"
+            "Silk is a natural fibre obtained from the cocoon of the silkworm.",
+            "The source of a fibre determines how it is obtained.",
+            "Fibres can be converted into yarn.",
+            "Yarn can be converted into fabric.",
+            "Different fibres may need different preparation."
           ]
         },
         {
-          "title": "Solubility in Water",
-          "concept": "Some materials dissolve in water and some do not.",
-          "explanation": "Materials that dissolve are soluble and those that do not are insoluble.",
-          "example": "Salt and sugar dissolve in water.",
+          "title": "Spinning and Weaving",
+          "concept": "Spinning converts fibres into yarn, while weaving makes fabric from yarn.",
+          "explanation": "A takli and charkha are spinning tools. On a loom, yarns are arranged to make fabric. Handlooms and power looms are used to make fabric.",
+          "example": "",
           "keyPoints": [
-            "Identify the property",
-            "Connect it with an example",
-            "Look for similarities and differences",
-            "Choose materials according to use",
-            "Understand why grouping is useful"
+            "Spinning converts fibres into yarn, while weaving makes fabric from yarn.",
+            "The source of a fibre determines how it is obtained.",
+            "Fibres can be converted into yarn.",
+            "Yarn can be converted into fabric.",
+            "Different fibres may need different preparation."
           ]
         },
         {
-          "title": "Grouping Materials",
-          "concept": "Materials can be grouped on the basis of similarities and differences.",
-          "explanation": "Grouping gives convenience in daily life and makes the study of properties easier.",
-          "example": "A grocer keeps biscuits, soaps, grains and pulses separately.",
+          "title": "From Fibre to Fabric",
+          "concept": "Making garments from fibres involves several successive stages.",
+          "explanation": "A fibre is obtained from a natural source and cleaned or prepared as needed. Spinning converts it into yarn. Weaving converts yarn into fabric. Garments can then be made from the fabric.",
+          "example": "",
           "keyPoints": [
-            "Identify the property",
-            "Connect it with an example",
-            "Look for similarities and differences",
-            "Choose materials according to use",
-            "Understand why grouping is useful"
-          ]
-        },
-        {
-          "title": "Liquids and Water",
-          "concept": "Different liquids can behave differently when mixed with water.",
-          "explanation": "Some liquids mix with water while others do not.",
-          "example": "Vinegar mixes with water, while oil and kerosene do not.",
-          "keyPoints": [
-            "Identify the concept",
-            "Remember examples",
-            "Understand property differences",
-            "Focus on observations",
-            "Read MCQ wording carefully"
-          ]
-        },
-        {
-          "title": "Floating and Sinking",
-          "concept": "Some materials float on water and some sink.",
-          "explanation": "Objects can be placed in water to observe their behaviour.",
-          "example": "Different objects can be tested in water to see whether they float or sink.",
-          "keyPoints": [
-            "Identify the concept",
-            "Remember examples",
-            "Understand property differences",
-            "Focus on observations",
-            "Read MCQ wording carefully"
-          ]
-        },
-        {
-          "title": "Transparency",
-          "concept": "Materials may be transparent, translucent or opaque.",
-          "explanation": "Transparent materials show objects clearly, translucent materials do not show them clearly, and opaque materials do not allow objects to be seen through.",
-          "example": "Glass is transparent and wood is opaque.",
-          "keyPoints": [
-            "Identify the concept",
-            "Remember examples",
-            "Understand property differences",
-            "Focus on observations",
-            "Read MCQ wording carefully"
+            "Making garments from fibres involves several successive stages.",
+            "The source of a fibre determines how it is obtained.",
+            "Fibres can be converted into yarn.",
+            "Yarn can be converted into fabric.",
+            "Different fibres may need different preparation."
           ]
         }
       ],
       "keyPoints": [
-        "Objects may be made of one or more materials.",
-        "One material can make many objects.",
-        "Materials have different properties.",
-        "Lustre is a shiny appearance.",
-        "Hardness relates to difficulty of scratching or compressing.",
-        "Some materials are soluble and some insoluble in water.",
-        "Groups can be formed using similarities and differences."
+        "Fibres can be obtained from plants and animals.",
+        "Cotton and jute are plant fibres.",
+        "Wool is mainly obtained from sheep hair.",
+        "Silk is obtained from the silkworm cocoon.",
+        "Spinning converts fibre into yarn.",
+        "Weaving converts yarn into fabric.",
+        "Garments can be made from fabric.",
+        "Making garments from fibres involves several stages."
       ],
       "examFocus": [
-        "Object and material relation",
-        "Lustre and metal examples",
-        "Hard and soft materials",
-        "Soluble and insoluble materials",
-        "Grouping by properties"
+        "Plant and animal sources of fibres",
+        "Sources of cotton and jute",
+        "Soaking jute stems in water",
+        "Wool-yielding animals",
+        "Silkworm and cocoon",
+        "Difference between spinning and weaving",
+        "Use of takli and charkha",
+        "Sequence from fibre to garment"
       ],
       "examTraps": [
         {
-          "title": "Lustre and transparency",
-          "fact": "Lustre concerns shine, while transparency concerns seeing through a material.",
-          "confusion": "A shiny object is not necessarily transparent."
+          "title": "Source of Cotton",
+          "fact": "Cotton is a fibre obtained from a plant.",
+          "confusion": "Cotton should not be linked to wool or an animal source."
         },
         {
-          "title": "Hard and heavy",
-          "fact": "Hardness concerns difficulty of scratching or compressing.",
-          "confusion": "Being heavy does not prove that a material is hard."
+          "title": "Source of Jute",
+          "fact": "Jute fibre is obtained from the stem of the plant.",
+          "confusion": "It is incorrect to say that jute comes from the fruit or root."
         },
         {
-          "title": "Soluble and insoluble",
-          "fact": "Soluble materials dissolve in water; insoluble materials do not.",
-          "confusion": "Do not confuse dissolving with simply disappearing from view."
+          "title": "Source of Wool",
+          "fact": "Wool is mainly obtained from sheep hair.",
+          "confusion": "Wool should not be classified as a plant fibre."
         },
         {
-          "title": "One object, many materials",
-          "fact": "An object can be made from several materials.",
-          "confusion": "It is incorrect to assume every object uses only one material."
+          "title": "Source of Silk",
+          "fact": "Silk is obtained from the cocoon of the silkworm.",
+          "confusion": "Remembering only the insect and forgetting the cocoon can cause mistakes."
         },
         {
-          "title": "One material, many objects",
-          "fact": "One material can be used to make many different objects.",
-          "confusion": "Confusing an object with a material can hide this concept."
+          "title": "Spinning and Weaving",
+          "fact": "Spinning makes yarn and weaving makes fabric.",
+          "confusion": "The two processes should not be treated as the same."
+        },
+        {
+          "title": "Soaking Jute",
+          "fact": "Soaking jute stems in water helps separate the fibres.",
+          "confusion": "This should not be understood as only a drying step."
         }
       ],
       "thinkBeforeAnswer": [
-        "Is the question about an object or a material?",
-        "Which property is being asked?",
-        "Is the question about dissolving in water?",
-        "Is it about lustre or transparency?",
-        "What is the basis of grouping?"
+        "Is the source a plant or an animal?",
+        "Is the question about a fibre source or a process?",
+        "Does spinning produce yarn or fabric?",
+        "Does weaving produce fabric or yarn?",
+        "Does the silk question involve a cocoon?",
+        "Does the jute question involve the stem and water?"
       ],
       "memoryTricks": [
-        "Lustre → shine",
-        "Hard → not easily scratched",
-        "Soluble → dissolves in water",
-        "Transparent → clearly seen through",
-        "Opaque → not seen through"
+        "Remember cotton and jute as plant fibres.",
+        "Connect wool with sheep and other wool-yielding animals.",
+        "Connect silk with the silkworm cocoon.",
+        "Spinning gives yarn.",
+        "Weaving gives fabric.",
+        "Remember: fibre → yarn → fabric → garment."
       ],
       "pyqSignals": [
-        "Object-material matching",
-        "Identify shiny objects",
-        "Solubility",
-        "Hard/soft materials",
-        "Grouping by properties"
+        "Questions on fibre sources",
+        "Questions on cotton and jute",
+        "Identification of wool-yielding animals",
+        "Questions linking silkworm and cocoon",
+        "Questions distinguishing spinning and weaving",
+        "Questions on the fibre-to-garment sequence"
       ],
       "mustRemember": [
-        "Object → may be made of one or more materials",
-        "Material → can make many objects",
-        "Lustre → shiny appearance",
-        "Hard → not easily scratched/compressed",
-        "Soluble → dissolves in water",
-        "Insoluble → does not dissolve"
+        "Cotton → plant fibre",
+        "Jute → fibre from plant stem",
+        "Wool → mainly from sheep hair",
+        "Silk → from silkworm cocoon",
+        "Spinning → fibre to yarn",
+        "Weaving → yarn to fabric",
+        "Takli and charkha → spinning",
+        "Loom → making fabric"
       ],
-      "quickRevision": "Objects → are made from materials → materials have different properties → lustre and hardness → solubility in water → similarities and differences → grouping → convenience and study of properties."
+      "quickRevision": "Plant or animal → fibre → preparation → spinning into yarn → weaving into fabric → garment; cotton and jute are plant fibres → wool and silk come from animal sources → silk comes from the silkworm cocoon."
     }
   }
 }
