@@ -1,1 +1,411 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-14",
+  "chapterNumber": 14,
+  "chapterName": {
+    "hi": "हमारे चारों ओर वायु",
+    "en": "Air Around Us"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "presence-and-moving-air",
+      "name": {
+        "hi": "वायु की उपस्थिति और गतिशील वायु",
+        "en": "Presence and Moving Air"
+      }
+    },
+    {
+      "id": "composition-of-air",
+      "name": {
+        "hi": "वायु की संरचना",
+        "en": "Composition of Air"
+      }
+    },
+    {
+      "id": "water-vapour-dust-smoke",
+      "name": {
+        "hi": "जलवाष्प, धूल और धुआँ",
+        "en": "Water Vapour, Dust and Smoke"
+      }
+    },
+    {
+      "id": "oxygen-and-burning",
+      "name": {
+        "hi": "ऑक्सीजन और दहन",
+        "en": "Oxygen and Burning"
+      }
+    },
+    {
+      "id": "air-in-water-and-soil",
+      "name": {
+        "hi": "जल और मिट्टी में वायु",
+        "en": "Air in Water and Soil"
+      }
+    },
+    {
+      "id": "oxygen-balance-and-wind",
+      "name": {
+        "hi": "ऑक्सीजन का संतुलन और पवन ऊर्जा",
+        "en": "Oxygen Balance and Wind Energy"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "इस अध्याय में हमारे चारों ओर वायु की उपस्थिति, वायु की संरचना और उसके विभिन्न घटकों का अध्ययन किया जाता है। ऑक्सीजन respiration और burning के लिए महत्वपूर्ण है। जलवाष्प, धूल और smoke भी वायु में पाए जा सकते हैं। अध्याय यह भी समझाता है कि वायु पानी और मिट्टी में उपस्थित है तथा plants oxygen के संतुलन में योगदान करते हैं।",
+      "example": "एक खाली दिखाई देने वाली बोतल को पानी में तिरछा करने पर bubbles निकलते हैं, जिससे बोतल में वायु की उपस्थिति दिखाई देती है। फिरकी का घूमना moving air का प्रभाव दिखाता है।",
+      "sections": [
+        {
+          "title": "वायु की उपस्थिति और गतिशील वायु",
+          "concept": "वायु हमारे चारों ओर उपस्थित है।",
+          "explanation": "इस section में chapter के संबंधित facts, activities और उनके वैज्ञानिक निष्कर्ष समझाए गए हैं।",
+          "example": "वायु को सामान्यतः देखा नहीं जा सकता, लेकिन उसकी उपस्थिति महसूस की जा सकती है।",
+          "keyPoints": [
+            "वायु हमारे चारों ओर उपस्थित है।",
+            "वायु को सामान्यतः देखा नहीं जा सकता, लेकिन उसकी उपस्थिति महसूस की जा सकती है।",
+            "पेड़ों की पत्तियों का हिलना चलती हुई वायु का प्रभाव दिखाता है।",
+            "कपड़ों का हवा में फड़फड़ाना चलती वायु का उदाहरण है।",
+            "पंखा चलने पर पुस्तक के पन्ने हिल सकते हैं।"
+          ]
+        },
+        {
+          "title": "वायु की संरचना",
+          "concept": "वायु एक ही पदार्थ नहीं बल्कि कई घटकों का मिश्रण है।",
+          "explanation": "इस section में chapter के संबंधित facts, activities और उनके वैज्ञानिक निष्कर्ष समझाए गए हैं।",
+          "example": "वायु में nitrogen सबसे अधिक मात्रा में पाई जाती है।",
+          "keyPoints": [
+            "वायु एक ही पदार्थ नहीं बल्कि कई घटकों का मिश्रण है।",
+            "वायु में nitrogen सबसे अधिक मात्रा में पाई जाती है।",
+            "वायु में oxygen की मात्रा nitrogen से कम है।",
+            "पुराने NCERT chapter में nitrogen को लगभग चार-पाँचवाँ भाग बताया गया है।",
+            "पुराने NCERT chapter में oxygen को लगभग एक-पाँचवाँ भाग बताया गया है।"
+          ]
+        },
+        {
+          "title": "जलवाष्प, धूल और धुआँ",
+          "concept": "वायु में water vapour उपस्थित होती है।",
+          "explanation": "इस section में chapter के संबंधित facts, activities और उनके वैज्ञानिक निष्कर्ष समझाए गए हैं।",
+          "example": "वायु में water vapour की मात्रा स्थान और समय के अनुसार बदल सकती है।",
+          "keyPoints": [
+            "वायु में water vapour उपस्थित होती है।",
+            "वायु में water vapour की मात्रा स्थान और समय के अनुसार बदल सकती है।",
+            "ठंडी सतह पर water vapour संघनित होकर पानी की बूंदें बना सकती है।",
+            "वायु में water vapour का होना water cycle के लिए महत्वपूर्ण है।",
+            "गरम और आर्द्र हवा में water vapour अधिक हो सकती है।"
+          ]
+        },
+        {
+          "title": "ऑक्सीजन और दहन",
+          "concept": "oxygen respiration के लिए आवश्यक है।",
+          "explanation": "इस section में chapter के संबंधित facts, activities और उनके वैज्ञानिक निष्कर्ष समझाए गए हैं।",
+          "example": "oxygen burning को support करती है।",
+          "keyPoints": [
+            "oxygen respiration के लिए आवश्यक है।",
+            "oxygen burning को support करती है।",
+            "जलती हुई candle को बंद glass tumbler से ढकने पर वह कुछ समय बाद बुझ जाती है।",
+            "candle के बुझने का कारण enclosed space में oxygen की सीमित उपलब्धता है।",
+            "खुली candle को लगातार आसपास की हवा मिलती रहती है।"
+          ]
+        },
+        {
+          "title": "जल और मिट्टी में वायु",
+          "concept": "वायु पानी में dissolved form में उपस्थित हो सकती है।",
+          "explanation": "इस section में chapter के संबंधित facts, activities और उनके वैज्ञानिक निष्कर्ष समझाए गए हैं।",
+          "example": "पानी को गर्म करने पर dissolved air bubbles के रूप में बाहर निकल सकती है।",
+          "keyPoints": [
+            "वायु पानी में dissolved form में उपस्थित हो सकती है।",
+            "पानी को गर्म करने पर dissolved air bubbles के रूप में बाहर निकल सकती है।",
+            "उबलने से पहले पानी में छोटे bubbles दिखाई दे सकते हैं।",
+            "पानी में bubbles का बनना dissolved air का evidence हो सकता है।",
+            "aquatic animals पानी में dissolved oxygen का उपयोग करते हैं।"
+          ]
+        },
+        {
+          "title": "ऑक्सीजन का संतुलन और पवन ऊर्जा",
+          "concept": "हरे पौधे photosynthesis के दौरान oxygen छोड़ते हैं।",
+          "explanation": "इस section में chapter के संबंधित facts, activities और उनके वैज्ञानिक निष्कर्ष समझाए गए हैं।",
+          "example": "photosynthesis में plants carbon dioxide का उपयोग करते हैं।",
+          "keyPoints": [
+            "हरे पौधे photosynthesis के दौरान oxygen छोड़ते हैं।",
+            "photosynthesis में plants carbon dioxide का उपयोग करते हैं।",
+            "respiration में living organisms oxygen लेते हैं।",
+            "respiration में carbon dioxide बाहर निकलती है।",
+            "photosynthesis oxygen और carbon dioxide के balance में महत्वपूर्ण है।"
+          ]
+        }
+      ],
+      "keyPoints": [
+        "वायु हमारे चारों ओर उपस्थित है और स्थान घेरती है।",
+        "चलती हुई वायु को wind कहते हैं।",
+        "वायु nitrogen, oxygen, carbon dioxide, water vapour और अन्य घटकों का मिश्रण है।",
+        "Oxygen respiration और burning के लिए आवश्यक है।",
+        "Water vapour, dust और smoke भी वायु में पाए जा सकते हैं।",
+        "वायु पानी में dissolved form में और मिट्टी के spaces में भी मौजूद हो सकती है।",
+        "Green plants photosynthesis के दौरान oxygen छोड़ते हैं।",
+        "Windmills moving air की energy का उपयोग करते हैं।"
+      ],
+      "examFocus": [
+        "वायु की उपस्थिति के प्रयोग।",
+        "वायु की composition।",
+        "Oxygen और burning।",
+        "Water vapour और dust।",
+        "Air dissolved in water।",
+        "Air in soil।",
+        "Oxygen और carbon dioxide का balance।",
+        "Wind energy और windmills।"
+      ],
+      "examTraps": [
+        {
+          "title": "वायु दिखाई देती है या नहीं",
+          "fact": "वायु सामान्यतः दिखाई नहीं देती, लेकिन उसकी उपस्थिति महसूस और प्रदर्शित की जा सकती है।",
+          "confusion": "हवा को न देख पाने का अर्थ यह नहीं कि वह मौजूद नहीं है।"
+        },
+        {
+          "title": "Nitrogen और oxygen",
+          "fact": "Nitrogen वायु का सबसे बड़ा घटक है, जबकि oxygen burning और respiration support करती है।",
+          "confusion": "सबसे अधिक मात्रा में होना और burning support करना अलग गुण हैं।"
+        },
+        {
+          "title": "Water vapour और droplets",
+          "fact": "Water vapour gas है और ठंडी सतह पर condense होकर droplets बना सकती है।",
+          "confusion": "दिखाई देने वाली बूंद को सीधे water vapour न समझें।"
+        },
+        {
+          "title": "Air in water",
+          "fact": "पानी में dissolved air होती है, जिसे heating पर bubbles के रूप में दिखाया जा सकता है।",
+          "confusion": "ब bubbles को पानी की अपनी gas न मानें; वे dissolved air से आ सकते हैं।"
+        },
+        {
+          "title": "Air in soil",
+          "fact": "Soil particles के बीच spaces में air हो सकती है।",
+          "confusion": "मिट्टी को पूरी तरह solid और air-free न मानें।"
+        },
+        {
+          "title": "Wind और wind energy",
+          "fact": "Moving air को wind कहते हैं और उसकी energy का उपयोग windmills कर सकती है।",
+          "confusion": "Wind और wind energy को एक ही शब्द न मानें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "क्या प्रश्न air की presence, composition या use से जुड़ा है?",
+        "क्या पूछा गया component nitrogen, oxygen, carbon dioxide या water vapour है?",
+        "क्या activity water या soil में air दिखाती है?",
+        "क्या burning के लिए oxygen की भूमिका पूछी गई है?",
+        "क्या photosynthesis और respiration को अलग रखना है?",
+        "क्या प्रश्न wind की direction, movement या energy के बारे में है?"
+      ],
+      "memoryTricks": [
+        "Moving air → wind.",
+        "Largest component → nitrogen.",
+        "Burning and respiration → oxygen.",
+        "Water vapour → water cycle.",
+        "Soil spaces → air.",
+        "Green plants → photosynthesis → oxygen release.",
+        "Moving air → wind energy → windmill."
+      ],
+      "pyqSignals": [
+        "Air occupies space वाले experiments।",
+        "Composition of air।",
+        "Oxygen supports burning।",
+        "Water vapour और dust।",
+        "Air dissolved in water।",
+        "Air in soil।",
+        "Oxygen replacement और photosynthesis।",
+        "Windmill और wind energy।"
+      ],
+      "mustRemember": [
+        "Air → mixture of gases and other components",
+        "Nitrogen → largest component of air",
+        "Oxygen → supports respiration and burning",
+        "Carbon dioxide → used by plants in photosynthesis",
+        "Water vapour → present in air and linked with water cycle",
+        "Air in water → dissolved air can escape as bubbles on heating",
+        "Air in soil → present in spaces between soil particles",
+        "Wind → moving air",
+        "Wind energy → energy of moving air used by windmills"
+      ],
+      "quickRevision": "Air → present all around → occupies space → moving air → wind → air is a mixture → nitrogen largest → oxygen supports respiration and burning → carbon dioxide used in photosynthesis → water vapour, dust and smoke → air dissolved in water → air in soil → plants help replenish oxygen → windmills use wind energy"
+    },
+    "en": {
+      "concept": "This chapter studies the presence of air around us, its composition and its different components. Oxygen is important for respiration and burning. Water vapour, dust and smoke can also be present in air. The chapter also explains that air is present in water and soil and that plants contribute to the balance of oxygen.",
+      "example": "When an apparently empty bottle is tilted under water, bubbles escape, showing that air was inside. A firki rotating demonstrates the effect of moving air.",
+      "sections": [
+        {
+          "title": "Presence and Moving Air",
+          "concept": "Air is present all around us.",
+          "explanation": "This section explains the related facts, activities and scientific conclusions from the chapter.",
+          "example": "Air usually cannot be seen, but its presence can be felt.",
+          "keyPoints": [
+            "Air is present all around us.",
+            "Air usually cannot be seen, but its presence can be felt.",
+            "Moving leaves show the effect of moving air.",
+            "Clothes fluttering in air are an example of moving air.",
+            "Pages of a book can move when a fan is switched on."
+          ]
+        },
+        {
+          "title": "Composition of Air",
+          "concept": "Air is not a single substance but a mixture of several components.",
+          "explanation": "This section explains the related facts, activities and scientific conclusions from the chapter.",
+          "example": "Nitrogen is present in the largest amount in air.",
+          "keyPoints": [
+            "Air is not a single substance but a mixture of several components.",
+            "Nitrogen is present in the largest amount in air.",
+            "The amount of oxygen in air is less than nitrogen.",
+            "The old NCERT chapter describes nitrogen as about four-fifths of air.",
+            "The old NCERT chapter describes oxygen as about one-fifth of air."
+          ]
+        },
+        {
+          "title": "Water Vapour, Dust and Smoke",
+          "concept": "Water vapour is present in air.",
+          "explanation": "This section explains the related facts, activities and scientific conclusions from the chapter.",
+          "example": "The amount of water vapour in air can vary with place and time.",
+          "keyPoints": [
+            "Water vapour is present in air.",
+            "The amount of water vapour in air can vary with place and time.",
+            "Water vapour can condense into water droplets on a cool surface.",
+            "Water vapour in air is important for the water cycle.",
+            "Warm and humid air can contain more water vapour."
+          ]
+        },
+        {
+          "title": "Oxygen and Burning",
+          "concept": "Oxygen is necessary for respiration.",
+          "explanation": "This section explains the related facts, activities and scientific conclusions from the chapter.",
+          "example": "Oxygen supports burning.",
+          "keyPoints": [
+            "Oxygen is necessary for respiration.",
+            "Oxygen supports burning.",
+            "A burning candle covered with a glass tumbler goes out after some time.",
+            "The candle goes out because oxygen available in the enclosed space is limited.",
+            "An uncovered candle continues to receive air from its surroundings."
+          ]
+        },
+        {
+          "title": "Air in Water and Soil",
+          "concept": "Air can be present in water in dissolved form.",
+          "explanation": "This section explains the related facts, activities and scientific conclusions from the chapter.",
+          "example": "When water is heated, dissolved air can escape as bubbles.",
+          "keyPoints": [
+            "Air can be present in water in dissolved form.",
+            "When water is heated, dissolved air can escape as bubbles.",
+            "Small bubbles can appear in water before it boils.",
+            "Bubbles forming in water can be evidence of dissolved air.",
+            "Aquatic animals use dissolved oxygen in water."
+          ]
+        },
+        {
+          "title": "Oxygen Balance and Wind Energy",
+          "concept": "Green plants release oxygen during photosynthesis.",
+          "explanation": "This section explains the related facts, activities and scientific conclusions from the chapter.",
+          "example": "Plants use carbon dioxide during photosynthesis.",
+          "keyPoints": [
+            "Green plants release oxygen during photosynthesis.",
+            "Plants use carbon dioxide during photosynthesis.",
+            "Living organisms take in oxygen during respiration.",
+            "Carbon dioxide is released during respiration.",
+            "Photosynthesis is important in the balance of oxygen and carbon dioxide."
+          ]
+        }
+      ],
+      "keyPoints": [
+        "Air is present all around us and occupies space.",
+        "Moving air is called wind.",
+        "Air is a mixture of nitrogen, oxygen, carbon dioxide, water vapour and other components.",
+        "Oxygen is needed for respiration and supports burning.",
+        "Water vapour, dust and smoke can also be present in air.",
+        "Air can be dissolved in water and present in spaces in soil.",
+        "Green plants release oxygen during photosynthesis.",
+        "Windmills use the energy of moving air."
+      ],
+      "examFocus": [
+        "Experiments showing the presence of air.",
+        "Composition of air.",
+        "Oxygen and burning.",
+        "Water vapour and dust.",
+        "Air dissolved in water.",
+        "Air in soil.",
+        "Balance of oxygen and carbon dioxide.",
+        "Wind energy and windmills."
+      ],
+      "examTraps": [
+        {
+          "title": "Can air be seen",
+          "fact": "Air is generally invisible, but its presence can be felt and demonstrated.",
+          "confusion": "Not seeing air does not mean that it is absent."
+        },
+        {
+          "title": "Nitrogen and oxygen",
+          "fact": "Nitrogen is the largest component of air, while oxygen supports burning and respiration.",
+          "confusion": "Being present in the largest amount and supporting burning are different properties."
+        },
+        {
+          "title": "Water vapour and droplets",
+          "fact": "Water vapour is a gas and can condense into droplets on a cool surface.",
+          "confusion": "Do not treat visible droplets as water vapour itself."
+        },
+        {
+          "title": "Air in water",
+          "fact": "Water contains dissolved air, which can be seen as bubbles when water is heated.",
+          "confusion": "The bubbles can come from dissolved air in the water."
+        },
+        {
+          "title": "Air in soil",
+          "fact": "Air can be present in spaces between soil particles.",
+          "confusion": "Do not assume soil is completely solid and air-free."
+        },
+        {
+          "title": "Wind and wind energy",
+          "fact": "Moving air is wind and windmills can use its energy.",
+          "confusion": "Wind and wind energy are related but are not the same term."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Is the question about air presence, composition or use?",
+        "Which component is being asked about: nitrogen, oxygen, carbon dioxide or water vapour?",
+        "Does the activity demonstrate air in water or soil?",
+        "Is the role of oxygen in burning being asked?",
+        "Should photosynthesis and respiration be kept distinct?",
+        "Is the question about wind direction, movement or energy?"
+      ],
+      "memoryTricks": [
+        "Moving air → wind.",
+        "Largest component → nitrogen.",
+        "Burning and respiration → oxygen.",
+        "Water vapour → water cycle.",
+        "Soil spaces → air.",
+        "Green plants → photosynthesis → oxygen release.",
+        "Moving air → wind energy → windmill."
+      ],
+      "pyqSignals": [
+        "Experiments showing that air occupies space.",
+        "Composition of air.",
+        "Oxygen supports burning.",
+        "Water vapour and dust.",
+        "Air dissolved in water.",
+        "Air in soil.",
+        "Oxygen replacement and photosynthesis.",
+        "Windmill and wind energy."
+      ],
+      "mustRemember": [
+        "Air → mixture of gases and other components",
+        "Nitrogen → largest component of air",
+        "Oxygen → supports respiration and burning",
+        "Carbon dioxide → used by plants in photosynthesis",
+        "Water vapour → present in air and linked with water cycle",
+        "Air in water → dissolved air can escape as bubbles on heating",
+        "Air in soil → present in spaces between soil particles",
+        "Wind → moving air",
+        "Wind energy → energy of moving air used by windmills"
+      ],
+      "quickRevision": "Air → present all around → occupies space → moving air → wind → air is a mixture → nitrogen largest → oxygen supports respiration and burning → carbon dioxide used in photosynthesis → water vapour, dust and smoke → air dissolved in water → air in soil → plants help replenish oxygen → windmills use wind energy"
+    }
+  }
+}
