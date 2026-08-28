@@ -1,1 +1,4202 @@
-
+[
+  {
+    "id": "ch8_q101",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: जीवित वस्तु की पहचान में केवल गति पर्याप्त नहीं है?",
+      "en": "Which option gives the correct fact: Movement alone is not sufficient to identify a living thing?"
+    },
+    "options": {
+      "hi": [
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "Some non-living things can also move",
+        "Response to changes in surroundings",
+        "They obtain energy and materials from food",
+        "They grow"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Some non-living things can also move is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q102",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? जीवित वस्तु की पहचान में केवल गति पर्याप्त नहीं है",
+      "en": "According to the chapter, which statement is correct? Movement alone is not sufficient to identify a living thing"
+    },
+    "options": {
+      "hi": [
+        "वे बढ़ते हैं",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया"
+      ],
+      "en": [
+        "They grow",
+        "They obtain energy and materials from food",
+        "Some non-living things can also move",
+        "Response to changes in surroundings"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Some non-living things can also move is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q103",
+    "topic": "living-nonliving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: जीवित वस्तु की पहचान में केवल गति पर्याप्त नहीं है",
+      "en": "Choose the correct statement for this concept: Movement alone is not sufficient to identify a living thing"
+    },
+    "options": {
+      "hi": [
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "Some non-living things can also move",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Some non-living things can also move is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q104",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? जीवित वस्तु की पहचान में केवल गति पर्याप्त नहीं है",
+      "en": "Which statement is correct according to NCERT? Movement alone is not sufficient to identify a living thing"
+    },
+    "options": {
+      "hi": [
+        "वे बढ़ते हैं",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "They grow",
+        "Some non-living things can also move",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Some non-living things can also move is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q105",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? जीवित वस्तु की पहचान में केवल गति पर्याप्त नहीं है",
+      "en": "Which option correctly describes the topic? Movement alone is not sufficient to identify a living thing"
+    },
+    "options": {
+      "hi": [
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं"
+      ],
+      "en": [
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food",
+        "Response to changes in surroundings",
+        "Some non-living things can also move"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Some non-living things can also move is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q106",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: पौधे भी सजीव हैं क्योंकि वे बढ़ते हैं?",
+      "en": "Which option gives the correct fact: Plants are living because they grow?"
+    },
+    "options": {
+      "hi": [
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "Some non-living things can also move",
+        "Considering several life characteristics together",
+        "Response to changes in surroundings",
+        "They grow"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वे बढ़ते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They grow is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q107",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? पौधे भी सजीव हैं क्योंकि वे बढ़ते हैं",
+      "en": "According to the chapter, which statement is correct? Plants are living because they grow"
+    },
+    "options": {
+      "hi": [
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "Response to changes in surroundings",
+        "They obtain energy and materials from food",
+        "Considering several life characteristics together",
+        "They grow"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वे बढ़ते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They grow is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q108",
+    "topic": "living-nonliving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: पौधे भी सजीव हैं क्योंकि वे बढ़ते हैं",
+      "en": "Choose the correct statement for this concept: Plants are living because they grow"
+    },
+    "options": {
+      "hi": [
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "वे बढ़ते हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "Response to changes in surroundings",
+        "They grow",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "वे बढ़ते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They grow is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q109",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? पौधे भी सजीव हैं क्योंकि वे बढ़ते हैं",
+      "en": "Which statement is correct according to NCERT? Plants are living because they grow"
+    },
+    "options": {
+      "hi": [
+        "वे बढ़ते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "They grow",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "वे बढ़ते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They grow is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q110",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? पौधे भी सजीव हैं क्योंकि वे बढ़ते हैं",
+      "en": "Which option correctly describes the topic? Plants are living because they grow"
+    },
+    "options": {
+      "hi": [
+        "वे बढ़ते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "They grow",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "वे बढ़ते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They grow is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q111",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: सजीवों को जीवन और वृद्धि के लिए भोजन से ऊर्जा तथा पदार्थ मिलते हैं?",
+      "en": "Which option gives the correct fact: Living organisms obtain energy and materials from food for life and growth?"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "Response to changes in surroundings",
+        "Some non-living things can also move",
+        "They grow"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन से ऊर्जा तथा पदार्थ मिलते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They obtain energy and materials from food is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q112",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? सजीवों को जीवन और वृद्धि के लिए भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+      "en": "According to the chapter, which statement is correct? Living organisms obtain energy and materials from food for life and growth"
+    },
+    "options": {
+      "hi": [
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "Some non-living things can also move",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food",
+        "They grow"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "भोजन से ऊर्जा तथा पदार्थ मिलते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They obtain energy and materials from food is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q113",
+    "topic": "living-nonliving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: सजीवों को जीवन और वृद्धि के लिए भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+      "en": "Choose the correct statement for this concept: Living organisms obtain energy and materials from food for life and growth"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "वे बढ़ते हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "परिवेश के बदलाव पर प्रतिक्रिया"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "They grow",
+        "Considering several life characteristics together",
+        "Response to changes in surroundings"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन से ऊर्जा तथा पदार्थ मिलते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They obtain energy and materials from food is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q114",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? सजीवों को जीवन और वृद्धि के लिए भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+      "en": "Which statement is correct according to NCERT? Living organisms obtain energy and materials from food for life and growth"
+    },
+    "options": {
+      "hi": [
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "वे बढ़ते हैं",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "Some non-living things can also move",
+        "Response to changes in surroundings",
+        "They grow",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "भोजन से ऊर्जा तथा पदार्थ मिलते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They obtain energy and materials from food is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q115",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? सजीवों को जीवन और वृद्धि के लिए भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+      "en": "Which option correctly describes the topic? Living organisms obtain energy and materials from food for life and growth"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "Some non-living things can also move",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन से ऊर्जा तथा पदार्थ मिलते हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "They obtain energy and materials from food is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q116",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: सजीव परिवेश में बदलाव के प्रति प्रतिक्रिया कर सकते हैं?",
+      "en": "Which option gives the correct fact: Living organisms can respond to changes in their surroundings?"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "वे बढ़ते हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "परिवेश के बदलाव पर प्रतिक्रिया"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "They grow",
+        "Considering several life characteristics together",
+        "Response to changes in surroundings"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "परिवेश के बदलाव पर प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to changes in surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q117",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? सजीव परिवेश में बदलाव के प्रति प्रतिक्रिया कर सकते हैं",
+      "en": "According to the chapter, which statement is correct? Living organisms can respond to changes in their surroundings"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "Considering several life characteristics together",
+        "Response to changes in surroundings",
+        "They grow"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "परिवेश के बदलाव पर प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to changes in surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q118",
+    "topic": "living-nonliving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: सजीव परिवेश में बदलाव के प्रति प्रतिक्रिया कर सकते हैं",
+      "en": "Choose the correct statement for this concept: Living organisms can respond to changes in their surroundings"
+    },
+    "options": {
+      "hi": [
+        "कई जीवन विशेषताओं को साथ देखना",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "Considering several life characteristics together",
+        "Response to changes in surroundings",
+        "Some non-living things can also move",
+        "They grow"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "परिवेश के बदलाव पर प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to changes in surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q119",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? सजीव परिवेश में बदलाव के प्रति प्रतिक्रिया कर सकते हैं",
+      "en": "Which statement is correct according to NCERT? Living organisms can respond to changes in their surroundings"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "वे बढ़ते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "Some non-living things can also move",
+        "They grow",
+        "Response to changes in surroundings"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "परिवेश के बदलाव पर प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to changes in surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q120",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? सजीव परिवेश में बदलाव के प्रति प्रतिक्रिया कर सकते हैं",
+      "en": "Which option correctly describes the topic? Living organisms can respond to changes in their surroundings"
+    },
+    "options": {
+      "hi": [
+        "वे बढ़ते हैं",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना"
+      ],
+      "en": [
+        "They grow",
+        "Some non-living things can also move",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "परिवेश के बदलाव पर प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to changes in surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q121",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: सजीवों की पहचान में वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी कई विशेषताओं को साथ देखना उपयोगी है?",
+      "en": "Which option gives the correct fact: Several characteristics such as growth, respiration, nutrition, response, excretion and reproduction are useful together when identifying living things?"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "Some non-living things can also move",
+        "Considering several life characteristics together",
+        "They grow"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कई जीवन विशेषताओं को साथ देखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Considering several life characteristics together is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q122",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? सजीवों की पहचान में वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी कई विशेषताओं को साथ देखना उपयोगी है",
+      "en": "According to the chapter, which statement is correct? Several characteristics such as growth, respiration, nutrition, response, excretion and reproduction are useful together when identifying living things"
+    },
+    "options": {
+      "hi": [
+        "वे बढ़ते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं"
+      ],
+      "en": [
+        "They grow",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कई जीवन विशेषताओं को साथ देखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Considering several life characteristics together is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q123",
+    "topic": "living-nonliving",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: सजीवों की पहचान में वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी कई विशेषताओं को साथ देखना उपयोगी है",
+      "en": "Choose the correct statement for this concept: Several characteristics such as growth, respiration, nutrition, response, excretion and reproduction are useful together when identifying living things"
+    },
+    "options": {
+      "hi": [
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "वे बढ़ते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "कई जीवन विशेषताओं को साथ देखना"
+      ],
+      "en": [
+        "They obtain energy and materials from food",
+        "They grow",
+        "Response to changes in surroundings",
+        "Considering several life characteristics together"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कई जीवन विशेषताओं को साथ देखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Considering several life characteristics together is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q124",
+    "topic": "living-nonliving",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? सजीवों की पहचान में वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी कई विशेषताओं को साथ देखना उपयोगी है",
+      "en": "Which statement is correct according to NCERT? Several characteristics such as growth, respiration, nutrition, response, excretion and reproduction are useful together when identifying living things"
+    },
+    "options": {
+      "hi": [
+        "कई जीवन विशेषताओं को साथ देखना",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "वे बढ़ते हैं"
+      ],
+      "en": [
+        "Considering several life characteristics together",
+        "They obtain energy and materials from food",
+        "Response to changes in surroundings",
+        "They grow"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कई जीवन विशेषताओं को साथ देखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Considering several life characteristics together is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q125",
+    "topic": "living-nonliving",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? सजीवों की पहचान में वृद्धि, श्वसन, पोषण, प्रतिक्रिया, उत्सर्जन और प्रजनन जैसी कई विशेषताओं को साथ देखना उपयोगी है",
+      "en": "Which option correctly describes the topic? Several characteristics such as growth, respiration, nutrition, response, excretion and reproduction are useful together when identifying living things"
+    },
+    "options": {
+      "hi": [
+        "परिवेश के बदलाव पर प्रतिक्रिया",
+        "भोजन से ऊर्जा तथा पदार्थ मिलते हैं",
+        "कई जीवन विशेषताओं को साथ देखना",
+        "कुछ निर्जीव वस्तुएँ भी गति कर सकती हैं"
+      ],
+      "en": [
+        "Response to changes in surroundings",
+        "They obtain energy and materials from food",
+        "Considering several life characteristics together",
+        "Some non-living things can also move"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कई जीवन विशेषताओं को साथ देखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Considering several life characteristics together is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q126",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है?",
+      "en": "Which option gives the correct fact: A habitat is the place and surroundings where an organism lives?"
+    },
+    "options": {
+      "hi": [
+        "जीव का रहने का स्थान और परिवेश",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "पौधे और जानवर"
+      ],
+      "en": [
+        "The place and surroundings where an organism lives",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Air, water, soil, light and temperature",
+        "Plants and animals"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जीव का रहने का स्थान और परिवेश सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "The place and surroundings where an organism lives is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q127",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है",
+      "en": "According to the chapter, which statement is correct? A habitat is the place and surroundings where an organism lives"
+    },
+    "options": {
+      "hi": [
+        "पौधे और जानवर",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Plants and animals",
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जीव का रहने का स्थान और परिवेश सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "The place and surroundings where an organism lives is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q128",
+    "topic": "habitat-surroundings",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है",
+      "en": "Choose the correct statement for this concept: A habitat is the place and surroundings where an organism lives"
+    },
+    "options": {
+      "hi": [
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "भोजन, जल, वायु और आश्रय",
+        "जीव का रहने का स्थान और परिवेश",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Food, water, air and shelter",
+        "The place and surroundings where an organism lives",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जीव का रहने का स्थान और परिवेश सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "The place and surroundings where an organism lives is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q129",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है",
+      "en": "Which statement is correct according to NCERT? A habitat is the place and surroundings where an organism lives"
+    },
+    "options": {
+      "hi": [
+        "पौधे और जानवर",
+        "भोजन, जल, वायु और आश्रय",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश"
+      ],
+      "en": [
+        "Plants and animals",
+        "Food, water, air and shelter",
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जीव का रहने का स्थान और परिवेश सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "The place and surroundings where an organism lives is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q130",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? Habitat वह स्थान और परिवेश है जहाँ कोई जीव रहता है",
+      "en": "Which option correctly describes the topic? A habitat is the place and surroundings where an organism lives"
+    },
+    "options": {
+      "hi": [
+        "भोजन, जल, वायु और आश्रय",
+        "जीव का रहने का स्थान और परिवेश",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Food, water, air and shelter",
+        "The place and surroundings where an organism lives",
+        "Air, water, soil, light and temperature",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जीव का रहने का स्थान और परिवेश सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "The place and surroundings where an organism lives is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q131",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: Habitat में पौधे और जानवर जैविक घटक होते हैं?",
+      "en": "Which option gives the correct fact: Plants and animals are biotic components of a habitat?"
+    },
+    "options": {
+      "hi": [
+        "जीव का रहने का स्थान और परिवेश",
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "The place and surroundings where an organism lives",
+        "Food, water, air and shelter",
+        "Plants and animals",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पौधे और जानवर सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Plants and animals is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q132",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? Habitat में पौधे और जानवर जैविक घटक होते हैं",
+      "en": "According to the chapter, which statement is correct? Plants and animals are biotic components of a habitat"
+    },
+    "options": {
+      "hi": [
+        "पौधे और जानवर",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "भोजन, जल, वायु और आश्रय"
+      ],
+      "en": [
+        "Plants and animals",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Air, water, soil, light and temperature",
+        "Food, water, air and shelter"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पौधे और जानवर सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Plants and animals is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q133",
+    "topic": "habitat-surroundings",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: Habitat में पौधे और जानवर जैविक घटक होते हैं",
+      "en": "Choose the correct statement for this concept: Plants and animals are biotic components of a habitat"
+    },
+    "options": {
+      "hi": [
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Food, water, air and shelter",
+        "Plants and animals",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पौधे और जानवर सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Plants and animals is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q134",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? Habitat में पौधे और जानवर जैविक घटक होते हैं",
+      "en": "Which statement is correct according to NCERT? Plants and animals are biotic components of a habitat"
+    },
+    "options": {
+      "hi": [
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Food, water, air and shelter",
+        "Plants and animals",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पौधे और जानवर सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Plants and animals is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q135",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? Habitat में पौधे और जानवर जैविक घटक होते हैं",
+      "en": "Which option correctly describes the topic? Plants and animals are biotic components of a habitat"
+    },
+    "options": {
+      "hi": [
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "भोजन, जल, वायु और आश्रय",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "पौधे और जानवर"
+      ],
+      "en": [
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Food, water, air and shelter",
+        "Air, water, soil, light and temperature",
+        "Plants and animals"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पौधे और जानवर सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Plants and animals is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q136",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: हवा, पानी, मिट्टी, प्रकाश और तापमान अजैविक घटक हैं?",
+      "en": "Which option gives the correct fact: Air, water, soil, light and temperature are abiotic components?"
+    },
+    "options": {
+      "hi": [
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "जीव का रहने का स्थान और परिवेश",
+        "पौधे और जानवर",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "The place and surroundings where an organism lives",
+        "Plants and animals",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "हवा, पानी, मिट्टी, प्रकाश और तापमान सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Air, water, soil, light and temperature is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q137",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? हवा, पानी, मिट्टी, प्रकाश और तापमान अजैविक घटक हैं",
+      "en": "According to the chapter, which statement is correct? Air, water, soil, light and temperature are abiotic components"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश",
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives",
+        "Food, water, air and shelter",
+        "Plants and animals"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "हवा, पानी, मिट्टी, प्रकाश और तापमान सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Air, water, soil, light and temperature is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q138",
+    "topic": "habitat-surroundings",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: हवा, पानी, मिट्टी, प्रकाश और तापमान अजैविक घटक हैं",
+      "en": "Choose the correct statement for this concept: Air, water, soil, light and temperature are abiotic components"
+    },
+    "options": {
+      "hi": [
+        "पौधे और जानवर",
+        "भोजन, जल, वायु और आश्रय",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "Plants and animals",
+        "Food, water, air and shelter",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "हवा, पानी, मिट्टी, प्रकाश और तापमान सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Air, water, soil, light and temperature is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q139",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? हवा, पानी, मिट्टी, प्रकाश और तापमान अजैविक घटक हैं",
+      "en": "Which statement is correct according to NCERT? Air, water, soil, light and temperature are abiotic components"
+    },
+    "options": {
+      "hi": [
+        "जीव का रहने का स्थान और परिवेश",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "पौधे और जानवर",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "The place and surroundings where an organism lives",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Plants and animals",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "हवा, पानी, मिट्टी, प्रकाश और तापमान सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Air, water, soil, light and temperature is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q140",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? हवा, पानी, मिट्टी, प्रकाश और तापमान अजैविक घटक हैं",
+      "en": "Which option correctly describes the topic? Air, water, soil, light and temperature are abiotic components"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "भोजन, जल, वायु और आश्रय"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Food, water, air and shelter"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "हवा, पानी, मिट्टी, प्रकाश और तापमान सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Air, water, soil, light and temperature is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q141",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: स्थलीय habitat भूमि पर और जलीय habitat जल में पाया जाता है?",
+      "en": "Which option gives the correct fact: A terrestrial habitat is found on land and an aquatic habitat is found in water?"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "पौधे और जानवर",
+        "भोजन, जल, वायु और आश्रय",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "Plants and animals",
+        "Food, water, air and shelter",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Land and water are the media of terrestrial and aquatic habitats respectively is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q142",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? स्थलीय habitat भूमि पर और जलीय habitat जल में पाया जाता है",
+      "en": "According to the chapter, which statement is correct? A terrestrial habitat is found on land and an aquatic habitat is found in water"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "Food, water, air and shelter",
+        "Plants and animals",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Land and water are the media of terrestrial and aquatic habitats respectively is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q143",
+    "topic": "habitat-surroundings",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: स्थलीय habitat भूमि पर और जलीय habitat जल में पाया जाता है",
+      "en": "Choose the correct statement for this concept: A terrestrial habitat is found on land and an aquatic habitat is found in water"
+    },
+    "options": {
+      "hi": [
+        "भोजन, जल, वायु और आश्रय",
+        "जीव का रहने का स्थान और परिवेश",
+        "पौधे और जानवर",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Food, water, air and shelter",
+        "The place and surroundings where an organism lives",
+        "Plants and animals",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Land and water are the media of terrestrial and aquatic habitats respectively is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q144",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? स्थलीय habitat भूमि पर और जलीय habitat जल में पाया जाता है",
+      "en": "Which statement is correct according to NCERT? A terrestrial habitat is found on land and an aquatic habitat is found in water"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "पौधे और जानवर"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Plants and animals"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Land and water are the media of terrestrial and aquatic habitats respectively is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q145",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? स्थलीय habitat भूमि पर और जलीय habitat जल में पाया जाता है",
+      "en": "Which option correctly describes the topic? A terrestrial habitat is found on land and an aquatic habitat is found in water"
+    },
+    "options": {
+      "hi": [
+        "पौधे और जानवर",
+        "जीव का रहने का स्थान और परिवेश",
+        "भोजन, जल, वायु और आश्रय",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Plants and animals",
+        "The place and surroundings where an organism lives",
+        "Food, water, air and shelter",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Land and water are the media of terrestrial and aquatic habitats respectively is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q146",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: जीव अपने habitat से भोजन, जल, वायु और आश्रय जैसी आवश्यकताएँ पूरी करते हैं?",
+      "en": "Which option gives the correct fact: Organisms meet needs such as food, water, air and shelter from their habitat?"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश",
+        "पौधे और जानवर",
+        "भोजन, जल, वायु और आश्रय"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives",
+        "Plants and animals",
+        "Food, water, air and shelter"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "भोजन, जल, वायु और आश्रय सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Food, water, air and shelter is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q147",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? जीव अपने habitat से भोजन, जल, वायु और आश्रय जैसी आवश्यकताएँ पूरी करते हैं",
+      "en": "According to the chapter, which statement is correct? Organisms meet needs such as food, water, air and shelter from their habitat"
+    },
+    "options": {
+      "hi": [
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान"
+      ],
+      "en": [
+        "Food, water, air and shelter",
+        "Plants and animals",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Air, water, soil, light and temperature"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन, जल, वायु और आश्रय सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Food, water, air and shelter is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q148",
+    "topic": "habitat-surroundings",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: जीव अपने habitat से भोजन, जल, वायु और आश्रय जैसी आवश्यकताएँ पूरी करते हैं",
+      "en": "Choose the correct statement for this concept: Organisms meet needs such as food, water, air and shelter from their habitat"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "भोजन, जल, वायु और आश्रय",
+        "पौधे और जानवर",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "Food, water, air and shelter",
+        "Plants and animals",
+        "Land and water are the media of terrestrial and aquatic habitats respectively"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "भोजन, जल, वायु और आश्रय सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Food, water, air and shelter is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q149",
+    "topic": "habitat-surroundings",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? जीव अपने habitat से भोजन, जल, वायु और आश्रय जैसी आवश्यकताएँ पूरी करते हैं",
+      "en": "Which statement is correct according to NCERT? Organisms meet needs such as food, water, air and shelter from their habitat"
+    },
+    "options": {
+      "hi": [
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "भोजन, जल, वायु और आश्रय",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "पौधे और जानवर"
+      ],
+      "en": [
+        "Air, water, soil, light and temperature",
+        "Food, water, air and shelter",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Plants and animals"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "भोजन, जल, वायु और आश्रय सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Food, water, air and shelter is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q150",
+    "topic": "habitat-surroundings",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? जीव अपने habitat से भोजन, जल, वायु और आश्रय जैसी आवश्यकताएँ पूरी करते हैं",
+      "en": "Which option correctly describes the topic? Organisms meet needs such as food, water, air and shelter from their habitat"
+    },
+    "options": {
+      "hi": [
+        "भोजन, जल, वायु और आश्रय",
+        "भूमि और जल क्रमशः स्थलीय और जलीय habitat के माध्यम हैं",
+        "हवा, पानी, मिट्टी, प्रकाश और तापमान",
+        "जीव का रहने का स्थान और परिवेश"
+      ],
+      "en": [
+        "Food, water, air and shelter",
+        "Land and water are the media of terrestrial and aquatic habitats respectively",
+        "Air, water, soil, light and temperature",
+        "The place and surroundings where an organism lives"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "भोजन, जल, वायु और आश्रय सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Food, water, air and shelter is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q151",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है?",
+      "en": "Which option gives the correct fact: Adaptation is a feature or habit that helps an organism live in its surroundings?"
+    },
+    "options": {
+      "hi": [
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "जल में श्वसन",
+        "जल में आसानी से गति करना",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "A feature or habit helping an organism live in its surroundings",
+        "Respiration in water",
+        "Moving easily in water",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "A feature or habit helping an organism live in its surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q152",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है",
+      "en": "According to the chapter, which statement is correct? Adaptation is a feature or habit that helps an organism live in its surroundings"
+    },
+    "options": {
+      "hi": [
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में आसानी से गति करना",
+        "जल में श्वसन",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत"
+      ],
+      "en": [
+        "Keeping the body away from hot sand",
+        "Moving easily in water",
+        "Respiration in water",
+        "A feature or habit helping an organism live in its surroundings"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "A feature or habit helping an organism live in its surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q153",
+    "topic": "adaptation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है",
+      "en": "Choose the correct statement for this concept: Adaptation is a feature or habit that helps an organism live in its surroundings"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत"
+      ],
+      "en": [
+        "Respiration in water",
+        "Reducing water loss",
+        "Moving easily in water",
+        "A feature or habit helping an organism live in its surroundings"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "A feature or habit helping an organism live in its surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q154",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है",
+      "en": "Which statement is correct according to NCERT? Adaptation is a feature or habit that helps an organism live in its surroundings"
+    },
+    "options": {
+      "hi": [
+        "शरीर को गर्म रेत से दूर रखना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना"
+      ],
+      "en": [
+        "Keeping the body away from hot sand",
+        "A feature or habit helping an organism live in its surroundings",
+        "Reducing water loss",
+        "Moving easily in water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "A feature or habit helping an organism live in its surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q155",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? अनुकूलन ऐसी विशेषता या आदत है जो जीव को अपने परिवेश में रहने में सहायता करती है",
+      "en": "Which option correctly describes the topic? Adaptation is a feature or habit that helps an organism live in its surroundings"
+    },
+    "options": {
+      "hi": [
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना",
+        "जल में श्वसन",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत"
+      ],
+      "en": [
+        "Reducing water loss",
+        "Moving easily in water",
+        "Respiration in water",
+        "A feature or habit helping an organism live in its surroundings"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "A feature or habit helping an organism live in its surroundings is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q156",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: ऊँट के लंबे पैर उसके शरीर को गर्म रेत से दूर रखने में सहायता करते हैं?",
+      "en": "Which option gives the correct fact: A camel's long legs help keep its body away from hot sand?"
+    },
+    "options": {
+      "hi": [
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "शरीर को गर्म रेत से दूर रखना",
+        "पानी की हानि कम करना",
+        "जल में श्वसन"
+      ],
+      "en": [
+        "A feature or habit helping an organism live in its surroundings",
+        "Keeping the body away from hot sand",
+        "Reducing water loss",
+        "Respiration in water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "शरीर को गर्म रेत से दूर रखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Keeping the body away from hot sand is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q157",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? ऊँट के लंबे पैर उसके शरीर को गर्म रेत से दूर रखने में सहायता करते हैं",
+      "en": "According to the chapter, which statement is correct? A camel's long legs help keep its body away from hot sand"
+    },
+    "options": {
+      "hi": [
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में श्वसन",
+        "जल में आसानी से गति करना",
+        "पानी की हानि कम करना"
+      ],
+      "en": [
+        "Keeping the body away from hot sand",
+        "Respiration in water",
+        "Moving easily in water",
+        "Reducing water loss"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "शरीर को गर्म रेत से दूर रखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Keeping the body away from hot sand is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q158",
+    "topic": "adaptation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: ऊँट के लंबे पैर उसके शरीर को गर्म रेत से दूर रखने में सहायता करते हैं",
+      "en": "Choose the correct statement for this concept: A camel's long legs help keep its body away from hot sand"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Respiration in water",
+        "Reducing water loss",
+        "Moving easily in water",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "शरीर को गर्म रेत से दूर रखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Keeping the body away from hot sand is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q159",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? ऊँट के लंबे पैर उसके शरीर को गर्म रेत से दूर रखने में सहायता करते हैं",
+      "en": "Which statement is correct according to NCERT? A camel's long legs help keep its body away from hot sand"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Respiration in water",
+        "Reducing water loss",
+        "Moving easily in water",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "शरीर को गर्म रेत से दूर रखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Keeping the body away from hot sand is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q160",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? ऊँट के लंबे पैर उसके शरीर को गर्म रेत से दूर रखने में सहायता करते हैं",
+      "en": "Which option correctly describes the topic? A camel's long legs help keep its body away from hot sand"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में आसानी से गति करना"
+      ],
+      "en": [
+        "Respiration in water",
+        "Reducing water loss",
+        "Keeping the body away from hot sand",
+        "Moving easily in water"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "शरीर को गर्म रेत से दूर रखना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Keeping the body away from hot sand is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q161",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: मछली का streamlined शरीर जल में आसानी से गति करने में सहायता करता है?",
+      "en": "Which option gives the correct fact: A fish's streamlined body helps it move easily in water?"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में आसानी से गति करना"
+      ],
+      "en": [
+        "Respiration in water",
+        "A feature or habit helping an organism live in its surroundings",
+        "Keeping the body away from hot sand",
+        "Moving easily in water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जल में आसानी से गति करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Moving easily in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q162",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? मछली का streamlined शरीर जल में आसानी से गति करने में सहायता करता है",
+      "en": "According to the chapter, which statement is correct? A fish's streamlined body helps it move easily in water"
+    },
+    "options": {
+      "hi": [
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "A feature or habit helping an organism live in its surroundings",
+        "Reducing water loss",
+        "Moving easily in water",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जल में आसानी से गति करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Moving easily in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q163",
+    "topic": "adaptation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: मछली का streamlined शरीर जल में आसानी से गति करने में सहायता करता है",
+      "en": "Choose the correct statement for this concept: A fish's streamlined body helps it move easily in water"
+    },
+    "options": {
+      "hi": [
+        "शरीर को गर्म रेत से दूर रखना",
+        "पानी की हानि कम करना",
+        "जल में श्वसन",
+        "जल में आसानी से गति करना"
+      ],
+      "en": [
+        "Keeping the body away from hot sand",
+        "Reducing water loss",
+        "Respiration in water",
+        "Moving easily in water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जल में आसानी से गति करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Moving easily in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q164",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? मछली का streamlined शरीर जल में आसानी से गति करने में सहायता करता है",
+      "en": "Which statement is correct according to NCERT? A fish's streamlined body helps it move easily in water"
+    },
+    "options": {
+      "hi": [
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "जल में श्वसन",
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में आसानी से गति करना"
+      ],
+      "en": [
+        "A feature or habit helping an organism live in its surroundings",
+        "Respiration in water",
+        "Keeping the body away from hot sand",
+        "Moving easily in water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जल में आसानी से गति करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Moving easily in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q165",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? मछली का streamlined शरीर जल में आसानी से गति करने में सहायता करता है",
+      "en": "Which option correctly describes the topic? A fish's streamlined body helps it move easily in water"
+    },
+    "options": {
+      "hi": [
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना"
+      ],
+      "en": [
+        "A feature or habit helping an organism live in its surroundings",
+        "Respiration in water",
+        "Reducing water loss",
+        "Moving easily in water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जल में आसानी से गति करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Moving easily in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q166",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: मछली के गलफड़े जल में श्वसन के लिए अनुकूलित हैं?",
+      "en": "Which option gives the correct fact: Fish gills are adapted for respiration in water?"
+    },
+    "options": {
+      "hi": [
+        "जल में आसानी से गति करना",
+        "जल में श्वसन",
+        "शरीर को गर्म रेत से दूर रखना",
+        "पानी की हानि कम करना"
+      ],
+      "en": [
+        "Moving easily in water",
+        "Respiration in water",
+        "Keeping the body away from hot sand",
+        "Reducing water loss"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल में श्वसन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Respiration in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q167",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? मछली के गलफड़े जल में श्वसन के लिए अनुकूलित हैं",
+      "en": "According to the chapter, which statement is correct? Fish gills are adapted for respiration in water"
+    },
+    "options": {
+      "hi": [
+        "जल में आसानी से गति करना",
+        "पानी की हानि कम करना",
+        "जल में श्वसन",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Moving easily in water",
+        "Reducing water loss",
+        "Respiration in water",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जल में श्वसन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Respiration in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q168",
+    "topic": "adaptation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: मछली के गलफड़े जल में श्वसन के लिए अनुकूलित हैं",
+      "en": "Choose the correct statement for this concept: Fish gills are adapted for respiration in water"
+    },
+    "options": {
+      "hi": [
+        "पानी की हानि कम करना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "जल में श्वसन",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Reducing water loss",
+        "A feature or habit helping an organism live in its surroundings",
+        "Respiration in water",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जल में श्वसन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Respiration in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q169",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? मछली के गलफड़े जल में श्वसन के लिए अनुकूलित हैं",
+      "en": "Which statement is correct according to NCERT? Fish gills are adapted for respiration in water"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "जल में आसानी से गति करना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Respiration in water",
+        "Moving easily in water",
+        "A feature or habit helping an organism live in its surroundings",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जल में श्वसन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Respiration in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q170",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? मछली के गलफड़े जल में श्वसन के लिए अनुकूलित हैं",
+      "en": "Which option correctly describes the topic? Fish gills are adapted for respiration in water"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "शरीर को गर्म रेत से दूर रखना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "पानी की हानि कम करना"
+      ],
+      "en": [
+        "Respiration in water",
+        "Keeping the body away from hot sand",
+        "A feature or habit helping an organism live in its surroundings",
+        "Reducing water loss"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जल में श्वसन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Respiration in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q171",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: कैक्टस की पत्तियाँ काँटों में बदलकर पानी की हानि कम करने में सहायता करती हैं?",
+      "en": "Which option gives the correct fact: Cactus leaves are modified into spines that help reduce water loss?"
+    },
+    "options": {
+      "hi": [
+        "जल में आसानी से गति करना",
+        "पानी की हानि कम करना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Moving easily in water",
+        "Reducing water loss",
+        "A feature or habit helping an organism live in its surroundings",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पानी की हानि कम करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Reducing water loss is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q172",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? कैक्टस की पत्तियाँ काँटों में बदलकर पानी की हानि कम करने में सहायता करती हैं",
+      "en": "According to the chapter, which statement is correct? Cactus leaves are modified into spines that help reduce water loss"
+    },
+    "options": {
+      "hi": [
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में श्वसन",
+        "जल में आसानी से गति करना",
+        "पानी की हानि कम करना"
+      ],
+      "en": [
+        "Keeping the body away from hot sand",
+        "Respiration in water",
+        "Moving easily in water",
+        "Reducing water loss"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पानी की हानि कम करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Reducing water loss is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q173",
+    "topic": "adaptation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: कैक्टस की पत्तियाँ काँटों में बदलकर पानी की हानि कम करने में सहायता करती हैं",
+      "en": "Choose the correct statement for this concept: Cactus leaves are modified into spines that help reduce water loss"
+    },
+    "options": {
+      "hi": [
+        "जल में आसानी से गति करना",
+        "शरीर को गर्म रेत से दूर रखना",
+        "जल में श्वसन",
+        "पानी की हानि कम करना"
+      ],
+      "en": [
+        "Moving easily in water",
+        "Keeping the body away from hot sand",
+        "Respiration in water",
+        "Reducing water loss"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पानी की हानि कम करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Reducing water loss is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q174",
+    "topic": "adaptation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? कैक्टस की पत्तियाँ काँटों में बदलकर पानी की हानि कम करने में सहायता करती हैं",
+      "en": "Which statement is correct according to NCERT? Cactus leaves are modified into spines that help reduce water loss"
+    },
+    "options": {
+      "hi": [
+        "जल में आसानी से गति करना",
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "शरीर को गर्म रेत से दूर रखना"
+      ],
+      "en": [
+        "Moving easily in water",
+        "Respiration in water",
+        "Reducing water loss",
+        "Keeping the body away from hot sand"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पानी की हानि कम करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Reducing water loss is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q175",
+    "topic": "adaptation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? कैक्टस की पत्तियाँ काँटों में बदलकर पानी की हानि कम करने में सहायता करती हैं",
+      "en": "Which option correctly describes the topic? Cactus leaves are modified into spines that help reduce water loss"
+    },
+    "options": {
+      "hi": [
+        "जल में श्वसन",
+        "पानी की हानि कम करना",
+        "जल में आसानी से गति करना",
+        "जीव को परिवेश में रहने में सहायता करने वाली विशेषता या आदत"
+      ],
+      "en": [
+        "Respiration in water",
+        "Reducing water loss",
+        "Moving easily in water",
+        "A feature or habit helping an organism live in its surroundings"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पानी की हानि कम करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Reducing water loss is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q176",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: रेगिस्तान में पानी बहुत कम उपलब्ध हो सकता है?",
+      "en": "Which option gives the correct fact: Water can be very scarce in deserts?"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "पानी की बहुत कम उपलब्धता",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Low temperature and snow at high regions",
+        "Very low water availability",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "पानी की बहुत कम उपलब्धता सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Very low water availability is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q177",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? रेगिस्तान में पानी बहुत कम उपलब्ध हो सकता है",
+      "en": "According to the chapter, which statement is correct? Water can be very scarce in deserts"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "स्थलीय habitats",
+        "पानी की बहुत कम उपलब्धता"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Low temperature and snow at high regions",
+        "Terrestrial habitats",
+        "Very low water availability"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पानी की बहुत कम उपलब्धता सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Very low water availability is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q178",
+    "topic": "terrestrial-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: रेगिस्तान में पानी बहुत कम उपलब्ध हो सकता है",
+      "en": "Choose the correct statement for this concept: Water can be very scarce in deserts"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "पानी की बहुत कम उपलब्धता"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Staying in burrows",
+        "Low temperature and snow at high regions",
+        "Very low water availability"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पानी की बहुत कम उपलब्धता सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Very low water availability is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q179",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? रेगिस्तान में पानी बहुत कम उपलब्ध हो सकता है",
+      "en": "Which statement is correct according to NCERT? Water can be very scarce in deserts"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "पानी की बहुत कम उपलब्धता"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Staying in burrows",
+        "Low temperature and snow at high regions",
+        "Very low water availability"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पानी की बहुत कम उपलब्धता सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Very low water availability is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q180",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? रेगिस्तान में पानी बहुत कम उपलब्ध हो सकता है",
+      "en": "Which option correctly describes the topic? Water can be very scarce in deserts"
+    },
+    "options": {
+      "hi": [
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "स्थलीय habitats",
+        "पानी की बहुत कम उपलब्धता"
+      ],
+      "en": [
+        "Staying in burrows",
+        "Low temperature and snow at high regions",
+        "Terrestrial habitats",
+        "Very low water availability"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पानी की बहुत कम उपलब्धता सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Very low water availability is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q181",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: रेगिस्तान में दिन बहुत गर्म और रात बहुत ठंडी हो सकती है?",
+      "en": "Which option gives the correct fact: A desert can be very hot in the day and very cold at night?"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "पानी की बहुत कम उपलब्धता",
+        "बिलों में रहना",
+        "स्थलीय habitats"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Very low water availability",
+        "Staying in burrows",
+        "Terrestrial habitats"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "दिन में गर्म और रात में ठंड सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Hot in the day and cold at night is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q182",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? रेगिस्तान में दिन बहुत गर्म और रात बहुत ठंडी हो सकती है",
+      "en": "According to the chapter, which statement is correct? A desert can be very hot in the day and very cold at night"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "दिन में गर्म और रात में ठंड",
+        "बिलों में रहना"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Low temperature and snow at high regions",
+        "Hot in the day and cold at night",
+        "Staying in burrows"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "दिन में गर्म और रात में ठंड सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Hot in the day and cold at night is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q183",
+    "topic": "terrestrial-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: रेगिस्तान में दिन बहुत गर्म और रात बहुत ठंडी हो सकती है",
+      "en": "Choose the correct statement for this concept: A desert can be very hot in the day and very cold at night"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "बिलों में रहना",
+        "दिन में गर्म और रात में ठंड",
+        "कम तापमान और ऊँचाई पर बर्फ"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Staying in burrows",
+        "Hot in the day and cold at night",
+        "Low temperature and snow at high regions"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "दिन में गर्म और रात में ठंड सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Hot in the day and cold at night is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q184",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? रेगिस्तान में दिन बहुत गर्म और रात बहुत ठंडी हो सकती है",
+      "en": "Which statement is correct according to NCERT? A desert can be very hot in the day and very cold at night"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Staying in burrows",
+        "Low temperature and snow at high regions",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "दिन में गर्म और रात में ठंड सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Hot in the day and cold at night is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q185",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? रेगिस्तान में दिन बहुत गर्म और रात बहुत ठंडी हो सकती है",
+      "en": "Which option correctly describes the topic? A desert can be very hot in the day and very cold at night"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "स्थलीय habitats",
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Terrestrial habitats",
+        "Staying in burrows",
+        "Low temperature and snow at high regions"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "दिन में गर्म और रात में ठंड सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Hot in the day and cold at night is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q186",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: पर्वतीय habitat में तापमान बहुत कम हो सकता है और ऊँचाई पर बर्फ मिल सकती है?",
+      "en": "Which option gives the correct fact: Mountain habitats can have very low temperatures and snow at high regions?"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "पानी की बहुत कम उपलब्धता",
+        "दिन में गर्म और रात में ठंड",
+        "कम तापमान और ऊँचाई पर बर्फ"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Very low water availability",
+        "Hot in the day and cold at night",
+        "Low temperature and snow at high regions"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कम तापमान और ऊँचाई पर बर्फ सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Low temperature and snow at high regions is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q187",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? पर्वतीय habitat में तापमान बहुत कम हो सकता है और ऊँचाई पर बर्फ मिल सकती है",
+      "en": "According to the chapter, which statement is correct? Mountain habitats can have very low temperatures and snow at high regions"
+    },
+    "options": {
+      "hi": [
+        "पानी की बहुत कम उपलब्धता",
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Very low water availability",
+        "Staying in burrows",
+        "Low temperature and snow at high regions",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कम तापमान और ऊँचाई पर बर्फ सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Low temperature and snow at high regions is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q188",
+    "topic": "terrestrial-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: पर्वतीय habitat में तापमान बहुत कम हो सकता है और ऊँचाई पर बर्फ मिल सकती है",
+      "en": "Choose the correct statement for this concept: Mountain habitats can have very low temperatures and snow at high regions"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "बिलों में रहना",
+        "स्थलीय habitats",
+        "कम तापमान और ऊँचाई पर बर्फ"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Staying in burrows",
+        "Terrestrial habitats",
+        "Low temperature and snow at high regions"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कम तापमान और ऊँचाई पर बर्फ सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Low temperature and snow at high regions is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q189",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? पर्वतीय habitat में तापमान बहुत कम हो सकता है और ऊँचाई पर बर्फ मिल सकती है",
+      "en": "Which statement is correct according to NCERT? Mountain habitats can have very low temperatures and snow at high regions"
+    },
+    "options": {
+      "hi": [
+        "पानी की बहुत कम उपलब्धता",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "स्थलीय habitats",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Very low water availability",
+        "Low temperature and snow at high regions",
+        "Terrestrial habitats",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कम तापमान और ऊँचाई पर बर्फ सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Low temperature and snow at high regions is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q190",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? पर्वतीय habitat में तापमान बहुत कम हो सकता है और ऊँचाई पर बर्फ मिल सकती है",
+      "en": "Which option correctly describes the topic? Mountain habitats can have very low temperatures and snow at high regions"
+    },
+    "options": {
+      "hi": [
+        "पानी की बहुत कम उपलब्धता",
+        "स्थलीय habitats",
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ"
+      ],
+      "en": [
+        "Very low water availability",
+        "Terrestrial habitats",
+        "Staying in burrows",
+        "Low temperature and snow at high regions"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कम तापमान और ऊँचाई पर बर्फ सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Low temperature and snow at high regions is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q191",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: वन और घास के मैदान स्थलीय habitats के उदाहरण हैं?",
+      "en": "Which option gives the correct fact: Forests and grasslands are examples of terrestrial habitats?"
+    },
+    "options": {
+      "hi": [
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "दिन में गर्म और रात में ठंड",
+        "बिलों में रहना",
+        "स्थलीय habitats"
+      ],
+      "en": [
+        "Low temperature and snow at high regions",
+        "Hot in the day and cold at night",
+        "Staying in burrows",
+        "Terrestrial habitats"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "स्थलीय habitats सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Terrestrial habitats is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q192",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? वन और घास के मैदान स्थलीय habitats के उदाहरण हैं",
+      "en": "According to the chapter, which statement is correct? Forests and grasslands are examples of terrestrial habitats"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "बिलों में रहना",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Low temperature and snow at high regions",
+        "Staying in burrows",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्थलीय habitats सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Terrestrial habitats is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q193",
+    "topic": "terrestrial-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: वन और घास के मैदान स्थलीय habitats के उदाहरण हैं",
+      "en": "Choose the correct statement for this concept: Forests and grasslands are examples of terrestrial habitats"
+    },
+    "options": {
+      "hi": [
+        "बिलों में रहना",
+        "पानी की बहुत कम उपलब्धता",
+        "स्थलीय habitats",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Staying in burrows",
+        "Very low water availability",
+        "Terrestrial habitats",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "स्थलीय habitats सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Terrestrial habitats is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q194",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? वन और घास के मैदान स्थलीय habitats के उदाहरण हैं",
+      "en": "Which statement is correct according to NCERT? Forests and grasslands are examples of terrestrial habitats"
+    },
+    "options": {
+      "hi": [
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "पानी की बहुत कम उपलब्धता",
+        "दिन में गर्म और रात में ठंड",
+        "स्थलीय habitats"
+      ],
+      "en": [
+        "Low temperature and snow at high regions",
+        "Very low water availability",
+        "Hot in the day and cold at night",
+        "Terrestrial habitats"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "स्थलीय habitats सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Terrestrial habitats is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q195",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? वन और घास के मैदान स्थलीय habitats के उदाहरण हैं",
+      "en": "Which option correctly describes the topic? Forests and grasslands are examples of terrestrial habitats"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "पानी की बहुत कम उपलब्धता",
+        "स्थलीय habitats",
+        "बिलों में रहना"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Very low water availability",
+        "Terrestrial habitats",
+        "Staying in burrows"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "स्थलीय habitats सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Terrestrial habitats is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q196",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: रेगिस्तान के कुछ जानवर दिन की गर्मी से बचने के लिए बिलों में रहते हैं?",
+      "en": "Which option gives the correct fact: Some desert animals stay in burrows to avoid daytime heat?"
+    },
+    "options": {
+      "hi": [
+        "बिलों में रहना",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "पानी की बहुत कम उपलब्धता",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Staying in burrows",
+        "Low temperature and snow at high regions",
+        "Very low water availability",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बिलों में रहना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Staying in burrows is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q197",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? रेगिस्तान के कुछ जानवर दिन की गर्मी से बचने के लिए बिलों में रहते हैं",
+      "en": "According to the chapter, which statement is correct? Some desert animals stay in burrows to avoid daytime heat"
+    },
+    "options": {
+      "hi": [
+        "दिन में गर्म और रात में ठंड",
+        "बिलों में रहना",
+        "स्थलीय habitats",
+        "कम तापमान और ऊँचाई पर बर्फ"
+      ],
+      "en": [
+        "Hot in the day and cold at night",
+        "Staying in burrows",
+        "Terrestrial habitats",
+        "Low temperature and snow at high regions"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "बिलों में रहना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Staying in burrows is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q198",
+    "topic": "terrestrial-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: रेगिस्तान के कुछ जानवर दिन की गर्मी से बचने के लिए बिलों में रहते हैं",
+      "en": "Choose the correct statement for this concept: Some desert animals stay in burrows to avoid daytime heat"
+    },
+    "options": {
+      "hi": [
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "दिन में गर्म और रात में ठंड",
+        "स्थलीय habitats",
+        "बिलों में रहना"
+      ],
+      "en": [
+        "Low temperature and snow at high regions",
+        "Hot in the day and cold at night",
+        "Terrestrial habitats",
+        "Staying in burrows"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "बिलों में रहना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Staying in burrows is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q199",
+    "topic": "terrestrial-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? रेगिस्तान के कुछ जानवर दिन की गर्मी से बचने के लिए बिलों में रहते हैं",
+      "en": "Which statement is correct according to NCERT? Some desert animals stay in burrows to avoid daytime heat"
+    },
+    "options": {
+      "hi": [
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "बिलों में रहना",
+        "स्थलीय habitats",
+        "दिन में गर्म और रात में ठंड"
+      ],
+      "en": [
+        "Low temperature and snow at high regions",
+        "Staying in burrows",
+        "Terrestrial habitats",
+        "Hot in the day and cold at night"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "बिलों में रहना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Staying in burrows is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q200",
+    "topic": "terrestrial-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? रेगिस्तान के कुछ जानवर दिन की गर्मी से बचने के लिए बिलों में रहते हैं",
+      "en": "Which option correctly describes the topic? Some desert animals stay in burrows to avoid daytime heat"
+    },
+    "options": {
+      "hi": [
+        "स्थलीय habitats",
+        "कम तापमान और ऊँचाई पर बर्फ",
+        "पानी की बहुत कम उपलब्धता",
+        "बिलों में रहना"
+      ],
+      "en": [
+        "Terrestrial habitats",
+        "Low temperature and snow at high regions",
+        "Very low water availability",
+        "Staying in burrows"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "बिलों में रहना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Staying in burrows is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q201",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: तालाब, झील, नदी और समुद्र जलीय habitats के उदाहरण हैं?",
+      "en": "Which option gives the correct fact: Ponds, lakes, rivers and seas are examples of aquatic habitats?"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "जल में गति और सुरक्षा",
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Movement and protection in water",
+        "Swimming, changing direction and balance",
+        "Water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "तालाब, झील, नदी और समुद्र सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Ponds, lakes, rivers and seas is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q202",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? तालाब, झील, नदी और समुद्र जलीय habitats के उदाहरण हैं",
+      "en": "According to the chapter, which statement is correct? Ponds, lakes, rivers and seas are examples of aquatic habitats"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "जल",
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल में गति और सुरक्षा"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Water",
+        "Swimming, changing direction and balance",
+        "Movement and protection in water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "तालाब, झील, नदी और समुद्र सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Ponds, lakes, rivers and seas is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q203",
+    "topic": "aquatic-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: तालाब, झील, नदी और समुद्र जलीय habitats के उदाहरण हैं",
+      "en": "Choose the correct statement for this concept: Ponds, lakes, rivers and seas are examples of aquatic habitats"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Movement and protection in water",
+        "For respiration",
+        "Swimming, changing direction and balance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "तालाब, झील, नदी और समुद्र सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Ponds, lakes, rivers and seas is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q204",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? तालाब, झील, नदी और समुद्र जलीय habitats के उदाहरण हैं",
+      "en": "Which statement is correct according to NCERT? Ponds, lakes, rivers and seas are examples of aquatic habitats"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन",
+        "तालाब, झील, नदी और समुद्र"
+      ],
+      "en": [
+        "Water",
+        "For respiration",
+        "Swimming, changing direction and balance",
+        "Ponds, lakes, rivers and seas"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "तालाब, झील, नदी और समुद्र सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Ponds, lakes, rivers and seas is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q205",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? तालाब, झील, नदी और समुद्र जलीय habitats के उदाहरण हैं",
+      "en": "Which option correctly describes the topic? Ponds, lakes, rivers and seas are examples of aquatic habitats"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल में गति और सुरक्षा"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "For respiration",
+        "Swimming, changing direction and balance",
+        "Movement and protection in water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "तालाब, झील, नदी और समुद्र सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Ponds, lakes, rivers and seas is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q206",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: जलीय habitat का मुख्य medium जल है?",
+      "en": "Which option gives the correct fact: Water is the main medium of an aquatic habitat?"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "जल",
+        "श्वसन के लिए",
+        "जल में गति और सुरक्षा"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Water",
+        "For respiration",
+        "Movement and protection in water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q207",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? जलीय habitat का मुख्य medium जल है",
+      "en": "According to the chapter, which statement is correct? Water is the main medium of an aquatic habitat"
+    },
+    "options": {
+      "hi": [
+        "जल में गति और सुरक्षा",
+        "जल",
+        "तैरना, दिशा बदलना और संतुलन",
+        "श्वसन के लिए"
+      ],
+      "en": [
+        "Movement and protection in water",
+        "Water",
+        "Swimming, changing direction and balance",
+        "For respiration"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q208",
+    "topic": "aquatic-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: जलीय habitat का मुख्य medium जल है",
+      "en": "Choose the correct statement for this concept: Water is the main medium of an aquatic habitat"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन"
+      ],
+      "en": [
+        "Water",
+        "Movement and protection in water",
+        "For respiration",
+        "Swimming, changing direction and balance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जल सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q209",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? जलीय habitat का मुख्य medium जल है",
+      "en": "Which statement is correct according to NCERT? Water is the main medium of an aquatic habitat"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन"
+      ],
+      "en": [
+        "Water",
+        "Movement and protection in water",
+        "For respiration",
+        "Swimming, changing direction and balance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जल सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q210",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? जलीय habitat का मुख्य medium जल है",
+      "en": "Which option correctly describes the topic? Water is the main medium of an aquatic habitat"
+    },
+    "options": {
+      "hi": [
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए",
+        "जल",
+        "तैरना, दिशा बदलना और संतुलन"
+      ],
+      "en": [
+        "Movement and protection in water",
+        "For respiration",
+        "Water",
+        "Swimming, changing direction and balance"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जल सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q211",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: मछली की fins तैरने, दिशा बदलने और संतुलन में सहायता करती हैं?",
+      "en": "Which option gives the correct fact: Fish fins help in swimming, changing direction and maintaining balance?"
+    },
+    "options": {
+      "hi": [
+        "जल में गति और सुरक्षा",
+        "तालाब, झील, नदी और समुद्र",
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल"
+      ],
+      "en": [
+        "Movement and protection in water",
+        "Ponds, lakes, rivers and seas",
+        "Swimming, changing direction and balance",
+        "Water"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "तैरना, दिशा बदलना और संतुलन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Swimming, changing direction and balance is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q212",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? मछली की fins तैरने, दिशा बदलने और संतुलन में सहायता करती हैं",
+      "en": "According to the chapter, which statement is correct? Fish fins help in swimming, changing direction and maintaining balance"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "तैरना, दिशा बदलना और संतुलन",
+        "श्वसन के लिए",
+        "जल"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Swimming, changing direction and balance",
+        "For respiration",
+        "Water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "तैरना, दिशा बदलना और संतुलन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Swimming, changing direction and balance is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q213",
+    "topic": "aquatic-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: मछली की fins तैरने, दिशा बदलने और संतुलन में सहायता करती हैं",
+      "en": "Choose the correct statement for this concept: Fish fins help in swimming, changing direction and maintaining balance"
+    },
+    "options": {
+      "hi": [
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल",
+        "श्वसन के लिए",
+        "जल में गति और सुरक्षा"
+      ],
+      "en": [
+        "Swimming, changing direction and balance",
+        "Water",
+        "For respiration",
+        "Movement and protection in water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "तैरना, दिशा बदलना और संतुलन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Swimming, changing direction and balance is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q214",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? मछली की fins तैरने, दिशा बदलने और संतुलन में सहायता करती हैं",
+      "en": "Which statement is correct according to NCERT? Fish fins help in swimming, changing direction and maintaining balance"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "जल में गति और सुरक्षा",
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Movement and protection in water",
+        "Swimming, changing direction and balance",
+        "Water"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "तैरना, दिशा बदलना और संतुलन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Swimming, changing direction and balance is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q215",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? मछली की fins तैरने, दिशा बदलने और संतुलन में सहायता करती हैं",
+      "en": "Which option correctly describes the topic? Fish fins help in swimming, changing direction and maintaining balance"
+    },
+    "options": {
+      "hi": [
+        "तालाब, झील, नदी और समुद्र",
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन"
+      ],
+      "en": [
+        "Ponds, lakes, rivers and seas",
+        "Movement and protection in water",
+        "For respiration",
+        "Swimming, changing direction and balance"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "तैरना, दिशा बदलना और संतुलन सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Swimming, changing direction and balance is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q216",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: मछली का slippery body surface जल में गति और सुरक्षा में सहायक है?",
+      "en": "Which option gives the correct fact: A fish's slippery body surface helps movement and protection in water?"
+    },
+    "options": {
+      "hi": [
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल में गति और सुरक्षा",
+        "जल",
+        "श्वसन के लिए"
+      ],
+      "en": [
+        "Swimming, changing direction and balance",
+        "Movement and protection in water",
+        "Water",
+        "For respiration"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल में गति और सुरक्षा सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Movement and protection in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q217",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? मछली का slippery body surface जल में गति और सुरक्षा में सहायक है",
+      "en": "According to the chapter, which statement is correct? A fish's slippery body surface helps movement and protection in water"
+    },
+    "options": {
+      "hi": [
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए",
+        "जल"
+      ],
+      "en": [
+        "Swimming, changing direction and balance",
+        "Movement and protection in water",
+        "For respiration",
+        "Water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल में गति और सुरक्षा सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Movement and protection in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q218",
+    "topic": "aquatic-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: मछली का slippery body surface जल में गति और सुरक्षा में सहायक है",
+      "en": "Choose the correct statement for this concept: A fish's slippery body surface helps movement and protection in water"
+    },
+    "options": {
+      "hi": [
+        "श्वसन के लिए",
+        "तालाब, झील, नदी और समुद्र",
+        "जल",
+        "जल में गति और सुरक्षा"
+      ],
+      "en": [
+        "For respiration",
+        "Ponds, lakes, rivers and seas",
+        "Water",
+        "Movement and protection in water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जल में गति और सुरक्षा सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Movement and protection in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q219",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? मछली का slippery body surface जल में गति और सुरक्षा में सहायक है",
+      "en": "Which statement is correct according to NCERT? A fish's slippery body surface helps movement and protection in water"
+    },
+    "options": {
+      "hi": [
+        "तैरना, दिशा बदलना और संतुलन",
+        "जल में गति और सुरक्षा",
+        "तालाब, झील, नदी और समुद्र",
+        "जल"
+      ],
+      "en": [
+        "Swimming, changing direction and balance",
+        "Movement and protection in water",
+        "Ponds, lakes, rivers and seas",
+        "Water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जल में गति और सुरक्षा सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Movement and protection in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q220",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? मछली का slippery body surface जल में गति और सुरक्षा में सहायक है",
+      "en": "Which option correctly describes the topic? A fish's slippery body surface helps movement and protection in water"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "तालाब, झील, नदी और समुद्र",
+        "जल में गति और सुरक्षा",
+        "श्वसन के लिए"
+      ],
+      "en": [
+        "Water",
+        "Ponds, lakes, rivers and seas",
+        "Movement and protection in water",
+        "For respiration"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जल में गति और सुरक्षा सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Movement and protection in water is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q221",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: जल में घुली oxygen मछली के श्वसन के लिए महत्वपूर्ण है?",
+      "en": "Which option gives the correct fact: Dissolved oxygen in water is important for fish respiration?"
+    },
+    "options": {
+      "hi": [
+        "श्वसन के लिए",
+        "तैरना, दिशा बदलना और संतुलन",
+        "तालाब, झील, नदी और समुद्र",
+        "जल"
+      ],
+      "en": [
+        "For respiration",
+        "Swimming, changing direction and balance",
+        "Ponds, lakes, rivers and seas",
+        "Water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "श्वसन के लिए सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "For respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q222",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? जल में घुली oxygen मछली के श्वसन के लिए महत्वपूर्ण है",
+      "en": "According to the chapter, which statement is correct? Dissolved oxygen in water is important for fish respiration"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "जल में गति और सुरक्षा",
+        "तैरना, दिशा बदलना और संतुलन",
+        "श्वसन के लिए"
+      ],
+      "en": [
+        "Water",
+        "Movement and protection in water",
+        "Swimming, changing direction and balance",
+        "For respiration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "श्वसन के लिए सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "For respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q223",
+    "topic": "aquatic-habitats",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: जल में घुली oxygen मछली के श्वसन के लिए महत्वपूर्ण है",
+      "en": "Choose the correct statement for this concept: Dissolved oxygen in water is important for fish respiration"
+    },
+    "options": {
+      "hi": [
+        "तैरना, दिशा बदलना और संतुलन",
+        "श्वसन के लिए",
+        "जल",
+        "जल में गति और सुरक्षा"
+      ],
+      "en": [
+        "Swimming, changing direction and balance",
+        "For respiration",
+        "Water",
+        "Movement and protection in water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "श्वसन के लिए सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "For respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q224",
+    "topic": "aquatic-habitats",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? जल में घुली oxygen मछली के श्वसन के लिए महत्वपूर्ण है",
+      "en": "Which statement is correct according to NCERT? Dissolved oxygen in water is important for fish respiration"
+    },
+    "options": {
+      "hi": [
+        "तैरना, दिशा बदलना और संतुलन",
+        "श्वसन के लिए",
+        "जल में गति और सुरक्षा",
+        "जल"
+      ],
+      "en": [
+        "Swimming, changing direction and balance",
+        "For respiration",
+        "Movement and protection in water",
+        "Water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "श्वसन के लिए सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "For respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q225",
+    "topic": "aquatic-habitats",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? जल में घुली oxygen मछली के श्वसन के लिए महत्वपूर्ण है",
+      "en": "Which option correctly describes the topic? Dissolved oxygen in water is important for fish respiration"
+    },
+    "options": {
+      "hi": [
+        "जल में गति और सुरक्षा",
+        "तैरना, दिशा बदलना और संतुलन",
+        "श्वसन के लिए",
+        "तालाब, झील, नदी और समुद्र"
+      ],
+      "en": [
+        "Movement and protection in water",
+        "Swimming, changing direction and balance",
+        "For respiration",
+        "Ponds, lakes, rivers and seas"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "श्वसन के लिए सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "For respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q226",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: सजीव वृद्धि करते हैं?",
+      "en": "Which option gives the correct fact: Living organisms grow?"
+    },
+    "options": {
+      "hi": [
+        "नए जीव उत्पन्न करना",
+        "अपशिष्ट पदार्थ निकालना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "वृद्धि"
+      ],
+      "en": [
+        "Producing new organisms",
+        "Removing waste products",
+        "Obtaining energy through respiration",
+        "Growth"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वृद्धि सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Growth is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q227",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? सजीव वृद्धि करते हैं",
+      "en": "According to the chapter, which statement is correct? Living organisms grow"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "अपशिष्ट पदार्थ निकालना",
+        "नए जीव उत्पन्न करना",
+        "वृद्धि"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Removing waste products",
+        "Producing new organisms",
+        "Growth"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वृद्धि सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Growth is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q228",
+    "topic": "characteristics-of-living",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: सजीव वृद्धि करते हैं",
+      "en": "Choose the correct statement for this concept: Living organisms grow"
+    },
+    "options": {
+      "hi": [
+        "नए जीव उत्पन्न करना",
+        "वृद्धि",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना"
+      ],
+      "en": [
+        "Producing new organisms",
+        "Growth",
+        "Response to a stimulus",
+        "Removing waste products"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "वृद्धि सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Growth is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q229",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? सजीव वृद्धि करते हैं",
+      "en": "Which statement is correct according to NCERT? Living organisms grow"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "वृद्धि",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Growth",
+        "Response to a stimulus",
+        "Removing waste products"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "वृद्धि सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Growth is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q230",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? सजीव वृद्धि करते हैं",
+      "en": "Which option correctly describes the topic? Living organisms grow"
+    },
+    "options": {
+      "hi": [
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना",
+        "नए जीव उत्पन्न करना",
+        "वृद्धि"
+      ],
+      "en": [
+        "Response to a stimulus",
+        "Removing waste products",
+        "Producing new organisms",
+        "Growth"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "वृद्धि सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Growth is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q231",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: सजीव श्वसन द्वारा भोजन से ऊर्जा प्राप्त करते हैं?",
+      "en": "Which option gives the correct fact: Living organisms obtain energy from food through respiration?"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "वृद्धि",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "नए जीव उत्पन्न करना"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Growth",
+        "Response to a stimulus",
+        "Producing new organisms"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "श्वसन द्वारा ऊर्जा प्राप्त करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Obtaining energy through respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q232",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? सजीव श्वसन द्वारा भोजन से ऊर्जा प्राप्त करते हैं",
+      "en": "According to the chapter, which statement is correct? Living organisms obtain energy from food through respiration"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना",
+        "अपशिष्ट पदार्थ निकालना",
+        "उत्तेजना के प्रति प्रतिक्रिया"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Producing new organisms",
+        "Removing waste products",
+        "Response to a stimulus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "श्वसन द्वारा ऊर्जा प्राप्त करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Obtaining energy through respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q233",
+    "topic": "characteristics-of-living",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: सजीव श्वसन द्वारा भोजन से ऊर्जा प्राप्त करते हैं",
+      "en": "Choose the correct statement for this concept: Living organisms obtain energy from food through respiration"
+    },
+    "options": {
+      "hi": [
+        "नए जीव उत्पन्न करना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Producing new organisms",
+        "Response to a stimulus",
+        "Removing waste products",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "श्वसन द्वारा ऊर्जा प्राप्त करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Obtaining energy through respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q234",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? सजीव श्वसन द्वारा भोजन से ऊर्जा प्राप्त करते हैं",
+      "en": "Which statement is correct according to NCERT? Living organisms obtain energy from food through respiration"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Producing new organisms",
+        "Response to a stimulus",
+        "Removing waste products"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "श्वसन द्वारा ऊर्जा प्राप्त करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Obtaining energy through respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q235",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? सजीव श्वसन द्वारा भोजन से ऊर्जा प्राप्त करते हैं",
+      "en": "Which option correctly describes the topic? Living organisms obtain energy from food through respiration"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Producing new organisms",
+        "Response to a stimulus",
+        "Removing waste products"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "श्वसन द्वारा ऊर्जा प्राप्त करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Obtaining energy through respiration is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q236",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: सजीव शरीर से अपशिष्ट पदार्थ उत्सर्जित करते हैं?",
+      "en": "Which option gives the correct fact: Living organisms excrete waste from their bodies?"
+    },
+    "options": {
+      "hi": [
+        "नए जीव उत्पन्न करना",
+        "वृद्धि",
+        "अपशिष्ट पदार्थ निकालना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Producing new organisms",
+        "Growth",
+        "Removing waste products",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "अपशिष्ट पदार्थ निकालना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Removing waste products is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q237",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? सजीव शरीर से अपशिष्ट पदार्थ उत्सर्जित करते हैं",
+      "en": "According to the chapter, which statement is correct? Living organisms excrete waste from their bodies"
+    },
+    "options": {
+      "hi": [
+        "वृद्धि",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Growth",
+        "Response to a stimulus",
+        "Removing waste products",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "अपशिष्ट पदार्थ निकालना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Removing waste products is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q238",
+    "topic": "characteristics-of-living",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: सजीव शरीर से अपशिष्ट पदार्थ उत्सर्जित करते हैं",
+      "en": "Choose the correct statement for this concept: Living organisms excrete waste from their bodies"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "नए जीव उत्पन्न करना"
+      ],
+      "en": [
+        "Removing waste products",
+        "Obtaining energy through respiration",
+        "Response to a stimulus",
+        "Producing new organisms"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अपशिष्ट पदार्थ निकालना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Removing waste products is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q239",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? सजीव शरीर से अपशिष्ट पदार्थ उत्सर्जित करते हैं",
+      "en": "Which statement is correct according to NCERT? Living organisms excrete waste from their bodies"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "वृद्धि",
+        "नए जीव उत्पन्न करना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Removing waste products",
+        "Growth",
+        "Producing new organisms",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अपशिष्ट पदार्थ निकालना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Removing waste products is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q240",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? सजीव शरीर से अपशिष्ट पदार्थ उत्सर्जित करते हैं",
+      "en": "Which option correctly describes the topic? Living organisms excrete waste from their bodies"
+    },
+    "options": {
+      "hi": [
+        "वृद्धि",
+        "नए जीव उत्पन्न करना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना"
+      ],
+      "en": [
+        "Growth",
+        "Producing new organisms",
+        "Response to a stimulus",
+        "Removing waste products"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "अपशिष्ट पदार्थ निकालना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Removing waste products is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q241",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: प्रजनन से नए जीव उत्पन्न होते हैं?",
+      "en": "Which option gives the correct fact: Reproduction produces new organisms?"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना",
+        "उत्तेजना के प्रति प्रतिक्रिया"
+      ],
+      "en": [
+        "Removing waste products",
+        "Obtaining energy through respiration",
+        "Producing new organisms",
+        "Response to a stimulus"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "नए जीव उत्पन्न करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Producing new organisms is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q242",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? प्रजनन से नए जीव उत्पन्न होते हैं",
+      "en": "According to the chapter, which statement is correct? Reproduction produces new organisms"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "नए जीव उत्पन्न करना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Removing waste products",
+        "Response to a stimulus",
+        "Producing new organisms",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "नए जीव उत्पन्न करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Producing new organisms is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q243",
+    "topic": "characteristics-of-living",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: प्रजनन से नए जीव उत्पन्न होते हैं",
+      "en": "Choose the correct statement for this concept: Reproduction produces new organisms"
+    },
+    "options": {
+      "hi": [
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "वृद्धि",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना"
+      ],
+      "en": [
+        "Response to a stimulus",
+        "Growth",
+        "Obtaining energy through respiration",
+        "Producing new organisms"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "नए जीव उत्पन्न करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Producing new organisms is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q244",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? प्रजनन से नए जीव उत्पन्न होते हैं",
+      "en": "Which statement is correct according to NCERT? Reproduction produces new organisms"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "वृद्धि",
+        "नए जीव उत्पन्न करना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Removing waste products",
+        "Growth",
+        "Producing new organisms",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "नए जीव उत्पन्न करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Producing new organisms is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q245",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? प्रजनन से नए जीव उत्पन्न होते हैं",
+      "en": "Which option correctly describes the topic? Reproduction produces new organisms"
+    },
+    "options": {
+      "hi": [
+        "नए जीव उत्पन्न करना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "वृद्धि",
+        "उत्तेजना के प्रति प्रतिक्रिया"
+      ],
+      "en": [
+        "Producing new organisms",
+        "Obtaining energy through respiration",
+        "Growth",
+        "Response to a stimulus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "नए जीव उत्पन्न करना सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Producing new organisms is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q246",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस विकल्प में सही तथ्य दिया गया है: छुईमुई का स्पर्श पर पत्तियाँ बंद करना उत्तेजना के प्रति प्रतिक्रिया का उदाहरण है?",
+      "en": "Which option gives the correct fact: Closing of touch-me-not leaves on touch is a response to a stimulus?"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "वृद्धि",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "उत्तेजना के प्रति प्रतिक्रिया"
+      ],
+      "en": [
+        "Removing waste products",
+        "Growth",
+        "Obtaining energy through respiration",
+        "Response to a stimulus"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "उत्तेजना के प्रति प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to a stimulus is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q247",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अध्याय के अनुसार निम्न में से कौन सा कथन सही है? छुईमुई का स्पर्श पर पत्तियाँ बंद करना उत्तेजना के प्रति प्रतिक्रिया का उदाहरण है",
+      "en": "According to the chapter, which statement is correct? Closing of touch-me-not leaves on touch is a response to a stimulus"
+    },
+    "options": {
+      "hi": [
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना",
+        "अपशिष्ट पदार्थ निकालना",
+        "उत्तेजना के प्रति प्रतिक्रिया"
+      ],
+      "en": [
+        "Obtaining energy through respiration",
+        "Producing new organisms",
+        "Removing waste products",
+        "Response to a stimulus"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "उत्तेजना के प्रति प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to a stimulus is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q248",
+    "topic": "characteristics-of-living",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस अवधारणा को समझने के लिए सही कथन चुनिए: छुईमुई का स्पर्श पर पत्तियाँ बंद करना उत्तेजना के प्रति प्रतिक्रिया का उदाहरण है",
+      "en": "Choose the correct statement for this concept: Closing of touch-me-not leaves on touch is a response to a stimulus"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना",
+        "नए जीव उत्पन्न करना"
+      ],
+      "en": [
+        "Removing waste products",
+        "Response to a stimulus",
+        "Obtaining energy through respiration",
+        "Producing new organisms"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "उत्तेजना के प्रति प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to a stimulus is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q249",
+    "topic": "characteristics-of-living",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न कथनों में से कौन सा NCERT के अनुसार सही है? छुईमुई का स्पर्श पर पत्तियाँ बंद करना उत्तेजना के प्रति प्रतिक्रिया का उदाहरण है",
+      "en": "Which statement is correct according to NCERT? Closing of touch-me-not leaves on touch is a response to a stimulus"
+    },
+    "options": {
+      "hi": [
+        "अपशिष्ट पदार्थ निकालना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "नए जीव उत्पन्न करना",
+        "श्वसन द्वारा ऊर्जा प्राप्त करना"
+      ],
+      "en": [
+        "Removing waste products",
+        "Response to a stimulus",
+        "Producing new organisms",
+        "Obtaining energy through respiration"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "उत्तेजना के प्रति प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to a stimulus is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  },
+  {
+    "id": "ch8_q250",
+    "topic": "characteristics-of-living",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दिए गए विषय के बारे में सही विकल्प कौन सा है? छुईमुई का स्पर्श पर पत्तियाँ बंद करना उत्तेजना के प्रति प्रतिक्रिया का उदाहरण है",
+      "en": "Which option correctly describes the topic? Closing of touch-me-not leaves on touch is a response to a stimulus"
+    },
+    "options": {
+      "hi": [
+        "नए जीव उत्पन्न करना",
+        "उत्तेजना के प्रति प्रतिक्रिया",
+        "अपशिष्ट पदार्थ निकालना",
+        "वृद्धि"
+      ],
+      "en": [
+        "Producing new organisms",
+        "Response to a stimulus",
+        "Removing waste products",
+        "Growth"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "उत्तेजना के प्रति प्रतिक्रिया सही उत्तर है क्योंकि यही इस अध्याय में दिए गए तथ्य का सही अर्थ और उपयोग बताता है।",
+      "en": "Response to a stimulus is correct because it gives the correct meaning and application of the fact described in this chapter."
+    }
+  }
+]
