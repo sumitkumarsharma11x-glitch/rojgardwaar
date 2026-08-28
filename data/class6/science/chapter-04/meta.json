@@ -1,1 +1,446 @@
-
+{
+  "class": 6,
+  "subject": "science",
+  "subjectName": {
+    "hi": "विज्ञान",
+    "en": "Science"
+  },
+  "chapter": "chapter-04",
+  "chapterNumber": 4,
+  "chapterName": {
+    "hi": "पदार्थों का पृथक्करण",
+    "en": "Separation of Substances"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "need-for-separation",
+      "name": {
+        "hi": "पृथक्करण की आवश्यकता",
+        "en": "Need for Separation"
+      }
+    },
+    {
+      "id": "handpicking-threshing",
+      "name": {
+        "hi": "हस्तचयन और थ्रेशिंग",
+        "en": "Handpicking and Threshing"
+      }
+    },
+    {
+      "id": "winnowing-sieving",
+      "name": {
+        "hi": "ओसाई और चालनी से पृथक्करण",
+        "en": "Winnowing and Sieving"
+      }
+    },
+    {
+      "id": "sedimentation-decantation-filtration",
+      "name": {
+        "hi": "अवसादन, निस्तारण और निस्यंदन",
+        "en": "Sedimentation, Decantation and Filtration"
+      }
+    },
+    {
+      "id": "evaporation-condensation",
+      "name": {
+        "hi": "वाष्पीकरण और संघनन",
+        "en": "Evaporation and Condensation"
+      }
+    },
+    {
+      "id": "saturated-solution",
+      "name": {
+        "hi": "संतृप्त विलयन",
+        "en": "Saturated Solution"
+      }
+    },
+    {
+      "id": "combined-separation",
+      "name": {
+        "hi": "एक से अधिक विधियों का उपयोग",
+        "en": "Using More Than One Separation Method"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "मिश्रणों में मौजूद घटकों को उनके गुणों में अंतर के आधार पर अलग किया जा सकता है। इस अध्याय में हस्तचयन, थ्रेशिंग, ओसाई, चालनी, अवसादन, निस्तारण, निस्यंदन, वाष्पीकरण और संघनन जैसी विधियों को समझाया गया है। कुछ मिश्रणों के लिए एक से अधिक विधियों को क्रम से उपयोग करना पड़ता है। संतृप्त विलयन में निश्चित तापमान पर और विलेय नहीं घुल सकता।",
+      "example": "चावल से पत्थर चुनना, गेहूँ से दाने निकालना, भूसी को ओसाई से अलग करना, चाय को छानना और नमक के घोल से वाष्पीकरण द्वारा नमक प्राप्त करना रोजमर्रा के पृथक्करण के उदाहरण हैं।",
+      "keyPoints": [
+        "मिश्रण के घटकों को अलग करने के लिए उनके गुणों में अंतर उपयोगी होता है।",
+        "हस्तचयन में अवांछित घटक हाथ से चुने जाते हैं।",
+        "थ्रेशिंग में अनाज डंठलों से अलग किया जाता है।",
+        "ओसाई हल्के और भारी घटकों के अंतर का उपयोग करती है।",
+        "चालनी कणों के आकार में अंतर का उपयोग करती है।",
+        "अवसादन में भारी अघुलनशील कण नीचे बैठते हैं।",
+        "निस्तारण में ऊपर का द्रव अलग किया जाता है और निस्यंदन में फिल्टर उपयोगी होता है।",
+        "वाष्पीकरण द्रव को वाष्प में बदलता है और संघनन वाष्प को द्रव में बदलता है।",
+        "कुछ मिश्रणों में एक से अधिक पृथक्करण विधियों का क्रम से उपयोग किया जाता है।"
+      ],
+      "examFocus": [
+        "हस्तचयन और थ्रेशिंग का अंतर",
+        "ओसाई और चालनी का आधार",
+        "अवसादन, निस्तारण और निस्यंदन का क्रम",
+        "वाष्पीकरण और संघनन के अवस्था परिवर्तन",
+        "संतृप्त विलयन की परिभाषा",
+        "एक से अधिक पृथक्करण विधियों का सही क्रम",
+        "मिश्रण के गुणों के आधार पर विधि का चयन"
+      ],
+      "examTraps": [
+        {
+          "title": "ओसाई बनाम चालनी",
+          "fact": "ओसाई में हवा और चालनी में छिद्रों का उपयोग होता है।",
+          "confusion": "दोनों को केवल ठोसों की विधि मानकर उनका आधार एक जैसा न समझें।"
+        },
+        {
+          "title": "अवसादन बनाम निस्तारण",
+          "fact": "अवसादन में कण नीचे बैठते हैं और निस्तारण में ऊपर का द्रव अलग किया जाता है।",
+          "confusion": "दोनों प्रक्रियाओं को एक ही चरण न मानें।"
+        },
+        {
+          "title": "निस्यंदन और घुला नमक",
+          "fact": "सामान्य निस्यंदन घुले हुए नमक को पानी से अलग नहीं करता।",
+          "confusion": "फिल्टर को हर प्रकार के ठोस को रोकने वाला न समझें।"
+        },
+        {
+          "title": "वाष्पीकरण बनाम संघनन",
+          "fact": "वाष्पीकरण द्रव से वाष्प और संघनन वाष्प से द्रव का परिवर्तन है।",
+          "confusion": "दोनों अवस्थाओं की दिशा उलटी होती है।"
+        },
+        {
+          "title": "संतृप्त विलयन",
+          "fact": "संतृप्त विलयन में निश्चित तापमान पर और विलेय नहीं घुलता।",
+          "confusion": "संतृप्त का अर्थ यह नहीं कि विलयन में विलेय नहीं है।"
+        },
+        {
+          "title": "थ्रेशिंग बनाम ओसाई",
+          "fact": "थ्रेशिंग अनाज को डंठल से अलग करती है और ओसाई हल्की भूसी को भारी अनाज से अलग करती है।",
+          "confusion": "कटाई के बाद दोनों विधियों का क्रम याद रखें।"
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "मिश्रण के घटक ठोस हैं या ठोस और द्रव?",
+        "कौन सा गुण अलग-अलग घटकों में अलग है?",
+        "क्या घटक हाथ से दिखाई देकर चुना जा सकता है?",
+        "क्या हवा हल्के और भारी घटकों को अलग कर सकती है?",
+        "क्या कणों के आकार में अंतर है?",
+        "क्या भारी अघुलनशील कण नीचे बैठेंगे?",
+        "क्या कोई ठोस द्रव में घुला हुआ है?"
+      ],
+      "memoryTricks": [
+        "हाथ से चुनो → हस्तचयन।",
+        "डंठल पीटो → थ्रेशिंग।",
+        "हल्का उड़ाओ → ओसाई।",
+        "आकार देखो → चालनी।",
+        "भारी नीचे → अवसादन।",
+        "ऊपर का द्रव उड़ेलो → निस्तारण।",
+        "फिल्टर रोके → निस्यंदन।"
+      ],
+      "pyqSignals": [
+        "किस मिश्रण के लिए कौन सी विधि",
+        "विधियों के बीच अंतर",
+        "सही क्रम में पृथक्करण",
+        "अवस्था परिवर्तन",
+        "संतृप्त विलयन",
+        "दैनिक जीवन के उदाहरण"
+      ],
+      "mustRemember": [
+        "पृथक्करण → मिश्रण के घटकों को अलग करना",
+        "हस्तचयन → दिखाई देने वाले अवांछित घटक हाथ से अलग करना",
+        "थ्रेशिंग → अनाज को डंठल से अलग करना",
+        "ओसाई → हल्के और भारी घटकों को हवा से अलग करना",
+        "चालनी → अलग आकार के कणों को अलग करना",
+        "अवसादन → भारी अघुलनशील कणों का नीचे बैठना",
+        "निस्तारण → ऊपर के द्रव को अलग करना",
+        "निस्यंदन → अघुलनशील ठोस को फिल्टर से अलग करना",
+        "वाष्पीकरण → द्रव से वाष्प बनना",
+        "संघनन → वाष्प से द्रव बनना",
+        "संतृप्त विलयन → निश्चित तापमान पर और विलेय न घुलना"
+      ],
+      "quickRevision": "मिश्रण → घटकों के गुणों में अंतर → उपयुक्त पृथक्करण → हस्तचयन → थ्रेशिंग → ओसाई → चालनी → अवसादन → निस्तारण → निस्यंदन → वाष्पीकरण → संघनन → संतृप्त विलयन → जरूरत के अनुसार एक से अधिक विधियों का क्रम।",
+      "sections": [
+        {
+          "title": "पृथक्करण की आवश्यकता",
+          "concept": "मिश्रण के घटकों को अलग करने की आवश्यकता इसलिए पड़ती है क्योंकि हमें अनुपयोगी या हानिकारक पदार्थ हटाने, उपयोगी घटक प्राप्त करने और अधिक शुद्ध नमूना पाने की जरूरत होती है।",
+          "explanation": "मिश्रण के घटकों को अलग करने की आवश्यकता इसलिए पड़ती है क्योंकि हमें अनुपयोगी या हानिकारक पदार्थ हटाने, उपयोगी घटक प्राप्त करने और अधिक शुद्ध नमूना पाने की जरूरत होती है।",
+          "example": "चावल से पत्थर हटाना अनुपयोगी घटक को हटाने का उदाहरण है।",
+          "keyPoints": [
+            "अनुपयोगी घटक हटाना",
+            "हानिकारक घटक हटाना",
+            "उपयोगी घटक प्राप्त करना",
+            "अधिक शुद्ध नमूना प्राप्त करना",
+            "पृथक्करण घटकों के गुणों के अंतर पर आधारित होता है"
+          ]
+        },
+        {
+          "title": "हस्तचयन और थ्रेशिंग",
+          "concept": "हस्तचयन में दिखाई देने वाले अवांछित घटकों को हाथ से चुना जाता है। थ्रेशिंग में अनाज के दानों को पौधे के डंठलों से अलग किया जाता है।",
+          "explanation": "हस्तचयन में दिखाई देने वाले अवांछित घटकों को हाथ से चुना जाता है। थ्रेशिंग में अनाज के दानों को पौधे के डंठलों से अलग किया जाता है।",
+          "example": "दाल से कंकड़ चुनना हस्तचयन और गेहूँ के डंठल से दाने निकालना थ्रेशिंग का उदाहरण है।",
+          "keyPoints": [
+            "हस्तचयन हाथ से किया जाता है",
+            "हस्तचयन में घटक स्पष्ट रूप से पहचानने योग्य होना चाहिए",
+            "थ्रेशिंग अनाज और डंठल को अलग करती है",
+            "थ्रेशिंग में डंठलों को पीटा या झटका जाता है",
+            "दोनों विधियाँ अलग प्रकार के मिश्रणों के लिए हैं"
+          ]
+        },
+        {
+          "title": "ओसाई और चालनी",
+          "concept": "ओसाई में हवा की सहायता से हल्के और भारी घटकों को अलग किया जाता है। चालनी में अलग आकार के ठोस कणों को छिद्रों की सहायता से अलग किया जाता है।",
+          "explanation": "ओसाई में हवा की सहायता से हल्के और भारी घटकों को अलग किया जाता है। चालनी में अलग आकार के ठोस कणों को छिद्रों की सहायता से अलग किया जाता है।",
+          "example": "अनाज से हल्की भूसी अलग करना ओसाई और आटे से बड़े कण अलग करना चालनी का उदाहरण है।",
+          "keyPoints": [
+            "ओसाई में हवा उपयोगी है",
+            "भारी दाने नीचे गिरते हैं",
+            "हल्की भूसी हवा से दूर जाती है",
+            "चालनी कण आकार के अंतर का उपयोग करती है",
+            "बड़े कण चालनी पर रुक सकते हैं"
+          ]
+        },
+        {
+          "title": "अवसादन, निस्तारण और निस्यंदन",
+          "concept": "भारी अघुलनशील कण द्रव में नीचे बैठ सकते हैं, इसे अवसादन कहते हैं। इसके बाद ऊपर का द्रव निस्तारण से अलग किया जा सकता है। फिल्टर की सहायता से अघुलनशील ठोस को द्रव से अलग करना निस्यंदन है।",
+          "explanation": "भारी अघुलनशील कण द्रव में नीचे बैठ सकते हैं, इसे अवसादन कहते हैं। इसके बाद ऊपर का द्रव निस्तारण से अलग किया जा सकता है। फिल्टर की सहायता से अघुलनशील ठोस को द्रव से अलग करना निस्यंदन है।",
+          "example": "रेत और पानी को स्थिर छोड़ने पर रेत नीचे बैठती है और ऊपर का पानी सावधानी से अलग किया जा सकता है।",
+          "keyPoints": [
+            "अवसादन में कण नीचे बैठते हैं",
+            "निस्तारण में ऊपर का द्रव अलग होता है",
+            "निस्यंदन में फिल्टर उपयोगी है",
+            "अघुलनशील ठोस निस्यंदन से अलग हो सकता है",
+            "घुला हुआ नमक सामान्य फिल्टर से अलग नहीं होता"
+          ]
+        },
+        {
+          "title": "वाष्पीकरण और संघनन",
+          "concept": "वाष्पीकरण में द्रव वाष्प में बदलता है और संघनन में वाष्प द्रव में बदलती है। वाष्पीकरण का उपयोग घुले हुए ठोस को द्रव से अलग करने में किया जा सकता है।",
+          "explanation": "वाष्पीकरण में द्रव वाष्प में बदलता है और संघनन में वाष्प द्रव में बदलती है। वाष्पीकरण का उपयोग घुले हुए ठोस को द्रव से अलग करने में किया जा सकता है।",
+          "example": "समुद्री जल से नमक प्राप्त करने में पानी का वाष्पीकरण उपयोगी है और ठंडी सतह पर जल की बूंदें संघनन का उदाहरण हैं।",
+          "keyPoints": [
+            "वाष्पीकरण द्रव से वाष्प परिवर्तन है",
+            "संघनन वाष्प से द्रव परिवर्तन है",
+            "नमक के घोल से नमक वाष्पीकरण से मिल सकता है",
+            "ठंडी सतह पर जलवाष्प संघनित हो सकती है",
+            "कपड़ों का सूखना वाष्पीकरण का उदाहरण है"
+          ]
+        },
+        {
+          "title": "संतृप्त विलयन",
+          "concept": "किसी निश्चित तापमान पर जब विलयन में और विलेय नहीं घुल सकता, तो वह संतृप्त विलयन कहलाता है। घुलने की सीमा तापमान के साथ बदल सकती है।",
+          "explanation": "किसी निश्चित तापमान पर जब विलयन में और विलेय नहीं घुल सकता, तो वह संतृप्त विलयन कहलाता है। घुलने की सीमा तापमान के साथ बदल सकती है।",
+          "example": "पानी में चीनी डालते रहने पर एक समय ऐसा आ सकता है जब अतिरिक्त चीनी घुलना बंद कर दे।",
+          "keyPoints": [
+            "संतृप्त विलयन में विलेय मौजूद होता है",
+            "एक निश्चित तापमान महत्वपूर्ण है",
+            "अतिरिक्त विलेय घुलना बंद कर सकता है",
+            "तापमान बदलने से घुलने की क्षमता बदल सकती है",
+            "विलेय विलायक में घुलता है"
+          ]
+        },
+        {
+          "title": "एक से अधिक विधियों का उपयोग",
+          "concept": "कुछ मिश्रणों में अलग-अलग घटकों को प्राप्त करने के लिए क्रम से एक से अधिक पृथक्करण विधियाँ अपनानी पड़ती हैं। विधियों का चुनाव घटकों के गुणों और वांछित पदार्थ पर निर्भर करता है।",
+          "explanation": "कुछ मिश्रणों में अलग-अलग घटकों को प्राप्त करने के लिए क्रम से एक से अधिक पृथक्करण विधियाँ अपनानी पड़ती हैं। विधियों का चुनाव घटकों के गुणों और वांछित पदार्थ पर निर्भर करता है।",
+          "example": "रेत और नमक के मिश्रण में पानी डालकर नमक घोलना, रेत को छानना और फिर पानी वाष्पित करना क्रमिक पृथक्करण का उदाहरण है।",
+          "keyPoints": [
+            "एक मिश्रण में कई विधियाँ संभव हैं",
+            "पहले चरण के बाद अगली विधि बदली जा सकती है",
+            "घटकों के अलग गुण विधि चुनने में मदद करते हैं",
+            "रेत और नमक के लिए घोलना, निस्यंदन और वाष्पीकरण उपयोगी हो सकते हैं",
+            "वांछित पदार्थ तय करता है कि कौन सा अंतिम चरण चाहिए"
+          ]
+        }
+      ]
+    },
+    "en": {
+      "concept": "Components in a mixture can be separated by using differences in their properties. This chapter explains handpicking, threshing, winnowing, sieving, sedimentation, decantation, filtration, evaporation and condensation. Some mixtures require more than one method in sequence. In a saturated solution, no more solute can dissolve at a given temperature.",
+      "example": "Picking stones from rice, releasing grains from wheat stalks, separating husk by winnowing, straining tea and obtaining salt by evaporation are everyday examples of separation.",
+      "keyPoints": [
+        "Differences in component properties are useful for separation.",
+        "Handpicking removes unwanted components by hand.",
+        "Threshing separates grains from stalks.",
+        "Winnowing uses the difference between lighter and heavier components.",
+        "Sieving uses differences in particle size.",
+        "In sedimentation, heavier insoluble particles settle.",
+        "In decantation the upper liquid is separated, while filtration uses a filter.",
+        "Evaporation changes liquid to vapour and condensation changes vapour to liquid.",
+        "Some mixtures require more than one separation method in sequence."
+      ],
+      "examFocus": [
+        "Difference between handpicking and threshing",
+        "Basis of winnowing and sieving",
+        "Sequence of sedimentation, decantation and filtration",
+        "State changes in evaporation and condensation",
+        "Definition of a saturated solution",
+        "Correct sequence using more than one separation method",
+        "Choosing a method from component properties"
+      ],
+      "examTraps": [
+        {
+          "title": "Winnowing versus sieving",
+          "fact": "Winnowing uses air while sieving uses sieve holes.",
+          "confusion": "Do not treat their separation basis as identical just because both can separate solids."
+        },
+        {
+          "title": "Sedimentation versus decantation",
+          "fact": "Particles settle during sedimentation and the upper liquid is separated during decantation.",
+          "confusion": "Do not treat both as the same step."
+        },
+        {
+          "title": "Filtration and dissolved salt",
+          "fact": "Ordinary filtration does not separate dissolved salt from water.",
+          "confusion": "Do not assume a filter retains every kind of solid."
+        },
+        {
+          "title": "Evaporation versus condensation",
+          "fact": "Evaporation changes liquid to vapour while condensation changes vapour to liquid.",
+          "confusion": "The direction of the state change is opposite."
+        },
+        {
+          "title": "Saturated solution",
+          "fact": "At a given temperature, a saturated solution cannot dissolve more solute.",
+          "confusion": "Saturated does not mean that no solute is present."
+        },
+        {
+          "title": "Threshing versus winnowing",
+          "fact": "Threshing separates grain from stalks while winnowing separates light husk from heavier grain.",
+          "confusion": "Remember the sequence after harvesting."
+        }
+      ],
+      "thinkBeforeAnswer": [
+        "Are the components solids or a solid and a liquid?",
+        "Which property differs between the components?",
+        "Can a visible component be picked by hand?",
+        "Can air separate light and heavy components?",
+        "Do the particles differ in size?",
+        "Will a heavy insoluble component settle?",
+        "Is a solid dissolved in a liquid?"
+      ],
+      "memoryTricks": [
+        "Pick by hand → handpicking.",
+        "Beat stalks → threshing.",
+        "Blow the light part away → winnowing.",
+        "Use size difference → sieving.",
+        "Heavy settles → sedimentation.",
+        "Pour the upper liquid → decantation.",
+        "Filter retains solids → filtration."
+      ],
+      "pyqSignals": [
+        "Which method suits a mixture",
+        "Differences between methods",
+        "Correct separation sequence",
+        "State changes",
+        "Saturated solution",
+        "Everyday examples"
+      ],
+      "mustRemember": [
+        "Separation → separating components of a mixture",
+        "Handpicking → removing visible unwanted components by hand",
+        "Threshing → separating grains from stalks",
+        "Winnowing → separating lighter and heavier components using air",
+        "Sieving → separating particles of different sizes",
+        "Sedimentation → settling of heavier insoluble particles",
+        "Decantation → separating the upper liquid",
+        "Filtration → separating an insoluble solid with a filter",
+        "Evaporation → liquid changes to vapour",
+        "Condensation → vapour changes to liquid",
+        "Saturated solution → no more solute dissolves at a given temperature"
+      ],
+      "quickRevision": "Mixture → differences in component properties → suitable separation → handpicking → threshing → winnowing → sieving → sedimentation → decantation → filtration → evaporation → condensation → saturated solution → more than one method when needed.",
+      "sections": [
+        {
+          "title": "Need for Separation",
+          "concept": "We separate components of mixtures to remove unwanted or harmful materials, obtain useful components and get purer samples.",
+          "explanation": "We separate components of mixtures to remove unwanted or harmful materials, obtain useful components and get purer samples.",
+          "example": "Removing stones from rice is an example of removing an unwanted component.",
+          "keyPoints": [
+            "Removing unwanted components",
+            "Removing harmful components",
+            "Obtaining useful components",
+            "Obtaining a purer sample",
+            "Separation uses differences in component properties"
+          ]
+        },
+        {
+          "title": "Handpicking and Threshing",
+          "concept": "Handpicking removes visible unwanted components by hand. Threshing separates grain from the stalks of a plant.",
+          "explanation": "Handpicking removes visible unwanted components by hand. Threshing separates grain from the stalks of a plant.",
+          "example": "Picking pebbles from pulses is handpicking, while releasing grains from wheat stalks is threshing.",
+          "keyPoints": [
+            "Handpicking is done by hand",
+            "The unwanted component should be clearly identifiable",
+            "Threshing separates grain and stalks",
+            "Threshing involves beating or shaking stalks",
+            "The two methods suit different mixtures"
+          ]
+        },
+        {
+          "title": "Winnowing and Sieving",
+          "concept": "Winnowing uses air to separate lighter and heavier components. Sieving separates solid particles of different sizes using sieve holes.",
+          "explanation": "Winnowing uses air to separate lighter and heavier components. Sieving separates solid particles of different sizes using sieve holes.",
+          "example": "Separating light husk from grain is winnowing, while separating larger particles from flour is sieving.",
+          "keyPoints": [
+            "Air is useful in winnowing",
+            "Heavier grains fall down",
+            "Light husk is carried away by air",
+            "Sieving uses differences in particle size",
+            "Larger particles may remain on the sieve"
+          ]
+        },
+        {
+          "title": "Sedimentation, Decantation and Filtration",
+          "concept": "Heavier insoluble particles can settle at the bottom of a liquid; this is sedimentation. The upper liquid can then be separated by decantation. Filtration uses a filter to separate an insoluble solid from a liquid.",
+          "explanation": "Heavier insoluble particles can settle at the bottom of a liquid; this is sedimentation. The upper liquid can then be separated by decantation. Filtration uses a filter to separate an insoluble solid from a liquid.",
+          "example": "When sand and water are left undisturbed, sand settles and the upper water can be carefully separated.",
+          "keyPoints": [
+            "Particles settle during sedimentation",
+            "The upper liquid is separated in decantation",
+            "A filter is useful in filtration",
+            "An insoluble solid can be separated by filtration",
+            "Dissolved salt is not separated by an ordinary filter"
+          ]
+        },
+        {
+          "title": "Evaporation and Condensation",
+          "concept": "Evaporation changes a liquid into vapour, while condensation changes vapour into liquid. Evaporation can separate a dissolved solid from a liquid.",
+          "explanation": "Evaporation changes a liquid into vapour, while condensation changes vapour into liquid. Evaporation can separate a dissolved solid from a liquid.",
+          "example": "Evaporation helps obtain salt from seawater, while droplets on a cool surface illustrate condensation.",
+          "keyPoints": [
+            "Evaporation changes liquid to vapour",
+            "Condensation changes vapour to liquid",
+            "Salt can be obtained from a salt solution by evaporation",
+            "Water vapour can condense on a cool surface",
+            "Drying clothes is an example of evaporation"
+          ]
+        },
+        {
+          "title": "Saturated Solution",
+          "concept": "At a given temperature, a solution in which no more solute can dissolve is called saturated. The dissolving limit can change with temperature.",
+          "explanation": "At a given temperature, a solution in which no more solute can dissolve is called saturated. The dissolving limit can change with temperature.",
+          "example": "When sugar is added repeatedly to water, a point may be reached where additional sugar no longer dissolves.",
+          "keyPoints": [
+            "A saturated solution contains solute",
+            "A given temperature matters",
+            "Additional solute may stop dissolving",
+            "Changing temperature can change dissolving capacity",
+            "A solute dissolves in a solvent"
+          ]
+        },
+        {
+          "title": "Using More Than One Separation Method",
+          "concept": "Some mixtures require more than one separation method in sequence to obtain different components. The choice depends on component properties and the desired substance.",
+          "explanation": "Some mixtures require more than one separation method in sequence to obtain different components. The choice depends on component properties and the desired substance.",
+          "example": "For sand and salt, salt can be dissolved in water, sand filtered out and water evaporated to recover salt.",
+          "keyPoints": [
+            "One mixture may need several methods",
+            "The next method can change after a first step",
+            "Different component properties guide method choice",
+            "Sand and salt may require dissolving, filtration and evaporation",
+            "The desired substance affects the final step"
+          ]
+        }
+      ]
+    }
+  }
+}
