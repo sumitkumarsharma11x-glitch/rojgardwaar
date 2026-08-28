@@ -8,368 +8,392 @@
   "chapter": "chapter-03",
   "chapterNumber": 3,
   "chapterName": {
-    "hi": "तंतु से वस्त्र तक",
-    "en": "Fibre to Fabric"
+    "hi": "वस्तुओं के समूह बनाना",
+    "en": "Sorting Materials into Groups"
   },
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "variety-in-fabrics",
+      "id": "materials-overview",
       "name": {
-        "hi": "वस्त्रों में विविधता",
-        "en": "Variety in Fabrics"
+        "hi": "वस्तुओं और पदार्थों का परिचय",
+        "en": "Introduction to Materials"
       }
     },
     {
-      "id": "fibres",
+      "id": "properties-and-classification",
       "name": {
-        "hi": "रेशे (Fibre)",
-        "en": "Fibre"
+        "hi": "वस्तुओं के गुण और वर्गीकरण",
+        "en": "Properties and Classification"
       }
     },
     {
-      "id": "plant-fibres",
+      "id": "appearance-and-lustre",
       "name": {
-        "hi": "पादप रेशे",
-        "en": "Plant Fibres"
+        "hi": "दिखावट और चमक",
+        "en": "Appearance and Lustre"
       }
     },
     {
-      "id": "spinning-cotton-yarn",
+      "id": "hardness-and-texture",
       "name": {
-        "hi": "कपास के रेशे से सूत बनाना",
-        "en": "Spinning Cotton Yarn"
+        "hi": "कठोरता और बनावट",
+        "en": "Hardness and Texture"
       }
     },
     {
-      "id": "yarn-to-fabric",
+      "id": "solubility",
       "name": {
-        "hi": "सूत से वस्त्र",
-        "en": "Yarn to Fabric"
+        "hi": "घुलनशीलता",
+        "en": "Solubility"
       }
     },
     {
-      "id": "history-of-clothing-material",
+      "id": "transparency-and-uses",
       "name": {
-        "hi": "वस्त्र सामग्री का इतिहास",
-        "en": "History of Clothing Material"
+        "hi": "पारदर्शिता और पदार्थों के उपयोग",
+        "en": "Transparency and Uses"
       }
     }
   ],
   "notes": {
     "hi": {
-      "concept": "हमारे आसपास अनेक प्रकार के वस्त्र दिखाई देते हैं। वस्त्र रेशों से बने सूत और फिर सूत से बने fabric से तैयार होते हैं। रेशे प्राकृतिक या सिंथेटिक हो सकते हैं। कपास और जूट पौधों से, ऊन और रेशम जन्तुओं से प्राप्त प्राकृतिक रेशे हैं, जबकि नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं। रेशों से सूत बनाने की प्रक्रिया spinning कहलाती है और सूत से fabric बनाने की मुख्य प्रक्रियाएँ weaving तथा knitting हैं।",
-      "example": "कपास की फलियों से रेशे प्राप्त किए जाते हैं, रेशों से spinning द्वारा yarn बनाया जाता है और yarn को weaving या knitting द्वारा fabric में बदला जाता है।",
+      "concept": "हमारे आसपास की वस्तुएँ अलग-अलग पदार्थों से बनी होती हैं और उनके अलग-अलग गुण होते हैं। इन गुणों के आधार पर वस्तुओं को समूहों में बाँटा जा सकता है। चमक, कठोरता, बनावट, घुलनशीलता और पारदर्शिता जैसे गुण महत्वपूर्ण हैं। पदार्थ के गुण उसके उपयोग के चुनाव में भी सहायता करते हैं।",
+      "example": "काँच, धातु, लकड़ी और प्लास्टिक की वस्तुओं को उनके पदार्थ के आधार पर समूहित किया जा सकता है। चीनी और रेत को पानी में घुलने के गुण के आधार पर अलग किया जा सकता है।",
       "sections": [
         {
-          "title": "वस्त्रों में विविधता",
-          "concept": "हमारे आसपास कपास, ऊन, रेशम और कृत्रिम रेशों से बने अनेक प्रकार के वस्त्र मिलते हैं। कपड़े की सतह को ध्यान से देखने पर पता चलता है कि वह बहुत महीन रेशों से बने धागों या सूत से तैयार हुआ है।",
-          "example": "कपड़े की दुकान में सूती साड़ी, ऊनी मफलर, रेशमी वस्त्र और सिंथेटिक कपड़े अलग-अलग प्रकार के वस्त्रों के उदाहरण हैं।",
+          "title": "वस्तुओं और पदार्थों का परिचय",
+          "concept": "वस्तुएँ अलग-अलग पदार्थों से बनी होती हैं। एक ही पदार्थ से कई वस्तुएँ बन सकती हैं। पदार्थों के गुणों के आधार पर वस्तुओं को समूहों में बाँटना उपयोगी होता है।",
+          "explanation": "वस्तुएँ अलग-अलग पदार्थों से बनी होती हैं। एक ही पदार्थ से कई वस्तुएँ बन सकती हैं। पदार्थों के गुणों के आधार पर वस्तुओं को समूहों में बाँटना उपयोगी होता है। वस्तुएँ अलग-अलग पदार्थों से बनी होती हैं। एक ही पदार्थ से कई वस्तुएँ बन सकती हैं। पदार्थों के गुणों के आधार पर वस्तुओं को समूहों में बाँटना उपयोगी होता है।",
+          "example": "घर में काँच के गिलास और बोतल, धातु के चम्मच तथा लकड़ी की वस्तुएँ उनके पदार्थ के आधार पर अलग समूहों में रखी जा सकती हैं।",
           "keyPoints": [
-            "अलग-अलग वस्त्र अलग प्रकार के रेशों से बनाए जा सकते हैं।",
-            "वस्त्र को ध्यान से देखने पर उसमें धागे/सूत दिखाई दे सकते हैं।",
-            "वस्त्र का उपयोग उसके गुण और आवश्यकता के अनुसार किया जाता है."
+            "वस्तुएँ अलग-अलग पदार्थों से बनी होती हैं। एक ही पदार्थ से कई वस्तुएँ बन सकती हैं। पदार्थों के गुणों के आधार पर वस्तुओं को समूहों में बाँटना उपयोगी होता है।",
+            "यह गुण वर्गीकरण में उपयोगी है।",
+            "समान गुण वाली वस्तुओं को एक समूह में रखा जा सकता है।",
+            "गुण के अनुसार उपयोग का चुनाव किया जा सकता है।",
+            "विभिन्न पदार्थों के गुण अलग हो सकते हैं।"
           ]
         },
         {
-          "title": "रेशे (Fibre) क्या हैं?",
-          "concept": "रेशे बहुत पतली, लम्बी और धागे जैसी संरचनाएँ होती हैं जिनसे सूत बनाया जा सकता है। रेशे प्राकृतिक या कृत्रिम हो सकते हैं। प्राकृतिक रेशे पौधों या जन्तुओं से प्राप्त होते हैं, जबकि सिंथेटिक रेशे मानव द्वारा बनाए जाते हैं।",
-          "example": "कपास और जूट पौधों से प्राप्त प्राकृतिक रेशे हैं, जबकि ऊन और रेशम जन्तुओं से प्राप्त प्राकृतिक रेशे हैं। नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं।",
+          "title": "वस्तुओं के गुण और वर्गीकरण",
+          "concept": "वस्तुओं को उनके देखे या जाँचे जा सकने वाले गुणों के आधार पर वर्गीकृत किया जा सकता है। अलग उद्देश्य के लिए अलग गुण को वर्गीकरण का आधार बनाया जा सकता है।",
+          "explanation": "वस्तुओं को उनके देखे या जाँचे जा सकने वाले गुणों के आधार पर वर्गीकृत किया जा सकता है। अलग उद्देश्य के लिए अलग गुण को वर्गीकरण का आधार बनाया जा सकता है। वस्तुओं को उनके देखे या जाँचे जा सकने वाले गुणों के आधार पर वर्गीकृत किया जा सकता है। अलग उद्देश्य के लिए अलग गुण को वर्गीकरण का आधार बनाया जा सकता है।",
+          "example": "वस्तुओं को कठोरता, घुलनशीलता या पारदर्शिता जैसे गुणों के आधार पर अलग-अलग समूहों में रखा जा सकता है।",
           "keyPoints": [
-            "प्राकृतिक रेशे पौधों या जन्तुओं से प्राप्त हो सकते हैं।",
-            "कपास, जूट, ऊन और रेशम प्राकृतिक रेशों के उदाहरण हैं।",
-            "नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं."
+            "वस्तुओं को उनके देखे या जाँचे जा सकने वाले गुणों के आधार पर वर्गीकृत किया जा सकता है। अलग उद्देश्य के लिए अलग गुण को वर्गीकरण का आधार बनाया जा सकता है।",
+            "यह गुण वर्गीकरण में उपयोगी है।",
+            "समान गुण वाली वस्तुओं को एक समूह में रखा जा सकता है।",
+            "गुण के अनुसार उपयोग का चुनाव किया जा सकता है।",
+            "विभिन्न पदार्थों के गुण अलग हो सकते हैं।"
           ]
         },
         {
-          "title": "पादप रेशे — कपास और जूट",
-          "concept": "कपास और जूट पौधों से प्राप्त प्राकृतिक रेशे हैं। कपास के पौधे के फल/कपास की फलियों (cotton bolls) में बीजों के चारों ओर कपास के रेशे होते हैं। जूट का रेशा जूट के पौधे के तने से प्राप्त होता है।",
-          "example": "कपास की परिपक्व फलियाँ फटने पर बीजों के चारों ओर लगे कपास के रेशे दिखाई देते हैं। जूट के कटे हुए तनों को कुछ दिनों तक पानी में भिगोने के बाद रेशे अलग किए जाते हैं।",
+          "title": "दिखावट और चमक",
+          "concept": "कई धातुएँ चमकीली दिखाई देती हैं। चमक पदार्थ की सतह की एक दिखाई देने वाली विशेषता है और वर्गीकरण में उपयोगी हो सकती है।",
+          "explanation": "कई धातुएँ चमकीली दिखाई देती हैं। चमक पदार्थ की सतह की एक दिखाई देने वाली विशेषता है और वर्गीकरण में उपयोगी हो सकती है। कई धातुएँ चमकीली दिखाई देती हैं। चमक पदार्थ की सतह की एक दिखाई देने वाली विशेषता है और वर्गीकरण में उपयोगी हो सकती है।",
+          "example": "धातु का चम्मच सामान्यतः लकड़ी के चम्मच की तुलना में अधिक चमकीला दिखाई दे सकता है।",
           "keyPoints": [
-            "कपास का रेशा कपास की फलियों में बीजों के आसपास पाया जाता है।",
-            "जूट का रेशा पौधे के तने से प्राप्त होता है।",
-            "कपास से रेशा अलग करने की प्रक्रिया को ginning कहते हैं."
+            "कई धातुएँ चमकीली दिखाई देती हैं। चमक पदार्थ की सतह की एक दिखाई देने वाली विशेषता है और वर्गीकरण में उपयोगी हो सकती है।",
+            "यह गुण वर्गीकरण में उपयोगी है।",
+            "समान गुण वाली वस्तुओं को एक समूह में रखा जा सकता है।",
+            "गुण के अनुसार उपयोग का चुनाव किया जा सकता है।",
+            "विभिन्न पदार्थों के गुण अलग हो सकते हैं।"
           ]
         },
         {
-          "title": "कपास के रेशे से सूत बनाना — Spinning",
-          "concept": "रेशों से सूत बनाने की प्रक्रिया को spinning कहा जाता है। इसमें रेशों को खींचकर और मोड़कर/ऐंठकर एक साथ लाया जाता है, जिससे सूत बनता है। हाथ से कताई के लिए तकली और चरखा जैसे उपकरण उपयोग किए जाते हैं; बड़े पैमाने पर मशीनों का उपयोग होता है।",
-          "example": "कपास की रुई से थोड़े रेशे निकालकर उन्हें लगातार खींचते और मोड़ते रहने पर एक पतला सूत बनाया जा सकता है।",
+          "title": "कठोरता और बनावट",
+          "concept": "कुछ पदार्थ कठोर और कुछ अपेक्षाकृत नरम होते हैं। सतह की बनावट चिकनी या खुरदरी हो सकती है।",
+          "explanation": "कुछ पदार्थ कठोर और कुछ अपेक्षाकृत नरम होते हैं। सतह की बनावट चिकनी या खुरदरी हो सकती है। कुछ पदार्थ कठोर और कुछ अपेक्षाकृत नरम होते हैं। सतह की बनावट चिकनी या खुरदरी हो सकती है।",
+          "example": "पत्थर सामान्यतः कठोर होता है, जबकि कपास अपेक्षाकृत नरम होती है।",
           "keyPoints": [
-            "Spinning = fibres से yarn बनाना।",
-            "तकली (takli) और चरखा (charkha) कताई के पारंपरिक उपकरण हैं।",
-            "बड़े पैमाने पर spinning machines का उपयोग किया जाता है."
+            "कुछ पदार्थ कठोर और कुछ अपेक्षाकृत नरम होते हैं। सतह की बनावट चिकनी या खुरदरी हो सकती है।",
+            "यह गुण वर्गीकरण में उपयोगी है।",
+            "समान गुण वाली वस्तुओं को एक समूह में रखा जा सकता है।",
+            "गुण के अनुसार उपयोग का चुनाव किया जा सकता है।",
+            "विभिन्न पदार्थों के गुण अलग हो सकते हैं।"
           ]
         },
         {
-          "title": "सूत से वस्त्र — Weaving और Knitting",
-          "concept": "सूत से कपड़ा/वस्त्र बनाने की दो मुख्य प्रक्रियाएँ weaving और knitting हैं। Weaving में दो sets of yarn को व्यवस्थित करके fabric बनाया जाता है। Knitting में एक ही yarn का उपयोग करके fabric बनाया जा सकता है।",
-          "example": "करघे (loom) पर दो sets of yarn को आपस में व्यवस्थित करके कपड़ा बनाया जाता है। मोजे और कई स्वेटर knitted fabric के उदाहरण हैं।",
+          "title": "घुलनशीलता",
+          "concept": "कुछ पदार्थ पानी में घुल जाते हैं और कुछ नहीं घुलते। इस गुण से पदार्थों को घुलनशील और अघुलनशील समूहों में बाँटा जा सकता है।",
+          "explanation": "कुछ पदार्थ पानी में घुल जाते हैं और कुछ नहीं घुलते। इस गुण से पदार्थों को घुलनशील और अघुलनशील समूहों में बाँटा जा सकता है। कुछ पदार्थ पानी में घुल जाते हैं और कुछ नहीं घुलते। इस गुण से पदार्थों को घुलनशील और अघुलनशील समूहों में बाँटा जा सकता है।",
+          "example": "चीनी पानी में घुल जाती है, जबकि रेत पानी में नहीं घुलती।",
           "keyPoints": [
-            "Weaving में दो sets of yarn का उपयोग होता है।",
-            "Knitting में एक yarn से fabric बनाया जा सकता है।",
-            "Weaving handloom या power loom पर की जा सकती है; knitting हाथ से या मशीन से भी हो सकती है."
+            "कुछ पदार्थ पानी में घुल जाते हैं और कुछ नहीं घुलते। इस गुण से पदार्थों को घुलनशील और अघुलनशील समूहों में बाँटा जा सकता है।",
+            "यह गुण वर्गीकरण में उपयोगी है।",
+            "समान गुण वाली वस्तुओं को एक समूह में रखा जा सकता है।",
+            "गुण के अनुसार उपयोग का चुनाव किया जा सकता है।",
+            "विभिन्न पदार्थों के गुण अलग हो सकते हैं।"
           ]
         },
         {
-          "title": "वस्त्र सामग्री का इतिहास",
-          "concept": "प्राचीन समय में लोग शरीर ढकने के लिए पेड़ों की छाल, बड़े पत्ते, पशुओं की खाल और फर आदि का उपयोग करते थे। बाद में कृषि समुदायों ने घास, टहनियों, बेलों और पशु-रोएँ/बालों को मोड़कर या बुनकर सामग्री बनाना सीखा। सिलाई की सुई के आविष्कार के बाद सिले हुए वस्त्रों का विकास हुआ।",
-          "example": "आज भी साड़ी, धोती, लुंगी और पगड़ी जैसे कुछ वस्त्र बिना सिले हुए कपड़े के रूप में पहने जाते हैं।",
+          "title": "पारदर्शिता और पदार्थों के उपयोग",
+          "concept": "पारदर्शी पदार्थों से वस्तुएँ स्पष्ट दिखाई देती हैं। पारभासी पदार्थों से कुछ प्रकाश गुजरता है लेकिन वस्तुएँ स्पष्ट नहीं दिखतीं। अपारदर्शी पदार्थों से प्रकाश नहीं गुजरता।",
+          "explanation": "पारदर्शी पदार्थों से वस्तुएँ स्पष्ट दिखाई देती हैं। पारभासी पदार्थों से कुछ प्रकाश गुजरता है लेकिन वस्तुएँ स्पष्ट नहीं दिखतीं। अपारदर्शी पदार्थों से प्रकाश नहीं गुजरता। पारदर्शी पदार्थों से वस्तुएँ स्पष्ट दिखाई देती हैं। पारभासी पदार्थों से कुछ प्रकाश गुजरता है लेकिन वस्तुएँ स्पष्ट नहीं दिखतीं। अपारदर्शी पदार्थों से प्रकाश नहीं गुजरता।",
+          "example": "खिड़की में पारदर्शी काँच उपयोगी है, जबकि दीवार के लिए अपारदर्शी पदार्थ उपयुक्त होता है।",
           "keyPoints": [
-            "प्राचीन वस्त्र सामग्री में पत्ते, छाल, खाल और फर शामिल थे।",
-            "बुनाई और रेशों/बालों से लम्बी strands बनाने की तकनीकें विकसित हुईं।",
-            "सिलाई की सुई के आविष्कार ने stitched clothes के विकास में मदद की."
+            "पारदर्शी पदार्थों से वस्तुएँ स्पष्ट दिखाई देती हैं। पारभासी पदार्थों से कुछ प्रकाश गुजरता है लेकिन वस्तुएँ स्पष्ट नहीं दिखतीं। अपारदर्शी पदार्थों से प्रकाश नहीं गुजरता।",
+            "यह गुण वर्गीकरण में उपयोगी है।",
+            "समान गुण वाली वस्तुओं को एक समूह में रखा जा सकता है।",
+            "गुण के अनुसार उपयोग का चुनाव किया जा सकता है।",
+            "विभिन्न पदार्थों के गुण अलग हो सकते हैं।"
           ]
         }
       ],
       "keyPoints": [
-        "Fibre → Yarn → Fabric का क्रम याद रखें।",
-        "कपास, जूट, ऊन और रेशम प्राकृतिक रेशों के उदाहरण हैं।",
-        "नायलॉन और पॉलिएस्टर सिंथेटिक रेशों के उदाहरण हैं।",
-        "कपास की फलियों से रेशे और जूट के तने से जूट रेशा प्राप्त होता है।",
-        "Spinning में fibres से yarn बनाया जाता है।",
-        "Takli और charkha कताई के उपकरण हैं।",
-        "Weaving में दो sets of yarn को व्यवस्थित करके fabric बनाया जाता है।",
-        "Knitting में एक yarn से fabric बनाया जा सकता है।",
-        "सिलाई की सुई के आविष्कार ने stitched clothing के विकास में सहायता की।"
+        "वस्तुएँ अलग-अलग पदार्थों से बनी होती हैं।",
+        "एक ही पदार्थ से कई वस्तुएँ बन सकती हैं।",
+        "वर्गीकरण समान गुणों के आधार पर किया जा सकता है।",
+        "कई धातुएँ चमकीली दिखाई देती हैं।",
+        "कुछ पदार्थ पानी में घुलते हैं और कुछ नहीं।",
+        "पारदर्शी, पारभासी और अपारदर्शी पदार्थ अलग होते हैं।",
+        "कठोरता और बनावट पदार्थों के गुण हैं।",
+        "पदार्थ के गुण उसके उपयोग को प्रभावित करते हैं।"
       ],
       "examFocus": [
-        "Natural और synthetic fibres का वर्गीकरण।",
-        "Cotton और jute किस स्रोत/पौधे के किस भाग से मिलते हैं।",
-        "Ginning का अर्थ और cotton में इसकी भूमिका।",
-        "Spinning की परिभाषा तथा Takli और Charkha की पहचान।",
-        "Fibre, yarn और fabric के बीच सही क्रम।",
-        "Weaving और knitting में अंतर।",
-        "Weaving में दो sets of yarn तथा knitting में single yarn की पहचान।",
-        "प्राचीन वस्त्र सामग्री और सिलाई की सुई के महत्व से जुड़े तथ्य।"
+        "वस्तु और पदार्थ का संबंध",
+        "गुणों के आधार पर वर्गीकरण",
+        "चमक और धातु",
+        "कठोर और नरम पदार्थ",
+        "घुलनशील और अघुलनशील पदार्थ",
+        "पारदर्शी, पारभासी और अपारदर्शी पदार्थ"
       ],
       "examTraps": [
         {
-          "title": "Fibre = Yarn?",
-          "fact": "Fibre एक पतली thread-like संरचना है; fibres को spinning द्वारा yarn में बदला जाता है।",
-          "confusion": "Fibre और yarn को एक ही चीज न मानें।"
+          "title": "वस्तु और पदार्थ",
+          "fact": "वस्तु किसी पदार्थ से बनी हो सकती है।",
+          "confusion": "वस्तु के नाम को ही पदार्थ का नाम मान लेना गलत हो सकता है।"
         },
         {
-          "title": "Spinning = Fibre बनाना?",
-          "fact": "Spinning fibres से yarn बनाने की प्रक्रिया है।",
-          "confusion": "Spinning का output yarn होता है, fibre नहीं।"
+          "title": "चमक",
+          "fact": "कई धातुएँ चमकीली दिखाई देती हैं।",
+          "confusion": "हर चमकीली वस्तु को केवल चमक के आधार पर धातु मानना उचित नहीं है।"
         },
         {
-          "title": "Ginning = Spinning?",
-          "fact": "Ginning cotton fibres को seeds से अलग करने की प्रक्रिया है, जबकि spinning fibres से yarn बनाती है।",
-          "confusion": "दोनों प्रक्रियाओं के क्रम और उद्देश्य अलग हैं।"
+          "title": "घुलना",
+          "fact": "चीनी पानी में घुलती है और रेत नहीं घुलती।",
+          "confusion": "पानी में दिखाई न देना हमेशा नष्ट हो जाने का अर्थ नहीं है।"
         },
         {
-          "title": "Jute = Cotton का हिस्सा?",
-          "fact": "Jute fibre जूट पौधे के stem से प्राप्त होता है; cotton fibre cotton bolls में seeds के आसपास पाया जाता है।",
-          "confusion": "दोनों plant fibres हैं, लेकिन source part अलग है।"
+          "title": "पारदर्शिता",
+          "fact": "पारदर्शी पदार्थों से वस्तुएँ स्पष्ट दिखाई देती हैं।",
+          "confusion": "पारभासी पदार्थों में वस्तुएँ स्पष्ट नहीं दिखाई देतीं।"
         },
         {
-          "title": "Weaving = Single Yarn?",
-          "fact": "Weaving में two sets of yarn को व्यवस्थित करके fabric बनाया जाता है।",
-          "confusion": "Single-yarn वाली प्रक्रिया को knitting से जोड़ें।"
+          "title": "कठोरता",
+          "fact": "कठोरता और भारीपन अलग गुण हैं।",
+          "confusion": "भारी वस्तु को हमेशा कठोर मानना गलत है।"
         },
         {
-          "title": "Polyester = Natural Fibre?",
-          "fact": "Polyester synthetic fibre का उदाहरण है।",
-          "confusion": "Natural और synthetic classification को याद रखें।"
+          "title": "वर्गीकरण",
+          "fact": "वर्गीकरण चुने गए गुण पर निर्भर करता है।",
+          "confusion": "एक वस्तु अलग गुणों के आधार पर अलग समूहों में रखी जा सकती है."
         }
       ],
       "thinkBeforeAnswer": [
-        "Question fibre, yarn या fabric में से किस stage के बारे में पूछ रहा है?",
-        "क्या पूछा गया है कि fibre कहाँ से मिला या fibre से yarn कैसे बना?",
-        "अगर cotton और jute दोनों options में हैं, तो plant part की जानकारी जाँचें।",
-        "क्या process ginning है या spinning?",
-        "क्या fabric दो sets of yarn से बन रहा है या single yarn से?",
-        "Natural और synthetic शब्दों को देखकर source पहचानें।"
+        "प्रश्न वस्तु के बारे में है या पदार्थ के बारे में?",
+        "कौन सा गुण तुलना का आधार है?",
+        "क्या पदार्थ पानी में घुलता है?",
+        "क्या प्रकाश उसके आर-पार जाता है?",
+        "क्या पदार्थ कठोर या नरम है?",
+        "क्या सतह चिकनी या खुरदरी है?"
       ],
       "memoryTricks": [
-        "Fibre → Spinning → Yarn → Weaving/Knitting → Fabric",
-        "Cotton = Boll/seed area; Jute = Stem",
-        "Ginning = cotton से seeds अलग",
-        "Spinning = fibre को twist करके yarn",
-        "Weaving = 2 sets of yarn",
-        "Knitting = 1 yarn",
-        "Takli + Charkha = Spinning"
+        "घुलता है → घुलनशील।",
+        "नहीं घुलता → अघुलनशील।",
+        "स्पष्ट दिखाई दे → पारदर्शी।",
+        "कुछ प्रकाश जाए, दृश्य स्पष्ट न हो → पारभासी।",
+        "प्रकाश न जाए → अपारदर्शी।",
+        "समान गुण वाली वस्तुएँ → एक समूह।"
       ],
       "pyqSignals": [
-        "Natural vs synthetic fibres का classification direct MCQ बन सकता है।",
-        "Cotton और jute के plant parts पर direct question बन सकता है।",
-        "Ginning और spinning का difference बार-बार पूछा जा सकने वाला concept है।",
-        "Fibre → yarn → fabric sequence पर statement/order question बन सकता है।",
-        "Weaving और knitting की पहचान objective question का common pattern है।",
-        "Takli और charkha की पहचान पूछी जा सकती है।",
-        "Saree, dhoti, lungi और turban जैसे unstitched fabrics से history-related question बन सकता है।"
+        "वर्गीकरण का आधार",
+        "धातुओं की चमक",
+        "पानी में घुलनशीलता",
+        "कठोर और नरम पदार्थ",
+        "पारदर्शिता के प्रकार",
+        "पदार्थ के गुण और उपयोग"
       ],
       "mustRemember": [
-        "Cotton और jute → plant fibres",
-        "Wool और silk → animal fibres",
-        "Nylon और polyester → synthetic fibres",
-        "Cotton fibre → cotton boll/seed area",
-        "Jute fibre → stem",
-        "Ginning → cotton fibres और seeds को अलग करना",
-        "Spinning → fibres से yarn",
-        "Weaving → two sets of yarn; Knitting → single yarn",
-        "Fabric → yarn से बनता है"
+        "पदार्थ → वस्तुएँ बनाने वाली सामग्री",
+        "वर्गीकरण → समान गुण वाली वस्तुओं का समूह",
+        "चमक → सतह की दिखाई देने वाली विशेषता",
+        "कठोरता → दबाने या खरोंचने के प्रति प्रतिरोध",
+        "घुलनशीलता → पानी में घुलने या न घुलने का गुण",
+        "पारदर्शी → वस्तु स्पष्ट दिखाई दे",
+        "पारभासी → कुछ प्रकाश जाए, वस्तु स्पष्ट न हो",
+        "अपारदर्शी → प्रकाश आर-पार न जाए"
       ],
-      "quickRevision": "30-second revision: Fibre → Yarn → Fabric. Natural fibres: cotton, jute, wool, silk. Synthetic fibres: nylon, polyester. Cotton boll से cotton fibre, jute stem से jute fibre. Ginning cotton fibres को seeds से अलग करता है. Spinning fibres को खींचकर और twist करके yarn बनाता है. Takli और charkha spinning devices हैं. Weaving में two sets of yarn, knitting में single yarn से fabric बनाया जा सकता है."
+      "quickRevision": "वस्तुएँ → अलग पदार्थ → अलग गुण → गुणों के आधार पर वर्गीकरण → चमक → कठोरता और बनावट → पानी में घुलनशीलता → पारदर्शिता → गुण के अनुसार उपयोग।"
     },
     "en": {
-      "concept": "We use many kinds of fabrics around us. Fabrics are made from yarns, and yarns are made from fibres. Fibres may be natural or synthetic. Cotton and jute are natural plant fibres, wool and silk are natural animal fibres, while nylon and polyester are examples of synthetic fibres. The process of making yarn from fibres is spinning, and the main processes of making fabric from yarn are weaving and knitting.",
-      "example": "Cotton fibres are obtained from cotton bolls, converted into yarn by spinning, and the yarn can then be made into fabric by weaving or knitting.",
+      "concept": "Objects around us are made from different materials and have different properties. These properties can be used to group objects. Lustre, hardness, texture, solubility and transparency are important properties. Material properties also help in choosing materials for particular uses.",
+      "example": "Glass, metal, wood and plastic objects can be grouped according to their materials. Sugar and sand can be distinguished according to whether they dissolve in water.",
       "sections": [
         {
-          "title": "Variety in Fabrics",
-          "concept": "We use many kinds of fabrics made from cotton, wool, silk and synthetic fibres. On close observation, a fabric can be seen as being made from fine fibres and yarns rather than as one continuous solid piece.",
-          "example": "Cotton sarees, woollen mufflers, silk garments and synthetic clothes are examples of different fabrics.",
+          "title": "Introduction to Materials",
+          "concept": "Objects are made from different materials. Many objects can be made from the same material. Grouping objects according to material properties is useful.",
+          "explanation": "Objects are made from different materials. Many objects can be made from the same material. Grouping objects according to material properties is useful. Objects are made from different materials. Many objects can be made from the same material. Grouping objects according to material properties is useful.",
+          "example": "Glass objects, metal spoons and wooden objects can be placed in different groups according to their materials.",
           "keyPoints": [
-            "Different fabrics can be made from different kinds of fibres.",
-            "Close observation can reveal yarns in a fabric.",
-            "The choice of fabric depends on its properties and use."
+            "Objects are made from different materials. Many objects can be made from the same material. Grouping objects according to material properties is useful.",
+            "This property is useful for classification.",
+            "Objects with similar properties can be placed in one group.",
+            "Uses can be selected according to properties.",
+            "Different materials can have different properties."
           ]
         },
         {
-          "title": "What are Fibres?",
-          "concept": "Fibres are very thin, long, thread-like structures that can be used to make yarn. Fibres may be natural or synthetic. Natural fibres are obtained from plants or animals, while synthetic fibres are made by humans.",
-          "example": "Cotton and jute are natural plant fibres; wool and silk are natural animal fibres. Nylon and polyester are examples of synthetic fibres.",
+          "title": "Properties and Classification",
+          "concept": "Objects can be classified according to properties that can be observed or tested. Different properties can be selected for different purposes.",
+          "explanation": "Objects can be classified according to properties that can be observed or tested. Different properties can be selected for different purposes. Objects can be classified according to properties that can be observed or tested. Different properties can be selected for different purposes.",
+          "example": "Objects can be grouped according to properties such as hardness, solubility or transparency.",
           "keyPoints": [
-            "Natural fibres can come from plants or animals.",
-            "Cotton, jute, wool and silk are natural fibres.",
-            "Nylon and polyester are synthetic fibres."
+            "Objects can be classified according to properties that can be observed or tested. Different properties can be selected for different purposes.",
+            "This property is useful for classification.",
+            "Objects with similar properties can be placed in one group.",
+            "Uses can be selected according to properties.",
+            "Different materials can have different properties."
           ]
         },
         {
-          "title": "Plant Fibres — Cotton and Jute",
-          "concept": "Cotton and jute are natural fibres obtained from plants. Cotton fibres are found around the seeds inside mature cotton bolls. Jute fibre is obtained from the stem of the jute plant.",
-          "example": "When mature cotton bolls burst open, cotton fibres around the seeds become visible. Harvested jute stems are immersed in water for a few days so that the fibres can be separated.",
+          "title": "Appearance and Lustre",
+          "concept": "Many metals appear shiny. Lustre is a visible surface property and can be useful for classification.",
+          "explanation": "Many metals appear shiny. Lustre is a visible surface property and can be useful for classification. Many metals appear shiny. Lustre is a visible surface property and can be useful for classification.",
+          "example": "A metal spoon may generally appear shinier than a wooden spoon.",
           "keyPoints": [
-            "Cotton fibre is found around the seeds in cotton bolls.",
-            "Jute fibre is obtained from the stem.",
-            "Separating cotton fibres from seeds is called ginning."
+            "Many metals appear shiny. Lustre is a visible surface property and can be useful for classification.",
+            "This property is useful for classification.",
+            "Objects with similar properties can be placed in one group.",
+            "Uses can be selected according to properties.",
+            "Different materials can have different properties."
           ]
         },
         {
-          "title": "Spinning Cotton Yarn",
-          "concept": "Spinning is the process of making yarn from fibres. During spinning, fibres are drawn out and twisted together to form yarn. Takli and charkha are hand-operated spinning devices, while machines are used for large-scale spinning.",
-          "example": "A small amount of cotton wool can be drawn out and continuously twisted to form yarn.",
+          "title": "Hardness and Texture",
+          "concept": "Some materials are hard and some are relatively soft. Surfaces can be smooth or rough.",
+          "explanation": "Some materials are hard and some are relatively soft. Surfaces can be smooth or rough. Some materials are hard and some are relatively soft. Surfaces can be smooth or rough.",
+          "example": "Stone is generally hard, while cotton is relatively soft.",
           "keyPoints": [
-            "Spinning means making yarn from fibres.",
-            "Takli and charkha are traditional spinning devices.",
-            "Large-scale spinning is done with machines."
+            "Some materials are hard and some are relatively soft. Surfaces can be smooth or rough.",
+            "This property is useful for classification.",
+            "Objects with similar properties can be placed in one group.",
+            "Uses can be selected according to properties.",
+            "Different materials can have different properties."
           ]
         },
         {
-          "title": "Yarn to Fabric — Weaving and Knitting",
-          "concept": "The two main processes of making fabric from yarn are weaving and knitting. In weaving, two sets of yarn are arranged together to make fabric. In knitting, a single yarn can be used to make a piece of fabric.",
-          "example": "A loom can arrange two sets of yarn to make fabric. Socks and many sweaters are examples of knitted fabrics.",
+          "title": "Solubility",
+          "concept": "Some substances dissolve in water and some do not. This property can be used to group substances as soluble and insoluble.",
+          "explanation": "Some substances dissolve in water and some do not. This property can be used to group substances as soluble and insoluble. Some substances dissolve in water and some do not. This property can be used to group substances as soluble and insoluble.",
+          "example": "Sugar dissolves in water, while sand does not.",
           "keyPoints": [
-            "Weaving uses two sets of yarn.",
-            "Knitting can use a single yarn.",
-            "Weaving is done on hand-operated or power-operated looms; knitting can be done by hand or machine."
+            "Some substances dissolve in water and some do not. This property can be used to group substances as soluble and insoluble.",
+            "This property is useful for classification.",
+            "Objects with similar properties can be placed in one group.",
+            "Uses can be selected according to properties.",
+            "Different materials can have different properties."
           ]
         },
         {
-          "title": "History of Clothing Material",
-          "concept": "In ancient times, people used tree bark, large leaves, animal skins and furs to cover their bodies. Later, settled communities learned to twist and weave grasses, twigs, vines and animal hair or fleece into useful materials. The invention of the sewing needle helped people make stitched clothes.",
-          "example": "Even today, sarees, dhotis, lungis and turbans may be worn as unstitched pieces of fabric.",
+          "title": "Transparency and Uses",
+          "concept": "Transparent materials allow objects to be seen clearly. Translucent materials allow some light through but objects are not clear. Opaque materials do not allow light through.",
+          "explanation": "Transparent materials allow objects to be seen clearly. Translucent materials allow some light through but objects are not clear. Opaque materials do not allow light through. Transparent materials allow objects to be seen clearly. Translucent materials allow some light through but objects are not clear. Opaque materials do not allow light through.",
+          "example": "Transparent glass is useful for windows, while opaque materials are suitable for walls.",
           "keyPoints": [
-            "Early clothing materials included leaves, bark, skins and furs.",
-            "People developed methods of twisting and weaving natural materials.",
-            "The sewing needle contributed to the development of stitched clothing."
+            "Transparent materials allow objects to be seen clearly. Translucent materials allow some light through but objects are not clear. Opaque materials do not allow light through.",
+            "This property is useful for classification.",
+            "Objects with similar properties can be placed in one group.",
+            "Uses can be selected according to properties.",
+            "Different materials can have different properties."
           ]
         }
       ],
       "keyPoints": [
-        "Remember the sequence Fibre → Yarn → Fabric.",
-        "Cotton, jute, wool and silk are natural fibres.",
-        "Nylon and polyester are examples of synthetic fibres.",
-        "Cotton fibre is obtained around seeds in cotton bolls, while jute fibre is obtained from the stem.",
-        "Spinning converts fibres into yarn.",
-        "Takli and charkha are spinning devices.",
-        "Weaving arranges two sets of yarn to make fabric.",
-        "Knitting can make fabric from a single yarn.",
-        "The invention of the sewing needle helped the development of stitched clothing."
+        "Objects are made from different materials.",
+        "Many objects can be made from the same material.",
+        "Classification can be based on similar properties.",
+        "Many metals appear shiny.",
+        "Some substances dissolve in water and some do not.",
+        "Transparent, translucent and opaque materials differ.",
+        "Hardness and texture are material properties.",
+        "Material properties influence their uses."
       ],
       "examFocus": [
-        "Classification of natural and synthetic fibres.",
-        "Sources/plant parts from which cotton and jute are obtained.",
-        "Meaning and role of ginning in cotton.",
-        "Definition of spinning and identification of takli and charkha.",
-        "Correct sequence of fibre, yarn and fabric.",
-        "Difference between weaving and knitting.",
-        "Two sets of yarn in weaving versus a single yarn in knitting.",
-        "Important facts about early clothing materials and the sewing needle."
+        "Relationship between objects and materials",
+        "Classification by properties",
+        "Lustre and metals",
+        "Hard and soft materials",
+        "Soluble and insoluble substances",
+        "Transparent, translucent and opaque materials"
       ],
       "examTraps": [
         {
-          "title": "Fibre = Yarn?",
-          "fact": "A fibre is a thin thread-like structure; fibres are converted into yarn by spinning.",
-          "confusion": "Do not treat fibre and yarn as the same stage."
+          "title": "Object and Material",
+          "fact": "An object may be made from a material.",
+          "confusion": "Treating the object's name as the material name can be incorrect."
         },
         {
-          "title": "Spinning = Making Fibre?",
-          "fact": "Spinning is the process of making yarn from fibres.",
-          "confusion": "The output of spinning is yarn, not fibre."
+          "title": "Lustre",
+          "fact": "Many metals appear shiny.",
+          "confusion": "A shiny object should not be identified as metal only from lustre."
         },
         {
-          "title": "Ginning = Spinning?",
-          "fact": "Ginning separates cotton fibres from seeds, while spinning makes yarn from fibres.",
-          "confusion": "The purpose and order of the two processes are different."
+          "title": "Dissolving",
+          "fact": "Sugar dissolves in water while sand does not.",
+          "confusion": "Not being visible in water does not always mean that a substance was destroyed."
         },
         {
-          "title": "Jute = Part of Cotton?",
-          "fact": "Jute fibre is obtained from the stem of the jute plant; cotton fibre is found around seeds in cotton bolls.",
-          "confusion": "Both are plant fibres, but their source parts differ."
+          "title": "Transparency",
+          "fact": "Objects are seen clearly through transparent materials.",
+          "confusion": "Objects are not seen clearly through translucent materials."
         },
         {
-          "title": "Weaving = Single Yarn?",
-          "fact": "Weaving arranges two sets of yarn to make fabric.",
-          "confusion": "The single-yarn process is associated with knitting."
+          "title": "Hardness",
+          "fact": "Hardness and heaviness are different properties.",
+          "confusion": "A heavy object should not automatically be called hard."
         },
         {
-          "title": "Polyester = Natural Fibre?",
-          "fact": "Polyester is an example of a synthetic fibre.",
-          "confusion": "Keep natural and synthetic classifications separate."
+          "title": "Classification",
+          "fact": "Classification depends on the selected property.",
+          "confusion": "The same object can be placed in different groups when different properties are selected."
         }
       ],
       "thinkBeforeAnswer": [
-        "Is the question asking about a fibre, yarn or fabric stage?",
-        "Is it asking where a fibre comes from or how yarn is made from it?",
-        "If cotton and jute are options, check the plant part carefully.",
-        "Is the process ginning or spinning?",
-        "Are two sets of yarn being arranged, or is a single yarn being used?",
-        "Use the source of the material to distinguish natural from synthetic fibres."
+        "Is the question about an object or a material?",
+        "Which property is the basis of comparison?",
+        "Does the substance dissolve in water?",
+        "Does light pass through it?",
+        "Is the material hard or soft?",
+        "Is its surface smooth or rough?"
       ],
       "memoryTricks": [
-        "Fibre → Spinning → Yarn → Weaving/Knitting → Fabric",
-        "Cotton = boll/seed area; Jute = stem",
-        "Ginning = separating cotton fibres from seeds",
-        "Spinning = drawing and twisting fibres into yarn",
-        "Weaving = 2 sets of yarn",
-        "Knitting = 1 yarn",
-        "Takli + Charkha = Spinning"
+        "Dissolves → soluble.",
+        "Does not dissolve → insoluble.",
+        "Clearly visible through it → transparent.",
+        "Some light passes but the view is unclear → translucent.",
+        "Light does not pass → opaque.",
+        "Similar properties → one group."
       ],
       "pyqSignals": [
-        "Natural versus synthetic fibre classification can appear as a direct MCQ.",
-        "The plant parts supplying cotton and jute are common direct-question areas.",
-        "The difference between ginning and spinning is a high-value concept.",
-        "The Fibre → Yarn → Fabric sequence can appear in order or statement questions.",
-        "Identifying weaving versus knitting is a common objective-question pattern.",
-        "Takli and charkha can be tested as identification questions.",
-        "Unstitched fabrics such as saree, dhoti, lungi and turban can appear in history-related questions."
+        "Basis of classification",
+        "Lustre of metals",
+        "Solubility in water",
+        "Hard and soft materials",
+        "Types of transparency",
+        "Material properties and uses"
       ],
       "mustRemember": [
-        "Cotton and jute → plant fibres",
-        "Wool and silk → animal fibres",
-        "Nylon and polyester → synthetic fibres",
-        "Cotton fibre → cotton boll/seed area",
-        "Jute fibre → stem",
-        "Ginning → separating cotton fibres and seeds",
-        "Spinning → fibres to yarn",
-        "Weaving → two sets of yarn; Knitting → single yarn",
-        "Fabric → made from yarn"
+        "Material → substance used to make objects",
+        "Classification → group of objects with similar properties",
+        "Lustre → visible surface shine",
+        "Hardness → resistance to pressing or scratching",
+        "Solubility → ability or inability to dissolve in water",
+        "Transparent → objects are seen clearly",
+        "Translucent → some light passes but objects are unclear",
+        "Opaque → light does not pass through"
       ],
-      "quickRevision": "30-second revision: Fibre → Yarn → Fabric. Natural fibres: cotton, jute, wool, silk. Synthetic fibres: nylon, polyester. Cotton fibre comes from cotton bolls around the seeds; jute fibre comes from the stem. Ginning separates cotton fibres from seeds. Spinning draws and twists fibres into yarn. Takli and charkha are spinning devices. Weaving uses two sets of yarn; knitting can use a single yarn."
+      "quickRevision": "Objects → different materials → different properties → classification by properties → lustre → hardness and texture → solubility in water → transparency → use according to properties."
     }
   }
 }
