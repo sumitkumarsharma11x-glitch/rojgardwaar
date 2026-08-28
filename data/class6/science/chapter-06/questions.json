@@ -1,1 +1,4202 @@
-
+[
+  {
+    "id": "ch6_q101",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पौधों को शाक, झाड़ी और वृक्ष में बाँटने का एक आधार क्या है?",
+      "en": "One basis for grouping plants as herbs, shrubs and trees?"
+    },
+    "options": {
+      "hi": [
+        "तने की प्रकृति और पौधे का आकार",
+        "कोमल और हरा",
+        "कठोर लेकिन बहुत मोटा नहीं",
+        "कठोर और मोटा"
+      ],
+      "en": [
+        "The nature of the stem and the size of the plant",
+        "Soft and green",
+        "Hard but not very thick",
+        "Hard and thick"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q102",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शाक का तना सामान्यतः कैसा होता है?",
+      "en": "What is the stem of a herb generally like?"
+    },
+    "options": {
+      "hi": [
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "रेंगने वाला पौधा",
+        "भूमि पर फैलते हुए",
+        "कोमल और हरा"
+      ],
+      "en": [
+        "A weak stem climbs with support",
+        "Creeper",
+        "By spreading along the ground",
+        "Soft and green"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q103",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "झाड़ी का तना सामान्यतः कैसा होता है?",
+      "en": "What is the stem of a shrub generally like?"
+    },
+    "options": {
+      "hi": [
+        "झाड़ी",
+        "वृक्ष",
+        "कठोर लेकिन बहुत मोटा नहीं",
+        "शाक"
+      ],
+      "en": [
+        "Shrub",
+        "Tree",
+        "Hard but not very thick",
+        "Herb"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q104",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "वृक्ष का मुख्य तना सामान्यतः कैसा होता है?",
+      "en": "What is the main stem of a tree generally like?"
+    },
+    "options": {
+      "hi": [
+        "शाखाएँ आधार के पास निकलती हैं",
+        "कठोर और मोटा",
+        "रेंगने वाला पौधा",
+        "वह मजबूत और मोटा होता है"
+      ],
+      "en": [
+        "Branches arise near the base",
+        "Hard and thick",
+        "Creeper",
+        "It is strong and thick"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q105",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "hard",
+    "question": {
+      "hi": "शाक की ऊँचाई सामान्यतः कैसी होती है?",
+      "en": "What is the usual height of a herb?"
+    },
+    "options": {
+      "hi": [
+        "कम",
+        "हाँ",
+        "तने की प्रकृति और पौधे का आकार",
+        "कोमल और हरा"
+      ],
+      "en": [
+        "Short",
+        "Yes",
+        "The nature of the stem and the size of the plant",
+        "Soft and green"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q106",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "झाड़ी में शाखाएँ कहाँ से निकलती हैं?",
+      "en": "Where do branches arise in a shrub?"
+    },
+    "options": {
+      "hi": [
+        "लता",
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "रेंगने वाला पौधा",
+        "तने के आधार के पास"
+      ],
+      "en": [
+        "Climber",
+        "A weak stem climbs with support",
+        "Creeper",
+        "Near the base of the stem"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q107",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वृक्ष में शाखाएँ सामान्यतः कहाँ से निकलती हैं?",
+      "en": "Where do branches generally arise in a tree?"
+    },
+    "options": {
+      "hi": [
+        "शाक",
+        "झाड़ी",
+        "भूमि से कुछ ऊँचाई पर",
+        "आम"
+      ],
+      "en": [
+        "Herb",
+        "Shrub",
+        "Some height above the ground",
+        "Mango"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q108",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मनी प्लांट किस प्रकार का पौधा है?",
+      "en": "What type of plant is money plant?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "लता",
+        "वह मजबूत और मोटा होता है",
+        "शाखाएँ आधार के पास निकलती हैं"
+      ],
+      "en": [
+        "Yes",
+        "Climber",
+        "It is strong and thick",
+        "Branches arise near the base"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q109",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "लता की मुख्य विशेषता क्या है?",
+      "en": "What is a main feature of a climber?"
+    },
+    "options": {
+      "hi": [
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "अलग प्रकार के पौधों को पहचानना और समझना",
+        "हाँ",
+        "तने की प्रकृति और पौधे का आकार"
+      ],
+      "en": [
+        "A weak stem climbs with support",
+        "To identify and understand different types of plants",
+        "Yes",
+        "The nature of the stem and the size of the plant"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q110",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कद्दू का पौधा किस प्रकार का हो सकता है?",
+      "en": "What type of plant can pumpkin be?"
+    },
+    "options": {
+      "hi": [
+        "लता",
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "भूमि पर फैलते हुए",
+        "रेंगने वाला पौधा"
+      ],
+      "en": [
+        "Climber",
+        "A weak stem climbs with support",
+        "By spreading along the ground",
+        "Creeper"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q111",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "रेंगने वाले पौधे कैसे बढ़ते हैं?",
+      "en": "How do creepers grow?"
+    },
+    "options": {
+      "hi": [
+        "आम",
+        "शाक",
+        "भूमि पर फैलते हुए",
+        "गुलाब"
+      ],
+      "en": [
+        "Mango",
+        "Herb",
+        "By spreading along the ground",
+        "Rose"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q112",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "लता और रेंगने वाले पौधों के तने कैसे होते हैं?",
+      "en": "What are the stems of climbers and creepers like?"
+    },
+    "options": {
+      "hi": [
+        "रेंगने वाला पौधा",
+        "कमजोर",
+        "आकार, तने और शाखाओं में",
+        "लता"
+      ],
+      "en": [
+        "Creeper",
+        "Weak",
+        "In size, stems and branches",
+        "Climber"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q113",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शाक का एक उदाहरण कौन सा है?",
+      "en": "Which is an example of a herb?"
+    },
+    "options": {
+      "hi": [
+        "गेहूँ",
+        "नहीं",
+        "अलग प्रकार के पौधों को पहचानना और समझना",
+        "हाँ"
+      ],
+      "en": [
+        "Wheat",
+        "No",
+        "To identify and understand different types of plants",
+        "Yes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q114",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "झाड़ी का एक उदाहरण कौन सा है?",
+      "en": "Which is an example of a shrub?"
+    },
+    "options": {
+      "hi": [
+        "कम",
+        "तने के आधार के पास",
+        "भूमि से कुछ ऊँचाई पर",
+        "गुलाब"
+      ],
+      "en": [
+        "Short",
+        "Near the base of the stem",
+        "Some height above the ground",
+        "Rose"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q115",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "hard",
+    "question": {
+      "hi": "वृक्ष का एक उदाहरण कौन सा है?",
+      "en": "Which is an example of a tree?"
+    },
+    "options": {
+      "hi": [
+        "गेहूँ",
+        "गुलाब",
+        "आम",
+        "कमजोर"
+      ],
+      "en": [
+        "Wheat",
+        "Rose",
+        "Mango",
+        "Weak"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q116",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तुलसी को किस श्रेणी में रखा जा सकता है?",
+      "en": "Which category can tulsi be placed in?"
+    },
+    "options": {
+      "hi": [
+        "लता",
+        "शाक",
+        "नहीं",
+        "आकार, तने और शाखाओं में"
+      ],
+      "en": [
+        "Climber",
+        "Herb",
+        "No",
+        "In size, stems and branches"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q117",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "नींबू का पौधा किस श्रेणी में रखा जा सकता है?",
+      "en": "Which category can lemon be placed in?"
+    },
+    "options": {
+      "hi": [
+        "झाड़ी",
+        "अधिक कठोर और मोटा",
+        "नहीं",
+        "अलग प्रकार के पौधों को पहचानना और समझना"
+      ],
+      "en": [
+        "Shrub",
+        "Harder and thicker",
+        "No",
+        "To identify and understand different types of plants"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q118",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "नीम किस श्रेणी का पौधा है?",
+      "en": "Which category is neem?"
+    },
+    "options": {
+      "hi": [
+        "कठोर और मोटा",
+        "कम",
+        "तने के आधार के पास",
+        "वृक्ष"
+      ],
+      "en": [
+        "Hard and thick",
+        "Short",
+        "Near the base of the stem",
+        "Tree"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q119",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पौधों की शाखाओं को देखकर वर्गीकरण में क्या मदद मिलती है?",
+      "en": "How can branches help in classifying plants?"
+    },
+    "options": {
+      "hi": [
+        "कमजोर",
+        "गेहूँ",
+        "उनकी स्थिति और प्रकृति देखकर",
+        "भूमि पर फैलते हुए"
+      ],
+      "en": [
+        "Weak",
+        "Wheat",
+        "By observing their position and nature",
+        "By spreading along the ground"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q120",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पौधे की ऊँचाई अकेले ही वर्गीकरण का एकमात्र आधार है?",
+      "en": "Is plant height alone the only basis for classification?"
+    },
+    "options": {
+      "hi": [
+        "शाखाएँ आधार के पास निकलती हैं",
+        "नहीं",
+        "रेंगने वाला पौधा",
+        "वह मजबूत और मोटा होता है"
+      ],
+      "en": [
+        "Branches arise near the base",
+        "No",
+        "Creeper",
+        "It is strong and thick"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q121",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "शाक, झाड़ी और वृक्ष में मुख्य अंतर किसमें देखा जाता है?",
+      "en": "Where is the main difference among herbs, shrubs and trees observed?"
+    },
+    "options": {
+      "hi": [
+        "आकार, तने और शाखाओं में",
+        "हाँ",
+        "अधिक कठोर और मोटा",
+        "नहीं"
+      ],
+      "en": [
+        "In size, stems and branches",
+        "Yes",
+        "Harder and thicker",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q122",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कमजोर तने वाला पौधा सहारा लेकर ऊपर बढ़े तो वह क्या कहलाता है?",
+      "en": "What is a plant with a weak stem that grows upward using support called?"
+    },
+    "options": {
+      "hi": [
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "रेंगने वाला पौधा",
+        "भूमि पर फैलते हुए",
+        "लता"
+      ],
+      "en": [
+        "A weak stem climbs with support",
+        "Creeper",
+        "By spreading along the ground",
+        "Climber"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q123",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कमजोर तने वाला पौधा जमीन पर फैले तो वह क्या कहलाता है?",
+      "en": "What is a weak-stemmed plant that spreads on the ground called?"
+    },
+    "options": {
+      "hi": [
+        "झाड़ी",
+        "वृक्ष",
+        "रेंगने वाला पौधा",
+        "शाक"
+      ],
+      "en": [
+        "Shrub",
+        "Tree",
+        "Creeper",
+        "Herb"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q124",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "वृक्ष का तना सामान्यतः किस कारण पौधे को सहारा देता है?",
+      "en": "Why does a tree's stem generally support the plant?"
+    },
+    "options": {
+      "hi": [
+        "उनकी स्थिति और प्रकृति देखकर",
+        "वह मजबूत और मोटा होता है",
+        "झाड़ी",
+        "वृक्ष"
+      ],
+      "en": [
+        "By observing their position and nature",
+        "It is strong and thick",
+        "Shrub",
+        "Tree"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q125",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "hard",
+    "question": {
+      "hi": "झाड़ी की पहचान में शाखाओं की स्थिति क्यों उपयोगी है?",
+      "en": "Why is branch position useful in identifying a shrub?"
+    },
+    "options": {
+      "hi": [
+        "शाखाएँ आधार के पास निकलती हैं",
+        "वह मजबूत और मोटा होता है",
+        "हाँ",
+        "अधिक कठोर और मोटा"
+      ],
+      "en": [
+        "Branches arise near the base",
+        "It is strong and thick",
+        "Yes",
+        "Harder and thicker"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q126",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "शाक का तना सामान्यतः आसानी से मोड़ा जा सकता है?",
+      "en": "Can a herb's stem generally be bent easily?"
+    },
+    "options": {
+      "hi": [
+        "लता",
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "रेंगने वाला पौधा",
+        "हाँ"
+      ],
+      "en": [
+        "Climber",
+        "A weak stem climbs with support",
+        "Creeper",
+        "Yes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q127",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वृक्ष का तना सामान्यतः शाक की तुलना में कैसा होता है?",
+      "en": "How is a tree stem generally compared with a herb stem?"
+    },
+    "options": {
+      "hi": [
+        "रेंगने वाला पौधा",
+        "भूमि पर फैलते हुए",
+        "अधिक कठोर और मोटा",
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है"
+      ],
+      "en": [
+        "Creeper",
+        "By spreading along the ground",
+        "Harder and thicker",
+        "A weak stem climbs with support"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q128",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या सभी पौधे आकार में एक जैसे होते हैं?",
+      "en": "Are all plants the same size?"
+    },
+    "options": {
+      "hi": [
+        "शाखाएँ आधार के पास निकलती हैं",
+        "नहीं",
+        "रेंगने वाला पौधा",
+        "वह मजबूत और मोटा होता है"
+      ],
+      "en": [
+        "Branches arise near the base",
+        "No",
+        "Creeper",
+        "It is strong and thick"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q129",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पौधों के वर्गीकरण का उद्देश्य क्या है?",
+      "en": "What is the purpose of classifying plants?"
+    },
+    "options": {
+      "hi": [
+        "अलग प्रकार के पौधों को पहचानना और समझना",
+        "रेंगने वाला पौधा",
+        "वह मजबूत और मोटा होता है",
+        "शाखाएँ आधार के पास निकलती हैं"
+      ],
+      "en": [
+        "To identify and understand different types of plants",
+        "Creeper",
+        "It is strong and thick",
+        "Branches arise near the base"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q130",
+    "topic": "herbs-shrubs-trees",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या पौधों का वर्गीकरण उनके तने की मजबूती देखकर भी किया जा सकता है?",
+      "en": "Can plants also be classified by observing the strength of their stems?"
+    },
+    "options": {
+      "hi": [
+        "लता",
+        "कमजोर तना सहारे की मदद से ऊपर चढ़ता है",
+        "रेंगने वाला पौधा",
+        "हाँ"
+      ],
+      "en": [
+        "Climber",
+        "A weak stem climbs with support",
+        "Creeper",
+        "Yes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पौधों के आकार, तने और शाखाओं की प्रकृति के आधार पर दिए गए वर्गीकरण से मेल खाता है।",
+      "en": "This answer matches the classification of plants using size, stem nature and branch pattern."
+    }
+  },
+  {
+    "id": "ch6_q131",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तना पौधे के किस भाग को सहारा देता है?",
+      "en": "What parts does the stem support?"
+    },
+    "options": {
+      "hi": [
+        "जल और भोजन का परिवहन",
+        "तना जल को ऊपर ले जाता है",
+        "तने से",
+        "पत्तियों, शाखाओं, फूलों और फलों को"
+      ],
+      "en": [
+        "Transport of water and food",
+        "The stem carries water upward",
+        "The stem",
+        "Leaves, branches, flowers and fruits"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q132",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तना पौधे को सीधा रखने में कैसे मदद करता है?",
+      "en": "How does the stem help keep a plant upright?"
+    },
+    "options": {
+      "hi": [
+        "रंगीन पानी में तना रखना",
+        "जल तने के माध्यम से ऊपर जा सकता है",
+        "सहारा देकर",
+        "नहीं"
+      ],
+      "en": [
+        "Placing a stem in coloured water",
+        "Water can move upward through the stem",
+        "By providing support",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q133",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जड़ों द्वारा लिया गया जल तने के माध्यम से कहाँ पहुँचता है?",
+      "en": "Where does water absorbed by roots travel through the stem?"
+    },
+    "options": {
+      "hi": [
+        "जड़ सामान्यतः मिट्टी में और तना सामान्यतः ऊपर की ओर होता है",
+        "पत्तियों और पौधे के अन्य भागों तक",
+        "उन्हें सहारा देकर उचित स्थिति में रखता है",
+        "उन्हें सहारा नहीं मिलेगा"
+      ],
+      "en": [
+        "Roots are generally in soil and the stem is generally above ground",
+        "To the leaves and other parts of the plant",
+        "It supports them in position",
+        "They would lack support"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q134",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्तियों द्वारा बनाया गया भोजन तने के माध्यम से कहाँ पहुँच सकता है?",
+      "en": "Where can food made by leaves travel through the stem?"
+    },
+    "options": {
+      "hi": [
+        "पौधे के अन्य भागों तक",
+        "हाँ",
+        "तना",
+        "प्ररोह"
+      ],
+      "en": [
+        "To other parts of the plant",
+        "Yes",
+        "Stem",
+        "Shoot"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q135",
+    "topic": "stem",
+    "difficulty": "hard",
+    "question": {
+      "hi": "तने की एक प्रमुख भूमिका क्या है?",
+      "en": "What is one major role of the stem?"
+    },
+    "options": {
+      "hi": [
+        "पत्तियों और पौधे के अन्य भागों तक",
+        "पौधे के अन्य भागों तक",
+        "तना जल को ऊपर ले जाता है",
+        "जल और भोजन का परिवहन"
+      ],
+      "en": [
+        "To the leaves and other parts of the plant",
+        "To other parts of the plant",
+        "The stem carries water upward",
+        "Transport of water and food"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q136",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तने को रंगीन पानी में रखने पर रंग ऊपर क्यों दिखाई दे सकता है?",
+      "en": "Why can colour rise when a stem is placed in coloured water?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "रंगीन पानी में तना रखना",
+        "तना जल को ऊपर ले जाता है",
+        "पौधे के अन्य भागों की ओर"
+      ],
+      "en": [
+        "No",
+        "Placing a stem in coloured water",
+        "The stem carries water upward",
+        "Toward other parts of the plant"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q137",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तने पर पत्तियाँ किससे जुड़ी होती हैं?",
+      "en": "What are leaves attached to?"
+    },
+    "options": {
+      "hi": [
+        "उन्हें सहारा नहीं मिलेगा",
+        "तने से",
+        "वह पौधे के भागों को सहारा देता है",
+        "उन्हें सहारा देकर उचित स्थिति में रखता है"
+      ],
+      "en": [
+        "They would lack support",
+        "The stem",
+        "It supports the plant parts",
+        "It supports them in position"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q138",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "फूल सामान्यतः पौधे के किस भाग से जुड़े होते हैं?",
+      "en": "What part are flowers generally attached to?"
+    },
+    "options": {
+      "hi": [
+        "तने या उसकी शाखाओं से",
+        "तना",
+        "प्ररोह",
+        "हाँ"
+      ],
+      "en": [
+        "The stem or its branches",
+        "Stem",
+        "Shoot",
+        "Yes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q139",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फल सामान्यतः पौधे के किस भाग से जुड़े होते हैं?",
+      "en": "What part are fruits generally attached to?"
+    },
+    "options": {
+      "hi": [
+        "पौधे के अन्य भागों तक",
+        "जल और भोजन का परिवहन",
+        "तना जल को ऊपर ले जाता है",
+        "तने या उसकी शाखाओं से"
+      ],
+      "en": [
+        "To other parts of the plant",
+        "Transport of water and food",
+        "The stem carries water upward",
+        "The stem or its branches"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q140",
+    "topic": "stem",
+    "difficulty": "hard",
+    "question": {
+      "hi": "तना जड़ों से प्राप्त जल को किस दिशा में ले जाता है?",
+      "en": "In which direction does the stem carry water received from roots?"
+    },
+    "options": {
+      "hi": [
+        "पौधे के अन्य भागों की ओर",
+        "नहीं",
+        "ऊपर की ओर",
+        "तने या उसकी शाखाओं से"
+      ],
+      "en": [
+        "Toward other parts of the plant",
+        "No",
+        "Upward",
+        "The stem or its branches"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q141",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्तियों में बना भोजन तने के द्वारा किस ओर जा सकता है?",
+      "en": "Where can food made in leaves move through the stem?"
+    },
+    "options": {
+      "hi": [
+        "उन्हें सहारा देकर उचित स्थिति में रखता है",
+        "पौधे के अन्य भागों की ओर",
+        "कठोरता और मोटाई में",
+        "वह पौधे के भागों को सहारा देता है"
+      ],
+      "en": [
+        "It supports them in position",
+        "Toward other parts of the plant",
+        "In hardness and thickness",
+        "It supports the plant parts"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q142",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तने का कार्य केवल पौधे को सीधा रखना है?",
+      "en": "Is supporting the plant upright the only function of the stem?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "पत्तियाँ और फूल",
+        "पत्तियाँ",
+        "हाँ"
+      ],
+      "en": [
+        "No",
+        "Leaves and flowers",
+        "Leaves",
+        "Yes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q143",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तने में जल के परिवहन को दिखाने का एक प्रयोग क्या है?",
+      "en": "What experiment can demonstrate water transport through a stem?"
+    },
+    "options": {
+      "hi": [
+        "पत्तियों, शाखाओं, फूलों और फलों को",
+        "सहारा देकर",
+        "पत्तियों और पौधे के अन्य भागों तक",
+        "रंगीन पानी में तना रखना"
+      ],
+      "en": [
+        "Leaves, branches, flowers and fruits",
+        "By providing support",
+        "To the leaves and other parts of the plant",
+        "Placing a stem in coloured water"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q144",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तने का रंगीन पानी वाला प्रयोग क्या दर्शाता है?",
+      "en": "What does the coloured-water stem experiment show?"
+    },
+    "options": {
+      "hi": [
+        "ऊपर की ओर",
+        "पौधे के अन्य भागों की ओर",
+        "जल तने के माध्यम से ऊपर जा सकता है",
+        "तने या उसकी शाखाओं से"
+      ],
+      "en": [
+        "Upward",
+        "Toward other parts of the plant",
+        "Water can move upward through the stem",
+        "The stem or its branches"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q145",
+    "topic": "stem",
+    "difficulty": "hard",
+    "question": {
+      "hi": "तने से पत्तियों तक क्या पहुँचता है?",
+      "en": "What reaches leaves through the stem?"
+    },
+    "options": {
+      "hi": [
+        "वह पौधे के भागों को सहारा देता है",
+        "जल और खनिज",
+        "भोजन",
+        "कठोरता और मोटाई में"
+      ],
+      "en": [
+        "It supports the plant parts",
+        "Water and minerals",
+        "Food",
+        "In hardness and thickness"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q146",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्तियों से अन्य भागों तक क्या पहुँच सकता है?",
+      "en": "What can travel from leaves to other parts?"
+    },
+    "options": {
+      "hi": [
+        "भोजन",
+        "सहारा और परिवहन",
+        "पत्तियाँ और फूल",
+        "पत्तियाँ"
+      ],
+      "en": [
+        "Food",
+        "Support and transport",
+        "Leaves and flowers",
+        "Leaves"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q147",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शाक का तना और वृक्ष का तना किस गुण में अलग हो सकते हैं?",
+      "en": "How can a herb stem and a tree stem differ?"
+    },
+    "options": {
+      "hi": [
+        "पौधे में पदार्थों का परिवहन",
+        "पत्तियों, शाखाओं, फूलों और फलों को",
+        "सहारा देकर",
+        "कठोरता और मोटाई में"
+      ],
+      "en": [
+        "Transport of materials in the plant",
+        "Leaves, branches, flowers and fruits",
+        "By providing support",
+        "In hardness and thickness"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q148",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मजबूत तना पौधे के लिए क्यों उपयोगी है?",
+      "en": "Why is a strong stem useful to a plant?"
+    },
+    "options": {
+      "hi": [
+        "तने या उसकी शाखाओं से",
+        "ऊपर की ओर",
+        "वह पौधे के भागों को सहारा देता है",
+        "तने से"
+      ],
+      "en": [
+        "The stem or its branches",
+        "Upward",
+        "It supports the plant parts",
+        "The stem"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q149",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तना पत्तियों को किस स्थिति में रखता है?",
+      "en": "What does the stem help do with leaves?"
+    },
+    "options": {
+      "hi": [
+        "भोजन",
+        "उन्हें सहारा देकर उचित स्थिति में रखता है",
+        "जल तने के माध्यम से ऊपर जा सकता है",
+        "जल और खनिज"
+      ],
+      "en": [
+        "Food",
+        "It supports them in position",
+        "Water can move upward through the stem",
+        "Water and minerals"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q150",
+    "topic": "stem",
+    "difficulty": "hard",
+    "question": {
+      "hi": "तने के बिना पत्तियाँ किस समस्या का सामना कर सकती हैं?",
+      "en": "What problem might leaves face without the stem?"
+    },
+    "options": {
+      "hi": [
+        "उन्हें सहारा नहीं मिलेगा",
+        "प्ररोह तंत्र",
+        "सहारा और परिवहन",
+        "पत्तियाँ और फूल"
+      ],
+      "en": [
+        "They would lack support",
+        "Shoot system",
+        "Support and transport",
+        "Leaves and flowers"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q151",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ और तने में एक प्रमुख अंतर क्या है?",
+      "en": "What is one major difference between root and stem?"
+    },
+    "options": {
+      "hi": [
+        "हाँ",
+        "पौधे में पदार्थों का परिवहन",
+        "पत्तियों, शाखाओं, फूलों और फलों को",
+        "जड़ सामान्यतः मिट्टी में और तना सामान्यतः ऊपर की ओर होता है"
+      ],
+      "en": [
+        "Yes",
+        "Transport of materials in the plant",
+        "Leaves, branches, flowers and fruits",
+        "Roots are generally in soil and the stem is generally above ground"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q152",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तना पौधे के किस तंत्र का भाग है?",
+      "en": "Which system does the stem belong to?"
+    },
+    "options": {
+      "hi": [
+        "तने से",
+        "तने या उसकी शाखाओं से",
+        "प्ररोह तंत्र",
+        "तना जल को ऊपर ले जाता है"
+      ],
+      "en": [
+        "The stem",
+        "The stem or its branches",
+        "Shoot system",
+        "The stem carries water upward"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q153",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तना किन दो प्रमुख कार्यों से जुड़ा है?",
+      "en": "Which two major functions are associated with the stem?"
+    },
+    "options": {
+      "hi": [
+        "जल और खनिज",
+        "सहारा और परिवहन",
+        "रंगीन पानी में तना रखना",
+        "जल तने के माध्यम से ऊपर जा सकता है"
+      ],
+      "en": [
+        "Water and minerals",
+        "Support and transport",
+        "Placing a stem in coloured water",
+        "Water can move upward through the stem"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q154",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तने की शाखाओं पर कौन से भाग लग सकते हैं?",
+      "en": "Which parts may be borne on branches of a stem?"
+    },
+    "options": {
+      "hi": [
+        "पत्तियाँ और फूल",
+        "उन्हें सहारा नहीं मिलेगा",
+        "जड़ सामान्यतः मिट्टी में और तना सामान्यतः ऊपर की ओर होता है",
+        "प्ररोह तंत्र"
+      ],
+      "en": [
+        "Leaves and flowers",
+        "They would lack support",
+        "Roots are generally in soil and the stem is generally above ground",
+        "Shoot system"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q155",
+    "topic": "stem",
+    "difficulty": "hard",
+    "question": {
+      "hi": "तने द्वारा जल पहुँचने का एक महत्वपूर्ण स्थान कौन सा है?",
+      "en": "What is an important destination of water carried by the stem?"
+    },
+    "options": {
+      "hi": [
+        "प्ररोह",
+        "हाँ",
+        "पौधे में पदार्थों का परिवहन",
+        "पत्तियाँ"
+      ],
+      "en": [
+        "Shoot",
+        "Yes",
+        "Transport of materials in the plant",
+        "Leaves"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q156",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या तना भोजन का परिवहन भी करता है?",
+      "en": "Does the stem also transport food?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "रंगीन पानी में तना रखना",
+        "हाँ",
+        "पौधे के अन्य भागों की ओर"
+      ],
+      "en": [
+        "No",
+        "Placing a stem in coloured water",
+        "Yes",
+        "Toward other parts of the plant"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q157",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रंगीन पानी वाला प्रयोग किस पौधे के भाग की भूमिका समझाता है?",
+      "en": "Which plant part's role is illustrated by coloured water?"
+    },
+    "options": {
+      "hi": [
+        "जल तने के माध्यम से ऊपर जा सकता है",
+        "तना",
+        "नहीं",
+        "रंगीन पानी में तना रखना"
+      ],
+      "en": [
+        "Water can move upward through the stem",
+        "Stem",
+        "No",
+        "Placing a stem in coloured water"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q158",
+    "topic": "stem",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तने की सहायता से पौधे की कौन सी संरचना ऊपर बनी रहती है?",
+      "en": "Which plant structure is kept upright with stem support?"
+    },
+    "options": {
+      "hi": [
+        "प्ररोह",
+        "उन्हें सहारा देकर उचित स्थिति में रखता है",
+        "उन्हें सहारा नहीं मिलेगा",
+        "जड़ सामान्यतः मिट्टी में और तना सामान्यतः ऊपर की ओर होता है"
+      ],
+      "en": [
+        "Shoot",
+        "It supports them in position",
+        "They would lack support",
+        "Roots are generally in soil and the stem is generally above ground"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q159",
+    "topic": "stem",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तना पौधे के भागों को आपस में जोड़ने में सहायक है?",
+      "en": "Does the stem help connect plant parts?"
+    },
+    "options": {
+      "hi": [
+        "पौधे के अन्य भागों तक",
+        "जल और भोजन का परिवहन",
+        "तना जल को ऊपर ले जाता है",
+        "हाँ"
+      ],
+      "en": [
+        "To other parts of the plant",
+        "Transport of water and food",
+        "The stem carries water upward",
+        "Yes"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q160",
+    "topic": "stem",
+    "difficulty": "hard",
+    "question": {
+      "hi": "तने का एक उपयोगी कार्य कौन सा है?",
+      "en": "What is one useful function of the stem?"
+    },
+    "options": {
+      "hi": [
+        "जल और भोजन का परिवहन",
+        "तना जल को ऊपर ले जाता है",
+        "पौधे में पदार्थों का परिवहन",
+        "पौधे के अन्य भागों तक"
+      ],
+      "en": [
+        "Transport of water and food",
+        "The stem carries water upward",
+        "Transport of materials in the plant",
+        "To other parts of the plant"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर तने के सहारा देने और पौधे में जल तथा भोजन के परिवहन से संबंधित कार्य को बताता है।",
+      "en": "This answer describes the stem's role in support and in transporting water and food within the plant."
+    }
+  },
+  {
+    "id": "ch6_q161",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्ती का चौड़ा हरा भाग क्या कहलाता है?",
+      "en": "What is the broad green part of a leaf called?"
+    },
+    "options": {
+      "hi": [
+        "वे भोजन बनाती हैं",
+        "प्रकाश संश्लेषण",
+        "पर्णफलक",
+        "जालिकावत"
+      ],
+      "en": [
+        "They make food",
+        "Photosynthesis",
+        "Lamina",
+        "Reticulate"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q162",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पत्ती को तने से जोड़ने वाला डंठल क्या कहलाता है?",
+      "en": "What is the stalk that attaches a leaf to the stem called?"
+    },
+    "options": {
+      "hi": [
+        "चौड़ा और चपटा भाग",
+        "पर्णवृंत",
+        "क्लोरोफिल",
+        "पर्णफलक को तने से"
+      ],
+      "en": [
+        "The broad, flat part",
+        "Petiole",
+        "Chlorophyll",
+        "The lamina to the stem"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q163",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पत्ती पर दिखाई देने वाली रेखाओं को क्या कहते हैं?",
+      "en": "What are the lines visible on a leaf called?"
+    },
+    "options": {
+      "hi": [
+        "शिराएँ",
+        "भोजन बनाना",
+        "जलवाष्प",
+        "शिराएँ लगभग समानांतर चलती हैं"
+      ],
+      "en": [
+        "Veins",
+        "Making food",
+        "Water vapour",
+        "The veins run roughly parallel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q164",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्ती की शिराओं की व्यवस्था क्या कहलाती है?",
+      "en": "What is the arrangement of veins in a leaf called?"
+    },
+    "options": {
+      "hi": [
+        "शिराविन्यास देखकर",
+        "पौधे के लिए भोजन बनाना",
+        "पर्णफलक",
+        "शिराविन्यास"
+      ],
+      "en": [
+        "By observing venation",
+        "Making food for the plant",
+        "Lamina",
+        "Venation"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q165",
+    "topic": "leaf",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जाल जैसी शिराओं की व्यवस्था क्या कहलाती है?",
+      "en": "What is a net-like arrangement of veins called?"
+    },
+    "options": {
+      "hi": [
+        "जालिकावत",
+        "वे भोजन बनाती हैं",
+        "जालिकावत शिराविन्यास",
+        "समांतर"
+      ],
+      "en": [
+        "Reticulate",
+        "They make food",
+        "Reticulate venation",
+        "Parallel"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q166",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "समानांतर चलने वाली शिराओं की व्यवस्था क्या कहलाती है?",
+      "en": "What is an arrangement in which veins run parallel called?"
+    },
+    "options": {
+      "hi": [
+        "पर्णफलक को तने से",
+        "समांतर शिराविन्यास",
+        "वाष्पोत्सर्जन",
+        "क्लोरोफिल"
+      ],
+      "en": [
+        "The lamina to the stem",
+        "Parallel venation",
+        "Transpiration",
+        "Chlorophyll"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q167",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गेहूँ की पत्ती में सामान्यतः कौन सा शिराविन्यास होता है?",
+      "en": "What type of venation is generally found in wheat leaves?"
+    },
+    "options": {
+      "hi": [
+        "समांतर",
+        "नहीं",
+        "भोजन बनाना",
+        "जलवाष्प"
+      ],
+      "en": [
+        "Parallel",
+        "No",
+        "Making food",
+        "Water vapour"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q168",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "तुलसी की पत्ती में सामान्यतः कौन सा शिराविन्यास होता है?",
+      "en": "What type of venation is generally found in tulsi leaves?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "शिराविन्यास देखकर",
+        "पौधे के लिए भोजन बनाना",
+        "जालिकावत"
+      ],
+      "en": [
+        "No",
+        "By observing venation",
+        "Making food for the plant",
+        "Reticulate"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q169",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्तियाँ पौधे के लिए भोजन बनाने में क्या भूमिका निभाती हैं?",
+      "en": "What role do leaves play in making food for a plant?"
+    },
+    "options": {
+      "hi": [
+        "समांतर शिराविन्यास",
+        "समांतर",
+        "वे भोजन बनाती हैं",
+        "जालिकावत शिराविन्यास"
+      ],
+      "en": [
+        "Parallel venation",
+        "Parallel",
+        "They make food",
+        "Reticulate venation"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q170",
+    "topic": "leaf",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पौधे में भोजन बनाने की प्रक्रिया क्या कहलाती है?",
+      "en": "What is the process of making food in a plant called?"
+    },
+    "options": {
+      "hi": [
+        "चौड़ा और चपटा भाग",
+        "प्रकाश संश्लेषण",
+        "क्लोरोफिल",
+        "पर्णफलक को तने से"
+      ],
+      "en": [
+        "The broad, flat part",
+        "Photosynthesis",
+        "Chlorophyll",
+        "The lamina to the stem"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q171",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रकाश संश्लेषण में सूर्य के प्रकाश की क्या भूमिका है?",
+      "en": "What role does sunlight play in photosynthesis?"
+    },
+    "options": {
+      "hi": [
+        "यह भोजन बनाने की प्रक्रिया के लिए आवश्यक है",
+        "रेशेदार जड़",
+        "नहीं",
+        "भोजन बनाना"
+      ],
+      "en": [
+        "It is needed for the food-making process",
+        "Fibrous root",
+        "No",
+        "Making food"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q172",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रकाश संश्लेषण में पत्तियाँ किस गैस का उपयोग करती हैं?",
+      "en": "Which gas do leaves use in photosynthesis?"
+    },
+    "options": {
+      "hi": [
+        "प्रकाश संश्लेषण",
+        "नहीं",
+        "शिराविन्यास देखकर",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "en": [
+        "Photosynthesis",
+        "No",
+        "By observing venation",
+        "Carbon dioxide"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q173",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रकाश संश्लेषण में जल की क्या भूमिका है?",
+      "en": "What role does water play in photosynthesis?"
+    },
+    "options": {
+      "hi": [
+        "जालिकावत शिराविन्यास",
+        "समांतर शिराविन्यास",
+        "भोजन बनाने में उपयोग होता है",
+        "शिराविन्यास"
+      ],
+      "en": [
+        "Reticulate venation",
+        "Parallel venation",
+        "It is used in making food",
+        "Venation"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q174",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्तियाँ जलवाष्प बाहर निकालने की प्रक्रिया को क्या कहते हैं?",
+      "en": "What is the process by which leaves give out water vapour called?"
+    },
+    "options": {
+      "hi": [
+        "भोजन बनाने में उपयोग होता है",
+        "वाष्पोत्सर्जन",
+        "यह भोजन बनाने की प्रक्रिया के लिए आवश्यक है",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "en": [
+        "It is used in making food",
+        "Transpiration",
+        "It is needed for the food-making process",
+        "Carbon dioxide"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q175",
+    "topic": "leaf",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पत्ती का हरा रंग किससे संबंधित है?",
+      "en": "What is the green colour of a leaf associated with?"
+    },
+    "options": {
+      "hi": [
+        "क्लोरोफिल",
+        "मूसला जड़",
+        "रेशेदार जड़",
+        "नहीं"
+      ],
+      "en": [
+        "Chlorophyll",
+        "Tap root",
+        "Fibrous root",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q176",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्ती का पर्णवृंत किसे जोड़ता है?",
+      "en": "What does the petiole connect?"
+    },
+    "options": {
+      "hi": [
+        "पत्ती की शिराविन्यास व्यवस्था",
+        "प्रकाश संश्लेषण",
+        "नहीं",
+        "पर्णफलक को तने से"
+      ],
+      "en": [
+        "The leaf's venation pattern",
+        "Photosynthesis",
+        "No",
+        "The lamina to the stem"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q177",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पर्णफलक पत्ती का कौन सा भाग है?",
+      "en": "Which part of the leaf is the lamina?"
+    },
+    "options": {
+      "hi": [
+        "शिराविन्यास",
+        "जालिकावत शिराविन्यास",
+        "चौड़ा और चपटा भाग",
+        "शिराएँ"
+      ],
+      "en": [
+        "Venation",
+        "Reticulate venation",
+        "The broad, flat part",
+        "Veins"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q178",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पत्ती में शिराएँ किस काम आती हैं?",
+      "en": "What do veins in a leaf help with?"
+    },
+    "options": {
+      "hi": [
+        "कार्बन डाइऑक्साइड",
+        "पत्ती में पदार्थों के परिवहन और सहारे में",
+        "प्रकाश संश्लेषण",
+        "यह भोजन बनाने की प्रक्रिया के लिए आवश्यक है"
+      ],
+      "en": [
+        "Carbon dioxide",
+        "Transport and support within the leaf",
+        "Photosynthesis",
+        "It is needed for the food-making process"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q179",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जालिकावत शिराविन्यास वाली पत्तियों से किस प्रकार की जड़ का संबंध हो सकता है?",
+      "en": "What type of root can be associated with reticulate venation?"
+    },
+    "options": {
+      "hi": [
+        "मूसला जड़",
+        "चौड़ा और चपटा भाग",
+        "पत्ती में पदार्थों के परिवहन और सहारे में",
+        "रेशेदार जड़"
+      ],
+      "en": [
+        "Tap root",
+        "The broad, flat part",
+        "Transport and support within the leaf",
+        "Fibrous root"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q180",
+    "topic": "leaf",
+    "difficulty": "hard",
+    "question": {
+      "hi": "समांतर शिराविन्यास वाली पत्तियों से किस प्रकार की जड़ का संबंध हो सकता है?",
+      "en": "What type of root can be associated with parallel venation?"
+    },
+    "options": {
+      "hi": [
+        "शिराएँ जाल जैसा पैटर्न बनाती हैं",
+        "पत्ती की शिराविन्यास व्यवस्था",
+        "प्रकाश संश्लेषण",
+        "रेशेदार जड़"
+      ],
+      "en": [
+        "The veins form a net-like pattern",
+        "The leaf's venation pattern",
+        "Photosynthesis",
+        "Fibrous root"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q181",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या पत्ती में केवल एक ही शिरा होती है?",
+      "en": "Does a leaf have only one vein?"
+    },
+    "options": {
+      "hi": [
+        "जालिकावत",
+        "वे भोजन बनाती हैं",
+        "नहीं",
+        "समांतर"
+      ],
+      "en": [
+        "Reticulate",
+        "They make food",
+        "No",
+        "Parallel"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q182",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पत्तियाँ पौधे के किस प्रमुख कार्य से जुड़ी हैं?",
+      "en": "Which major plant function are leaves associated with?"
+    },
+    "options": {
+      "hi": [
+        "यह भोजन बनाने की प्रक्रिया के लिए आवश्यक है",
+        "भोजन बनाना",
+        "वे भोजन बनाती हैं",
+        "प्रकाश संश्लेषण"
+      ],
+      "en": [
+        "It is needed for the food-making process",
+        "Making food",
+        "They make food",
+        "Photosynthesis"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q183",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वाष्पोत्सर्जन में पत्तियों से क्या निकलता है?",
+      "en": "What is released from leaves during transpiration?"
+    },
+    "options": {
+      "hi": [
+        "जलवाष्प",
+        "पर्णफलक को तने से",
+        "चौड़ा और चपटा भाग",
+        "पत्ती में पदार्थों के परिवहन और सहारे में"
+      ],
+      "en": [
+        "Water vapour",
+        "The lamina to the stem",
+        "The broad, flat part",
+        "Transport and support within the leaf"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q184",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "समांतर शिराविन्यास का नाम किस आधार पर है?",
+      "en": "Why is parallel venation given this name?"
+    },
+    "options": {
+      "hi": [
+        "जलवाष्प",
+        "शिराएँ जाल जैसा पैटर्न बनाती हैं",
+        "पत्ती की शिराविन्यास व्यवस्था",
+        "शिराएँ लगभग समानांतर चलती हैं"
+      ],
+      "en": [
+        "Water vapour",
+        "The veins form a net-like pattern",
+        "The leaf's venation pattern",
+        "The veins run roughly parallel"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q185",
+    "topic": "leaf",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जालिकावत शिराविन्यास का नाम किस आधार पर है?",
+      "en": "Why is reticulate venation given this name?"
+    },
+    "options": {
+      "hi": [
+        "पर्णवृंत",
+        "शिराएँ",
+        "शिराएँ जाल जैसा पैटर्न बनाती हैं",
+        "पर्णफलक"
+      ],
+      "en": [
+        "Petiole",
+        "Veins",
+        "The veins form a net-like pattern",
+        "Lamina"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q186",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्ती की सतह पर शिराएँ किस संरचना का भाग हैं?",
+      "en": "Veins on the leaf surface are part of what?"
+    },
+    "options": {
+      "hi": [
+        "प्रकाश संश्लेषण",
+        "पत्ती की शिराविन्यास व्यवस्था",
+        "जालिकावत",
+        "वे भोजन बनाती हैं"
+      ],
+      "en": [
+        "Photosynthesis",
+        "The leaf's venation pattern",
+        "Reticulate",
+        "They make food"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q187",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पत्तियाँ पौधे की किस प्रक्रिया के लिए मुख्य स्थान हैं?",
+      "en": "Leaves are the main site for which process?"
+    },
+    "options": {
+      "hi": [
+        "प्रकाश संश्लेषण",
+        "भोजन बनाना",
+        "जलवाष्प",
+        "शिराएँ लगभग समानांतर चलती हैं"
+      ],
+      "en": [
+        "Photosynthesis",
+        "Making food",
+        "Water vapour",
+        "The veins run roughly parallel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q188",
+    "topic": "leaf",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या सभी पत्तियों का शिराविन्यास एक जैसा होता है?",
+      "en": "Do all leaves have the same venation?"
+    },
+    "options": {
+      "hi": [
+        "पौधे के लिए भोजन बनाना",
+        "पर्णफलक",
+        "पर्णवृंत",
+        "नहीं"
+      ],
+      "en": [
+        "Making food for the plant",
+        "Lamina",
+        "Petiole",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q189",
+    "topic": "leaf",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पत्ती को देखकर जड़ के प्रकार का अनुमान कैसे लगाया जा सकता है?",
+      "en": "How can leaf observation help suggest the root type?"
+    },
+    "options": {
+      "hi": [
+        "पर्णफलक",
+        "पर्णवृंत",
+        "शिराविन्यास देखकर",
+        "पौधे के लिए भोजन बनाना"
+      ],
+      "en": [
+        "Lamina",
+        "Petiole",
+        "By observing venation",
+        "Making food for the plant"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q190",
+    "topic": "leaf",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पत्ती का एक प्रमुख कार्य क्या है?",
+      "en": "What is one major function of a leaf?"
+    },
+    "options": {
+      "hi": [
+        "वे भोजन बनाती हैं",
+        "पौधे के लिए भोजन बनाना",
+        "समांतर",
+        "जालिकावत"
+      ],
+      "en": [
+        "They make food",
+        "Making food for the plant",
+        "Parallel",
+        "Reticulate"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर पत्ती की संरचना, शिराविन्यास या भोजन बनाने जैसे उसके कार्य से संबंधित है।",
+      "en": "This answer relates to leaf structure, venation or its role in making food."
+    }
+  },
+  {
+    "id": "ch6_q191",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ पौधे के किस भाग में सामान्यतः होती है?",
+      "en": "Where are roots generally found?"
+    },
+    "options": {
+      "hi": [
+        "एक मुख्य जड़ और उससे निकलती छोटी जड़ें",
+        "मिट्टी के अंदर",
+        "उसे मिट्टी में मजबूती से पकड़कर",
+        "जड़ जल अवशोषित करती है और तना उसे आगे पहुँचाता है"
+      ],
+      "en": [
+        "One main root with smaller roots",
+        "Inside the soil",
+        "By anchoring it firmly in soil",
+        "Roots absorb water and the stem carries it onward"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q192",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जड़ का एक प्रमुख कार्य क्या है?",
+      "en": "What is one major function of roots?"
+    },
+    "options": {
+      "hi": [
+        "पौधे को मिट्टी में मजबूती से पकड़ना",
+        "रेशेदार जड़",
+        "जड़ तंत्र",
+        "तने के माध्यम से पत्तियों तक"
+      ],
+      "en": [
+        "Anchoring the plant firmly in soil",
+        "Fibrous root",
+        "Root system",
+        "Through the stem to the leaves"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q193",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जड़ मिट्टी से क्या अवशोषित करती है?",
+      "en": "What do roots absorb from the soil?"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "जल और खनिज लेने की क्षमता तथा सहारा",
+        "नहीं",
+        "जल और खनिज"
+      ],
+      "en": [
+        "Water",
+        "The ability to obtain water and minerals and its support",
+        "No",
+        "Water and minerals"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q194",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मूसला जड़ की मुख्य विशेषता क्या है?",
+      "en": "What is the main feature of a tap root?"
+    },
+    "options": {
+      "hi": [
+        "जल और खनिज",
+        "छोटी पार्श्व जड़ें",
+        "एक मुख्य जड़ होती है",
+        "पौधे को मिट्टी में मजबूती से पकड़ना"
+      ],
+      "en": [
+        "Water and minerals",
+        "Smaller lateral roots",
+        "It has one main root",
+        "Anchoring the plant firmly in soil"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q195",
+    "topic": "root",
+    "difficulty": "hard",
+    "question": {
+      "hi": "मूसला जड़ से कौन सी जड़ें निकलती हैं?",
+      "en": "What roots arise from a tap root?"
+    },
+    "options": {
+      "hi": [
+        "जड़ जल अवशोषित करती है और तना उसे आगे पहुँचाता है",
+        "छोटी पार्श्व जड़ें",
+        "रेशेदार जड़",
+        "उसे मिट्टी में मजबूती से पकड़कर"
+      ],
+      "en": [
+        "Roots absorb water and the stem carries it onward",
+        "Smaller lateral roots",
+        "Fibrous roots",
+        "By anchoring it firmly in soil"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q196",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "रेशेदार जड़ कैसी होती है?",
+      "en": "What is a fibrous root system like?"
+    },
+    "options": {
+      "hi": [
+        "कई पतली लगभग समान आकार की जड़ें",
+        "मूसला जड़",
+        "रेशेदार जड़",
+        "जड़ तंत्र"
+      ],
+      "en": [
+        "Many thin roots of nearly similar size",
+        "Tap root",
+        "Fibrous root",
+        "Root system"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q197",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गेहूँ में सामान्यतः कौन सी जड़ होती है?",
+      "en": "What type of roots does wheat generally have?"
+    },
+    "options": {
+      "hi": [
+        "जड़ तंत्र",
+        "वे जल और खनिज उपलब्ध कराती हैं और पौधे को स्थिर रखती हैं",
+        "मिट्टी से जल और खनिज लेना",
+        "रेशेदार जड़"
+      ],
+      "en": [
+        "Root system",
+        "They provide water and minerals and anchor the plant",
+        "Taking water and minerals from the soil",
+        "Fibrous roots"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q198",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "चना में सामान्यतः कौन सी जड़ होती है?",
+      "en": "What type of root does gram generally have?"
+    },
+    "options": {
+      "hi": [
+        "कई पतली लगभग समान आकार की जड़ें",
+        "रेशेदार जड़",
+        "मूसला जड़",
+        "छोटी पार्श्व जड़ें"
+      ],
+      "en": [
+        "Many thin roots of nearly similar size",
+        "Fibrous roots",
+        "Tap root",
+        "Smaller lateral roots"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q199",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "सरसों में सामान्यतः कौन सी जड़ होती है?",
+      "en": "What type of root does mustard generally have?"
+    },
+    "options": {
+      "hi": [
+        "पौधे को मिट्टी में पकड़ने और जल-खनिज लेने के लिए",
+        "मूसला जड़",
+        "तने के आधार के पास",
+        "नहीं"
+      ],
+      "en": [
+        "To anchor the plant and obtain water and minerals",
+        "Tap root",
+        "Near the base of the stem",
+        "No"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q200",
+    "topic": "root",
+    "difficulty": "hard",
+    "question": {
+      "hi": "घास में सामान्यतः कौन सी जड़ होती है?",
+      "en": "What type of roots does grass generally have?"
+    },
+    "options": {
+      "hi": [
+        "रेशेदार जड़",
+        "अधिक प्रमुख और मोटी",
+        "लगभग समान आकार की",
+        "नहीं"
+      ],
+      "en": [
+        "Fibrous roots",
+        "More prominent and thicker",
+        "Nearly similar in size",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q201",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ पौधे को गिरने से कैसे बचाती है?",
+      "en": "How do roots help prevent a plant from falling?"
+    },
+    "options": {
+      "hi": [
+        "लगभग समान आकार की",
+        "नहीं",
+        "जल",
+        "उसे मिट्टी में मजबूती से पकड़कर"
+      ],
+      "en": [
+        "Nearly similar in size",
+        "No",
+        "Water",
+        "By anchoring it firmly in soil"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q202",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जड़ और तने में जल के संबंध में क्या अंतर है?",
+      "en": "What is the difference between root and stem regarding water?"
+    },
+    "options": {
+      "hi": [
+        "मिट्टी के अंदर",
+        "पौधे को मिट्टी में मजबूती से पकड़ना",
+        "जड़ जल अवशोषित करती है और तना उसे आगे पहुँचाता है",
+        "मिट्टी से जल और खनिज लेना"
+      ],
+      "en": [
+        "Inside the soil",
+        "Anchoring the plant firmly in soil",
+        "Roots absorb water and the stem carries it onward",
+        "Taking water and minerals from the soil"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q203",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मूसला जड़ को देखकर क्या पहचाना जा सकता है?",
+      "en": "What can be identified from a tap root?"
+    },
+    "options": {
+      "hi": [
+        "उसे मिट्टी में मजबूती से पकड़कर",
+        "एक मुख्य जड़ और उससे निकलती छोटी जड़ें",
+        "रेशेदार जड़",
+        "मूसला जड़"
+      ],
+      "en": [
+        "By anchoring it firmly in soil",
+        "One main root with smaller roots",
+        "Fibrous roots",
+        "Tap root"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q204",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "रेशेदार जड़ का आधार कहाँ से निकलता है?",
+      "en": "From where does a fibrous root system arise?"
+    },
+    "options": {
+      "hi": [
+        "तने के आधार के पास",
+        "नहीं",
+        "पौधे को मिट्टी में पकड़ने और जल-खनिज लेने के लिए",
+        "मूसला जड़"
+      ],
+      "en": [
+        "Near the base of the stem",
+        "No",
+        "To anchor the plant and obtain water and minerals",
+        "Tap root"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q205",
+    "topic": "root",
+    "difficulty": "hard",
+    "question": {
+      "hi": "क्या सभी पौधों में जड़ का प्रकार एक जैसा होता है?",
+      "en": "Do all plants have the same type of root?"
+    },
+    "options": {
+      "hi": [
+        "मिट्टी से जल और खनिज लेना",
+        "मिट्टी के अंदर",
+        "पौधे को मिट्टी में मजबूती से पकड़ना",
+        "नहीं"
+      ],
+      "en": [
+        "Taking water and minerals from the soil",
+        "Inside the soil",
+        "Anchoring the plant firmly in soil",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q206",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ का मुख्य स्थान मिट्टी के नीचे क्यों उपयोगी है?",
+      "en": "Why is the underground location of roots useful?"
+    },
+    "options": {
+      "hi": [
+        "मिट्टी से जल और खनिज लेना",
+        "मिट्टी के अंदर",
+        "पौधे को मिट्टी में पकड़ने और जल-खनिज लेने के लिए",
+        "वे जल और खनिज उपलब्ध कराती हैं और पौधे को स्थिर रखती हैं"
+      ],
+      "en": [
+        "Taking water and minerals from the soil",
+        "Inside the soil",
+        "To anchor the plant and obtain water and minerals",
+        "They provide water and minerals and anchor the plant"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q207",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जालिकावत शिराविन्यास वाली पत्ती किस जड़ का संकेत दे सकती है?",
+      "en": "Which root type can reticulate venation indicate?"
+    },
+    "options": {
+      "hi": [
+        "जड़ तंत्र",
+        "मूसला जड़",
+        "पौधे को मिट्टी में पकड़ने और जल-खनिज लेने के लिए",
+        "रेशेदार जड़"
+      ],
+      "en": [
+        "Root system",
+        "Tap root",
+        "To anchor the plant and obtain water and minerals",
+        "Fibrous root"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q208",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "समांतर शिराविन्यास वाली पत्ती किस जड़ का संकेत दे सकती है?",
+      "en": "Which root type can parallel venation indicate?"
+    },
+    "options": {
+      "hi": [
+        "रेशेदार जड़",
+        "नहीं",
+        "जल",
+        "जल और खनिज लेने की क्षमता तथा सहारा"
+      ],
+      "en": [
+        "Fibrous root",
+        "No",
+        "Water",
+        "The ability to obtain water and minerals and its support"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q209",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ पौधे के किस तंत्र का भाग है?",
+      "en": "Which system do roots belong to?"
+    },
+    "options": {
+      "hi": [
+        "जल",
+        "जल और खनिज लेने की क्षमता तथा सहारा",
+        "नहीं",
+        "जड़ तंत्र"
+      ],
+      "en": [
+        "Water",
+        "The ability to obtain water and minerals and its support",
+        "No",
+        "Root system"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q210",
+    "topic": "root",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जड़ द्वारा अवशोषित जल आगे कहाँ जा सकता है?",
+      "en": "Where can water absorbed by roots go next?"
+    },
+    "options": {
+      "hi": [
+        "वे जल और खनिज उपलब्ध कराती हैं और पौधे को स्थिर रखती हैं",
+        "मिट्टी से जल और खनिज लेना",
+        "तने के माध्यम से पत्तियों तक",
+        "जड़ तंत्र"
+      ],
+      "en": [
+        "They provide water and minerals and anchor the plant",
+        "Taking water and minerals from the soil",
+        "Through the stem to the leaves",
+        "Root system"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q211",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ का पौधे के लिए सहारा देने वाला कार्य किससे संबंधित है?",
+      "en": "What is the supporting function of roots related to?"
+    },
+    "options": {
+      "hi": [
+        "रेशेदार जड़",
+        "पौधे को मिट्टी में स्थिर रखना",
+        "छोटी पार्श्व जड़ें",
+        "कई पतली लगभग समान आकार की जड़ें"
+      ],
+      "en": [
+        "Fibrous roots",
+        "Keeping the plant fixed in soil",
+        "Smaller lateral roots",
+        "Many thin roots of nearly similar size"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q212",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मूसला जड़ में मुख्य जड़ कैसी होती है?",
+      "en": "What is the main root like in a tap root system?"
+    },
+    "options": {
+      "hi": [
+        "अधिक प्रमुख और मोटी",
+        "जड़ जल अवशोषित करती है और तना उसे आगे पहुँचाता है",
+        "एक मुख्य जड़ और उससे निकलती छोटी जड़ें",
+        "तने के आधार के पास"
+      ],
+      "en": [
+        "More prominent and thicker",
+        "Roots absorb water and the stem carries it onward",
+        "One main root with smaller roots",
+        "Near the base of the stem"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q213",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "रेशेदार जड़ों में जड़ें एक-दूसरे की तुलना में कैसी हो सकती हैं?",
+      "en": "How can roots in a fibrous system compare with one another?"
+    },
+    "options": {
+      "hi": [
+        "जड़ तंत्र",
+        "तने के माध्यम से पत्तियों तक",
+        "पौधे को मिट्टी में स्थिर रखना",
+        "लगभग समान आकार की"
+      ],
+      "en": [
+        "Root system",
+        "Through the stem to the leaves",
+        "Keeping the plant fixed in soil",
+        "Nearly similar in size"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q214",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ें पौधे के लिए केवल सहारा देती हैं?",
+      "en": "Do roots only provide support?"
+    },
+    "options": {
+      "hi": [
+        "रेशेदार जड़",
+        "उसे मिट्टी में मजबूती से पकड़कर",
+        "नहीं",
+        "मूसला जड़"
+      ],
+      "en": [
+        "Fibrous roots",
+        "By anchoring it firmly in soil",
+        "No",
+        "Tap root"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q215",
+    "topic": "root",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जड़ें किस पदार्थ के साथ-साथ खनिज भी लेती हैं?",
+      "en": "Along with minerals, what do roots take up?"
+    },
+    "options": {
+      "hi": [
+        "कई पतली लगभग समान आकार की जड़ें",
+        "जल",
+        "एक मुख्य जड़ होती है",
+        "छोटी पार्श्व जड़ें"
+      ],
+      "en": [
+        "Many thin roots of nearly similar size",
+        "Water",
+        "It has one main root",
+        "Smaller lateral roots"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q216",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पौधे की जड़ को मिट्टी से निकालने पर पौधा किस कार्य से वंचित हो सकता है?",
+      "en": "What can a plant lose when its roots are removed from soil?"
+    },
+    "options": {
+      "hi": [
+        "जल और खनिज लेने की क्षमता तथा सहारा",
+        "उसे मिट्टी में मजबूती से पकड़कर",
+        "जड़ जल अवशोषित करती है और तना उसे आगे पहुँचाता है",
+        "एक मुख्य जड़ और उससे निकलती छोटी जड़ें"
+      ],
+      "en": [
+        "The ability to obtain water and minerals and its support",
+        "By anchoring it firmly in soil",
+        "Roots absorb water and the stem carries it onward",
+        "One main root with smaller roots"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q217",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या जड़ें सामान्यतः प्रकाश संश्लेषण का मुख्य स्थान हैं?",
+      "en": "Are roots generally the main site of photosynthesis?"
+    },
+    "options": {
+      "hi": [
+        "जल और खनिज",
+        "एक मुख्य जड़ होती है",
+        "छोटी पार्श्व जड़ें",
+        "नहीं"
+      ],
+      "en": [
+        "Water and minerals",
+        "It has one main root",
+        "Smaller lateral roots",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q218",
+    "topic": "root",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जड़ तंत्र और प्ररोह तंत्र में कौन सा भाग जमीन के नीचे सामान्यतः होता है?",
+      "en": "Which system is generally below the ground?"
+    },
+    "options": {
+      "hi": [
+        "एक मुख्य जड़ होती है",
+        "छोटी पार्श्व जड़ें",
+        "जड़ तंत्र",
+        "जल और खनिज"
+      ],
+      "en": [
+        "It has one main root",
+        "Smaller lateral roots",
+        "Root system",
+        "Water and minerals"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q219",
+    "topic": "root",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जड़ का पौधे की वृद्धि में महत्व क्यों है?",
+      "en": "Why are roots important for plant growth?"
+    },
+    "options": {
+      "hi": [
+        "छोटी पार्श्व जड़ें",
+        "वे जल और खनिज उपलब्ध कराती हैं और पौधे को स्थिर रखती हैं",
+        "जल और खनिज",
+        "एक मुख्य जड़ होती है"
+      ],
+      "en": [
+        "Smaller lateral roots",
+        "They provide water and minerals and anchor the plant",
+        "Water and minerals",
+        "It has one main root"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q220",
+    "topic": "root",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जड़ का एक प्रमुख अवशोषण कार्य क्या है?",
+      "en": "What is one major absorption function of roots?"
+    },
+    "options": {
+      "hi": [
+        "मिट्टी से जल और खनिज लेना",
+        "रेशेदार जड़",
+        "उसे मिट्टी में मजबूती से पकड़कर",
+        "जड़ जल अवशोषित करती है और तना उसे आगे पहुँचाता है"
+      ],
+      "en": [
+        "Taking water and minerals from the soil",
+        "Fibrous roots",
+        "By anchoring it firmly in soil",
+        "Roots absorb water and the stem carries it onward"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर जड़ के पौधे को स्थिर रखने तथा मिट्टी से जल और खनिज लेने के कार्य से संबंधित है।",
+      "en": "This answer relates to the root's role in anchoring the plant and taking up water and minerals from soil."
+    }
+  },
+  {
+    "id": "ch6_q221",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फूल पौधे का कौन सा भाग है?",
+      "en": "What is a flower?"
+    },
+    "options": {
+      "hi": [
+        "पौधे का एक प्रजनन संबंधी भाग",
+        "परागण करने वाले जीवों को आकर्षित करना",
+        "फूल की कली की रक्षा करना",
+        "नहीं"
+      ],
+      "en": [
+        "A reproductive part of a plant",
+        "Attracting pollinating organisms",
+        "Protecting the flower bud",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q222",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "फूल के मुख्य भागों में क्या शामिल हैं?",
+      "en": "What are included among the main parts of a flower?"
+    },
+    "options": {
+      "hi": [
+        "परागकणों से",
+        "स्त्रीकेसर के ऊपरी भाग पर",
+        "वर्तिकाग्र और अंडाशय के बीच",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर"
+      ],
+      "en": [
+        "Pollen grains",
+        "At the top of the pistil",
+        "Between the stigma and ovary",
+        "Sepals, petals, stamens and pistil"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q223",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "फूल की बाहरी हरी पत्तीनुमा संरचनाएँ क्या कहलाती हैं?",
+      "en": "What are the outer green leaf-like structures of a flower called?"
+    },
+    "options": {
+      "hi": [
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर",
+        "पौधे का एक प्रजनन संबंधी भाग",
+        "दल",
+        "नहीं"
+      ],
+      "en": [
+        "Sepals, petals, stamen and pistil",
+        "A reproductive part of a plant",
+        "Sepals",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q224",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फूल की रंगीन संरचनाएँ क्या कहलाती हैं?",
+      "en": "What are the colourful structures of a flower called?"
+    },
+    "options": {
+      "hi": [
+        "तंतु",
+        "पंखुड़ियाँ",
+        "फूल का मादा प्रजनन भाग",
+        "परागकोश"
+      ],
+      "en": [
+        "Filament",
+        "Petals",
+        "The female reproductive part of a flower",
+        "Anther"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q225",
+    "topic": "flower",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पुंकेसर फूल का कौन सा भाग है?",
+      "en": "What is the stamen?"
+    },
+    "options": {
+      "hi": [
+        "फूल का नर प्रजनन भाग",
+        "परागकोश में",
+        "परागण करने वाले जीवों को आकर्षित करना",
+        "फूल की कली की रक्षा करना"
+      ],
+      "en": [
+        "The male reproductive part of a flower",
+        "In the anther",
+        "Attracting pollinating organisms",
+        "Protecting the flower bud"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q226",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "स्त्रीकेसर फूल का कौन सा भाग है?",
+      "en": "What is the pistil?"
+    },
+    "options": {
+      "hi": [
+        "स्त्रीकेसर",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "परागकणों से",
+        "फूल का मादा प्रजनन भाग"
+      ],
+      "en": [
+        "Pistil",
+        "Sepals, petals, stamens and pistil",
+        "Pollen grains",
+        "The female reproductive part of a flower"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q227",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पुंकेसर के ऊपरी भाग को क्या कहते हैं?",
+      "en": "What is the upper part of a stamen called?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर",
+        "परागकोश",
+        "बीजांड"
+      ],
+      "en": [
+        "No",
+        "Sepals, petals, stamen and pistil",
+        "Anther",
+        "Ovules"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q228",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पुंकेसर का डंठल जैसा भाग क्या कहलाता है?",
+      "en": "What is the stalk-like part of a stamen called?"
+    },
+    "options": {
+      "hi": [
+        "फूल का मादा प्रजनन भाग",
+        "तंतु",
+        "पंखुड़ियाँ",
+        "फूल का नर प्रजनन भाग"
+      ],
+      "en": [
+        "The female reproductive part of a flower",
+        "Filament",
+        "Petals",
+        "The male reproductive part of a flower"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q229",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "स्त्रीकेसर का सबसे ऊपरी भाग क्या कहलाता है?",
+      "en": "What is the top part of the pistil called?"
+    },
+    "options": {
+      "hi": [
+        "वर्तिकाग्र",
+        "स्त्रीकेसर के निचले भाग में",
+        "परागकोश में",
+        "परागण करने वाले जीवों को आकर्षित करना"
+      ],
+      "en": [
+        "Stigma",
+        "At the lower part of the pistil",
+        "In the anther",
+        "Attracting pollinating organisms"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q230",
+    "topic": "flower",
+    "difficulty": "hard",
+    "question": {
+      "hi": "स्त्रीकेसर का मध्य भाग क्या कहलाता है?",
+      "en": "What is the middle part of the pistil called?"
+    },
+    "options": {
+      "hi": [
+        "पुंकेसर",
+        "स्त्रीकेसर",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "वर्तिका"
+      ],
+      "en": [
+        "Stamen",
+        "Pistil",
+        "Sepals, petals, stamens and pistil",
+        "Style"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q231",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "स्त्रीकेसर का निचला फूला हुआ भाग क्या कहलाता है?",
+      "en": "What is the swollen lower part of the pistil called?"
+    },
+    "options": {
+      "hi": [
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर",
+        "पौधे का एक प्रजनन संबंधी भाग",
+        "अंडाशय",
+        "नहीं"
+      ],
+      "en": [
+        "Sepals, petals, stamen and pistil",
+        "A reproductive part of a plant",
+        "Ovary",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q232",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अंडाशय कहाँ पाया जाता है?",
+      "en": "Where is the ovary found?"
+    },
+    "options": {
+      "hi": [
+        "फूल का नर प्रजनन भाग",
+        "स्त्रीकेसर के निचले भाग में",
+        "दल",
+        "पंखुड़ियाँ"
+      ],
+      "en": [
+        "The male reproductive part of a flower",
+        "At the lower part of the pistil",
+        "Sepals",
+        "Petals"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q233",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परागकण कहाँ पाए जाते हैं?",
+      "en": "Where are pollen grains found?"
+    },
+    "options": {
+      "hi": [
+        "परागकोश में",
+        "वर्तिका",
+        "अंडाशय",
+        "स्त्रीकेसर के निचले भाग में"
+      ],
+      "en": [
+        "In the anther",
+        "Style",
+        "Ovary",
+        "At the lower part of the pistil"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q234",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पंखुड़ियों का एक प्रमुख कार्य क्या हो सकता है?",
+      "en": "What can be one function of petals?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "पुंकेसर",
+        "स्त्रीकेसर",
+        "परागण करने वाले जीवों को आकर्षित करना"
+      ],
+      "en": [
+        "No",
+        "Stamen",
+        "Pistil",
+        "Attracting pollinating organisms"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q235",
+    "topic": "flower",
+    "difficulty": "hard",
+    "question": {
+      "hi": "दल का एक प्रमुख कार्य क्या है?",
+      "en": "What is one main function of sepals?"
+    },
+    "options": {
+      "hi": [
+        "अंडाशय",
+        "नहीं",
+        "फूल की कली की रक्षा करना",
+        "बीजांड"
+      ],
+      "en": [
+        "Ovary",
+        "No",
+        "Protecting the flower bud",
+        "Ovules"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q236",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फूल में दल और पंखुड़ियों की संख्या हमेशा समान होती है?",
+      "en": "Are the numbers of sepals and petals always equal?"
+    },
+    "options": {
+      "hi": [
+        "स्त्रीकेसर के ऊपरी भाग पर",
+        "नहीं",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "परागकणों से"
+      ],
+      "en": [
+        "At the top of the pistil",
+        "No",
+        "Sepals, petals, stamens and pistil",
+        "Pollen grains"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q237",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि दल जुड़े हों तो पंखुड़ियाँ भी हमेशा जुड़ी होती हैं?",
+      "en": "If sepals are joined, are petals always joined too?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर",
+        "पौधे का एक प्रजनन संबंधी भाग",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर"
+      ],
+      "en": [
+        "No",
+        "Sepals, petals, stamen and pistil",
+        "A reproductive part of a plant",
+        "Sepals, petals, stamens and pistil"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q238",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि पंखुड़ियाँ जुड़ी हों तो स्त्रीकेसर पंखुड़ी से जुड़ा होना आवश्यक है?",
+      "en": "If petals are joined, must the pistil be joined to a petal?"
+    },
+    "options": {
+      "hi": [
+        "परागकोश",
+        "तंतु",
+        "वर्तिकाग्र",
+        "नहीं"
+      ],
+      "en": [
+        "Anther",
+        "Filament",
+        "Stigma",
+        "No"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q239",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फूल के नर भाग का नाम क्या है?",
+      "en": "What is the male part of a flower called?"
+    },
+    "options": {
+      "hi": [
+        "बीजांड",
+        "अंडाशय",
+        "पुंकेसर",
+        "वर्तिकाग्र और अंडाशय के बीच"
+      ],
+      "en": [
+        "Ovules",
+        "Ovary",
+        "Stamen",
+        "Between the stigma and ovary"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q240",
+    "topic": "flower",
+    "difficulty": "hard",
+    "question": {
+      "hi": "फूल के मादा भाग का नाम क्या है?",
+      "en": "What is the female part of a flower called?"
+    },
+    "options": {
+      "hi": [
+        "दल",
+        "स्त्रीकेसर",
+        "पौधे का एक प्रजनन संबंधी भाग",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर"
+      ],
+      "en": [
+        "Sepals",
+        "Pistil",
+        "A reproductive part of a plant",
+        "Sepals, petals, stamens and pistil"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q241",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फूल के चार प्रमुख भाग कौन से हैं?",
+      "en": "What are the four main parts of a flower?"
+    },
+    "options": {
+      "hi": [
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "परागण करने वाले जीवों को आकर्षित करना",
+        "फूल की कली की रक्षा करना",
+        "नहीं"
+      ],
+      "en": [
+        "Sepals, petals, stamens and pistil",
+        "Attracting pollinating organisms",
+        "Protecting the flower bud",
+        "No"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q242",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पुंकेसर का परागकोश किससे संबंधित है?",
+      "en": "What is the anther of a stamen associated with?"
+    },
+    "options": {
+      "hi": [
+        "फूल की कली की रक्षा करना",
+        "नहीं",
+        "पुंकेसर",
+        "परागकणों से"
+      ],
+      "en": [
+        "Protecting the flower bud",
+        "No",
+        "Stamen",
+        "Pollen grains"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q243",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "स्त्रीकेसर के वर्तिकाग्र का स्थान कहाँ है?",
+      "en": "Where is the stigma located?"
+    },
+    "options": {
+      "hi": [
+        "वर्तिकाग्र और अंडाशय के बीच",
+        "बीजांड",
+        "स्त्रीकेसर के ऊपरी भाग पर",
+        "परागकणों से"
+      ],
+      "en": [
+        "Between the stigma and ovary",
+        "Ovules",
+        "At the top of the pistil",
+        "Pollen grains"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q244",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "वर्तिका किन दो भागों के बीच होती है?",
+      "en": "Between which two parts is the style located?"
+    },
+    "options": {
+      "hi": [
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "वर्तिकाग्र और अंडाशय के बीच",
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर",
+        "पौधे का एक प्रजनन संबंधी भाग"
+      ],
+      "en": [
+        "Sepals, petals, stamens and pistil",
+        "Between the stigma and ovary",
+        "Sepals, petals, stamen and pistil",
+        "A reproductive part of a plant"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q245",
+    "topic": "flower",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अंडाशय के अंदर क्या पाया जा सकता है?",
+      "en": "What can be found inside the ovary?"
+    },
+    "options": {
+      "hi": [
+        "बीजांड",
+        "परागकोश में",
+        "परागण करने वाले जीवों को आकर्षित करना",
+        "फूल की कली की रक्षा करना"
+      ],
+      "en": [
+        "Ovules",
+        "In the anther",
+        "Attracting pollinating organisms",
+        "Protecting the flower bud"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q246",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "फूल के किस भाग से फल बनने का संबंध है?",
+      "en": "Which flower part is related to fruit formation?"
+    },
+    "options": {
+      "hi": [
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "परागकणों से",
+        "स्त्रीकेसर के ऊपरी भाग पर",
+        "अंडाशय"
+      ],
+      "en": [
+        "Sepals, petals, stamens and pistil",
+        "Pollen grains",
+        "At the top of the pistil",
+        "Ovary"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q247",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "फूल के किस भाग से बीज बनने का संबंध है?",
+      "en": "Which flower structure contains the structures related to seed formation?"
+    },
+    "options": {
+      "hi": [
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर",
+        "पौधे का एक प्रजनन संबंधी भाग",
+        "बीजांड",
+        "नहीं"
+      ],
+      "en": [
+        "Sepals, petals, stamen and pistil",
+        "A reproductive part of a plant",
+        "Ovules",
+        "No"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q248",
+    "topic": "flower",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्या सभी फूलों में पंखुड़ियाँ एक ही रंग की होती हैं?",
+      "en": "Do all flowers have petals of the same colour?"
+    },
+    "options": {
+      "hi": [
+        "पंखुड़ियाँ",
+        "नहीं",
+        "दल, पंखुड़ियाँ, पुंकेसर और स्त्रीकेसर",
+        "दल"
+      ],
+      "en": [
+        "Petals",
+        "No",
+        "Sepals, petals, stamens and pistil",
+        "Sepals"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q249",
+    "topic": "flower",
+    "difficulty": "easy",
+    "question": {
+      "hi": "क्या सभी पौधों के फूल एक जैसे होते हैं?",
+      "en": "Are flowers of all plants alike?"
+    },
+    "options": {
+      "hi": [
+        "नहीं",
+        "वर्तिकाग्र",
+        "वर्तिका",
+        "अंडाशय"
+      ],
+      "en": [
+        "No",
+        "Stigma",
+        "Style",
+        "Ovary"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  },
+  {
+    "id": "ch6_q250",
+    "topic": "flower",
+    "difficulty": "hard",
+    "question": {
+      "hi": "फूल का अध्ययन करने में किन भागों को पहचानना उपयोगी है?",
+      "en": "Which parts are useful to identify when studying a flower?"
+    },
+    "options": {
+      "hi": [
+        "परागकोश में",
+        "परागण करने वाले जीवों को आकर्षित करना",
+        "फूल की कली की रक्षा करना",
+        "दल, पंखुड़ी, पुंकेसर और स्त्रीकेसर"
+      ],
+      "en": [
+        "In the anther",
+        "Attracting pollinating organisms",
+        "Protecting the flower bud",
+        "Sepals, petals, stamen and pistil"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "यह उत्तर फूल की संरचना और उसके प्रमुख भागों के कार्य से संबंधित है।",
+      "en": "This answer relates to the structure of a flower and the functions of its main parts."
+    }
+  }
+]
