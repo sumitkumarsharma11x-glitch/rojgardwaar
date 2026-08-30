@@ -1,1 +1,228 @@
-
+{
+  "class": 9,
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "chapter": "chapter-01",
+  "chapterNumber": 1,
+  "chapterName": {
+    "hi": "कोशिका एवं ऊतक",
+    "en": "Cell & Tissue"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "cell-theory",
+      "name": {
+        "hi": "कोशिका सिद्धांत",
+        "en": "Cell Theory"
+      }
+    },
+    {
+      "id": "prokaryotic-vs-eukaryotic-cell",
+      "name": {
+        "hi": "प्रोकैरियोटिक एवं यूकैरियोटिक कोशिका",
+        "en": "Prokaryotic vs Eukaryotic Cell"
+      }
+    },
+    {
+      "id": "plant-cell-vs-animal-cell",
+      "name": {
+        "hi": "पादप कोशिका एवं जंतु कोशिका",
+        "en": "Plant Cell vs Animal Cell"
+      }
+    },
+    {
+      "id": "cell-organelles",
+      "name": {
+        "hi": "कोशिकांग",
+        "en": "Cell Organelles"
+      }
+    },
+    {
+      "id": "animal-tissues",
+      "name": {
+        "hi": "जंतु ऊतक",
+        "en": "Animal Tissues"
+      }
+    },
+    {
+      "id": "plant-tissues",
+      "name": {
+        "hi": "पादप ऊतक",
+        "en": "Plant Tissues"
+      }
+    },
+    {
+      "id": "xylem-phloem-structure",
+      "name": {
+        "hi": "जाइलम एवं फ्लोएम की संरचना",
+        "en": "Xylem and Phloem Structure"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "कोशिका सभी सजीवों की मूल संरचनात्मक एवं क्रियात्मक इकाई है। हर सजीव एक या अनेक कोशिकाओं से मिलकर बना होता है। कोशिकाएँ दो प्रकार की होती हैं, प्रोकैरियोटिक जिनमें सुसंगठित केंद्रक नहीं होता और यूकैरियोटिक जिनमें झिल्ली से घिरा केंद्रक होता है। पादप और जंतु कोशिका की मूल संरचना समान है, परंतु पादप कोशिका में कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पाई जाती है; जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते, तथा रिक्तिकाएँ छोटी हो सकती हैं। एक समान उत्पत्ति, संरचना और कार्य वाली कोशिकाओं का समूह ऊतक कहलाता है। जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका। पादप ऊतक दो मुख्य समूहों में बँटे हैं, विभज्योतक जो निरंतर विभाजित होता है और स्थायी जिसने विभाजन क्षमता खो दी है। स्थायी ऊतक आगे सरल और जटिल स्थायी ऊतक में बँटता है, जिसमें जाइलम और फ्लोएम जटिल स्थायी ऊतक के उदाहरण हैं।",
+      "example": "प्याज के छिलके की कोशिका में स्पष्ट केंद्रक और कोशिका भित्ति सूक्ष्मदर्शी से देखी जा सकती है, जबकि गाल की भीतरी सतह की कोशिका में कोशिका भित्ति नहीं होती, यह अंतर पादप और जंतु कोशिका की पहचान में उपयोगी है। इसी तरह त्वचा की ऊपरी सतह उपकला ऊतक का उदाहरण है और रक्त एक तरल संयोजी ऊतक का उदाहरण है।",
+      "sections": [
+        {
+          "heading": "कोशिका सिद्धांत",
+          "content": "श्लाइडेन और श्वान ने बताया कि सभी सजीव कोशिकाओं से बने होते हैं। बाद में विरचो ने जोड़ा कि नई कोशिका पहले से मौजूद कोशिका के विभाजन से ही बनती है, नई कोशिका अपने आप उत्पन्न नहीं होती।"
+        },
+        {
+          "heading": "प्रोकैरियोटिक बनाम यूकैरियोटिक कोशिका",
+          "content": "प्रोकैरियोटिक कोशिका, जैसे जीवाणु, में झिल्ली से घिरा केंद्रक नहीं होता और आनुवंशिक पदार्थ न्यूक्लियॉइड क्षेत्र में रहता है। यूकैरियोटिक कोशिका में सुसंगठित केंद्रक तथा झिल्ली से घिरे अन्य अंगक पाए जाते हैं, जैसे पादप और जंतु कोशिका।"
+        },
+        {
+          "heading": "पादप कोशिका बनाम जंतु कोशिका",
+          "content": "पादप कोशिका में कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पाई जाती है; जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते, तथा रिक्तिकाएँ छोटी हो सकती हैं।"
+        },
+        {
+          "heading": "प्रमुख कोशिकांग एवं उनके कार्य",
+          "content": "केंद्रक आनुवंशिक पदार्थ रखकर कोशिका की क्रियाओं को नियंत्रित करता है। माइटोकॉन्ड्रिया श्वसन द्वारा ऊर्जा उत्पन्न करता है। राइबोसोम प्रोटीन संश्लेषण करता है। कोशिका झिल्ली चयनात्मक पारगम्य होकर पदार्थों के आवागमन को नियंत्रित करती है। कोशिका भित्ति पादप कोशिका को कठोरता एवं आकार देती है। अंतर्द्रव्यी जालिका पदार्थों के परिवहन में सहायता करती है। गॉल्जी उपकरण पदार्थों का संग्रहण, रूपांतरण एवं पैकेजिंग करता है। हरितलवक में क्लोरोफिल होता है जो प्रकाश संश्लेषण में सहायक है। रिक्तिका जल, आयन एवं अपशिष्ट पदार्थों का भंडारण करती है।"
+        },
+        {
+          "heading": "जंतु ऊतक के प्रकार",
+          "content": "उपकला ऊतक शरीर की सतहों को ढकता है और सुरक्षा देता है। संयोजी ऊतक अंगों को आपस में जोड़ता और सहारा देता है, रक्त इसका तरल रूप है। पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है और रेखित, अरेखित तथा हृदयक तीन प्रकार का होता है। तंत्रिका ऊतक विद्युत संकेतों के माध्यम से सूचना का संचालन करता है।"
+        },
+        {
+          "heading": "पादप ऊतक के प्रकार",
+          "content": "विभज्योतक ऊतक जड़ और तने के वर्धी शीर्ष पर पाया जाता है और निरंतर विभाजित होकर पौधे की वृद्धि करता है। स्थायी ऊतक की कोशिकाओं ने विभाजन क्षमता खो दी है। सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है, जबकि जटिल स्थायी ऊतक एक से अधिक प्रकार की कोशिकाओं से मिलकर बनता है, जैसे जाइलम और फ्लोएम।"
+        },
+        {
+          "heading": "जाइलम एवं फ्लोएम की संरचना",
+          "content": "जाइलम वाहिनिका, वाहिका, जाइलम मृदूतक और जाइलम रेशों से मिलकर बना होता है, इसमें अधिकांश कोशिकाएँ मृत होती हैं। फ्लोएम चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशों से मिलकर बना होता है, इसमें चालनी नलिका और सह-कोशिका जीवित होती हैं। इस अध्याय में केवल इनकी संरचना पढ़नी है, इनका जल एवं भोजन परिवहन कार्य अध्याय तीन में पढ़ा जाएगा।"
+        }
+      ],
+      "keyPoints": [
+        "कोशिका सजीवों की मूल संरचनात्मक एवं क्रियात्मक इकाई है",
+        "प्रोकैरियोटिक कोशिका में सुसंगठित केंद्रक नहीं होता, यूकैरियोटिक में होता है",
+        "कोशिका भित्ति, बड़ी रिक्तिका और हरितलवक केवल पादप कोशिका में मिलते हैं",
+        "माइटोकॉन्ड्रिया ऊर्जा उत्पादन करता है, राइबोसोम प्रोटीन संश्लेषण करता है",
+        "जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका",
+        "पादप ऊतक विभज्योतक और स्थायी में बँटता है",
+        "जाइलम और फ्लोएम जटिल स्थायी ऊतक के उदाहरण हैं",
+        "जाइलम की अधिकांश कोशिकाएँ मृत होती हैं, फ्लोएम की चालनी नलिका और सह-कोशिका जीवित होती हैं"
+      ],
+      "examFocus": [
+        "कोशिकांगों के नाम और उनके एक-एक मुख्य कार्य को जोड़कर याद रखें",
+        "प्रोकैरियोटिक और यूकैरियोटिक कोशिका के बीच का मुख्य अंतर बार-बार पूछा जाता है",
+        "पादप और जंतु कोशिका में अंतर बताने वाली संरचनाओं की सूची तैयार रखें",
+        "जंतु ऊतक के चार नाम और पादप ऊतक के दो मुख्य वर्गों को क्रम से याद रखें",
+        "जाइलम और फ्लोएम के घटकों के नाम अलग-अलग रटें, दोनों को मिलाएँ नहीं"
+      ],
+      "examTraps": [
+        "जाइलम और फ्लोएम के जल एवं भोजन परिवहन कार्य को इस अध्याय का हिस्सा मत मानें, वह अध्याय तीन में है",
+        "रिक्तिका जंतु कोशिका में बिल्कुल नहीं होती ऐसा मत सोचें, वह होती है पर बहुत छोटी होती है",
+        "सभी संयोजी ऊतक ठोस नहीं होते, रक्त एक तरल संयोजी ऊतक है, इसे भूलना गलत उत्तर दिला सकता है",
+        "विभज्योतक और स्थायी ऊतक को आपस में उलटा मत जोड़ें, विभज्योतक विभाजित होता है, स्थायी ऊतक नहीं"
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न में यह ध्यान दें कि पूछा जा रहा कार्य संरचना से जुड़ा है या परिवहन से, परिवहन वाला भाग अध्याय तीन का है",
+        "यदि प्रश्न कोशिका भित्ति, बड़ी रिक्तिका या हरितलवक के बारे में है तो यह पादप कोशिका की पहचान है",
+        "यदि प्रश्न मृत या जीवित कोशिकाओं के बारे में है तो जाइलम और फ्लोएम के बीच अंतर याद करें"
+      ],
+      "memoryTricks": [
+        "पादप कोशिका की अतिरिक्त तीन चीज़ें याद रखने के लिए भित्ति, रिक्तिका, हरितलवक को भ र ह के क्रम में याद करें",
+        "जंतु ऊतक के चार नाम याद रखने के लिए उपकला संयोजी पेशीय तंत्रिका को उ स प त क्रम में याद करें",
+        "जाइलम के चार घटक याद रखने के लिए वा-वा-मृ-रे क्रम याद करें, अर्थात वाहिनिका, वाहिका, मृदूतक, रेशे; फ्लोएम के चार घटक याद रखने के लिए चा-सह-मृ-रे क्रम याद करें, अर्थात चालनी नलिका, सह-कोशिका, मृदूतक, रेशे"
+      ],
+      "pyqSignals": [
+        "कोशिकांगों के कार्य पर सीधा एक-पंक्ति प्रश्न सामान्य विज्ञान खंड में बार-बार देखा जाता है",
+        "पादप बनाम जंतु कोशिका के अंतर पर आधारित प्रश्न अक्सर पूछे जाते हैं",
+        "ऊतक के प्रकार पहचानने वाले उदाहरण-आधारित प्रश्न भी सामान्य हैं"
+      ],
+      "mustRemember": [
+        "कोशिका सिद्धांत, श्लाइडेन-श्वान और विरचो के योगदान सहित",
+        "प्रोकैरियोटिक और यूकैरियोटिक कोशिका का मुख्य अंतर",
+        "पादप कोशिका की तीन अतिरिक्त संरचनाएँ, भित्ति रिक्तिका हरितलवक",
+        "जंतु ऊतक के चार प्रकार और पादप ऊतक के दो मुख्य वर्ग",
+        "जाइलम और फ्लोएम केवल संरचना, परिवहन कार्य नहीं"
+      ],
+      "quickRevision": "कोशिका सजीवों की मूल इकाई है, प्रोकैरियोटिक कोशिका में सुसंगठित केंद्रक नहीं होता जबकि यूकैरियोटिक में होता है। पादप कोशिका में कोशिका भित्ति, बड़ी रिक्तिका और हरितलवक अतिरिक्त पाए जाते हैं जो जंतु कोशिका में नहीं होते। माइटोकॉन्ड्रिया ऊर्जा उत्पन्न करता है, राइबोसोम प्रोटीन संश्लेषण करता है और केंद्रक कोशिका को नियंत्रित करता है। जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका। पादप ऊतक विभज्योतक और स्थायी में बँटता है, और स्थायी ऊतक आगे सरल एवं जटिल स्थायी ऊतक में बँटता है। जाइलम में अधिकांश कोशिकाएँ मृत होती हैं जबकि फ्लोएम की चालनी नलिका और सह-कोशिका जीवित होती हैं, यहाँ केवल इनकी संरचना पढ़ी गई है, परिवहन कार्य अध्याय तीन में है।"
+    },
+    "en": {
+      "concept": "The cell is the basic structural and functional unit of all living organisms. Every organism is made up of one or more cells. Cells are of two types, prokaryotic which lack a well-defined nucleus, and eukaryotic which have a nucleus enclosed by a membrane. Plant and animal cells share the same basic structure, but a plant cell has a cell wall, chloroplasts and usually a large central vacuole; an animal cell lacks a cell wall and chloroplasts, and its vacuoles, if present, tend to be small. A group of cells with similar origin, structure and function is called a tissue. Animal tissues are of four types, epithelial, connective, muscular and nervous. Plant tissues are divided into two main groups, meristematic which keeps dividing, and permanent which has lost the ability to divide. Permanent tissue is further divided into simple and complex permanent tissue, with xylem and phloem being examples of complex permanent tissue.",
+      "example": "A clear nucleus and cell wall can be seen under a microscope in an onion peel cell, whereas a cheek cell has no cell wall, and this difference helps identify plant versus animal cells. Similarly, the outer layer of skin is an example of epithelial tissue, and blood is an example of a fluid connective tissue.",
+      "sections": [
+        {
+          "heading": "Cell Theory",
+          "content": "Schleiden and Schwann stated that all living organisms are made of cells. Later, Virchow added that a new cell arises only from the division of a pre-existing cell, and a cell does not arise on its own."
+        },
+        {
+          "heading": "Prokaryotic vs Eukaryotic Cell",
+          "content": "A prokaryotic cell, such as bacteria, does not have a nucleus enclosed by a membrane, and its genetic material lies in a region called the nucleoid. A eukaryotic cell has a well-defined nucleus along with other membrane-bound organelles, as seen in plant and animal cells."
+        },
+        {
+          "heading": "Plant Cell vs Animal Cell",
+          "content": "A plant cell has a cell wall, chloroplasts and usually a large central vacuole; an animal cell lacks a cell wall and chloroplasts, and its vacuoles, if present, tend to be small."
+        },
+        {
+          "heading": "Major Cell Organelles and Their Functions",
+          "content": "The nucleus holds genetic material and controls the activities of the cell. Mitochondria produce energy through respiration. Ribosomes carry out protein synthesis. The cell membrane is selectively permeable and controls the movement of substances. The cell wall gives rigidity and shape to a plant cell. The endoplasmic reticulum assists in the transport of materials. The Golgi apparatus stores, modifies and packages materials. Chloroplasts contain chlorophyll and assist in photosynthesis. The vacuole stores water, ions and waste materials."
+        },
+        {
+          "heading": "Types of Animal Tissue",
+          "content": "Epithelial tissue covers body surfaces and provides protection. Connective tissue connects and supports organs, and blood is its fluid form. Muscular tissue produces movement through contraction and is of three types, striated, unstriated and cardiac. Nervous tissue conducts information through electrical signals."
+        },
+        {
+          "heading": "Types of Plant Tissue",
+          "content": "Meristematic tissue is found at the growing tips of roots and shoots and keeps dividing to bring about growth in plants. Permanent tissue cells have lost the ability to divide. Simple permanent tissue is made of one type of cell, while complex permanent tissue is made of more than one type of cell, such as xylem and phloem."
+        },
+        {
+          "heading": "Structure of Xylem and Phloem",
+          "content": "Xylem is made up of tracheids, vessels, xylem parenchyma and xylem fibres, and most of its cells are dead. Phloem is made up of sieve tubes, companion cells, phloem parenchyma and phloem fibres, and its sieve tubes and companion cells are living. This chapter covers only their structure, their function of transporting water and food will be covered in Chapter 3."
+        }
+      ],
+      "keyPoints": [
+        "The cell is the basic structural and functional unit of living organisms",
+        "A prokaryotic cell lacks a well-defined nucleus, a eukaryotic cell has one",
+        "Cell wall, large vacuole and chloroplasts are found only in plant cells",
+        "Mitochondria produce energy, ribosomes carry out protein synthesis",
+        "Animal tissues are of four types, epithelial, connective, muscular and nervous",
+        "Plant tissue is divided into meristematic and permanent tissue",
+        "Xylem and phloem are examples of complex permanent tissue",
+        "Most xylem cells are dead, while sieve tubes and companion cells in phloem are living"
+      ],
+      "examFocus": [
+        "Remember each organelle's name paired with its one main function",
+        "The key difference between prokaryotic and eukaryotic cells is asked repeatedly",
+        "Keep a ready list of structures that differentiate plant and animal cells",
+        "Memorise the four animal tissue names and the two main plant tissue groups in order",
+        "Learn the components of xylem and phloem separately, do not mix the two"
+      ],
+      "examTraps": [
+        "Do not treat the water and food transport function of xylem and phloem as part of this chapter, that belongs to Chapter 3",
+        "Do not assume vacuoles are completely absent in animal cells, they are present but very small",
+        "Not all connective tissue is solid, blood is a fluid connective tissue, forgetting this can lead to a wrong answer",
+        "Do not reverse meristematic and permanent tissue, meristematic tissue divides, permanent tissue does not"
+      ],
+      "thinkBeforeAnswer": [
+        "Check whether the question asks about structure or about transport, the transport part belongs to Chapter 3",
+        "If the question mentions cell wall, large vacuole or chloroplast, it is pointing to a plant cell",
+        "If the question asks about dead or living cells, recall the difference between xylem and phloem"
+      ],
+      "memoryTricks": [
+        "Remember the three extra plant cell structures, wall, vacuole, chloroplast, as W V C in that order",
+        "Remember the four animal tissue names, epithelial, connective, muscular, nervous, as E C M N in order",
+        "Remember xylem's four components as T-V-P-F, tracheids, vessels, parenchyma, fibres; remember phloem's four components as S-C-P-F, sieve tubes, companion cells, parenchyma, fibres"
+      ],
+      "pyqSignals": [
+        "Direct one-line questions on organelle functions are commonly seen in general science sections",
+        "Questions based on the difference between plant and animal cells are frequently asked",
+        "Example-based questions asking to identify a tissue type are also common"
+      ],
+      "mustRemember": [
+        "Cell theory, including the contributions of Schleiden-Schwann and Virchow",
+        "The main difference between prokaryotic and eukaryotic cells",
+        "The three extra structures of a plant cell, wall, vacuole, chloroplast",
+        "The four types of animal tissue and the two main groups of plant tissue",
+        "Xylem and phloem here mean structure only, not their transport function"
+      ],
+      "quickRevision": "The cell is the basic unit of living organisms, a prokaryotic cell lacks a well-defined nucleus while a eukaryotic cell has one. A plant cell has extra structures, a cell wall, a large vacuole and chloroplasts, which are absent in an animal cell. Mitochondria produce energy, ribosomes carry out protein synthesis, and the nucleus controls the cell. Animal tissues are of four types, epithelial, connective, muscular and nervous. Plant tissue is divided into meristematic and permanent tissue, and permanent tissue is further divided into simple and complex permanent tissue. Most xylem cells are dead while the sieve tubes and companion cells of phloem are living, and only their structure is covered here, their transport function belongs to Chapter 3."
+    }
+  }
+}
