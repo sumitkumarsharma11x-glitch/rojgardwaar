@@ -1,1 +1,4202 @@
-
+[
+  {
+    "id": "ch1_q101",
+    "topic": "cell-theory",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कोशिका सिद्धांत के अनुसार सभी सजीव किससे बने होते हैं?",
+      "en": "According to cell theory, all living organisms are made of what?"
+    },
+    "options": {
+      "hi": [
+        "ऊतक",
+        "कोशिकाएँ",
+        "अंग-तंत्र",
+        "अंग"
+      ],
+      "en": [
+        "ऊतक",
+        "कोशिकाएँ",
+        "अंग-तंत्र",
+        "अंग"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सभी सजीव एक या अधिक कोशिकाओं से बने होते हैं।",
+      "en": "All living organisms are made of one or more cells."
+    }
+  },
+  {
+    "id": "ch1_q102",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पादपों के कोशिकीय संगठन से किस वैज्ञानिक का योगदान जुड़ा है?",
+      "en": "Which scientist is associated with the cellular organization of plants?"
+    },
+    "options": {
+      "hi": [
+        "विरचो",
+        "श्लाइडेन",
+        "डार्विन",
+        "श्वान"
+      ],
+      "en": [
+        "विरचो",
+        "श्लाइडेन",
+        "डार्विन",
+        "श्वान"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "श्लाइडेन का योगदान पादपों के कोशिकीय संगठन के अध्ययन से जुड़ा है।",
+      "en": "Schleiden contributed through studies of the cellular organization of plants."
+    }
+  },
+  {
+    "id": "ch1_q103",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतुओं के कोशिकीय संगठन से किस वैज्ञानिक का योगदान जुड़ा है?",
+      "en": "Which scientist is associated with the cellular organization of animals?"
+    },
+    "options": {
+      "hi": [
+        "विरचो",
+        "श्वान",
+        "श्लाइडेन",
+        "मेंडल"
+      ],
+      "en": [
+        "विरचो",
+        "श्वान",
+        "श्लाइडेन",
+        "मेंडल"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "श्वान का योगदान जंतुओं के कोशिकीय संगठन से जुड़ा है।",
+      "en": "Schwann contributed through studies of the cellular organization of animals."
+    }
+  },
+  {
+    "id": "ch1_q104",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "नई कोशिका के स्रोत के बारे में किस वैज्ञानिक ने महत्वपूर्ण कथन दिया?",
+      "en": "Which scientist made an important statement about the origin of new cells?"
+    },
+    "options": {
+      "hi": [
+        "श्लाइडेन",
+        "डार्विन",
+        "श्वान",
+        "विरचो"
+      ],
+      "en": [
+        "श्लाइडेन",
+        "डार्विन",
+        "श्वान",
+        "विरचो"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "विरचो ने नई कोशिकाओं के पूर्ववर्ती कोशिकाओं से बनने की बात जोड़ी।",
+      "en": "Virchow added that new cells arise from pre-existing cells."
+    }
+  },
+  {
+    "id": "ch1_q105",
+    "topic": "cell-theory",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कोशिका की सबसे उपयुक्त परिभाषा क्या है?",
+      "en": "What is the best description of a cell?"
+    },
+    "options": {
+      "hi": [
+        "एक पूरा अंग",
+        "केवल आनुवंशिक पदार्थ",
+        "जीवन की मूल संरचनात्मक और क्रियात्मक इकाई",
+        "केवल बाहरी आवरण"
+      ],
+      "en": [
+        "एक पूरा अंग",
+        "केवल आनुवंशिक पदार्थ",
+        "जीवन की मूल संरचनात्मक और क्रियात्मक इकाई",
+        "केवल बाहरी आवरण"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका जीवन की मूल संरचनात्मक और क्रियात्मक इकाई है।",
+      "en": "The cell is the basic structural and functional unit of life."
+    }
+  },
+  {
+    "id": "ch1_q106",
+    "topic": "cell-theory",
+    "difficulty": "easy",
+    "question": {
+      "hi": "एककोशिकीय जीव में आवश्यक जीवन-क्रियाएँ मुख्यतः कहाँ होती हैं?",
+      "en": "Where do essential life processes mainly occur in a unicellular organism?"
+    },
+    "options": {
+      "hi": [
+        "एक ही कोशिका",
+        "केवल कोशिका भित्ति",
+        "केवल ऊतक",
+        "केवल केंद्रक"
+      ],
+      "en": [
+        "एक ही कोशिका",
+        "केवल कोशिका भित्ति",
+        "केवल ऊतक",
+        "केवल केंद्रक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "एककोशिकीय जीव में एक ही कोशिका पूरा जीव होती है।",
+      "en": "In a unicellular organism, the single cell constitutes the whole organism."
+    }
+  },
+  {
+    "id": "ch1_q107",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कोशिका सिद्धांत का कौन-सा कथन सही है?",
+      "en": "Which statement of cell theory is correct?"
+    },
+    "options": {
+      "hi": [
+        "सभी कोशिकाएँ समान आकार की होती हैं",
+        "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं",
+        "सभी कोशिकाएँ पादप हैं",
+        "हर कोशिका एक अंग है"
+      ],
+      "en": [
+        "सभी कोशिकाएँ समान आकार की होती हैं",
+        "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं",
+        "सभी कोशिकाएँ पादप हैं",
+        "हर कोशिका एक अंग है"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "यह कोशिका सिद्धांत का प्रमुख कथन है।",
+      "en": "This is a key statement of cell theory."
+    }
+  },
+  {
+    "id": "ch1_q108",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "श्लाइडेन और श्वान के योगदान का सही मिलान कौन-सा है?",
+      "en": "Which correctly matches the contributions of Schleiden and Schwann?"
+    },
+    "options": {
+      "hi": [
+        "श्लाइडेन—जंतु; श्वान—पादप",
+        "दोनों—जीवाणु",
+        "श्लाइडेन—पादप; श्वान—जंतु",
+        "दोनों—रक्त"
+      ],
+      "en": [
+        "श्लाइडेन—जंतु; श्वान—पादप",
+        "दोनों—जीवाणु",
+        "श्लाइडेन—पादप; श्वान—जंतु",
+        "दोनों—रक्त"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "श्लाइडेन का कार्य पादपों और श्वान का कार्य जंतुओं से संबंधित था।",
+      "en": "Schleiden worked on plants and Schwann on animals."
+    }
+  },
+  {
+    "id": "ch1_q109",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बहुकोशिकीय जीवों में विशिष्ट कोशिकाएँ क्या बना सकती हैं?",
+      "en": "What can specialized cells form in multicellular organisms?"
+    },
+    "options": {
+      "hi": [
+        "केवल रक्त",
+        "ऊतक और अंग",
+        "केवल कोशिका भित्ति",
+        "केवल DNA"
+      ],
+      "en": [
+        "केवल रक्त",
+        "ऊतक और अंग",
+        "केवल कोशिका भित्ति",
+        "केवल DNA"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "बहुकोशिकीय जीवों में विशिष्ट कोशिकाएँ ऊतक और अंग बनाने में संगठित हो सकती हैं।",
+      "en": "In multicellular organisms, specialized cells can organize into tissues and organs."
+    }
+  },
+  {
+    "id": "ch1_q110",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पूर्ववर्ती कोशिका से नई कोशिका बनने का विचार किससे जुड़ा है?",
+      "en": "Who is associated with the idea that new cells arise from pre-existing cells?"
+    },
+    "options": {
+      "hi": [
+        "लिनियस",
+        "विरचो",
+        "पाश्चर",
+        "डार्विन"
+      ],
+      "en": [
+        "लिनियस",
+        "विरचो",
+        "पाश्चर",
+        "डार्विन"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पूर्ववर्ती कोशिका से नई कोशिका बनने का विचार विरचो से जुड़ा है।",
+      "en": "The idea that new cells arise from pre-existing cells is associated with Virchow."
+    }
+  },
+  {
+    "id": "ch1_q111",
+    "topic": "cell-theory",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन कोशिका सिद्धांत का कथन नहीं है?",
+      "en": "Which is NOT a statement of cell theory?"
+    },
+    "options": {
+      "hi": [
+        "सजीव कोशिकाओं से बने हैं",
+        "सभी कोशिकाएँ समान आकार की होती हैं",
+        "कोशिका जीवन की मूल इकाई है",
+        "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं"
+      ],
+      "en": [
+        "सजीव कोशिकाओं से बने हैं",
+        "सभी कोशिकाएँ समान आकार की होती हैं",
+        "कोशिका जीवन की मूल इकाई है",
+        "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सभी कोशिकाओं का आकार समान होना कोशिका सिद्धांत का कथन नहीं है।",
+      "en": "All cells having the same size is not a statement of cell theory."
+    }
+  },
+  {
+    "id": "ch1_q112",
+    "topic": "cell-theory",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ऊतक किस मूल संरचनात्मक इकाई से बने होते हैं?",
+      "en": "What basic structural unit forms tissues?"
+    },
+    "options": {
+      "hi": [
+        "कोशिका",
+        "जीव",
+        "ऊतक",
+        "अंग"
+      ],
+      "en": [
+        "कोशिका",
+        "जीव",
+        "ऊतक",
+        "अंग"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ऊतक कोशिकाओं के समूह से बनता है।",
+      "en": "A tissue is formed from a group of cells."
+    }
+  },
+  {
+    "id": "ch1_q113",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वृद्धि के दौरान किसका निर्माण आवश्यक है?",
+      "en": "What is necessary to be produced during growth?"
+    },
+    "options": {
+      "hi": [
+        "केवल जल का भंडारण",
+        "केवल प्रकाश अवशोषण",
+        "रक्त परिसंचरण",
+        "नई कोशिकाओं का निर्माण"
+      ],
+      "en": [
+        "केवल जल का भंडारण",
+        "केवल प्रकाश अवशोषण",
+        "रक्त परिसंचरण",
+        "नई कोशिकाओं का निर्माण"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "नई कोशिकाओं का निर्माण वृद्धि में सहायक होता है।",
+      "en": "Production of new cells supports growth."
+    }
+  },
+  {
+    "id": "ch1_q114",
+    "topic": "cell-theory",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जीव के संरचनात्मक संगठन की मूल इकाई क्या है?",
+      "en": "What is the basic unit of structural organization in an organism?"
+    },
+    "options": {
+      "hi": [
+        "ऊतक",
+        "अंग-तंत्र",
+        "कोशिका",
+        "अंग"
+      ],
+      "en": [
+        "ऊतक",
+        "अंग-तंत्र",
+        "कोशिका",
+        "अंग"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "संरचनात्मक संगठन की मूल इकाई कोशिका है।",
+      "en": "The cell is the basic unit of structural organization."
+    }
+  },
+  {
+    "id": "ch1_q115",
+    "topic": "cell-theory",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कोशिका सिद्धांत किस प्रकार के संगठन को स्पष्ट करता है?",
+      "en": "What type of organization does cell theory explain?"
+    },
+    "options": {
+      "hi": [
+        "सजीवों का कोशिकीय संगठन",
+        "केवल जल की अवस्था",
+        "केवल रक्त समूह",
+        "केवल हड्डी की कठोरता"
+      ],
+      "en": [
+        "सजीवों का कोशिकीय संगठन",
+        "केवल जल की अवस्था",
+        "केवल रक्त समूह",
+        "केवल हड्डी की कठोरता"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कोशिका सिद्धांत सजीवों के कोशिकीय संगठन को स्पष्ट करता है।",
+      "en": "Cell theory explains the cellular organization of living organisms."
+    }
+  },
+  {
+    "id": "ch1_q116",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 1",
+      "en": "What is a key feature of a prokaryotic cell? 1"
+    },
+    "options": {
+      "hi": [
+        "केवल बहुकोशिकीय होना",
+        "सुसंगठित झिल्ली-बद्ध केंद्रक का अभाव",
+        "क्लोरोप्लास्ट की अनिवार्य उपस्थिति",
+        "बड़ा झिल्ली-बद्ध केंद्रक"
+      ],
+      "en": [
+        "केवल बहुकोशिकीय होना",
+        "सुसंगठित झिल्ली-बद्ध केंद्रक का अभाव",
+        "क्लोरोप्लास्ट की अनिवार्य उपस्थिति",
+        "बड़ा झिल्ली-बद्ध केंद्रक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "प्रोकैरियोटिक कोशिका में सुसंगठित झिल्ली-बद्ध केंद्रक नहीं होता।",
+      "en": "A prokaryotic cell lacks a well-defined membrane-bound nucleus."
+    }
+  },
+  {
+    "id": "ch1_q117",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 2",
+      "en": "Which of the following should be considered the correct answer? 2"
+    },
+    "options": {
+      "hi": [
+        "झिल्ली से घिरा सुसंगठित केंद्रक",
+        "न्यूक्लियॉइड",
+        "केंद्रक का पूर्ण अभाव",
+        "केवल कोशिका भित्ति"
+      ],
+      "en": [
+        "झिल्ली से घिरा सुसंगठित केंद्रक",
+        "न्यूक्लियॉइड",
+        "केंद्रक का पूर्ण अभाव",
+        "केवल कोशिका भित्ति"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यूकैरियोटिक कोशिका में केंद्रक केंद्रकीय झिल्ली से घिरा होता है।",
+      "en": "In a eukaryotic cell, the nucleus is enclosed by a nuclear membrane."
+    }
+  },
+  {
+    "id": "ch1_q118",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 3",
+      "en": "What is a key feature of a prokaryotic cell? 3"
+    },
+    "options": {
+      "hi": [
+        "जीवाणु",
+        "अमीबा",
+        "मानव कोशिका",
+        "पादप कोशिका"
+      ],
+      "en": [
+        "जीवाणु",
+        "अमीबा",
+        "मानव कोशिका",
+        "पादप कोशिका"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जीवाणु प्रोकैरियोटिक जीव हैं।",
+      "en": "Bacteria are prokaryotic organisms."
+    }
+  },
+  {
+    "id": "ch1_q119",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 4",
+      "en": "Which of the following should be considered the correct answer? 4"
+    },
+    "options": {
+      "hi": [
+        "जीवाणु",
+        "अकोशिकीय संरचना",
+        "मानव कोशिका",
+        "न्यूक्लियॉइड वाली कोशिका"
+      ],
+      "en": [
+        "जीवाणु",
+        "अकोशिकीय संरचना",
+        "मानव कोशिका",
+        "न्यूक्लियॉइड वाली कोशिका"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "मानव कोशिकाएँ यूकैरियोटिक होती हैं।",
+      "en": "Human cells are eukaryotic."
+    }
+  },
+  {
+    "id": "ch1_q120",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 5",
+      "en": "What is a key feature of a prokaryotic cell? 5"
+    },
+    "options": {
+      "hi": [
+        "क्लोरोप्लास्ट",
+        "वैक्यूल",
+        "गॉल्जी उपकरण",
+        "न्यूक्लियॉइड क्षेत्र"
+      ],
+      "en": [
+        "क्लोरोप्लास्ट",
+        "वैक्यूल",
+        "गॉल्जी उपकरण",
+        "न्यूक्लियॉइड क्षेत्र"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "प्रोकैरियोट में DNA न्यूक्लियॉइड क्षेत्र में रहता है।",
+      "en": "In prokaryotes, DNA lies in the nucleoid region."
+    }
+  },
+  {
+    "id": "ch1_q121",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 6",
+      "en": "Which of the following should be considered the correct answer? 6"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "हरितलवक",
+        "झिल्ली-बद्ध केंद्रक",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "राइबोसोम",
+        "हरितलवक",
+        "झिल्ली-बद्ध केंद्रक",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "राइबोसोम दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
+      "en": "Ribosomes occur in both cell types."
+    }
+  },
+  {
+    "id": "ch1_q122",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 7",
+      "en": "What is a key feature of a prokaryotic cell? 7"
+    },
+    "options": {
+      "hi": [
+        "केवल न्यूक्लियॉइड",
+        "झिल्ली-बद्ध कोशिकांग",
+        "केवल कोशिका झिल्ली",
+        "केवल राइबोसोम"
+      ],
+      "en": [
+        "केवल न्यूक्लियॉइड",
+        "झिल्ली-बद्ध कोशिकांग",
+        "केवल कोशिका झिल्ली",
+        "केवल राइबोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "झिल्ली-बद्ध कोशिकांग यूकैरियोटिक कोशिकाओं की प्रमुख विशेषता हैं।",
+      "en": "Membrane-bound organelles are a key feature of eukaryotic cells."
+    }
+  },
+  {
+    "id": "ch1_q123",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 8",
+      "en": "Which of the following should be considered the correct answer? 8"
+    },
+    "options": {
+      "hi": [
+        "कोशिका झिल्ली का अभाव",
+        "राइबोसोम का अभाव",
+        "केंद्रकीय झिल्ली का अभाव",
+        "DNA का अभाव"
+      ],
+      "en": [
+        "कोशिका झिल्ली का अभाव",
+        "राइबोसोम का अभाव",
+        "केंद्रकीय झिल्ली का अभाव",
+        "DNA का अभाव"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "प्रोकैरियोट में DNA केंद्रकीय झिल्ली से घिरा नहीं होता।",
+      "en": "In prokaryotes, DNA is not enclosed by a nuclear membrane."
+    }
+  },
+  {
+    "id": "ch1_q124",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 9",
+      "en": "What is a key feature of a prokaryotic cell? 9"
+    },
+    "options": {
+      "hi": [
+        "केवल यूकैरियोट में केंद्रक",
+        "प्रोकैरियोटिक और यूकैरियोटिक कोशिकाओं में राइबोसोम",
+        "केवल प्रोकैरियोट में DNA",
+        "दोनों में झिल्ली-बद्ध केंद्रक"
+      ],
+      "en": [
+        "केवल यूकैरियोट में केंद्रक",
+        "प्रोकैरियोटिक और यूकैरियोटिक कोशिकाओं में राइबोसोम",
+        "केवल प्रोकैरियोट में DNA",
+        "दोनों में झिल्ली-बद्ध केंद्रक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "दोनों प्रकार की कोशिकाओं में राइबोसोम पाए जाते हैं।",
+      "en": "Both cell types contain ribosomes."
+    }
+  },
+  {
+    "id": "ch1_q125",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 10",
+      "en": "Which of the following should be considered the correct answer? 10"
+    },
+    "options": {
+      "hi": [
+        "यूकैरियोटिक",
+        "अकोशिकीय",
+        "केवल न्यूक्लियॉइड वाली",
+        "प्रोकैरियोटिक"
+      ],
+      "en": [
+        "यूकैरियोटिक",
+        "अकोशिकीय",
+        "केवल न्यूक्लियॉइड वाली",
+        "प्रोकैरियोटिक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "झिल्ली-बद्ध केंद्रक वाली कोशिका यूकैरियोटिक होती है।",
+      "en": "A cell with a membrane-bound nucleus is eukaryotic."
+    }
+  },
+  {
+    "id": "ch1_q126",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 11",
+      "en": "What is a key feature of a prokaryotic cell? 11"
+    },
+    "options": {
+      "hi": [
+        "सुसंगठित झिल्ली-बद्ध केंद्रक का अभाव",
+        "बड़ा झिल्ली-बद्ध केंद्रक",
+        "क्लोरोप्लास्ट की अनिवार्य उपस्थिति",
+        "केवल बहुकोशिकीय होना"
+      ],
+      "en": [
+        "सुसंगठित झिल्ली-बद्ध केंद्रक का अभाव",
+        "बड़ा झिल्ली-बद्ध केंद्रक",
+        "क्लोरोप्लास्ट की अनिवार्य उपस्थिति",
+        "केवल बहुकोशिकीय होना"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "प्रोकैरियोटिक कोशिका में सुसंगठित झिल्ली-बद्ध केंद्रक नहीं होता।",
+      "en": "A prokaryotic cell lacks a well-defined membrane-bound nucleus."
+    }
+  },
+  {
+    "id": "ch1_q127",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 12",
+      "en": "Which of the following should be considered the correct answer? 12"
+    },
+    "options": {
+      "hi": [
+        "झिल्ली से घिरा सुसंगठित केंद्रक",
+        "न्यूक्लियॉइड",
+        "केंद्रक का पूर्ण अभाव",
+        "केवल कोशिका भित्ति"
+      ],
+      "en": [
+        "झिल्ली से घिरा सुसंगठित केंद्रक",
+        "न्यूक्लियॉइड",
+        "केंद्रक का पूर्ण अभाव",
+        "केवल कोशिका भित्ति"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यूकैरियोटिक कोशिका में केंद्रक केंद्रकीय झिल्ली से घिरा होता है।",
+      "en": "In a eukaryotic cell, the nucleus is enclosed by a nuclear membrane."
+    }
+  },
+  {
+    "id": "ch1_q128",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 13",
+      "en": "What is a key feature of a prokaryotic cell? 13"
+    },
+    "options": {
+      "hi": [
+        "जीवाणु",
+        "अमीबा",
+        "पादप कोशिका",
+        "मानव कोशिका"
+      ],
+      "en": [
+        "जीवाणु",
+        "अमीबा",
+        "पादप कोशिका",
+        "मानव कोशिका"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जीवाणु प्रोकैरियोटिक जीव हैं।",
+      "en": "Bacteria are prokaryotic organisms."
+    }
+  },
+  {
+    "id": "ch1_q129",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 14",
+      "en": "Which of the following should be considered the correct answer? 14"
+    },
+    "options": {
+      "hi": [
+        "अकोशिकीय संरचना",
+        "मानव कोशिका",
+        "जीवाणु",
+        "न्यूक्लियॉइड वाली कोशिका"
+      ],
+      "en": [
+        "अकोशिकीय संरचना",
+        "मानव कोशिका",
+        "जीवाणु",
+        "न्यूक्लियॉइड वाली कोशिका"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "मानव कोशिकाएँ यूकैरियोटिक होती हैं।",
+      "en": "Human cells are eukaryotic."
+    }
+  },
+  {
+    "id": "ch1_q130",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 15",
+      "en": "What is a key feature of a prokaryotic cell? 15"
+    },
+    "options": {
+      "hi": [
+        "न्यूक्लियॉइड क्षेत्र",
+        "वैक्यूल",
+        "क्लोरोप्लास्ट",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "न्यूक्लियॉइड क्षेत्र",
+        "वैक्यूल",
+        "क्लोरोप्लास्ट",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "प्रोकैरियोट में DNA न्यूक्लियॉइड क्षेत्र में रहता है।",
+      "en": "In prokaryotes, DNA lies in the nucleoid region."
+    }
+  },
+  {
+    "id": "ch1_q131",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 16",
+      "en": "Which of the following should be considered the correct answer? 16"
+    },
+    "options": {
+      "hi": [
+        "झिल्ली-बद्ध केंद्रक",
+        "हरितलवक",
+        "गॉल्जी उपकरण",
+        "राइबोसोम"
+      ],
+      "en": [
+        "झिल्ली-बद्ध केंद्रक",
+        "हरितलवक",
+        "गॉल्जी उपकरण",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "राइबोसोम दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
+      "en": "Ribosomes occur in both cell types."
+    }
+  },
+  {
+    "id": "ch1_q132",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 17",
+      "en": "What is a key feature of a prokaryotic cell? 17"
+    },
+    "options": {
+      "hi": [
+        "केवल राइबोसोम",
+        "केवल कोशिका झिल्ली",
+        "केवल न्यूक्लियॉइड",
+        "झिल्ली-बद्ध कोशिकांग"
+      ],
+      "en": [
+        "केवल राइबोसोम",
+        "केवल कोशिका झिल्ली",
+        "केवल न्यूक्लियॉइड",
+        "झिल्ली-बद्ध कोशिकांग"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "झिल्ली-बद्ध कोशिकांग यूकैरियोटिक कोशिकाओं की प्रमुख विशेषता हैं।",
+      "en": "Membrane-bound organelles are a key feature of eukaryotic cells."
+    }
+  },
+  {
+    "id": "ch1_q133",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 18",
+      "en": "Which of the following should be considered the correct answer? 18"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम का अभाव",
+        "केंद्रकीय झिल्ली का अभाव",
+        "DNA का अभाव",
+        "कोशिका झिल्ली का अभाव"
+      ],
+      "en": [
+        "राइबोसोम का अभाव",
+        "केंद्रकीय झिल्ली का अभाव",
+        "DNA का अभाव",
+        "कोशिका झिल्ली का अभाव"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "प्रोकैरियोट में DNA केंद्रकीय झिल्ली से घिरा नहीं होता।",
+      "en": "In prokaryotes, DNA is not enclosed by a nuclear membrane."
+    }
+  },
+  {
+    "id": "ch1_q134",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान क्या है? 19",
+      "en": "What is a key feature of a prokaryotic cell? 19"
+    },
+    "options": {
+      "hi": [
+        "केवल यूकैरियोट में केंद्रक",
+        "प्रोकैरियोटिक और यूकैरियोटिक कोशिकाओं में राइबोसोम",
+        "केवल प्रोकैरियोट में DNA",
+        "दोनों में झिल्ली-बद्ध केंद्रक"
+      ],
+      "en": [
+        "केवल यूकैरियोट में केंद्रक",
+        "प्रोकैरियोटिक और यूकैरियोटिक कोशिकाओं में राइबोसोम",
+        "केवल प्रोकैरियोट में DNA",
+        "दोनों में झिल्ली-बद्ध केंद्रक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "दोनों प्रकार की कोशिकाओं में राइबोसोम पाए जाते हैं।",
+      "en": "Both cell types contain ribosomes."
+    }
+  },
+  {
+    "id": "ch1_q135",
+    "topic": "prokaryotic-vs-eukaryotic-cell",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से किसे सही उत्तर माना जाएगा? 20",
+      "en": "Which of the following should be considered the correct answer? 20"
+    },
+    "options": {
+      "hi": [
+        "यूकैरियोटिक",
+        "केवल न्यूक्लियॉइड वाली",
+        "अकोशिकीय",
+        "प्रोकैरियोटिक"
+      ],
+      "en": [
+        "यूकैरियोटिक",
+        "केवल न्यूक्लियॉइड वाली",
+        "अकोशिकीय",
+        "प्रोकैरियोटिक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "झिल्ली-बद्ध केंद्रक वाली कोशिका यूकैरियोटिक होती है।",
+      "en": "A cell with a membrane-bound nucleus is eukaryotic."
+    }
+  },
+  {
+    "id": "ch1_q136",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 1",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 1"
+    },
+    "options": {
+      "hi": [
+        "कोशिका भित्ति",
+        "केंद्रक",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "कोशिका भित्ति",
+        "केंद्रक",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जंतु कोशिका में कोशिका भित्ति नहीं होती।",
+      "en": "Animal cells do not have a cell wall."
+    }
+  },
+  {
+    "id": "ch1_q137",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 2",
+      "en": "Which structure or feature is being identified? Question 2"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "केंद्रक",
+        "हरितलवक",
+        "राइबोसोम"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "केंद्रक",
+        "हरितलवक",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "हरितलवक प्रकाश संश्लेषण से संबंधित है।",
+      "en": "Chloroplasts are associated with photosynthesis."
+    }
+  },
+  {
+    "id": "ch1_q138",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 3",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 3"
+    },
+    "options": {
+      "hi": [
+        "तंत्रिका संकेत",
+        "प्रोटीन संश्लेषण",
+        "DNA का मुख्य भंडारण",
+        "जल और अन्य पदार्थों का भंडारण"
+      ],
+      "en": [
+        "तंत्रिका संकेत",
+        "प्रोटीन संश्लेषण",
+        "DNA का मुख्य भंडारण",
+        "जल और अन्य पदार्थों का भंडारण"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "बड़ी केंद्रीय रिक्तिका भंडारण में सहायक होती है।",
+      "en": "The large central vacuole helps with storage."
+    }
+  },
+  {
+    "id": "ch1_q139",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 4",
+      "en": "Which structure or feature is being identified? Question 4"
+    },
+    "options": {
+      "hi": [
+        "हरितलवक",
+        "कोशिका भित्ति",
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका झिल्ली"
+      ],
+      "en": [
+        "हरितलवक",
+        "कोशिका भित्ति",
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका झिल्ली"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कोशिका झिल्ली दोनों प्रकार की कोशिकाओं में होती है।",
+      "en": "The cell membrane occurs in both cell types."
+    }
+  },
+  {
+    "id": "ch1_q140",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 5",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 5"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम, केंद्रक और माइटोकॉन्ड्रिया",
+        "केवल झिल्ली और राइबोसोम",
+        "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका",
+        "गॉल्जी और ER"
+      ],
+      "en": [
+        "राइबोसोम, केंद्रक और माइटोकॉन्ड्रिया",
+        "केवल झिल्ली और राइबोसोम",
+        "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका",
+        "गॉल्जी और ER"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "ये पादप कोशिका की पहचान में उपयोगी विशेषताएँ हैं।",
+      "en": "These are useful features for identifying a plant cell."
+    }
+  },
+  {
+    "id": "ch1_q141",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 6",
+      "en": "Which structure or feature is being identified? Question 6"
+    },
+    "options": {
+      "hi": [
+        "रिक्तिका कभी नहीं होती",
+        "हमेशा बड़ी केंद्रीय रिक्तिका",
+        "छोटी रिक्तिकाएँ हो सकती हैं",
+        "रिक्तिका केवल भित्ति में होती है"
+      ],
+      "en": [
+        "रिक्तिका कभी नहीं होती",
+        "हमेशा बड़ी केंद्रीय रिक्तिका",
+        "छोटी रिक्तिकाएँ हो सकती हैं",
+        "रिक्तिका केवल भित्ति में होती है"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जंतु कोशिकाओं में छोटी रिक्तिकाएँ हो सकती हैं।",
+      "en": "Small vacuoles may occur in animal cells."
+    }
+  },
+  {
+    "id": "ch1_q142",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 7",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 7"
+    },
+    "options": {
+      "hi": [
+        "कठोरता और आकार",
+        "DNA भंडारण",
+        "ऊर्जा उत्पादन",
+        "प्रोटीन संश्लेषण"
+      ],
+      "en": [
+        "कठोरता और आकार",
+        "DNA भंडारण",
+        "ऊर्जा उत्पादन",
+        "प्रोटीन संश्लेषण"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता और आकार देती है।",
+      "en": "The cell wall gives a plant cell rigidity and shape."
+    }
+  },
+  {
+    "id": "ch1_q143",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 8",
+      "en": "Which structure or feature is being identified? Question 8"
+    },
+    "options": {
+      "hi": [
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका भित्ति",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका भित्ति",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "माइटोकॉन्ड्रिया पादप और जंतु दोनों कोशिकाओं में पाए जाते हैं।",
+      "en": "Mitochondria occur in both plant and animal cells."
+    }
+  },
+  {
+    "id": "ch1_q144",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 9",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 9"
+    },
+    "options": {
+      "hi": [
+        "लाल रक्त कोशिका",
+        "केवल जीवाणु",
+        "जंतु कोशिका",
+        "पादप कोशिका"
+      ],
+      "en": [
+        "लाल रक्त कोशिका",
+        "केवल जीवाणु",
+        "जंतु कोशिका",
+        "पादप कोशिका"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषताएँ हैं।",
+      "en": "Cell wall, chloroplasts and a large central vacuole are key plant-cell features."
+    }
+  },
+  {
+    "id": "ch1_q145",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 10",
+      "en": "Which structure or feature is being identified? Question 10"
+    },
+    "options": {
+      "hi": [
+        "केंद्रकीय झिल्ली का अभाव",
+        "सह-कोशिका",
+        "न्यूक्लियॉइड",
+        "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका"
+      ],
+      "en": [
+        "केंद्रकीय झिल्ली का अभाव",
+        "सह-कोशिका",
+        "न्यूक्लियॉइड",
+        "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पादप कोशिकाओं में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
+      "en": "Plant cells generally have a large central vacuole"
+    }
+  },
+  {
+    "id": "ch1_q146",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 11",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 11"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "कोशिका भित्ति",
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक"
+      ],
+      "en": [
+        "राइबोसोम",
+        "कोशिका भित्ति",
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जंतु कोशिका में कोशिका भित्ति नहीं होती।",
+      "en": "Animal cells do not have a cell wall."
+    }
+  },
+  {
+    "id": "ch1_q147",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 12",
+      "en": "Which structure or feature is being identified? Question 12"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "केंद्रक",
+        "हरितलवक"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "केंद्रक",
+        "हरितलवक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "हरितलवक प्रकाश संश्लेषण से संबंधित है।",
+      "en": "Chloroplasts are associated with photosynthesis."
+    }
+  },
+  {
+    "id": "ch1_q148",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 13",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 13"
+    },
+    "options": {
+      "hi": [
+        "DNA का मुख्य भंडारण",
+        "जल और अन्य पदार्थों का भंडारण",
+        "प्रोटीन संश्लेषण",
+        "तंत्रिका संकेत"
+      ],
+      "en": [
+        "DNA का मुख्य भंडारण",
+        "जल और अन्य पदार्थों का भंडारण",
+        "प्रोटीन संश्लेषण",
+        "तंत्रिका संकेत"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "बड़ी केंद्रीय रिक्तिका भंडारण में सहायक होती है।",
+      "en": "The large central vacuole helps with storage."
+    }
+  },
+  {
+    "id": "ch1_q149",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 14",
+      "en": "Which structure or feature is being identified? Question 14"
+    },
+    "options": {
+      "hi": [
+        "हरितलवक",
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका झिल्ली",
+        "कोशिका भित्ति"
+      ],
+      "en": [
+        "हरितलवक",
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका झिल्ली",
+        "कोशिका भित्ति"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका झिल्ली दोनों प्रकार की कोशिकाओं में होती है।",
+      "en": "The cell membrane occurs in both cell types."
+    }
+  },
+  {
+    "id": "ch1_q150",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 15",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 15"
+    },
+    "options": {
+      "hi": [
+        "केवल झिल्ली और राइबोसोम",
+        "राइबोसोम, केंद्रक और माइटोकॉन्ड्रिया",
+        "गॉल्जी और ER",
+        "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका"
+      ],
+      "en": [
+        "केवल झिल्ली और राइबोसोम",
+        "राइबोसोम, केंद्रक और माइटोकॉन्ड्रिया",
+        "गॉल्जी और ER",
+        "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "ये पादप कोशिका की पहचान में उपयोगी विशेषताएँ हैं।",
+      "en": "These are useful features for identifying a plant cell."
+    }
+  },
+  {
+    "id": "ch1_q151",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 16",
+      "en": "Which structure or feature is being identified? Question 16"
+    },
+    "options": {
+      "hi": [
+        "हमेशा बड़ी केंद्रीय रिक्तिका",
+        "रिक्तिका कभी नहीं होती",
+        "रिक्तिका केवल भित्ति में होती है",
+        "छोटी रिक्तिकाएँ हो सकती हैं"
+      ],
+      "en": [
+        "हमेशा बड़ी केंद्रीय रिक्तिका",
+        "रिक्तिका कभी नहीं होती",
+        "रिक्तिका केवल भित्ति में होती है",
+        "छोटी रिक्तिकाएँ हो सकती हैं"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जंतु कोशिकाओं में छोटी रिक्तिकाएँ हो सकती हैं।",
+      "en": "Small vacuoles may occur in animal cells."
+    }
+  },
+  {
+    "id": "ch1_q152",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 17",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 17"
+    },
+    "options": {
+      "hi": [
+        "प्रोटीन संश्लेषण",
+        "ऊर्जा उत्पादन",
+        "कठोरता और आकार",
+        "DNA भंडारण"
+      ],
+      "en": [
+        "प्रोटीन संश्लेषण",
+        "ऊर्जा उत्पादन",
+        "कठोरता और आकार",
+        "DNA भंडारण"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता और आकार देती है।",
+      "en": "The cell wall gives a plant cell rigidity and shape."
+    }
+  },
+  {
+    "id": "ch1_q153",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 18",
+      "en": "Which structure or feature is being identified? Question 18"
+    },
+    "options": {
+      "hi": [
+        "माइटोकॉन्ड्रिया",
+        "हरितलवक",
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका भित्ति"
+      ],
+      "en": [
+        "माइटोकॉन्ड्रिया",
+        "हरितलवक",
+        "बड़ी केंद्रीय रिक्तिका",
+        "कोशिका भित्ति"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "माइटोकॉन्ड्रिया पादप और जंतु दोनों कोशिकाओं में पाए जाते हैं।",
+      "en": "Mitochondria occur in both plant and animal cells."
+    }
+  },
+  {
+    "id": "ch1_q154",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सा सही है? प्रश्न 19",
+      "en": "Which statement is correct when comparing plant and animal cells? Question 19"
+    },
+    "options": {
+      "hi": [
+        "पादप कोशिका",
+        "लाल रक्त कोशिका",
+        "केवल जीवाणु",
+        "जंतु कोशिका"
+      ],
+      "en": [
+        "पादप कोशिका",
+        "लाल रक्त कोशिका",
+        "केवल जीवाणु",
+        "जंतु कोशिका"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषताएँ हैं।",
+      "en": "Cell wall, chloroplasts and a large central vacuole are key plant-cell features."
+    }
+  },
+  {
+    "id": "ch1_q155",
+    "topic": "plant-cell-vs-animal-cell",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस संरचना या विशेषता की पहचान की जा रही है? प्रश्न 20",
+      "en": "Which structure or feature is being identified? Question 20"
+    },
+    "options": {
+      "hi": [
+        "केंद्रकीय झिल्ली का अभाव",
+        "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका",
+        "सह-कोशिका",
+        "न्यूक्लियॉइड"
+      ],
+      "en": [
+        "केंद्रकीय झिल्ली का अभाव",
+        "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका",
+        "सह-कोशिका",
+        "न्यूक्लियॉइड"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पादप कोशिकाओं में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
+      "en": "Plant cells generally have a large central vacuole"
+    }
+  },
+  {
+    "id": "ch1_q156",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (1)",
+      "en": "Which organelle or structure is associated with this function? (1)"
+    },
+    "options": {
+      "hi": [
+        "रिक्तिका",
+        "केंद्रक",
+        "गॉल्जी उपकरण",
+        "राइबोसोम"
+      ],
+      "en": [
+        "रिक्तिका",
+        "केंद्रक",
+        "गॉल्जी उपकरण",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "केंद्रक आनुवंशिक पदार्थ रखता है और कोशिका की गतिविधियों को नियंत्रित करता है।",
+      "en": "The nucleus contains genetic material and controls cell activities."
+    }
+  },
+  {
+    "id": "ch1_q157",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (2)",
+      "en": "Which organelle or structure is associated with this function? (2)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया",
+        "रिक्तिका",
+        "राइबोसोम"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया",
+        "रिक्तिका",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "माइटोकॉन्ड्रिया ऊर्जा उत्पादन में प्रमुख भूमिका निभाते हैं।",
+      "en": "Mitochondria play a major role in energy production."
+    }
+  },
+  {
+    "id": "ch1_q158",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (3)",
+      "en": "Which organelle or structure is associated with this function? (3)"
+    },
+    "options": {
+      "hi": [
+        "हरितलवक",
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "हरितलवक",
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "राइबोसोम प्रोटीन संश्लेषण का प्रमुख स्थल हैं।",
+      "en": "Ribosomes are the main site of protein synthesis."
+    }
+  },
+  {
+    "id": "ch1_q159",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (4)",
+      "en": "Which organelle or structure is associated with this function? (4)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "हरितलवक",
+        "कोशिका झिल्ली",
+        "कोशिका भित्ति"
+      ],
+      "en": [
+        "केंद्रक",
+        "हरितलवक",
+        "कोशिका झिल्ली",
+        "कोशिका भित्ति"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और पदार्थों के आवागमन को नियंत्रित करती है।",
+      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+    }
+  },
+  {
+    "id": "ch1_q160",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (5)",
+      "en": "Which organelle or structure is associated with this function? (5)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "राइबोसोम",
+        "कोशिका भित्ति",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "केंद्रक",
+        "राइबोसोम",
+        "कोशिका भित्ति",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता और आकार देती है।",
+      "en": "The cell wall gives a plant cell rigidity and shape."
+    }
+  },
+  {
+    "id": "ch1_q161",
+    "topic": "cell-organelles",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (6)",
+      "en": "Which organelle or structure is associated with this function? (6)"
+    },
+    "options": {
+      "hi": [
+        "कोशिका भित्ति",
+        "लाइसोसोम",
+        "हरितलवक",
+        "अंतर्द्रव्यी जालिका"
+      ],
+      "en": [
+        "कोशिका भित्ति",
+        "लाइसोसोम",
+        "हरितलवक",
+        "अंतर्द्रव्यी जालिका"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "ER कोशिका के भीतर पदार्थों के परिवहन में सहायता करता है।",
+      "en": "The ER helps transport materials within the cell."
+    }
+  },
+  {
+    "id": "ch1_q162",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (7)",
+      "en": "Which organelle or structure is associated with this function? (7)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "केंद्रक",
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में भाग लेता है।",
+      "en": "The Golgi apparatus participates in modification and packaging."
+    }
+  },
+  {
+    "id": "ch1_q163",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (8)",
+      "en": "Which organelle or structure is associated with this function? (8)"
+    },
+    "options": {
+      "hi": [
+        "माइटोकॉन्ड्रिया",
+        "हरितलवक",
+        "लाइसोसोम",
+        "राइबोसोम"
+      ],
+      "en": [
+        "माइटोकॉन्ड्रिया",
+        "हरितलवक",
+        "लाइसोसोम",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "हरितलवक प्रकाश संश्लेषण से संबंधित है।",
+      "en": "Chloroplasts are associated with photosynthesis."
+    }
+  },
+  {
+    "id": "ch1_q164",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (9)",
+      "en": "Which organelle or structure is associated with this function? (9)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "रिक्तिका",
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "केंद्रक",
+        "रिक्तिका",
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "रिक्तिका जल और अन्य पदार्थों के भंडारण में सहायक होती है।",
+      "en": "Vacuoles help store water and other substances."
+    }
+  },
+  {
+    "id": "ch1_q165",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कोशिकांग/संरचना इस कार्य से संबंधित है? (10)",
+      "en": "Which organelle or structure is associated with this function? (10)"
+    },
+    "options": {
+      "hi": [
+        "लाइसोसोम",
+        "राइबोसोम",
+        "हरितलवक",
+        "केंद्रक"
+      ],
+      "en": [
+        "लाइसोसोम",
+        "राइबोसोम",
+        "हरितलवक",
+        "केंद्रक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लाइसोसोम में पाचक एंजाइम होते हैं और वे अपशिष्ट पदार्थों के पाचन में सहायता करते हैं।",
+      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+    }
+  },
+  {
+    "id": "ch1_q166",
+    "topic": "cell-organelles",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (11)",
+      "en": "Which organelle has this main function? (11)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "राइबोसोम",
+        "केंद्रक"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "राइबोसोम",
+        "केंद्रक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "केंद्रक आनुवंशिक पदार्थ रखता है और कोशिका की गतिविधियों को नियंत्रित करता है।",
+      "en": "The nucleus contains genetic material and controls cell activities."
+    }
+  },
+  {
+    "id": "ch1_q167",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (12)",
+      "en": "Which organelle has this main function? (12)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "माइटोकॉन्ड्रिया",
+        "राइबोसोम"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "माइटोकॉन्ड्रिया",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "माइटोकॉन्ड्रिया ऊर्जा उत्पादन में प्रमुख भूमिका निभाते हैं।",
+      "en": "Mitochondria play a major role in energy production."
+    }
+  },
+  {
+    "id": "ch1_q168",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (13)",
+      "en": "Which organelle has this main function? (13)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "राइबोसोम प्रोटीन संश्लेषण का प्रमुख स्थल हैं।",
+      "en": "Ribosomes are the main site of protein synthesis."
+    }
+  },
+  {
+    "id": "ch1_q169",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (14)",
+      "en": "Which organelle has this main function? (14)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "हरितलवक",
+        "कोशिका झिल्ली",
+        "कोशिका भित्ति"
+      ],
+      "en": [
+        "केंद्रक",
+        "हरितलवक",
+        "कोशिका झिल्ली",
+        "कोशिका भित्ति"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और पदार्थों के आवागमन को नियंत्रित करती है।",
+      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+    }
+  },
+  {
+    "id": "ch1_q170",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (15)",
+      "en": "Which organelle has this main function? (15)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "कोशिका भित्ति",
+        "केंद्रक"
+      ],
+      "en": [
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "कोशिका भित्ति",
+        "केंद्रक"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता और आकार देती है।",
+      "en": "The cell wall gives a plant cell rigidity and shape."
+    }
+  },
+  {
+    "id": "ch1_q171",
+    "topic": "cell-organelles",
+    "difficulty": "hard",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (16)",
+      "en": "Which organelle has this main function? (16)"
+    },
+    "options": {
+      "hi": [
+        "कोशिका भित्ति",
+        "लाइसोसोम",
+        "अंतर्द्रव्यी जालिका",
+        "हरितलवक"
+      ],
+      "en": [
+        "कोशिका भित्ति",
+        "लाइसोसोम",
+        "अंतर्द्रव्यी जालिका",
+        "हरितलवक"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "ER कोशिका के भीतर पदार्थों के परिवहन में सहायता करता है।",
+      "en": "The ER helps transport materials within the cell."
+    }
+  },
+  {
+    "id": "ch1_q172",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (17)",
+      "en": "Which organelle has this main function? (17)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "केंद्रक",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "केंद्रक",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में भाग लेता है।",
+      "en": "The Golgi apparatus participates in modification and packaging."
+    }
+  },
+  {
+    "id": "ch1_q173",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (18)",
+      "en": "Which organelle has this main function? (18)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम"
+      ],
+      "en": [
+        "राइबोसोम",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "हरितलवक प्रकाश संश्लेषण से संबंधित है।",
+      "en": "Chloroplasts are associated with photosynthesis."
+    }
+  },
+  {
+    "id": "ch1_q174",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (19)",
+      "en": "Which organelle has this main function? (19)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "केंद्रक",
+        "राइबोसोम"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "केंद्रक",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "रिक्तिका जल और अन्य पदार्थों के भंडारण में सहायक होती है।",
+      "en": "Vacuoles help store water and other substances."
+    }
+  },
+  {
+    "id": "ch1_q175",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस कोशिकांग का प्रमुख कार्य यह है? (20)",
+      "en": "Which organelle has this main function? (20)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "हरितलवक",
+        "लाइसोसोम",
+        "राइबोसोम"
+      ],
+      "en": [
+        "केंद्रक",
+        "हरितलवक",
+        "लाइसोसोम",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "लाइसोसोम में पाचक एंजाइम होते हैं और वे अपशिष्ट पदार्थों के पाचन में सहायता करते हैं।",
+      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+    }
+  },
+  {
+    "id": "ch1_q176",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (21)",
+      "en": "If this function must be identified, which organelle is correct? (21)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "रिक्तिका",
+        "केंद्रक"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "रिक्तिका",
+        "केंद्रक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "केंद्रक आनुवंशिक पदार्थ रखता है और कोशिका की गतिविधियों को नियंत्रित करता है।",
+      "en": "The nucleus contains genetic material and controls cell activities."
+    }
+  },
+  {
+    "id": "ch1_q177",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (22)",
+      "en": "If this function must be identified, which organelle is correct? (22)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया",
+        "रिक्तिका",
+        "राइबोसोम"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया",
+        "रिक्तिका",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "माइटोकॉन्ड्रिया ऊर्जा उत्पादन में प्रमुख भूमिका निभाते हैं।",
+      "en": "Mitochondria play a major role in energy production."
+    }
+  },
+  {
+    "id": "ch1_q178",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (23)",
+      "en": "If this function must be identified, which organelle is correct? (23)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "हरितलवक",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "हरितलवक",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "राइबोसोम प्रोटीन संश्लेषण का प्रमुख स्थल हैं।",
+      "en": "Ribosomes are the main site of protein synthesis."
+    }
+  },
+  {
+    "id": "ch1_q179",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (24)",
+      "en": "If this function must be identified, which organelle is correct? (24)"
+    },
+    "options": {
+      "hi": [
+        "कोशिका भित्ति",
+        "केंद्रक",
+        "कोशिका झिल्ली",
+        "हरितलवक"
+      ],
+      "en": [
+        "कोशिका भित्ति",
+        "केंद्रक",
+        "कोशिका झिल्ली",
+        "हरितलवक"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और पदार्थों के आवागमन को नियंत्रित करती है।",
+      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+    }
+  },
+  {
+    "id": "ch1_q180",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (25)",
+      "en": "If this function must be identified, which organelle is correct? (25)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "केंद्रक",
+        "कोशिका भित्ति"
+      ],
+      "en": [
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "केंद्रक",
+        "कोशिका भित्ति"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता और आकार देती है।",
+      "en": "The cell wall gives a plant cell rigidity and shape."
+    }
+  },
+  {
+    "id": "ch1_q181",
+    "topic": "cell-organelles",
+    "difficulty": "hard",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (26)",
+      "en": "If this function must be identified, which organelle is correct? (26)"
+    },
+    "options": {
+      "hi": [
+        "अंतर्द्रव्यी जालिका",
+        "हरितलवक",
+        "लाइसोसोम",
+        "कोशिका भित्ति"
+      ],
+      "en": [
+        "अंतर्द्रव्यी जालिका",
+        "हरितलवक",
+        "लाइसोसोम",
+        "कोशिका भित्ति"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ER कोशिका के भीतर पदार्थों के परिवहन में सहायता करता है।",
+      "en": "The ER helps transport materials within the cell."
+    }
+  },
+  {
+    "id": "ch1_q182",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (27)",
+      "en": "If this function must be identified, which organelle is correct? (27)"
+    },
+    "options": {
+      "hi": [
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक",
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक",
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में भाग लेता है।",
+      "en": "The Golgi apparatus participates in modification and packaging."
+    }
+  },
+  {
+    "id": "ch1_q183",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (28)",
+      "en": "If this function must be identified, which organelle is correct? (28)"
+    },
+    "options": {
+      "hi": [
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम",
+        "हरितलवक",
+        "राइबोसोम"
+      ],
+      "en": [
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम",
+        "हरितलवक",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "हरितलवक प्रकाश संश्लेषण से संबंधित है।",
+      "en": "Chloroplasts are associated with photosynthesis."
+    }
+  },
+  {
+    "id": "ch1_q184",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (29)",
+      "en": "If this function must be identified, which organelle is correct? (29)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "रिक्तिका",
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "केंद्रक",
+        "रिक्तिका",
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "रिक्तिका जल और अन्य पदार्थों के भंडारण में सहायक होती है।",
+      "en": "Vacuoles help store water and other substances."
+    }
+  },
+  {
+    "id": "ch1_q185",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि इस कार्य की पहचान करनी हो, तो सही कोशिकांग कौन-सा होगा? (30)",
+      "en": "If this function must be identified, which organelle is correct? (30)"
+    },
+    "options": {
+      "hi": [
+        "लाइसोसोम",
+        "केंद्रक",
+        "राइबोसोम",
+        "हरितलवक"
+      ],
+      "en": [
+        "लाइसोसोम",
+        "केंद्रक",
+        "राइबोसोम",
+        "हरितलवक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लाइसोसोम में पाचक एंजाइम होते हैं और वे अपशिष्ट पदार्थों के पाचन में सहायता करते हैं।",
+      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+    }
+  },
+  {
+    "id": "ch1_q186",
+    "topic": "cell-organelles",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (31)",
+      "en": "Which organelle best matches this description? (31)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "केंद्रक"
+      ],
+      "en": [
+        "राइबोसोम",
+        "गॉल्जी उपकरण",
+        "रिक्तिका",
+        "केंद्रक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "केंद्रक आनुवंशिक पदार्थ रखता है और कोशिका की गतिविधियों को नियंत्रित करता है।",
+      "en": "The nucleus contains genetic material and controls cell activities."
+    }
+  },
+  {
+    "id": "ch1_q187",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (32)",
+      "en": "Which organelle best matches this description? (32)"
+    },
+    "options": {
+      "hi": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "रिक्तिका"
+      ],
+      "en": [
+        "गॉल्जी उपकरण",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "रिक्तिका"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "माइटोकॉन्ड्रिया ऊर्जा उत्पादन में प्रमुख भूमिका निभाते हैं।",
+      "en": "Mitochondria play a major role in energy production."
+    }
+  },
+  {
+    "id": "ch1_q188",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (33)",
+      "en": "Which organelle best matches this description? (33)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "हरितलवक",
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "राइबोसोम",
+        "हरितलवक",
+        "गॉल्जी उपकरण",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "राइबोसोम प्रोटीन संश्लेषण का प्रमुख स्थल हैं।",
+      "en": "Ribosomes are the main site of protein synthesis."
+    }
+  },
+  {
+    "id": "ch1_q189",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (34)",
+      "en": "Which organelle best matches this description? (34)"
+    },
+    "options": {
+      "hi": [
+        "कोशिका भित्ति",
+        "कोशिका झिल्ली",
+        "केंद्रक",
+        "हरितलवक"
+      ],
+      "en": [
+        "कोशिका भित्ति",
+        "कोशिका झिल्ली",
+        "केंद्रक",
+        "हरितलवक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और पदार्थों के आवागमन को नियंत्रित करती है।",
+      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+    }
+  },
+  {
+    "id": "ch1_q190",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (35)",
+      "en": "Which organelle best matches this description? (35)"
+    },
+    "options": {
+      "hi": [
+        "कोशिका भित्ति",
+        "गॉल्जी उपकरण",
+        "केंद्रक",
+        "राइबोसोम"
+      ],
+      "en": [
+        "कोशिका भित्ति",
+        "गॉल्जी उपकरण",
+        "केंद्रक",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता और आकार देती है।",
+      "en": "The cell wall gives a plant cell rigidity and shape."
+    }
+  },
+  {
+    "id": "ch1_q191",
+    "topic": "cell-organelles",
+    "difficulty": "hard",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (36)",
+      "en": "Which organelle best matches this description? (36)"
+    },
+    "options": {
+      "hi": [
+        "अंतर्द्रव्यी जालिका",
+        "हरितलवक",
+        "कोशिका भित्ति",
+        "लाइसोसोम"
+      ],
+      "en": [
+        "अंतर्द्रव्यी जालिका",
+        "हरितलवक",
+        "कोशिका भित्ति",
+        "लाइसोसोम"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ER कोशिका के भीतर पदार्थों के परिवहन में सहायता करता है।",
+      "en": "The ER helps transport materials within the cell."
+    }
+  },
+  {
+    "id": "ch1_q192",
+    "topic": "cell-organelles",
+    "difficulty": "easy",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (37)",
+      "en": "Which organelle best matches this description? (37)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में भाग लेता है।",
+      "en": "The Golgi apparatus participates in modification and packaging."
+    }
+  },
+  {
+    "id": "ch1_q193",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (38)",
+      "en": "Which organelle best matches this description? (38)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "लाइसोसोम",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया"
+      ],
+      "en": [
+        "राइबोसोम",
+        "लाइसोसोम",
+        "हरितलवक",
+        "माइटोकॉन्ड्रिया"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "हरितलवक प्रकाश संश्लेषण से संबंधित है।",
+      "en": "Chloroplasts are associated with photosynthesis."
+    }
+  },
+  {
+    "id": "ch1_q194",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (39)",
+      "en": "Which organelle best matches this description? (39)"
+    },
+    "options": {
+      "hi": [
+        "राइबोसोम",
+        "रिक्तिका",
+        "केंद्रक",
+        "गॉल्जी उपकरण"
+      ],
+      "en": [
+        "राइबोसोम",
+        "रिक्तिका",
+        "केंद्रक",
+        "गॉल्जी उपकरण"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "रिक्तिका जल और अन्य पदार्थों के भंडारण में सहायक होती है।",
+      "en": "Vacuoles help store water and other substances."
+    }
+  },
+  {
+    "id": "ch1_q195",
+    "topic": "cell-organelles",
+    "difficulty": "medium",
+    "question": {
+      "hi": "इस वर्णन के लिए सही कोशिकांग कौन-सा है? (40)",
+      "en": "Which organelle best matches this description? (40)"
+    },
+    "options": {
+      "hi": [
+        "केंद्रक",
+        "हरितलवक",
+        "लाइसोसोम",
+        "राइबोसोम"
+      ],
+      "en": [
+        "केंद्रक",
+        "हरितलवक",
+        "लाइसोसोम",
+        "राइबोसोम"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "लाइसोसोम में पाचक एंजाइम होते हैं और वे अपशिष्ट पदार्थों के पाचन में सहायता करते हैं।",
+      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+    }
+  },
+  {
+    "id": "ch1_q196",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 1",
+      "en": "Which option is correct regarding animal tissues? Question 1"
+    },
+    "options": {
+      "hi": [
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक",
+        "उपकला ऊतक",
+        "संयोजी ऊतक"
+      ],
+      "en": [
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक",
+        "उपकला ऊतक",
+        "संयोजी ऊतक"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "उपकला ऊतक शरीर की सतहों को ढकता और सुरक्षा देता है।",
+      "en": "Epithelial tissue covers body surfaces and provides protection."
+    }
+  },
+  {
+    "id": "ch1_q197",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 2",
+      "en": "Which tissue or feature is being identified? Question 2"
+    },
+    "options": {
+      "hi": [
+        "उपकला ऊतक",
+        "संयोजी ऊतक",
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक"
+      ],
+      "en": [
+        "उपकला ऊतक",
+        "संयोजी ऊतक",
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "संयोजी ऊतक शरीर के भागों को जोड़ता और सहारा देता है।",
+      "en": "Connective tissue connects and supports body parts."
+    }
+  },
+  {
+    "id": "ch1_q198",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 3",
+      "en": "Which option is correct regarding animal tissues? Question 3"
+    },
+    "options": {
+      "hi": [
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक",
+        "रक्त",
+        "उपकला ऊतक"
+      ],
+      "en": [
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक",
+        "रक्त",
+        "उपकला ऊतक"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "रक्त तरल संयोजी ऊतक है।",
+      "en": "Blood is a fluid connective tissue."
+    }
+  },
+  {
+    "id": "ch1_q199",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 4",
+      "en": "Which tissue or feature is being identified? Question 4"
+    },
+    "options": {
+      "hi": [
+        "पेशीय ऊतक",
+        "उपकला",
+        "तंत्रिका",
+        "संयोजी"
+      ],
+      "en": [
+        "पेशीय ऊतक",
+        "उपकला",
+        "तंत्रिका",
+        "संयोजी"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।",
+      "en": "Muscular tissue produces movement by contraction."
+    }
+  },
+  {
+    "id": "ch1_q200",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 5",
+      "en": "Which option is correct regarding animal tissues? Question 5"
+    },
+    "options": {
+      "hi": [
+        "उपकला",
+        "पेशीय",
+        "संयोजी",
+        "तंत्रिका ऊतक"
+      ],
+      "en": [
+        "उपकला",
+        "पेशीय",
+        "संयोजी",
+        "तंत्रिका ऊतक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "तंत्रिका ऊतक सूचना के संचार में सहायता करता है।",
+      "en": "Nervous tissue helps transmit information."
+    }
+  },
+  {
+    "id": "ch1_q201",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 6",
+      "en": "Which tissue or feature is being identified? Question 6"
+    },
+    "options": {
+      "hi": [
+        "संयोजी",
+        "अरेखित पेशी",
+        "हृदयक पेशीय ऊतक",
+        "उपकला"
+      ],
+      "en": [
+        "संयोजी",
+        "अरेखित पेशी",
+        "हृदयक पेशीय ऊतक",
+        "उपकला"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "हृदय में हृदयक पेशीय ऊतक पाया जाता है।",
+      "en": "Cardiac muscle tissue is found in the heart."
+    }
+  },
+  {
+    "id": "ch1_q202",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 7",
+      "en": "Which option is correct regarding animal tissues? Question 7"
+    },
+    "options": {
+      "hi": [
+        "केवल रेखित पेशी",
+        "तंत्रिका ऊतक",
+        "हृदयक पेशी",
+        "अरेखित पेशी"
+      ],
+      "en": [
+        "केवल रेखित पेशी",
+        "तंत्रिका ऊतक",
+        "हृदयक पेशी",
+        "अरेखित पेशी"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "आंत की दीवार में अरेखित पेशी सामान्यतः पाई जाती है।",
+      "en": "Unstriated muscle is generally found in the intestinal wall."
+    }
+  },
+  {
+    "id": "ch1_q203",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 8",
+      "en": "Which tissue or feature is being identified? Question 8"
+    },
+    "options": {
+      "hi": [
+        "हृदयक पेशी",
+        "अरेखित पेशी",
+        "उपकला",
+        "रेखित पेशी"
+      ],
+      "en": [
+        "हृदयक पेशी",
+        "अरेखित पेशी",
+        "उपकला",
+        "रेखित पेशी"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "रेखित पेशी में धारियाँ दिखाई देती हैं।",
+      "en": "Striated muscle shows visible bands."
+    }
+  },
+  {
+    "id": "ch1_q204",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 9",
+      "en": "Which option is correct regarding animal tissues? Question 9"
+    },
+    "options": {
+      "hi": [
+        "रक्त",
+        "अस्थि",
+        "तंत्रिका ऊतक",
+        "उपकला"
+      ],
+      "en": [
+        "रक्त",
+        "अस्थि",
+        "तंत्रिका ऊतक",
+        "उपकला"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "अस्थि संयोजी ऊतक का ठोस रूप है।",
+      "en": "Bone is a solid connective tissue."
+    }
+  },
+  {
+    "id": "ch1_q205",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 10",
+      "en": "Which tissue or feature is being identified? Question 10"
+    },
+    "options": {
+      "hi": [
+        "उपकला",
+        "पेशीय",
+        "तंत्रिका",
+        "उपास्थि"
+      ],
+      "en": [
+        "उपकला",
+        "पेशीय",
+        "तंत्रिका",
+        "उपास्थि"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "उपास्थि संयोजी ऊतक का एक रूप है।",
+      "en": "Cartilage is a form of connective tissue."
+    }
+  },
+  {
+    "id": "ch1_q206",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 11",
+      "en": "Which option is correct regarding animal tissues? Question 11"
+    },
+    "options": {
+      "hi": [
+        "अस्थि कोशिका",
+        "न्यूरॉन",
+        "वसा कोशिका",
+        "लाल रक्त कोशिका"
+      ],
+      "en": [
+        "अस्थि कोशिका",
+        "न्यूरॉन",
+        "वसा कोशिका",
+        "लाल रक्त कोशिका"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "न्यूरॉन तंत्रिका ऊतक की प्रमुख कार्यात्मक कोशिका है।",
+      "en": "A neuron is a major functional cell of nervous tissue."
+    }
+  },
+  {
+    "id": "ch1_q207",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 12",
+      "en": "Which tissue or feature is being identified? Question 12"
+    },
+    "options": {
+      "hi": [
+        "दो",
+        "चार",
+        "पाँच",
+        "तीन"
+      ],
+      "en": [
+        "दो",
+        "चार",
+        "पाँच",
+        "तीन"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जंतु ऊतक चार मुख्य प्रकार के होते हैं।",
+      "en": "There are four main types of animal tissue."
+    }
+  },
+  {
+    "id": "ch1_q208",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 13",
+      "en": "Which option is correct regarding animal tissues? Question 13"
+    },
+    "options": {
+      "hi": [
+        "विभज्योतक, स्थायी, जाइलम, फ्लोएम",
+        "उपकला, संयोजी, पेशीय और तंत्रिका",
+        "जाइलम, फ्लोएम, पेशीय, तंत्रिका",
+        "केवल रक्त, अस्थि, उपास्थि, त्वचा"
+      ],
+      "en": [
+        "विभज्योतक, स्थायी, जाइलम, फ्लोएम",
+        "उपकला, संयोजी, पेशीय और तंत्रिका",
+        "जाइलम, फ्लोएम, पेशीय, तंत्रिका",
+        "केवल रक्त, अस्थि, उपास्थि, त्वचा"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "ये जंतु ऊतक के चार मुख्य प्रकार हैं।",
+      "en": "These are the four main animal tissue types."
+    }
+  },
+  {
+    "id": "ch1_q209",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 14",
+      "en": "Which tissue or feature is being identified? Question 14"
+    },
+    "options": {
+      "hi": [
+        "पेशीय ऊतक",
+        "उपकला ऊतक",
+        "तंत्रिका ऊतक",
+        "संयोजी ऊतक"
+      ],
+      "en": [
+        "पेशीय ऊतक",
+        "उपकला ऊतक",
+        "तंत्रिका ऊतक",
+        "संयोजी ऊतक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "उपकला ऊतक शरीर की सतहों को ढकता और सुरक्षा देता है।",
+      "en": "Epithelial tissue covers body surfaces and provides protection."
+    }
+  },
+  {
+    "id": "ch1_q210",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 15",
+      "en": "Which option is correct regarding animal tissues? Question 15"
+    },
+    "options": {
+      "hi": [
+        "संयोजी ऊतक",
+        "तंत्रिका ऊतक",
+        "उपकला ऊतक",
+        "पेशीय ऊतक"
+      ],
+      "en": [
+        "संयोजी ऊतक",
+        "तंत्रिका ऊतक",
+        "उपकला ऊतक",
+        "पेशीय ऊतक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "संयोजी ऊतक शरीर के भागों को जोड़ता और सहारा देता है।",
+      "en": "Connective tissue connects and supports body parts."
+    }
+  },
+  {
+    "id": "ch1_q211",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 16",
+      "en": "Which tissue or feature is being identified? Question 16"
+    },
+    "options": {
+      "hi": [
+        "उपकला ऊतक",
+        "रक्त",
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक"
+      ],
+      "en": [
+        "उपकला ऊतक",
+        "रक्त",
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "रक्त तरल संयोजी ऊतक है।",
+      "en": "Blood is a fluid connective tissue."
+    }
+  },
+  {
+    "id": "ch1_q212",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 17",
+      "en": "Which option is correct regarding animal tissues? Question 17"
+    },
+    "options": {
+      "hi": [
+        "संयोजी",
+        "तंत्रिका",
+        "उपकला",
+        "पेशीय ऊतक"
+      ],
+      "en": [
+        "संयोजी",
+        "तंत्रिका",
+        "उपकला",
+        "पेशीय ऊतक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।",
+      "en": "Muscular tissue produces movement by contraction."
+    }
+  },
+  {
+    "id": "ch1_q213",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 18",
+      "en": "Which tissue or feature is being identified? Question 18"
+    },
+    "options": {
+      "hi": [
+        "तंत्रिका ऊतक",
+        "पेशीय",
+        "संयोजी",
+        "उपकला"
+      ],
+      "en": [
+        "तंत्रिका ऊतक",
+        "पेशीय",
+        "संयोजी",
+        "उपकला"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "तंत्रिका ऊतक सूचना के संचार में सहायता करता है।",
+      "en": "Nervous tissue helps transmit information."
+    }
+  },
+  {
+    "id": "ch1_q214",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 19",
+      "en": "Which option is correct regarding animal tissues? Question 19"
+    },
+    "options": {
+      "hi": [
+        "उपकला",
+        "हृदयक पेशीय ऊतक",
+        "अरेखित पेशी",
+        "संयोजी"
+      ],
+      "en": [
+        "उपकला",
+        "हृदयक पेशीय ऊतक",
+        "अरेखित पेशी",
+        "संयोजी"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "हृदय में हृदयक पेशीय ऊतक पाया जाता है।",
+      "en": "Cardiac muscle tissue is found in the heart."
+    }
+  },
+  {
+    "id": "ch1_q215",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 20",
+      "en": "Which tissue or feature is being identified? Question 20"
+    },
+    "options": {
+      "hi": [
+        "तंत्रिका ऊतक",
+        "हृदयक पेशी",
+        "अरेखित पेशी",
+        "केवल रेखित पेशी"
+      ],
+      "en": [
+        "तंत्रिका ऊतक",
+        "हृदयक पेशी",
+        "अरेखित पेशी",
+        "केवल रेखित पेशी"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "आंत की दीवार में अरेखित पेशी सामान्यतः पाई जाती है।",
+      "en": "Unstriated muscle is generally found in the intestinal wall."
+    }
+  },
+  {
+    "id": "ch1_q216",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 21",
+      "en": "Which option is correct regarding animal tissues? Question 21"
+    },
+    "options": {
+      "hi": [
+        "अरेखित पेशी",
+        "हृदयक पेशी",
+        "रेखित पेशी",
+        "उपकला"
+      ],
+      "en": [
+        "अरेखित पेशी",
+        "हृदयक पेशी",
+        "रेखित पेशी",
+        "उपकला"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "रेखित पेशी में धारियाँ दिखाई देती हैं।",
+      "en": "Striated muscle shows visible bands."
+    }
+  },
+  {
+    "id": "ch1_q217",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 22",
+      "en": "Which tissue or feature is being identified? Question 22"
+    },
+    "options": {
+      "hi": [
+        "उपकला",
+        "तंत्रिका ऊतक",
+        "अस्थि",
+        "रक्त"
+      ],
+      "en": [
+        "उपकला",
+        "तंत्रिका ऊतक",
+        "अस्थि",
+        "रक्त"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "अस्थि संयोजी ऊतक का ठोस रूप है।",
+      "en": "Bone is a solid connective tissue."
+    }
+  },
+  {
+    "id": "ch1_q218",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 23",
+      "en": "Which option is correct regarding animal tissues? Question 23"
+    },
+    "options": {
+      "hi": [
+        "उपास्थि",
+        "तंत्रिका",
+        "उपकला",
+        "पेशीय"
+      ],
+      "en": [
+        "उपास्थि",
+        "तंत्रिका",
+        "उपकला",
+        "पेशीय"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "उपास्थि संयोजी ऊतक का एक रूप है।",
+      "en": "Cartilage is a form of connective tissue."
+    }
+  },
+  {
+    "id": "ch1_q219",
+    "topic": "animal-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 24",
+      "en": "Which tissue or feature is being identified? Question 24"
+    },
+    "options": {
+      "hi": [
+        "अस्थि कोशिका",
+        "न्यूरॉन",
+        "वसा कोशिका",
+        "लाल रक्त कोशिका"
+      ],
+      "en": [
+        "अस्थि कोशिका",
+        "न्यूरॉन",
+        "वसा कोशिका",
+        "लाल रक्त कोशिका"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "न्यूरॉन तंत्रिका ऊतक की प्रमुख कार्यात्मक कोशिका है।",
+      "en": "A neuron is a major functional cell of nervous tissue."
+    }
+  },
+  {
+    "id": "ch1_q220",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जंतु ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 25",
+      "en": "Which option is correct regarding animal tissues? Question 25"
+    },
+    "options": {
+      "hi": [
+        "दो",
+        "तीन",
+        "पाँच",
+        "चार"
+      ],
+      "en": [
+        "दो",
+        "तीन",
+        "पाँच",
+        "चार"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जंतु ऊतक चार मुख्य प्रकार के होते हैं।",
+      "en": "There are four main types of animal tissue."
+    }
+  },
+  {
+    "id": "ch1_q221",
+    "topic": "plant-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 1",
+      "en": "Which option is correct regarding plant tissues? Question 1"
+    },
+    "options": {
+      "hi": [
+        "पेशीय और तंत्रिका",
+        "रेखित और अरेखित",
+        "उपकला और संयोजी",
+        "विभज्योतक और स्थायी"
+      ],
+      "en": [
+        "पेशीय और तंत्रिका",
+        "रेखित और अरेखित",
+        "उपकला और संयोजी",
+        "विभज्योतक और स्थायी"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "पादप ऊतक मुख्यतः विभज्योतक और स्थायी ऊतक में बाँटे जाते हैं।",
+      "en": "Plant tissues are mainly divided into meristematic and permanent tissues."
+    }
+  },
+  {
+    "id": "ch1_q222",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 2",
+      "en": "Which plant tissue or feature is being identified? Question 2"
+    },
+    "options": {
+      "hi": [
+        "विभाजन की स्थायी अनुपस्थिति",
+        "केवल जल भंडारण",
+        "सक्रिय कोशिका विभाजन",
+        "केवल जंतुओं में पाया जाना"
+      ],
+      "en": [
+        "विभाजन की स्थायी अनुपस्थिति",
+        "केवल जल भंडारण",
+        "सक्रिय कोशिका विभाजन",
+        "केवल जंतुओं में पाया जाना"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "विभज्योतक कोशिकाएँ सक्रिय रूप से विभाजित होती हैं।",
+      "en": "Meristematic cells actively divide."
+    }
+  },
+  {
+    "id": "ch1_q223",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 3",
+      "en": "Which option is correct regarding plant tissues? Question 3"
+    },
+    "options": {
+      "hi": [
+        "जड़ और तने के वर्धी क्षेत्र",
+        "केवल रक्त",
+        "केवल फल",
+        "केवल मृत पत्तियाँ"
+      ],
+      "en": [
+        "जड़ और तने के वर्धी क्षेत्र",
+        "केवल रक्त",
+        "केवल फल",
+        "केवल मृत पत्तियाँ"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "विभज्योतक ऊतक जड़ और तने के वर्धी क्षेत्रों में पाया जाता है।",
+      "en": "Meristematic tissue occurs in growing regions such as root and shoot tips."
+    }
+  },
+  {
+    "id": "ch1_q224",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 4",
+      "en": "Which plant tissue or feature is being identified? Question 4"
+    },
+    "options": {
+      "hi": [
+        "केवल प्रोकैरियोटिक होना",
+        "हमेशा सक्रिय विभाजन",
+        "विभाजन की क्षमता का सामान्यतः खो जाना",
+        "केवल जंतुओं में होना"
+      ],
+      "en": [
+        "केवल प्रोकैरियोटिक होना",
+        "हमेशा सक्रिय विभाजन",
+        "विभाजन की क्षमता का सामान्यतः खो जाना",
+        "केवल जंतुओं में होना"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "स्थायी ऊतक की कोशिकाएँ सामान्यतः विभाजन क्षमता खो देती हैं।",
+      "en": "Permanent tissue cells generally lose the ability to divide."
+    }
+  },
+  {
+    "id": "ch1_q225",
+    "topic": "plant-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 5",
+      "en": "Which option is correct regarding plant tissues? Question 5"
+    },
+    "options": {
+      "hi": [
+        "केवल जंतु कोशिकाएँ",
+        "अनेक अलग-अलग ऊतक प्रकार",
+        "केवल रक्त कोशिकाएँ",
+        "एक ही प्रकार की कोशिकाएँ"
+      ],
+      "en": [
+        "केवल जंतु कोशिकाएँ",
+        "अनेक अलग-अलग ऊतक प्रकार",
+        "केवल रक्त कोशिकाएँ",
+        "एक ही प्रकार की कोशिकाएँ"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "सरल स्थायी ऊतक एक प्रकार की कोशिकाओं से बना होता है।",
+      "en": "Simple permanent tissue is made of one type of cell."
+    }
+  },
+  {
+    "id": "ch1_q226",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 6",
+      "en": "Which plant tissue or feature is being identified? Question 6"
+    },
+    "options": {
+      "hi": [
+        "एक से अधिक प्रकार की कोशिकाएँ",
+        "कोई कोशिका नहीं",
+        "केवल एक कोशिका",
+        "केवल जंतु कोशिकाएँ"
+      ],
+      "en": [
+        "एक से अधिक प्रकार की कोशिकाएँ",
+        "कोई कोशिका नहीं",
+        "केवल एक कोशिका",
+        "केवल जंतु कोशिकाएँ"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जटिल स्थायी ऊतक अनेक प्रकार की कोशिकाओं से बना होता है।",
+      "en": "Complex permanent tissue consists of more than one type of cell."
+    }
+  },
+  {
+    "id": "ch1_q227",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 7",
+      "en": "Which option is correct regarding plant tissues? Question 7"
+    },
+    "options": {
+      "hi": [
+        "जटिल स्थायी ऊतक",
+        "जंतु ऊतक",
+        "सरल स्थायी ऊतक",
+        "विभज्योतक"
+      ],
+      "en": [
+        "जटिल स्थायी ऊतक",
+        "जंतु ऊतक",
+        "सरल स्थायी ऊतक",
+        "विभज्योतक"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जाइलम जटिल स्थायी ऊतक का उदाहरण है।",
+      "en": "Xylem is an example of complex permanent tissue."
+    }
+  },
+  {
+    "id": "ch1_q228",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 8",
+      "en": "Which plant tissue or feature is being identified? Question 8"
+    },
+    "options": {
+      "hi": [
+        "रक्त परिसंचरण",
+        "पाचन",
+        "पौधे की वृद्धि",
+        "तंत्रिका संकेत"
+      ],
+      "en": [
+        "रक्त परिसंचरण",
+        "पाचन",
+        "पौधे की वृद्धि",
+        "तंत्रिका संकेत"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "विभज्योतक कोशिकाओं का विभाजन पौधे की वृद्धि में योगदान देता है।",
+      "en": "Division of meristematic cells contributes to plant growth."
+    }
+  },
+  {
+    "id": "ch1_q229",
+    "topic": "plant-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 9",
+      "en": "Which option is correct regarding plant tissues? Question 9"
+    },
+    "options": {
+      "hi": [
+        "केवल आकार",
+        "कोशिकाओं के प्रकारों की संख्या",
+        "रंग",
+        "केवल स्थान"
+      ],
+      "en": [
+        "केवल आकार",
+        "कोशिकाओं के प्रकारों की संख्या",
+        "रंग",
+        "केवल स्थान"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "सरल और जटिल स्थायी ऊतक कोशिकाओं के प्रकारों की संख्या के आधार पर अलग होते हैं।",
+      "en": "Simple and complex permanent tissues differ by the number of cell types."
+    }
+  },
+  {
+    "id": "ch1_q230",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 10",
+      "en": "Which plant tissue or feature is being identified? Question 10"
+    },
+    "options": {
+      "hi": [
+        "केवल तंत्रिका कोशिकाएँ",
+        "विशेषीकृत",
+        "केवल प्रोकैरियोटिक",
+        "हमेशा सक्रिय रूप से विभाजित"
+      ],
+      "en": [
+        "केवल तंत्रिका कोशिकाएँ",
+        "विशेषीकृत",
+        "केवल प्रोकैरियोटिक",
+        "हमेशा सक्रिय रूप से विभाजित"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "स्थायी ऊतक की कोशिकाएँ अपने कार्य के लिए विशेषीकृत होती हैं।",
+      "en": "Permanent tissue cells are specialized for their functions."
+    }
+  },
+  {
+    "id": "ch1_q231",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 11",
+      "en": "Which option is correct regarding plant tissues? Question 11"
+    },
+    "options": {
+      "hi": [
+        "स्क्लेरेंकाइमा",
+        "कोलेनकाइमा",
+        "पैरेंकाइमा",
+        "फ्लोएम"
+      ],
+      "en": [
+        "स्क्लेरेंकाइमा",
+        "कोलेनकाइमा",
+        "पैरेंकाइमा",
+        "फ्लोएम"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "फ्लोएम जटिल स्थायी ऊतक है।",
+      "en": "Phloem is a complex permanent tissue."
+    }
+  },
+  {
+    "id": "ch1_q232",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 12",
+      "en": "Which plant tissue or feature is being identified? Question 12"
+    },
+    "options": {
+      "hi": [
+        "फ्लोएम",
+        "पैरेंकाइमा",
+        "जाइलम",
+        "रक्त"
+      ],
+      "en": [
+        "फ्लोएम",
+        "पैरेंकाइमा",
+        "जाइलम",
+        "रक्त"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "पैरेंकाइमा सरल स्थायी ऊतक का उदाहरण है।",
+      "en": "Parenchyma is an example of simple permanent tissue."
+    }
+  },
+  {
+    "id": "ch1_q233",
+    "topic": "plant-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 13",
+      "en": "Which option is correct regarding plant tissues? Question 13"
+    },
+    "options": {
+      "hi": [
+        "विभज्योतक ऊतक",
+        "स्थायी ऊतक",
+        "जंतु संयोजी",
+        "उपकला"
+      ],
+      "en": [
+        "विभज्योतक ऊतक",
+        "स्थायी ऊतक",
+        "जंतु संयोजी",
+        "उपकला"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सक्रिय विभाजन विभज्योतक ऊतक की विशेषता है।",
+      "en": "Active division is a feature of meristematic tissue."
+    }
+  },
+  {
+    "id": "ch1_q234",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 14",
+      "en": "Which plant tissue or feature is being identified? Question 14"
+    },
+    "options": {
+      "hi": [
+        "संयोजी",
+        "तंत्रिका",
+        "विभज्योतक",
+        "स्थायी ऊतक"
+      ],
+      "en": [
+        "संयोजी",
+        "तंत्रिका",
+        "विभज्योतक",
+        "स्थायी ऊतक"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "विशेषीकृत और सामान्यतः गैर-विभाजित कोशिकाएँ स्थायी ऊतक बनाती हैं।",
+      "en": "Specialized and generally non-dividing cells form permanent tissue."
+    }
+  },
+  {
+    "id": "ch1_q235",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 15",
+      "en": "Which option is correct regarding plant tissues? Question 15"
+    },
+    "options": {
+      "hi": [
+        "विभज्योतक",
+        "सरल स्थायी",
+        "जटिल स्थायी ऊतक",
+        "जंतु ऊतक"
+      ],
+      "en": [
+        "विभज्योतक",
+        "सरल स्थायी",
+        "जटिल स्थायी ऊतक",
+        "जंतु ऊतक"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जाइलम और फ्लोएम जटिल स्थायी ऊतक हैं।",
+      "en": "Xylem and phloem are complex permanent tissues."
+    }
+  },
+  {
+    "id": "ch1_q236",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 16",
+      "en": "Which plant tissue or feature is being identified? Question 16"
+    },
+    "options": {
+      "hi": [
+        "विभज्योतक और स्थायी",
+        "उपकला और संयोजी",
+        "पेशीय और तंत्रिका",
+        "रेखित और अरेखित"
+      ],
+      "en": [
+        "विभज्योतक और स्थायी",
+        "उपकला और संयोजी",
+        "पेशीय और तंत्रिका",
+        "रेखित और अरेखित"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पादप ऊतक मुख्यतः विभज्योतक और स्थायी ऊतक में बाँटे जाते हैं।",
+      "en": "Plant tissues are mainly divided into meristematic and permanent tissues."
+    }
+  },
+  {
+    "id": "ch1_q237",
+    "topic": "plant-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 17",
+      "en": "Which option is correct regarding plant tissues? Question 17"
+    },
+    "options": {
+      "hi": [
+        "सक्रिय कोशिका विभाजन",
+        "केवल जंतुओं में पाया जाना",
+        "विभाजन की स्थायी अनुपस्थिति",
+        "केवल जल भंडारण"
+      ],
+      "en": [
+        "सक्रिय कोशिका विभाजन",
+        "केवल जंतुओं में पाया जाना",
+        "विभाजन की स्थायी अनुपस्थिति",
+        "केवल जल भंडारण"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "विभज्योतक कोशिकाएँ सक्रिय रूप से विभाजित होती हैं।",
+      "en": "Meristematic cells actively divide."
+    }
+  },
+  {
+    "id": "ch1_q238",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 18",
+      "en": "Which plant tissue or feature is being identified? Question 18"
+    },
+    "options": {
+      "hi": [
+        "केवल मृत पत्तियाँ",
+        "केवल रक्त",
+        "जड़ और तने के वर्धी क्षेत्र",
+        "केवल फल"
+      ],
+      "en": [
+        "केवल मृत पत्तियाँ",
+        "केवल रक्त",
+        "जड़ और तने के वर्धी क्षेत्र",
+        "केवल फल"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "विभज्योतक ऊतक जड़ और तने के वर्धी क्षेत्रों में पाया जाता है।",
+      "en": "Meristematic tissue occurs in growing regions such as root and shoot tips."
+    }
+  },
+  {
+    "id": "ch1_q239",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पादप ऊतक के संदर्भ में सही विकल्प कौन-सा है? प्रश्न 19",
+      "en": "Which option is correct regarding plant tissues? Question 19"
+    },
+    "options": {
+      "hi": [
+        "हमेशा सक्रिय विभाजन",
+        "केवल प्रोकैरियोटिक होना",
+        "विभाजन की क्षमता का सामान्यतः खो जाना",
+        "केवल जंतुओं में होना"
+      ],
+      "en": [
+        "हमेशा सक्रिय विभाजन",
+        "केवल प्रोकैरियोटिक होना",
+        "विभाजन की क्षमता का सामान्यतः खो जाना",
+        "केवल जंतुओं में होना"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "स्थायी ऊतक की कोशिकाएँ सामान्यतः विभाजन क्षमता खो देती हैं।",
+      "en": "Permanent tissue cells generally lose the ability to divide."
+    }
+  },
+  {
+    "id": "ch1_q240",
+    "topic": "plant-tissues",
+    "difficulty": "medium",
+    "question": {
+      "hi": "किस पादप ऊतक/विशेषता की पहचान की जा रही है? प्रश्न 20",
+      "en": "Which plant tissue or feature is being identified? Question 20"
+    },
+    "options": {
+      "hi": [
+        "एक ही प्रकार की कोशिकाएँ",
+        "अनेक अलग-अलग ऊतक प्रकार",
+        "केवल जंतु कोशिकाएँ",
+        "केवल रक्त कोशिकाएँ"
+      ],
+      "en": [
+        "एक ही प्रकार की कोशिकाएँ",
+        "अनेक अलग-अलग ऊतक प्रकार",
+        "केवल जंतु कोशिकाएँ",
+        "केवल रक्त कोशिकाएँ"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "सरल स्थायी ऊतक एक प्रकार की कोशिकाओं से बना होता है।",
+      "en": "Simple permanent tissue is made of one type of cell."
+    }
+  },
+  {
+    "id": "ch1_q241",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 1 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 1?"
+    },
+    "options": {
+      "hi": [
+        "सह-कोशिका",
+        "चालनी नलिका",
+        "न्यूरॉन",
+        "वाहिनिका"
+      ],
+      "en": [
+        "सह-कोशिका",
+        "चालनी नलिका",
+        "न्यूरॉन",
+        "वाहिनिका"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "जाइलम में वाहिनिका, वाहिका, जाइलम मृदूतक और जाइलम रेशे होते हैं।",
+      "en": "Xylem contains tracheids, vessels, xylem parenchyma and xylem fibres."
+    }
+  },
+  {
+    "id": "ch1_q242",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 2 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 2?"
+    },
+    "options": {
+      "hi": [
+        "जाइलम मृदूतक",
+        "वाहिनिका",
+        "वाहिका",
+        "चालनी नलिका"
+      ],
+      "en": [
+        "जाइलम मृदूतक",
+        "वाहिनिका",
+        "वाहिका",
+        "चालनी नलिका"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "फ्लोएम में चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशे होते हैं।",
+      "en": "Phloem contains sieve tubes, companion cells, phloem parenchyma and phloem fibres."
+    }
+  },
+  {
+    "id": "ch1_q243",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 3 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 3?"
+    },
+    "options": {
+      "hi": [
+        "विभज्योतक",
+        "जंतु ऊतक",
+        "जटिल स्थायी ऊतक",
+        "सरल स्थायी"
+      ],
+      "en": [
+        "विभज्योतक",
+        "जंतु ऊतक",
+        "जटिल स्थायी ऊतक",
+        "सरल स्थायी"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जाइलम और फ्लोएम दोनों जटिल स्थायी ऊतक हैं।",
+      "en": "Both xylem and phloem are complex permanent tissues."
+    }
+  },
+  {
+    "id": "ch1_q244",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 4 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 4?"
+    },
+    "options": {
+      "hi": [
+        "केवल जंतु कोशिकाएँ",
+        "केवल तंत्रिका कोशिकाएँ",
+        "मृत कोशिकाएँ",
+        "सभी जीवित कोशिकाएँ"
+      ],
+      "en": [
+        "केवल जंतु कोशिकाएँ",
+        "केवल तंत्रिका कोशिकाएँ",
+        "मृत कोशिकाएँ",
+        "सभी जीवित कोशिकाएँ"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जाइलम की अधिकांश कोशिकाएँ परिपक्व अवस्था में मृत होती हैं।",
+      "en": "Most xylem cells are dead at maturity."
+    }
+  },
+  {
+    "id": "ch1_q245",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 5 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 5?"
+    },
+    "options": {
+      "hi": [
+        "वाहिनिका और वाहिका",
+        "चालनी नलिका और सह-कोशिका",
+        "केवल जाइलम मृदूतक",
+        "केवल जाइलम रेशे"
+      ],
+      "en": [
+        "वाहिनिका और वाहिका",
+        "चालनी नलिका और सह-कोशिका",
+        "केवल जाइलम मृदूतक",
+        "केवल जाइलम रेशे"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "फ्लोएम की चालनी नलिका और सह-कोशिका जीवित होती हैं।",
+      "en": "Sieve tubes and companion cells in phloem are living."
+    }
+  },
+  {
+    "id": "ch1_q246",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 6 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 6?"
+    },
+    "options": {
+      "hi": [
+        "जाइलम मृदूतक",
+        "सह-कोशिका",
+        "फ्लोएम मृदूतक",
+        "चालनी नलिका"
+      ],
+      "en": [
+        "जाइलम मृदूतक",
+        "सह-कोशिका",
+        "फ्लोएम मृदूतक",
+        "चालनी नलिका"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जाइलम मृदूतक जाइलम का घटक है।",
+      "en": "Xylem parenchyma is a component of xylem."
+    }
+  },
+  {
+    "id": "ch1_q247",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 7 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 7?"
+    },
+    "options": {
+      "hi": [
+        "वाहिनिका",
+        "वाहिका",
+        "फ्लोएम रेशा",
+        "जाइलम रेशा"
+      ],
+      "en": [
+        "वाहिनिका",
+        "वाहिका",
+        "फ्लोएम रेशा",
+        "जाइलम रेशा"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "फ्लोएम रेशा फ्लोएम का घटक है।",
+      "en": "Phloem fibre is a component of phloem."
+    }
+  },
+  {
+    "id": "ch1_q248",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 8 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 8?"
+    },
+    "options": {
+      "hi": [
+        "वाहिनिका/वाहिका और चालनी नलिका/सह-कोशिका",
+        "दोनों एक प्रकार की कोशिका से बने हैं",
+        "दोनों में केवल चालनी नलिका",
+        "जाइलम में सह-कोशिका"
+      ],
+      "en": [
+        "वाहिनिका/वाहिका और चालनी नलिका/सह-कोशिका",
+        "दोनों एक प्रकार की कोशिका से बने हैं",
+        "दोनों में केवल चालनी नलिका",
+        "जाइलम में सह-कोशिका"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ये क्रमशः जाइलम और फ्लोएम के प्रमुख संरचनात्मक घटक हैं।",
+      "en": "These are major structural components of xylem and phloem respectively."
+    }
+  },
+  {
+    "id": "ch1_q249",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 9 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 9?"
+    },
+    "options": {
+      "hi": [
+        "कोई कोशिका नहीं",
+        "केवल एक प्रकार की कोशिका",
+        "एक से अधिक प्रकार की कोशिकाएँ",
+        "जंतु ऊतक होना"
+      ],
+      "en": [
+        "कोई कोशिका नहीं",
+        "केवल एक प्रकार की कोशिका",
+        "एक से अधिक प्रकार की कोशिकाएँ",
+        "जंतु ऊतक होना"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "जटिल ऊतक अनेक प्रकार की कोशिकाओं से बने होते हैं।",
+      "en": "Complex tissues contain more than one cell type."
+    }
+  },
+  {
+    "id": "ch1_q250",
+    "topic": "xylem-phloem-structure",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जाइलम/फ्लोएम की संरचना के संदर्भ में प्रश्न 10 का सही उत्तर क्या है?",
+      "en": "What is the correct answer for xylem/phloem structure question 10?"
+    },
+    "options": {
+      "hi": [
+        "पाचन प्रक्रिया",
+        "संरचना और घटक",
+        "मानव रक्त परिसंचरण",
+        "जल और भोजन का परिवहन कार्य"
+      ],
+      "en": [
+        "पाचन प्रक्रिया",
+        "संरचना और घटक",
+        "मानव रक्त परिसंचरण",
+        "जल और भोजन का परिवहन कार्य"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "इस अध्याय की सीमा में जाइलम/फ्लोएम की संरचना पढ़ी जाती है; परिवहन कार्य Chapter 3 में है।",
+      "en": "This chapter covers xylem/phloem structure; transport function is reserved for Chapter 3."
+    }
+  }
+]
