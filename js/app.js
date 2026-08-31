@@ -227,14 +227,14 @@
                       </span>
 
                       <h4>
-                        ${section.title || ""}
+                        ${section.heading || ""}
                       </h4>
 
                       ${
-                        section.concept
+                        section.content
                           ? `
                             <p>
-                              ${section.concept}
+                              ${section.content}
                             </p>
                           `
                           : ""
