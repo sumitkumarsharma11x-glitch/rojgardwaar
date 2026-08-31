@@ -1,1 +1,113 @@
-
+{
+  "classes": [
+    {
+      "class": 6,
+      "label": {
+        "hi": "कक्षा 6",
+        "en": "Class 6"
+      },
+      "subjects": [
+        {
+          "subject": "science",
+          "label": {
+            "hi": "विज्ञान",
+            "en": "Science"
+          },
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "class": 7,
+      "label": {
+        "hi": "कक्षा 7",
+        "en": "Class 7"
+      },
+      "subjects": [
+        {
+          "subject": "science",
+          "label": {
+            "hi": "विज्ञान",
+            "en": "Science"
+          },
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "class": 8,
+      "label": {
+        "hi": "कक्षा 8",
+        "en": "Class 8"
+      },
+      "subjects": [
+        {
+          "subject": "science",
+          "label": {
+            "hi": "विज्ञान",
+            "en": "Science"
+          },
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "class": 9,
+      "label": {
+        "hi": "कक्षा 9",
+        "en": "Class 9"
+      },
+      "subjects": [
+        {
+          "subject": "biology",
+          "label": {
+            "hi": "जीव विज्ञान",
+            "en": "Biology"
+          },
+          "chapters": [
+            {
+              "chapter": "chapter-01",
+              "name": {
+                "hi": "कोशिका एवं ऊतक",
+                "en": "Cell & Tissue"
+              }
+            }
+          ]
+        },
+        {
+          "subject": "chemistry",
+          "label": {
+            "hi": "रसायन विज्ञान",
+            "en": "Chemistry"
+          },
+          "chapters": []
+        },
+        {
+          "subject": "physics",
+          "label": {
+            "hi": "भौतिक विज्ञान",
+            "en": "Physics"
+          },
+          "chapters": []
+        }
+      ]
+    },
+    {
+      "class": 10,
+      "label": {
+        "hi": "कक्षा 10",
+        "en": "Class 10"
+      },
+      "subjects": [
+        {
+          "subject": "science",
+          "label": {
+            "hi": "विज्ञान",
+            "en": "Science"
+          },
+          "chapters": []
+        }
+      ]
+    }
+  ]
+}
