@@ -227,64 +227,15 @@
                       </span>
 
                       <h4>
-                        ${section.title || ""}
+                        ${section.heading || ""}
                       </h4>
 
                       ${
-                        section.concept
+                        section.content
                           ? `
                             <p>
-                              ${section.concept}
+                              ${section.content}
                             </p>
-                          `
-                          : ""
-                      }
-
-                      ${
-                        section.explanation
-                          ? `
-                            <p>
-                              ${section.explanation}
-                            </p>
-                          `
-                          : ""
-                      }
-
-                      ${
-                        section.example
-                          ? `
-                            <div class="rjd-mini-example">
-                              <strong>
-                                💡 ${text(
-                                  "उदाहरण",
-                                  "Example"
-                                )}
-                              </strong>
-
-                              <p>
-                                ${section.example}
-                              </p>
-                            </div>
-                          `
-                          : ""
-                      }
-
-                      ${
-                        Array.isArray(section.keyPoints) &&
-                        section.keyPoints.length
-                          ? `
-                            <ul class="rjd-key-points">
-                              ${section.keyPoints
-                                .map(
-                                  (point) => `
-                                    <li>
-                                      <span>✓</span>
-                                      <span>${point}</span>
-                                    </li>
-                                  `
-                                )
-                                .join("")}
-                            </ul>
                           `
                           : ""
                       }
