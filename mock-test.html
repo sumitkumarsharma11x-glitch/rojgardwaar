@@ -1,67 +1,49 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mock Test — Class 6 Science Chapter 1 | RojgarDwaar</title>
-<meta name="robots" content="noindex">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;700&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#1a1a2e">
+  <title>Mock Test — Class 9 Biology Chapter 1 | RojgarDwaar</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚂</text></svg>">
+  <link rel="stylesheet" href="css/style.css">
+<base target="_blank">
 </head>
 <body>
 
-<header class="rjd-site-header">
-  <div class="rjd-site-header__inner">
-    <a class="rjd-brand" href="index.html">
-      <span class="rjd-brand__mark">RojgarDwaar</span>
-      <span class="rjd-brand__tag">MOCK TEST HQ</span>
-    </a>
-    <div class="rjd-lang-toggle" id="rjd-lang-toggle-global">
-      <button type="button" data-lang="hi">हिंदी</button>
-      <button type="button" data-lang="en">English</button>
+  <header class="rjd-header">
+    <div class="rjd-header__inner">
+      <a href="home.html" class="rjd-brand">
+        <span class="rjd-brand__icon">🚂</span>
+        <span class="rjd-brand__text" data-i18n="brand">RojgarDwaar</span>
+      </a>
+      <div class="rjd-lang" id="rjd-lang-toggle">
+        <button type="button" data-lang="hi" class="is-active">हिन्दी</button>
+        <button type="button" data-lang="en">English</button>
+      </div>
     </div>
-  </div>
-</header>
+  </header>
 
-<main class="rjd-container">
-  <div id="rjd-test-root">
-    <!-- testSession.js renders the exam UI / result here -->
-  </div>
-</main>
+  <main class="rjd-main" id="rjd-mock-root"></main>
 
-<footer class="rjd-site-footer">
-  RojgarDwaar · Class 6–10 NCERT-based practice &amp; mock tests
-</footer>
+  <footer class="rjd-footer">
+    <p>Class 6–10 NCERT-based Notes, Practice & Mock Tests</p>
+    <p>© RojgarDwaar</p>
+  </footer>
 
-<script src="js/storageManager.js"></script>
-<script src="js/languageManager.js"></script>
-<script src="js/dataLoader.js"></script>
-<script src="js/randomizer.js"></script>
-<script src="js/testGenerator.js"></script>
-<script src="js/timer.js"></script>
-<script src="js/scoreEngine.js"></script>
-<script src="js/uiManager.js"></script>
-<script src="js/wrongQuestionManager.js"></script>
-<script src="js/resultRenderer.js"></script>
-<script src="js/testSession.js"></script>
-<script>
-  document.getElementById("rjd-lang-toggle-global").addEventListener("click", function (e) {
-    var target = e.target.closest("[data-lang]");
-    if (!target) return;
-    LanguageManager.setLanguage(target.dataset.lang);
-  });
+  <script src="js/languageManager.js"></script>
+  <script src="js/storageManager.js"></script>
+  <script src="js/uiManager.js"></script>
+  <script src="js/dataLoader.js"></script>
+  <script src="js/randomizer.js"></script>
+  <script src="js/testGenerator.js"></script>
+  <script src="js/scoreEngine.js"></script>
+  <script src="js/timer.js"></script>
+  <script src="js/resultRenderer.js"></script>
+  <script src="js/testSession.js"></script>
+  <script src="js/wrongQuestionManager.js"></script>
+  <script src="js/mockTestApp.js"></script>
 
-  function syncGlobalLangToggle() {
-    var wrap = document.getElementById("rjd-lang-toggle-global");
-    wrap.querySelectorAll("[data-lang]").forEach(function (el) {
-      el.classList.toggle("is-active", el.dataset.lang === LanguageManager.getCurrent());
-    });
-  }
-  LanguageManager.onChange(syncGlobalLangToggle);
-  syncGlobalLangToggle();
-
-  initTestSession(document.getElementById("rjd-test-root"));
-</script>
 </body>
 </html>
