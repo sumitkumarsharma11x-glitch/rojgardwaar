@@ -1885,3 +1885,821 @@ button:focus-visible {
   transform: none;
   border-color: var(--line);
 }
+
+
+/* =========================================================================
+   RojgarDwaar — HOME PAGE REDESIGN
+   Premium landing page styles. Scoped to .rjd-home-* classes only.
+   Responsive: mobile-first, then tablet (640px), then desktop (900px).
+   ========================================================================= */
+
+/* ---------- Hero Section ----------------------------------------------- */
+.rjd-home-hero {
+  background: linear-gradient(135deg, #0f1a30 0%, #1b2a4a 50%, #162447 100%);
+  color: #fff;
+  padding: 48px 0 56px;
+  position: relative;
+  overflow: hidden;
+}
+
+.rjd-home-hero__inner {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 16px;
+  display: grid;
+  gap: 32px;
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .rjd-home-hero__inner {
+    grid-template-columns: 1.1fr 1fr;
+    gap: 40px;
+  }
+}
+
+.rjd-home-hero__pill {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+  background: rgba(193, 133, 44, 0.15);
+  border: 1px solid rgba(193, 133, 44, 0.35);
+  border-radius: 999px;
+  padding: 5px 14px;
+  margin-bottom: 16px;
+}
+
+.rjd-home-hero__title {
+  font-family: var(--font-display);
+  font-size: clamp(26px, 5vw, 40px);
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 14px;
+  color: #fff;
+}
+
+.rjd-home-hero__title span {
+  color: var(--gold);
+}
+
+.rjd-home-hero__subtitle {
+  font-size: 15px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.78);
+  margin: 0 0 24px;
+  max-width: 520px;
+}
+
+.rjd-home-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.rjd-home-hero__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 12px 20px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 0.1s ease, box-shadow 0.15s ease;
+  text-align: left;
+}
+
+.rjd-home-hero__btn:active {
+  transform: scale(0.98);
+}
+
+.rjd-home-hero__btn span:first-child {
+  font-size: 22px;
+  flex: none;
+}
+
+.rjd-home-hero__btn span:last-child {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+}
+
+.rjd-home-hero__btn b {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.rjd-home-hero__btn small {
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.9;
+}
+
+.rjd-home-hero__btn--mock {
+  background: linear-gradient(135deg, #f4c430, #d4a017);
+  color: #1a1500;
+  box-shadow: 0 4px 14px rgba(244, 196, 48, 0.35);
+}
+
+.rjd-home-hero__btn--mock:hover {
+  box-shadow: 0 6px 20px rgba(244, 196, 48, 0.45);
+}
+
+.rjd-home-hero__btn--practice {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+}
+
+.rjd-home-hero__btn--practice:hover {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.rjd-home-hero__features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 24px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.rjd-home-hero__features span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Hero Visual — Pure CSS scene */
+.rjd-home-hero__visual {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-hero__visual {
+    display: block;
+    position: relative;
+    min-height: 280px;
+  }
+}
+
+.rjd-home-hero__scene {
+  position: relative;
+  width: 100%;
+  height: 280px;
+}
+
+.rjd-home-books {
+  position: absolute;
+  right: 10%;
+  bottom: 20%;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  transform: rotate(-6deg);
+  z-index: 2;
+}
+
+.rjd-home-book {
+  width: 140px;
+  height: 34px;
+  border-radius: 4px 10px 10px 4px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 12px;
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #fff;
+  box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.25);
+  position: relative;
+}
+
+.rjd-home-book span {
+  font-size: 14px;
+}
+
+.rjd-home-book--bio {
+  background: linear-gradient(90deg, #2f6b4f, #3d8b65);
+  z-index: 3;
+}
+
+.rjd-home-book--phy {
+  background: linear-gradient(90deg, #1e5aa8, #2a75d1);
+  z-index: 2;
+  margin-left: -8px;
+}
+
+.rjd-home-book--chem {
+  background: linear-gradient(90deg, #6b2fa8, #8b4fd1);
+  z-index: 1;
+  margin-left: -16px;
+}
+
+.rjd-home-hero__microscope {
+  position: absolute;
+  right: 35%;
+  bottom: 25%;
+  font-size: 64px;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3));
+  z-index: 3;
+  transform: rotate(-12deg);
+}
+
+.rjd-home-floaters {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.rjd-home-floater {
+  position: absolute;
+  left: var(--f-x);
+  top: var(--f-y);
+  font-size: 28px;
+  opacity: 0.55;
+  animation: rjd-home-float var(--f-d, 4s) ease-in-out infinite alternate;
+}
+
+@keyframes rjd-home-float {
+  0% { transform: translateY(0) scale(1); }
+  100% { transform: translateY(-14px) scale(1.08); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rjd-home-floater {
+    animation: none;
+  }
+}
+
+/* ---------- Section wrapper -------------------------------------------- */
+.rjd-home-section {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 40px 16px;
+}
+
+.rjd-home-section__title {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 24px;
+  color: var(--ink);
+}
+
+/* ---------- Three Cards ------------------------------------------------ */
+.rjd-home-cards {
+  display: grid;
+  gap: 16px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-cards {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+  }
+}
+
+.rjd-home-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  padding: 0;
+  border: none;
+  font-family: inherit;
+  color: inherit;
+}
+
+.rjd-home-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(27, 42, 74, 0.12);
+}
+
+.rjd-home-card:active {
+  transform: translateY(-1px);
+}
+
+.rjd-home-card__top {
+  height: 5px;
+  width: 100%;
+}
+
+.rjd-home-card--mock .rjd-home-card__top {
+  background: linear-gradient(90deg, #2563eb, #3b82f6);
+}
+
+.rjd-home-card--practice .rjd-home-card__top {
+  background: linear-gradient(90deg, #16a34a, #22c55e);
+}
+
+.rjd-home-card--notes .rjd-home-card__top {
+  background: linear-gradient(90deg, #9333ea, #a855f7);
+}
+
+.rjd-home-card__body {
+  padding: 24px 18px 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.rjd-home-card__icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  margin-bottom: 4px;
+}
+
+.rjd-home-card--mock .rjd-home-card__icon {
+  background: #eff6ff;
+}
+
+.rjd-home-card--practice .rjd-home-card__icon {
+  background: #f0fdf4;
+}
+
+.rjd-home-card--notes .rjd-home-card__icon {
+  background: #faf5ff;
+}
+
+.rjd-home-card h3 {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0;
+  color: var(--ink);
+}
+
+.rjd-home-card p {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+.rjd-home-card__link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 18px;
+  border-radius: var(--radius-sm);
+  transition: background 0.12s ease;
+}
+
+.rjd-home-card--mock .rjd-home-card__link {
+  background: #2563eb;
+  color: #fff;
+}
+
+.rjd-home-card--practice .rjd-home-card__link {
+  background: #16a34a;
+  color: #fff;
+}
+
+.rjd-home-card--notes .rjd-home-card__link {
+  background: #9333ea;
+  color: #fff;
+}
+
+/* ---------- RailGaadi Section ------------------------------------------ */
+.rjd-home-rail {
+  background: linear-gradient(180deg, var(--paper-deep), var(--paper));
+  padding: 48px 16px;
+}
+
+.rjd-home-rail__card {
+  max-width: var(--container);
+  margin: 0 auto;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  display: grid;
+  gap: 0;
+  overflow: hidden;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail__card {
+    grid-template-columns: 220px 1fr;
+  }
+}
+
+.rjd-home-rail__visual {
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  min-height: 160px;
+  overflow: hidden;
+}
+
+.rjd-home-rail__train {
+  font-size: 80px;
+  z-index: 2;
+  filter: drop-shadow(2px 4px 4px rgba(0, 0, 0, 0.15));
+}
+
+.rjd-home-rail__track {
+  position: absolute;
+  bottom: 20px;
+  left: 10%;
+  right: 10%;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+.rjd-home-rail__track span {
+  display: block;
+  width: 28px;
+  height: 4px;
+  background: #8d6e63;
+  border-radius: 2px;
+  opacity: 0.5;
+}
+
+.rjd-home-rail__text {
+  padding: 28px 24px;
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail__text {
+    text-align: left;
+    padding: 32px 28px;
+  }
+}
+
+.rjd-home-rail__text h2 {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.rjd-home-rail__lead {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0 0 6px;
+}
+
+.rjd-home-rail__sub {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+}
+
+.rjd-home-rail__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--stamp-red);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 11px 22px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.1s ease, background 0.15s ease;
+}
+
+.rjd-home-rail__btn:hover {
+  background: #9c2f24;
+}
+
+.rjd-home-rail__btn:active {
+  transform: scale(0.98);
+}
+
+/* ---------- Exam Target Section ---------------------------------------- */
+.rjd-home-exams {
+  display: grid;
+  gap: 14px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-exams {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.rjd-home-exam {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 20px 18px;
+  text-align: center;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease;
+}
+
+.rjd-home-exam:hover {
+  transform: translateY(-2px);
+}
+
+.rjd-home-exam__badge {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  margin: 0 auto 12px;
+}
+
+.rjd-home-exam h4 {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: var(--ink);
+}
+
+.rjd-home-exam p {
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+/* ---------- Stats Section ---------------------------------------------- */
+.rjd-home-stats-wrap {
+  background: linear-gradient(180deg, var(--paper), var(--paper-deep));
+  padding: 36px 16px;
+}
+
+.rjd-home-stats {
+  max-width: var(--container);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-stats {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+}
+
+.rjd-home-stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 18px 12px;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.rjd-home-stat__icon {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.rjd-home-stat__num {
+  font-family: var(--font-display);
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.rjd-home-stat__label {
+  font-size: 12px;
+  color: var(--ink-soft);
+  line-height: 1.4;
+}
+
+.rjd-home-subjects {
+  max-width: var(--container);
+  margin: 18px auto 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.rjd-home-subject {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1.5px solid;
+}
+
+.rjd-home-subject--bio {
+  background: #f0fdf4;
+  color: #16a34a;
+  border-color: #bbf7d0;
+}
+
+.rjd-home-subject--phy {
+  background: #eff6ff;
+  color: #2563eb;
+  border-color: #bfdbfe;
+}
+
+.rjd-home-subject--chem {
+  background: #faf5ff;
+  color: #9333ea;
+  border-color: #e9d5ff;
+}
+
+/* ---------- Final CTA -------------------------------------------------- */
+.rjd-home-final {
+  background: linear-gradient(135deg, #0f1a30 0%, #1b2a4a 100%);
+  color: #fff;
+  padding: 44px 16px;
+  text-align: center;
+}
+
+.rjd-home-final__inner {
+  max-width: var(--container);
+  margin: 0 auto;
+}
+
+.rjd-home-final__rocket {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.rjd-home-final h2 {
+  font-family: var(--font-display);
+  font-size: clamp(20px, 4vw, 28px);
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+.rjd-home-final p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 0 0 22px;
+}
+
+.rjd-home-final__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, #f4c430, #d4a017);
+  color: #1a1500;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 14px 28px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(244, 196, 48, 0.35);
+  transition: transform 0.1s ease, box-shadow 0.15s ease;
+}
+
+.rjd-home-final__btn:hover {
+  box-shadow: 0 6px 20px rgba(244, 196, 48, 0.5);
+}
+
+.rjd-home-final__btn:active {
+  transform: scale(0.98);
+}
+
+/* ---------- Journey Wrapper (preserved flow) --------------------------- */
+.rjd-home-journey {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.rjd-home-journey__back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: transparent;
+  border: 1.5px solid var(--line);
+  color: var(--ink-soft);
+  border-radius: var(--radius-sm);
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 18px;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.rjd-home-journey__back:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.rjd-home-journey__title {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 18px;
+  color: var(--ink);
+}
+
+/* ---------- Mobile tightening ------------------------------------------ */
+@media (max-width: 480px) {
+  .rjd-home-hero {
+    padding: 32px 0 40px;
+  }
+
+  .rjd-home-hero__title {
+    font-size: 26px;
+  }
+
+  .rjd-home-hero__actions {
+    flex-direction: column;
+  }
+
+  .rjd-home-hero__btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .rjd-home-hero__features {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .rjd-home-section {
+    padding: 28px 16px;
+  }
+
+  .rjd-home-card__body {
+    padding: 20px 16px 18px;
+  }
+
+  .rjd-home-rail__text {
+    padding: 22px 18px;
+  }
+
+  .rjd-home-stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .rjd-home-stat {
+    padding: 14px 8px;
+  }
+
+  .rjd-home-stat__num {
+    font-size: 22px;
+  }
+
+  .rjd-home-final {
+    padding: 32px 16px;
+  }
+}
+
+/* ---------- Reduced motion --------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .rjd-home-card,
+  .rjd-home-exam,
+  .rjd-home-hero__btn,
+  .rjd-home-rail__btn,
+  .rjd-home-final__btn {
+    transition: none !important;
+  }
+
+  .rjd-home-floater {
+    animation: none !important;
+  }
+}
