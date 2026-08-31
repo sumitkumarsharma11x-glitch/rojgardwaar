@@ -14,6 +14,10 @@ const DataLoader = (function () {
   const cache = {};
 
   function basePath(classNum, subject, chapter) {
+    const scienceBranches = ["biology", "chemistry", "physics"];
+    if (scienceBranches.includes(subject)) {
+      return `data/science/${subject}/${chapter}`;
+    }
     return `data/class${classNum}/${subject}/${chapter}`;
   }
 
