@@ -45,7 +45,7 @@
 
     root.innerHTML = `
       <section class="rjd-rail-hero">
-        <span class="rjd-rail-hero__eyebrow">
+        <span class="rjd-rail-hero__badge">
           🚂 ${text("RailGaadi", "RailGaadi")}
         </span>
         <h1 class="rjd-rail-hero__title">
@@ -62,39 +62,37 @@
         </p>
       </section>
 
-      <div class="rjd-rail-track">
-        <div class="rjd-rail-breadcrumb">
-          <span class="rjd-rail-breadcrumb__step is-active">
-            ${text("कक्षा", "Class")}
-          </span>
-          <span class="rjd-rail-breadcrumb__divider">→</span>
-          <span class="rjd-rail-breadcrumb__step">
-            ${text("विषय", "Subject")}
-          </span>
-          <span class="rjd-rail-breadcrumb__divider">→</span>
-          <span class="rjd-rail-breadcrumb__step">
-            ${text("अध्याय", "Chapter")}
-          </span>
-        </div>
+      <div class="rjd-rail-breadcrumb">
+        <span class="rjd-rail-crumb is-active">
+          ${text("कक्षा", "Class")}
+        </span>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb">
+          ${text("विषय", "Subject")}
+        </span>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb">
+          ${text("अध्याय", "Chapter")}
+        </span>
+      </div>
 
-        <div class="rjd-rail-grid">
-          ${classes.map((cls) => `
-            <button
-              type="button"
-              class="rjd-rail-card"
-              data-class="${cls.class}"
-            >
-              <span class="rjd-rail-card__icon">📚</span>
-              <span class="rjd-rail-card__label">
-                ${pickLabel(cls.label)}
-              </span>
-              <span class="rjd-rail-card__meta">
-                ${(cls.subjects || []).length}
-                ${text("विषय", "Subjects")}
-              </span>
-            </button>
-          `).join("")}
-        </div>
+      <div class="rjd-rail-grid">
+        ${classes.map((cls) => `
+          <button
+            type="button"
+            class="rjd-rail-card"
+            data-class="${cls.class}"
+          >
+            <span class="rjd-rail-card__icon">📚</span>
+            <span class="rjd-rail-card__label">
+              ${pickLabel(cls.label)}
+            </span>
+            <span class="rjd-rail-card__meta">
+              ${(cls.subjects || []).length}
+              ${text("विषय", "Subjects")}
+            </span>
+          </button>
+        `).join("")}
       </div>
     `;
 
@@ -120,7 +118,7 @@
 
     root.innerHTML = `
       <section class="rjd-rail-hero">
-        <span class="rjd-rail-hero__eyebrow">
+        <span class="rjd-rail-hero__badge">
           🚂 ${text("RailGaadi", "RailGaadi")}
         </span>
         <h1 class="rjd-rail-hero__title">
@@ -134,45 +132,43 @@
         </p>
       </section>
 
-      <div class="rjd-rail-track">
-        <div class="rjd-rail-breadcrumb">
-          <button type="button" class="rjd-rail-breadcrumb__step is-done" data-back="classes">
-            ${pickLabel(selectedClass.label)}
-          </button>
-          <span class="rjd-rail-breadcrumb__divider">→</span>
-          <span class="rjd-rail-breadcrumb__step is-active">
-            ${text("विषय", "Subject")}
-          </span>
-          <span class="rjd-rail-breadcrumb__divider">→</span>
-          <span class="rjd-rail-breadcrumb__step">
-            ${text("अध्याय", "Chapter")}
-          </span>
-        </div>
+      <div class="rjd-rail-breadcrumb">
+        <button type="button" class="rjd-rail-crumb is-done" data-back="classes">
+          ${pickLabel(selectedClass.label)}
+        </button>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb is-active">
+          ${text("विषय", "Subject")}
+        </span>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb">
+          ${text("अध्याय", "Chapter")}
+        </span>
+      </div>
 
-        <div class="rjd-rail-grid">
-          ${subjects.map((subj) => {
-            const hasChapters = (subj.chapters || []).length > 0;
-            return `
-              <button
-                type="button"
-                class="rjd-rail-card ${!hasChapters ? 'rjd-rail-card--soon' : ''}"
-                data-subject="${subj.subject}"
-                ${!hasChapters ? 'disabled' : ''}
-              >
-                <span class="rjd-rail-card__icon">🔬</span>
-                <span class="rjd-rail-card__label">
-                  ${pickLabel(subj.label)}
-                </span>
-                <span class="rjd-rail-card__meta">
-                  ${hasChapters
-                    ? `${subj.chapters.length} ${text("अध्याय", "Chapters")}`
-                    : text("जल्द आ रहा है", "Coming Soon")
-                  }
-                </span>
-              </button>
-            `;
-          }).join("")}
-        </div>
+      <div class="rjd-rail-grid">
+        ${subjects.map((subj) => {
+          const hasChapters = (subj.chapters || []).length > 0;
+          return `
+            <button
+              type="button"
+              class="rjd-rail-card ${!hasChapters ? 'is-locked' : ''}"
+              data-subject="${subj.subject}"
+              ${!hasChapters ? 'disabled' : ''}
+            >
+              <span class="rjd-rail-card__icon">🔬</span>
+              <span class="rjd-rail-card__label">
+                ${pickLabel(subj.label)}
+              </span>
+              <span class="rjd-rail-card__meta">
+                ${hasChapters
+                  ? `${subj.chapters.length} ${text("अध्याय", "Chapters")}`
+                  : text("जल्द आ रहा है", "Coming Soon")
+                }
+              </span>
+            </button>
+          `;
+        }).join("")}
       </div>
     `;
 
@@ -203,7 +199,7 @@
 
     root.innerHTML = `
       <section class="rjd-rail-hero">
-        <span class="rjd-rail-hero__eyebrow">
+        <span class="rjd-rail-hero__badge">
           🚂 ${text("RailGaadi", "RailGaadi")}
         </span>
         <h1 class="rjd-rail-hero__title">
@@ -217,37 +213,35 @@
         </p>
       </section>
 
-      <div class="rjd-rail-track">
-        <div class="rjd-rail-breadcrumb">
-          <button type="button" class="rjd-rail-breadcrumb__step is-done" data-back="classes">
-            ${pickLabel(selectedClass.label)}
-          </button>
-          <span class="rjd-rail-breadcrumb__divider">→</span>
-          <button type="button" class="rjd-rail-breadcrumb__step is-done" data-back="subjects">
-            ${pickLabel(selectedSubject.label)}
-          </button>
-          <span class="rjd-rail-breadcrumb__divider">→</span>
-          <span class="rjd-rail-breadcrumb__step is-active">
-            ${text("अध्याय", "Chapter")}
-          </span>
-        </div>
+      <div class="rjd-rail-breadcrumb">
+        <button type="button" class="rjd-rail-crumb is-done" data-back="classes">
+          ${pickLabel(selectedClass.label)}
+        </button>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <button type="button" class="rjd-rail-crumb is-done" data-back="subjects">
+          ${pickLabel(selectedSubject.label)}
+        </button>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb is-active">
+          ${text("अध्याय", "Chapter")}
+        </span>
+      </div>
 
-        <div class="rjd-rail-grid">
-          ${chapters.map((ch) => `
-            <a
-              class="rjd-rail-card"
-              href="index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}"
-            >
-              <span class="rjd-rail-card__icon">📖</span>
-              <span class="rjd-rail-card__label">
-                ${pickLabel(ch.name)}
-              </span>
-              <span class="rjd-rail-card__meta">
-                ${text("पढ़ाई शुरू करें", "Start Learning")}
-              </span>
-            </a>
-          `).join("")}
-        </div>
+      <div class="rjd-rail-grid">
+        ${chapters.map((ch) => `
+          <a
+            class="rjd-rail-card"
+            href="index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}"
+          >
+            <span class="rjd-rail-card__icon">📖</span>
+            <span class="rjd-rail-card__label">
+              ${pickLabel(ch.name)}
+            </span>
+            <span class="rjd-rail-card__meta">
+              ${text("पढ़ाई शुरू करें", "Start Learning")}
+            </span>
+          </a>
+        `).join("")}
       </div>
     `;
 
@@ -288,7 +282,7 @@
 
       if (!manifest || !manifest.classes || !manifest.classes.length) {
         root.innerHTML = `
-          <div class="rjd-rail-empty">
+          <div class="rjd-empty-state">
             <p>${text("कोई कक्षा उपलब्ध नहीं।", "No classes available.")}</p>
           </div>
         `;
