@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Class 6 Science Chapter 1 — Notes, Practice & Mock Test | RojgarDwaar</title>
-<meta name="description" content="Class 6 Science Chapter 1 (Components of Food) — short notes, practice questions and multiple mock tests in Hindi and English.">
+<title>RojgarDwaar — Class 6–10 Science Practice & Mock Tests</title>
+<meta name="description" content="RojgarDwaar — Class 6 se 10 tak Science (Biology, Chemistry, Physics) ke exam-oriented notes, practice aur mock tests.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;700&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
@@ -13,7 +13,7 @@
 
 <header class="rjd-site-header">
   <div class="rjd-site-header__inner">
-    <a class="rjd-brand" href="index.html">
+    <a class="rjd-brand" href="home.html">
       <span class="rjd-brand__mark">RojgarDwaar</span>
       <span class="rjd-brand__tag">MOCK TEST HQ</span>
     </a>
@@ -25,8 +25,8 @@
 </header>
 
 <main class="rjd-container">
-  <div id="rjd-app-root">
-    <!-- App.js renders Notes / Practice / Mock Test tabs here -->
+  <div id="rjd-home-root">
+    <!-- home.js renders the RailGaadi hero + Class -> Subject -> Chapter journey here -->
   </div>
 </main>
 
@@ -34,16 +34,10 @@
   RojgarDwaar · Class 6–10 NCERT-based practice &amp; mock tests
 </footer>
 
-<!-- Modular scripts, loaded in dependency order. Blogger-safe: no bundler, no build step. -->
+<!-- Reuses existing shared scripts only for language/storage state. -->
+<!-- Does NOT load app.js / dataLoader.js — this page never fetches chapter data. -->
 <script src="js/storageManager.js"></script>
 <script src="js/languageManager.js"></script>
-<script src="js/dataLoader.js"></script>
-<script src="js/randomizer.js"></script>
-<script src="js/testGenerator.js"></script>
-<script src="js/scoreEngine.js"></script>
-<script src="js/uiManager.js"></script>
-<script src="js/wrongQuestionManager.js"></script>
-<script src="js/practiceEngine.js"></script>
-<script src="js/app.js"></script>
+<script src="js/home.js"></script>
 </body>
 </html>
