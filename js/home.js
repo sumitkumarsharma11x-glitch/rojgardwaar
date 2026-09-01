@@ -1,8 +1,8 @@
 /**
- * Home Page Controller — Redesigned Landing + RailGaadi Journey
+ * Home Page Controller — Landing + RailGaadi Journey
  * -----------------------------------------------------------------------
- * 1. LANDING: Premium homepage with Hero, Cards, RailGaadi, Exams, Stats, CTA
- * 2. JOURNEY: Class → Subject → Chapter selection (preserved from original)
+ * 1. LANDING: Hero, 3 Action Cards, RailGaadi, Exams, Stats, Final CTA
+ * 2. JOURNEY: Class → Subject → Chapter (preserved from original)
  * -----------------------------------------------------------------------
  */
 (function () {
@@ -10,64 +10,23 @@
   let currentView = "landing";
   let selectedClass = null;
   let selectedSubject = null;
-  let journeyIntent = "notes";
 
   const root = document.getElementById("rjd-home-root");
 
   /* =========================================================
-     BILINGUAL STRINGS (Home-page only)
+     LANGUAGE HELPER (preserved exactly)
   ========================================================= */
-  const S = {
-    heroTitle:       { hi: "अपनी Science तैयारी की यात्रा शुरू करें", en: "Start Your Science Preparation Journey" },
-    heroSubtitle:    { hi: "SSC • Railway • State Government Exams के लिए Biology • Physics • Chemistry की exam-focused तैयारी", en: "Exam-focused preparation for Biology • Physics • Chemistry for SSC • Railway • State Exams" },
-    heroCtaMock:     { hi: "Exam जैसा टेस्ट दो →", en: "Take exam-like tests →" },
-    heroCtaPractice: { hi: "Topic-wise questions solve करो →", en: "Solve topic-wise questions →" },
-    feature1:        { hi: "Exam-Oriented Content", en: "Exam-Oriented Content" },
-    feature2:        { hi: "Chapter-wise Tests", en: "Chapter-wise Tests" },
-    feature3:        { hi: "Better Results & Performance", en: "Better Results & Performance" },
-    mockTitle:       { hi: "MOCK TESTS", en: "MOCK TESTS" },
-    mockDesc:        { hi: "Exam जैसा टेस्ट दो और अपनी तैयारी को परखें।", en: "Take exam-like tests and evaluate your preparation." },
-    mockBtn:         { hi: "Test शुरू करें →", en: "Start Test →" },
-    practiceTitle:   { hi: "PRACTICE", en: "PRACTICE" },
-    practiceDesc:    { hi: "Topic-wise questions solve करें और रोज बेहतर बनें।", en: "Solve topic-wise questions and improve daily." },
-    practiceBtn:     { hi: "Practice शुरू करें →", en: "Start Practice →" },
-    notesTitle:      { hi: "NOTES", en: "NOTES" },
-    notesDesc:       { hi: "Important concepts और short notes जल्दी revise करें।", en: "Quickly revise important concepts and short notes." },
-    notesBtn:        { hi: "Notes पढ़ें →", en: "Read Notes →" },
-    railTitle:       { hi: "RailGaadi", en: "RailGaadi" },
-    railLead:        { hi: "अपनी Science तैयारी को सही direction में आगे बढ़ाएँ", en: "Move your Science preparation in the right direction" },
-    railSub:         { hi: "छोटे-छोटे steps में Biology, Physics और Chemistry को समझें और मजबूत बनाएँ।", en: "Understand Biology, Physics and Chemistry in small steps and build strong foundations." },
-    railBtn:         { hi: "तैयारी शुरू करें →", en: "Start Preparation →" },
-    examTitle:       { hi: "किस परीक्षा के लिए तैयारी?", en: "Preparing for which exam?" },
-    sscTitle:        { hi: "SSC Exams", en: "SSC Exams" },
-    sscDesc:         { hi: "SSC CGL, CHSL, MTS, GD, Steno आदि", en: "SSC CGL, CHSL, MTS, GD, Steno etc." },
-    railwayTitle:    { hi: "Railway Exams", en: "Railway Exams" },
-    railwayDesc:     { hi: "RRB NTPC, Group D, ALP, RPF, Technician आदि", en: "RRB NTPC, Group D, ALP, RPF, Technician etc." },
-    stateTitle:      { hi: "State Exams", en: "State Exams" },
-    stateDesc:       { hi: "UPPSC, MPPSC, Bihar SI, REET, Patwari आदि", en: "UPPSC, MPPSC, Bihar SI, REET, Patwari etc." },
-    statChapters:    { hi: "Exam-Focused Chapters", en: "Exam-Focused Chapters" },
-    statQuestions:   { hi: "Questions Per Chapter", en: "Questions Per Chapter" },
-    statMocks:       { hi: "Mock Tests Per Chapter", en: "Mock Tests Per Chapter" },
-    statContent:     { hi: "Exam-Oriented Content", en: "Exam-Oriented Content" },
-    finalTitle:      { hi: "आज ही अपनी तैयारी शुरू करें!", en: "Start Your Preparation Today!" },
-    finalSub:        { hi: "Mock Test दें, Practice करें और अपने सपनों की नौकरी पाएँ।", en: "Take Mock Tests, Practice and get your dream job." },
-    finalBtn:        { hi: "Mock Test शुरू करें →", en: "Start Mock Test →" },
-    subjectsLabel:   { hi: "विषय", en: "Subjects" },
-    chaptersLabel:   { hi: "अध्याय", en: "Chapters" },
-    classLabel:      { hi: "कक्षा", en: "Class" },
-    startLearning:   { hi: "पढ़ाई शुरू करें", en: "Start Learning" },
-    backToHome:      { hi: "← होम पर वापस जाएँ", en: "← Back to Home" },
-    noData:          { hi: "कोई डेटा उपलब्ध नहीं। कृपया बाद में पुनः प्रयास करें।", en: "No data available. Please try again later." },
-  };
-
-  function t(k) {
-    const e = S[k];
-    return e ? (e[LanguageManager.getCurrent()] || e.hi || k) : k;
+  function isHindi() {
+    return LanguageManager.getCurrent() === "hi";
   }
-  function isHindi() { return LanguageManager.getCurrent() === "hi"; }
-  function pickLabel(o) {
-    if (!o) return "";
-    return o[LanguageManager.getCurrent()] || o.hi || o.en || "";
+
+  function text(hi, en) {
+    return isHindi() ? hi : en;
+  }
+
+  function pickLabel(labelObj) {
+    if (!labelObj) return "";
+    return labelObj[LanguageManager.getCurrent()] || labelObj.hi || labelObj.en || "";
   }
 
   /* =========================================================
@@ -80,22 +39,26 @@
         <div class="rjd-home-hero__inner">
           <div class="rjd-home-hero__text">
             <div class="rjd-home-hero__pill">SSC • RAILWAY • STATE EXAMS</div>
-            <h1 class="rjd-home-hero__title">${t("heroTitle")}</h1>
-            <p class="rjd-home-hero__subtitle">${t("heroSubtitle")}</p>
+            <h1 class="rjd-home-hero__title">
+              ${text("Science की तैयारी अब Exam-Focused तरीके से!", "Science preparation, now Exam-Focused!")}
+            </h1>
+            <p class="rjd-home-hero__subtitle">
+              ${text("NCERT Class 6-10 के महत्वपूर्ण Concepts से अपनी तैयारी को दें नई गति।", "Give your preparation new momentum with important NCERT Class 6-10 Concepts.")}
+            </p>
             <div class="rjd-home-hero__actions">
               <button type="button" class="rjd-home-hero__btn rjd-home-hero__btn--mock" data-action="mock">
                 <span>📝</span>
-                <span><b>MOCK TESTS</b><small>${t("heroCtaMock")}</small></span>
+                <span><b>MOCK TESTS</b><small>${text("Exam जैसा टेस्ट दो →", "Take exam-like tests →")}</small></span>
               </button>
               <button type="button" class="rjd-home-hero__btn rjd-home-hero__btn--practice" data-action="practice">
                 <span>🎯</span>
-                <span><b>PRACTICE</b><small>${t("heroCtaPractice")}</small></span>
+                <span><b>PRACTICE</b><small>${text("Topic-wise questions solve करो →", "Solve topic-wise questions →")}</small></span>
               </button>
             </div>
             <div class="rjd-home-hero__features">
-              <span>🎯 ${t("feature1")}</span>
-              <span>📋 ${t("feature2")}</span>
-              <span>📈 ${t("feature3")}</span>
+              <span>🎯 ${text("Exam-Oriented Content", "Exam-Oriented Content")}</span>
+              <span>📋 ${text("Chapter-wise Tests", "Chapter-wise Tests")}</span>
+              <span>📈 ${text("Better Results & Performance", "Better Results & Performance")}</span>
             </div>
           </div>
           <div class="rjd-home-hero__visual" aria-hidden="true">
@@ -123,27 +86,27 @@
             <div class="rjd-home-card__top"></div>
             <div class="rjd-home-card__body">
               <div class="rjd-home-card__icon">📝</div>
-              <h3>${t("mockTitle")}</h3>
-              <p>${t("mockDesc")}</p>
-              <span class="rjd-home-card__link">${t("mockBtn")}</span>
+              <h3>MOCK TESTS</h3>
+              <p>${text("Exam जैसा टेस्ट दो और अपनी तैयारी को परखें।", "Take exam-like tests and evaluate your preparation.")}</p>
+              <span class="rjd-home-card__link">${text("Test शुरू करें →", "Start Test →")}</span>
             </div>
           </button>
           <button type="button" class="rjd-home-card rjd-home-card--practice" data-action="practice">
             <div class="rjd-home-card__top"></div>
             <div class="rjd-home-card__body">
               <div class="rjd-home-card__icon">🎯</div>
-              <h3>${t("practiceTitle")}</h3>
-              <p>${t("practiceDesc")}</p>
-              <span class="rjd-home-card__link">${t("practiceBtn")}</span>
+              <h3>PRACTICE</h3>
+              <p>${text("Topic-wise questions solve करें और रोज बेहतर बनें।", "Solve topic-wise questions and improve daily.")}</p>
+              <span class="rjd-home-card__link">${text("Practice शुरू करें →", "Start Practice →")}</span>
             </div>
           </button>
           <button type="button" class="rjd-home-card rjd-home-card--notes" data-action="notes">
             <div class="rjd-home-card__top"></div>
             <div class="rjd-home-card__body">
               <div class="rjd-home-card__icon">📚</div>
-              <h3>${t("notesTitle")}</h3>
-              <p>${t("notesDesc")}</p>
-              <span class="rjd-home-card__link">${t("notesBtn")}</span>
+              <h3>NOTES</h3>
+              <p>${text("Important concepts और short notes जल्दी revise करें।", "Quickly revise important concepts and short notes.")}</p>
+              <span class="rjd-home-card__link">${text("Notes पढ़ें →", "Read Notes →")}</span>
             </div>
           </button>
         </div>
@@ -158,31 +121,31 @@
             </div>
           </div>
           <div class="rjd-home-rail__text">
-            <h2>🚂 ${t("railTitle")}</h2>
-            <p class="rjd-home-rail__lead">${t("railLead")}</p>
-            <p class="rjd-home-rail__sub">${t("railSub")}</p>
-            <button type="button" class="rjd-home-rail__btn" data-action="journey">${t("railBtn")}</button>
+            <h2>🚂 RailGaadi</h2>
+            <p class="rjd-home-rail__lead">${text("अपनी Science तैयारी को सही direction में आगे बढ़ाएँ", "Move your Science preparation in the right direction")}</p>
+            <p class="rjd-home-rail__sub">${text("छोटे-छोटे steps में Biology, Physics और Chemistry को समझें और मजबूत बनाएँ।", "Understand Biology, Physics and Chemistry in small steps and build strong foundations.")}</p>
+            <button type="button" class="rjd-home-rail__btn" data-action="journey">${text("तैयारी शुरू करें →", "Start Preparation →")}</button>
           </div>
         </div>
       </section>
 
       <section class="rjd-home-section">
-        <h2 class="rjd-home-section__title">🏆 ${t("examTitle")}</h2>
+        <h2 class="rjd-home-section__title">🏆 ${text("किस परीक्षा के लिए तैयारी?", "Preparing for which exam?")}</h2>
         <div class="rjd-home-exams">
           <div class="rjd-home-exam">
             <div class="rjd-home-exam__badge">🏛️</div>
-            <h4>${t("sscTitle")}</h4>
-            <p>${t("sscDesc")}</p>
+            <h4>${text("SSC Exams", "SSC Exams")}</h4>
+            <p>${text("SSC CGL, CHSL, MTS, GD, Steno आदि", "SSC CGL, CHSL, MTS, GD, Steno etc.")}</p>
           </div>
           <div class="rjd-home-exam">
             <div class="rjd-home-exam__badge">🚆</div>
-            <h4>${t("railwayTitle")}</h4>
-            <p>${t("railwayDesc")}</p>
+            <h4>${text("Railway Exams", "Railway Exams")}</h4>
+            <p>${text("RRB NTPC, Group D, ALP, RPF, Technician आदि", "RRB NTPC, Group D, ALP, RPF, Technician etc.")}</p>
           </div>
           <div class="rjd-home-exam">
             <div class="rjd-home-exam__badge">🏫</div>
-            <h4>${t("stateTitle")}</h4>
-            <p>${t("stateDesc")}</p>
+            <h4>${text("State Exams", "State Exams")}</h4>
+            <p>${text("UPPSC, MPPSC, Bihar SI, REET, Patwari आदि", "UPPSC, MPPSC, Bihar SI, REET, Patwari etc.")}</p>
           </div>
         </div>
       </section>
@@ -192,22 +155,22 @@
           <div class="rjd-home-stat">
             <div class="rjd-home-stat__icon">📖</div>
             <div class="rjd-home-stat__num">37+</div>
-            <div class="rjd-home-stat__label">${t("statChapters")}</div>
+            <div class="rjd-home-stat__label">${text("Exam-Focused Chapters", "Exam-Focused Chapters")}</div>
           </div>
           <div class="rjd-home-stat">
             <div class="rjd-home-stat__icon">❓</div>
             <div class="rjd-home-stat__num">150+</div>
-            <div class="rjd-home-stat__label">${t("statQuestions")}</div>
+            <div class="rjd-home-stat__label">${text("Questions Per Chapter", "Questions Per Chapter")}</div>
           </div>
           <div class="rjd-home-stat">
             <div class="rjd-home-stat__icon">📋</div>
             <div class="rjd-home-stat__num">5</div>
-            <div class="rjd-home-stat__label">${t("statMocks")}</div>
+            <div class="rjd-home-stat__label">${text("Mock Tests Per Chapter", "Mock Tests Per Chapter")}</div>
           </div>
           <div class="rjd-home-stat">
             <div class="rjd-home-stat__icon">🎯</div>
             <div class="rjd-home-stat__num">100%</div>
-            <div class="rjd-home-stat__label">${t("statContent")}</div>
+            <div class="rjd-home-stat__label">${text("Exam-Oriented Content", "Exam-Oriented Content")}</div>
           </div>
         </div>
         <div class="rjd-home-subjects">
@@ -220,17 +183,15 @@
       <section class="rjd-home-final">
         <div class="rjd-home-final__inner">
           <div class="rjd-home-final__rocket">🚀</div>
-          <h2>${t("finalTitle")}</h2>
-          <p>${t("finalSub")}</p>
-          <button type="button" class="rjd-home-final__btn" data-action="mock">${t("finalBtn")}</button>
+          <h2>${text("आज ही अपनी तैयारी शुरू करें!", "Start Your Preparation Today!")}</h2>
+          <p>${text("Mock Test दें, Practice करें और अपने सपनों की नौकरी पाएँ।", "Take Mock Tests, Practice and get your dream job.")}</p>
+          <button type="button" class="rjd-home-final__btn" data-action="mock">${text("Mock Test शुरू करें →", "Start Mock Test →")}</button>
         </div>
       </section>
     `;
 
     root.querySelectorAll("[data-action]").forEach((btn) => {
       btn.addEventListener("click", () => {
-        const a = btn.dataset.action;
-        journeyIntent = (a === "journey") ? "notes" : a;
         startJourney();
       });
     });
@@ -238,45 +199,60 @@
 
   function startJourney() {
     if (!manifest || !manifest.classes || !manifest.classes.length) {
-      UIManager.toast(isHindi() ? t("noData") : t("noData"), "warn", 4000);
+      UIManager.toast(text("कोई डेटा उपलब्ध नहीं। कृपया बाद में पुनः प्रयास करें।", "No data available. Please try again later."), "warn", 4000);
       return;
     }
     renderClasses();
   }
 
   /* =========================================================
-     JOURNEY: Class → Subject → Chapter (PRESERVED)
+     JOURNEY: Class → Subject → Chapter (PRESERVED EXACTLY)
   ========================================================= */
   function renderClasses() {
     currentView = "classes";
     selectedClass = null;
     selectedSubject = null;
+
     const classes = manifest.classes || [];
 
     root.innerHTML = `
-      <div class="rjd-home-journey">
-        <button type="button" class="rjd-home-journey__back" id="rjd-back-home">${t("backToHome")}</button>
-        <div class="rjd-rail-breadcrumb">
-          <span class="rjd-rail-crumb is-active">${t("classLabel")}</span>
-          <span class="rjd-rail-crumb__sep">→</span>
-          <span class="rjd-rail-crumb">${t("subjectsLabel")}</span>
-          <span class="rjd-rail-crumb__sep">→</span>
-          <span class="rjd-rail-crumb">${t("chaptersLabel")}</span>
-        </div>
-        <h2 class="rjd-home-journey__title">${isHindi() ? "अपनी कक्षा चुनें" : "Select Your Class"}</h2>
-        <div class="rjd-rail-grid">
-          ${classes.map((cls) => `
-            <button type="button" class="rjd-rail-card" data-class="${cls.class}">
-              <span class="rjd-rail-card__icon">📚</span>
-              <span class="rjd-rail-card__label">${pickLabel(cls.label)}</span>
-              <span class="rjd-rail-card__meta">${(cls.subjects || []).length} ${t("subjectsLabel")}</span>
-            </button>
-          `).join("")}
-        </div>
+      <section class="rjd-rail-hero">
+        <span class="rjd-rail-hero__badge">
+          🚂 ${text("RailGaadi", "RailGaadi")}
+        </span>
+        <h1 class="rjd-rail-hero__title">
+          ${text("अपनी पढ़ाई की यात्रा शुरू करें", "Start Your Learning Journey")}
+        </h1>
+        <p class="rjd-rail-hero__subtitle">
+          ${text("अपनी कक्षा चुनें और सही direction में आगे बढ़ें।", "Select your class and move in the right direction.")}
+        </p>
+      </section>
+
+      <div class="rjd-rail-breadcrumb">
+        <span class="rjd-rail-crumb is-active">${text("कक्षा", "Class")}</span>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb">${text("विषय", "Subject")}</span>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb">${text("अध्याय", "Chapter")}</span>
+      </div>
+
+      <div class="rjd-rail-grid">
+        ${classes.map((cls) => `
+          <button type="button" class="rjd-rail-card" data-class="${cls.class}">
+            <span class="rjd-rail-card__icon">📚</span>
+            <span class="rjd-rail-card__label">${pickLabel(cls.label)}</span>
+            <span class="rjd-rail-card__meta">${(cls.subjects || []).length} ${text("विषय", "Subjects")}</span>
+          </button>
+        `).join("")}
+      </div>
+
+      <div style="text-align:center; padding-bottom: 32px;">
+        <button type="button" class="rjd-btn rjd-btn--ghost" id="rjd-back-landing">${text("← होम पर वापस जाएँ", "← Back to Home")}</button>
       </div>
     `;
 
-    document.getElementById("rjd-back-home").addEventListener("click", renderLanding);
+    document.getElementById("rjd-back-landing").addEventListener("click", renderLanding);
+
     root.querySelectorAll("[data-class]").forEach((btn) => {
       btn.addEventListener("click", () => {
         selectedClass = manifest.classes.find((c) => String(c.class) === btn.dataset.class);
@@ -288,38 +264,52 @@
   function renderSubjects() {
     if (!selectedClass) return renderClasses();
     currentView = "subjects";
+
     const subjects = selectedClass.subjects || [];
 
     root.innerHTML = `
-      <div class="rjd-home-journey">
-        <button type="button" class="rjd-home-journey__back" id="rjd-back-home">${t("backToHome")}</button>
-        <div class="rjd-rail-breadcrumb">
-          <button type="button" class="rjd-rail-crumb is-done" data-step="classes">${pickLabel(selectedClass.label)}</button>
-          <span class="rjd-rail-crumb__sep">→</span>
-          <span class="rjd-rail-crumb is-active">${t("subjectsLabel")}</span>
-          <span class="rjd-rail-crumb__sep">→</span>
-          <span class="rjd-rail-crumb">${t("chaptersLabel")}</span>
-        </div>
-        <h2 class="rjd-home-journey__title">${isHindi() ? "अपना विषय चुनें" : "Select Your Subject"}</h2>
-        <div class="rjd-rail-grid">
-          ${subjects.map((subj) => {
-            const hasChapters = (subj.chapters || []).length > 0;
-            return `
-              <button type="button" class="rjd-rail-card ${!hasChapters ? 'is-locked' : ''}" data-subject="${subj.subject}" ${!hasChapters ? 'disabled' : ''}>
-                <span class="rjd-rail-card__icon">🔬</span>
-                <span class="rjd-rail-card__label">${pickLabel(subj.label)}</span>
-                <span class="rjd-rail-card__meta">${hasChapters ? `${subj.chapters.length} ${t("chaptersLabel")}` : (isHindi() ? "जल्द आ रहा है" : "Coming Soon")}</span>
-              </button>
-            `;
-          }).join("")}
-        </div>
+      <section class="rjd-rail-hero">
+        <span class="rjd-rail-hero__badge">
+          🚂 ${text("RailGaadi", "RailGaadi")}
+        </span>
+        <h1 class="rjd-rail-hero__title">${pickLabel(selectedClass.label)}</h1>
+        <p class="rjd-rail-hero__subtitle">
+          ${text("अपना विषय चुनें और आगे बढ़ें।", "Select your subject and continue.")}
+        </p>
+      </section>
+
+      <div class="rjd-rail-breadcrumb">
+        <button type="button" class="rjd-rail-crumb is-done" data-back="classes">${pickLabel(selectedClass.label)}</button>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb is-active">${text("विषय", "Subject")}</span>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb">${text("अध्याय", "Chapter")}</span>
+      </div>
+
+      <div class="rjd-rail-grid">
+        ${subjects.map((subj) => {
+          const hasChapters = (subj.chapters || []).length > 0;
+          return `
+            <button type="button" class="rjd-rail-card ${!hasChapters ? 'is-locked' : ''}" data-subject="${subj.subject}" ${!hasChapters ? 'disabled' : ''}>
+              <span class="rjd-rail-card__icon">🔬</span>
+              <span class="rjd-rail-card__label">${pickLabel(subj.label)}</span>
+              <span class="rjd-rail-card__meta">${hasChapters ? `${subj.chapters.length} ${text("अध्याय", "Chapters")}` : text("जल्द आ रहा है", "Coming Soon")}</span>
+            </button>
+          `;
+        }).join("")}
+      </div>
+
+      <div style="text-align:center; padding-bottom: 32px;">
+        <button type="button" class="rjd-btn rjd-btn--ghost" id="rjd-back-landing">${text("← होम पर वापस जाएँ", "← Back to Home")}</button>
       </div>
     `;
 
-    document.getElementById("rjd-back-home").addEventListener("click", renderLanding);
-    root.querySelectorAll("[data-step]").forEach((btn) => {
+    document.getElementById("rjd-back-landing").addEventListener("click", renderLanding);
+
+    root.querySelectorAll("[data-back]").forEach((btn) => {
       btn.addEventListener("click", () => renderClasses());
     });
+
     root.querySelectorAll("[data-subject]").forEach((btn) => {
       if (btn.disabled) return;
       btn.addEventListener("click", () => {
@@ -332,42 +322,55 @@
   function renderChapters() {
     if (!selectedSubject) return renderSubjects();
     currentView = "chapters";
+
     const chapters = selectedSubject.chapters || [];
 
     root.innerHTML = `
-      <div class="rjd-home-journey">
-        <button type="button" class="rjd-home-journey__back" id="rjd-back-home">${t("backToHome")}</button>
-        <div class="rjd-rail-breadcrumb">
-          <button type="button" class="rjd-rail-crumb is-done" data-step="classes">${pickLabel(selectedClass.label)}</button>
-          <span class="rjd-rail-crumb__sep">→</span>
-          <button type="button" class="rjd-rail-crumb is-done" data-step="subjects">${pickLabel(selectedSubject.label)}</button>
-          <span class="rjd-rail-crumb__sep">→</span>
-          <span class="rjd-rail-crumb is-active">${t("chaptersLabel")}</span>
-        </div>
-        <h2 class="rjd-home-journey__title">${isHindi() ? "अपना अध्याय चुनें" : "Select Your Chapter"}</h2>
-        <div class="rjd-rail-grid">
-          ${chapters.map((ch) => `
-            <a class="rjd-rail-card" href="index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}">
-              <span class="rjd-rail-card__icon">📖</span>
-              <span class="rjd-rail-card__label">${pickLabel(ch.name)}</span>
-              <span class="rjd-rail-card__meta">${t("startLearning")}</span>
-            </a>
-          `).join("")}
-        </div>
+      <section class="rjd-rail-hero">
+        <span class="rjd-rail-hero__badge">
+          🚂 ${text("RailGaadi", "RailGaadi")}
+        </span>
+        <h1 class="rjd-rail-hero__title">${pickLabel(selectedSubject.label)}</h1>
+        <p class="rjd-rail-hero__subtitle">
+          ${text("अपना अध्याय चुनें और पढ़ाई शुरू करें।", "Select your chapter and start learning.")}
+        </p>
+      </section>
+
+      <div class="rjd-rail-breadcrumb">
+        <button type="button" class="rjd-rail-crumb is-done" data-back="classes">${pickLabel(selectedClass.label)}</button>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <button type="button" class="rjd-rail-crumb is-done" data-back="subjects">${pickLabel(selectedSubject.label)}</button>
+        <span class="rjd-rail-crumb__sep">→</span>
+        <span class="rjd-rail-crumb is-active">${text("अध्याय", "Chapter")}</span>
+      </div>
+
+      <div class="rjd-rail-grid">
+        ${chapters.map((ch) => `
+          <a class="rjd-rail-card" href="index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}">
+            <span class="rjd-rail-card__icon">📖</span>
+            <span class="rjd-rail-card__label">${pickLabel(ch.name)}</span>
+            <span class="rjd-rail-card__meta">${text("पढ़ाई शुरू करें", "Start Learning")}</span>
+          </a>
+        `).join("")}
+      </div>
+
+      <div style="text-align:center; padding-bottom: 32px;">
+        <button type="button" class="rjd-btn rjd-btn--ghost" id="rjd-back-landing">${text("← होम पर वापस जाएँ", "← Back to Home")}</button>
       </div>
     `;
 
-    document.getElementById("rjd-back-home").addEventListener("click", renderLanding);
-    root.querySelectorAll("[data-step]").forEach((btn) => {
+    document.getElementById("rjd-back-landing").addEventListener("click", renderLanding);
+
+    root.querySelectorAll("[data-back]").forEach((btn) => {
       btn.addEventListener("click", () => {
-        if (btn.dataset.step === "classes") renderClasses();
+        if (btn.dataset.back === "classes") renderClasses();
         else renderSubjects();
       });
     });
   }
 
   /* =========================================================
-     LANGUAGE & BOOT
+     LANGUAGE TOGGLE (preserved)
   ========================================================= */
   function renderLangToggle() {
     const btn = document.getElementById("rjd-lang-toggle");
@@ -377,12 +380,15 @@
     });
   }
 
+  /* =========================================================
+     BOOT (modified to show landing first)
+  ========================================================= */
   async function boot() {
     try {
       const res = await fetch("data/manifest.json");
       if (res.ok) manifest = await res.json();
-    } catch (e) {
-      console.warn("Manifest load failed", e);
+    } catch (err) {
+      console.warn("Manifest load failed", err);
     }
     renderLanding();
     renderLangToggle();
