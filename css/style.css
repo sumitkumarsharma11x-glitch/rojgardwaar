@@ -1888,16 +1888,16 @@ button:focus-visible {
 
 
 /* =========================================================================
-   RojgarDwaar — HOME PAGE REDESIGN
-   Premium landing page styles. Scoped to .rjd-home-* classes only.
-   Responsive: mobile-first, then tablet (640px), then desktop (900px).
+   RojgarDwaar — HOME PAGE LANDING STYLES
+   Mobile-first. Desktop overrides via min-width media queries.
+   Scoped to .rjd-home-* classes only. Does NOT touch existing selectors.
    ========================================================================= */
 
 /* ---------- Hero Section ----------------------------------------------- */
 .rjd-home-hero {
   background: linear-gradient(135deg, #0f1a30 0%, #1b2a4a 50%, #162447 100%);
   color: #fff;
-  padding: 48px 0 56px;
+  padding: 36px 0 44px;
   position: relative;
   overflow: hidden;
 }
@@ -1906,15 +1906,35 @@ button:focus-visible {
   max-width: var(--container);
   margin: 0 auto;
   padding: 0 16px;
-  display: grid;
-  gap: 32px;
-  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
 }
 
+.rjd-home-hero__text {
+  order: 1;
+}
+
+.rjd-home-hero__visual {
+  order: 2;
+  position: relative;
+  min-height: 220px;
+}
+
+/* Desktop: side-by-side */
 @media (min-width: 900px) {
   .rjd-home-hero__inner {
+    display: grid;
     grid-template-columns: 1.1fr 1fr;
     gap: 40px;
+    align-items: center;
+  }
+  .rjd-home-hero__text {
+    order: 1;
+  }
+  .rjd-home-hero__visual {
+    order: 2;
+    min-height: 300px;
   }
 }
 
@@ -1930,35 +1950,38 @@ button:focus-visible {
   border: 1px solid rgba(193, 133, 44, 0.35);
   border-radius: 999px;
   padding: 5px 14px;
-  margin-bottom: 16px;
+  margin-bottom: 14px;
 }
 
 .rjd-home-hero__title {
   font-family: var(--font-display);
-  font-size: clamp(26px, 5vw, 40px);
+  font-size: clamp(24px, 5vw, 38px);
   font-weight: 700;
   line-height: 1.2;
-  margin: 0 0 14px;
+  margin: 0 0 12px;
   color: #fff;
-}
-
-.rjd-home-hero__title span {
-  color: var(--gold);
 }
 
 .rjd-home-hero__subtitle {
   font-size: 15px;
   line-height: 1.65;
   color: rgba(255, 255, 255, 0.78);
-  margin: 0 0 24px;
+  margin: 0 0 22px;
   max-width: 520px;
 }
 
 .rjd-home-hero__actions {
   display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-bottom: 24px;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 480px) {
+  .rjd-home-hero__actions {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 }
 
 .rjd-home-hero__btn {
@@ -1967,7 +1990,7 @@ button:focus-visible {
   gap: 10px;
   border: none;
   border-radius: var(--radius-md);
-  padding: 12px 20px;
+  padding: 14px 20px;
   font-family: var(--font-body);
   font-size: 14px;
   font-weight: 600;
@@ -1975,6 +1998,8 @@ button:focus-visible {
   text-decoration: none;
   transition: transform 0.1s ease, box-shadow 0.15s ease;
   text-align: left;
+  min-height: 56px;
+  min-width: 44px;
 }
 
 .rjd-home-hero__btn:active {
@@ -2026,10 +2051,18 @@ button:focus-visible {
 
 .rjd-home-hero__features {
   display: flex;
-  flex-wrap: wrap;
-  gap: 16px 24px;
+  flex-direction: column;
+  gap: 10px;
   font-size: 13px;
   color: rgba(255, 255, 255, 0.65);
+}
+
+@media (min-width: 480px) {
+  .rjd-home-hero__features {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px 24px;
+  }
 }
 
 .rjd-home-hero__features span {
@@ -2039,28 +2072,17 @@ button:focus-visible {
 }
 
 /* Hero Visual — Pure CSS scene */
-.rjd-home-hero__visual {
-  display: none;
-}
-
-@media (min-width: 640px) {
-  .rjd-home-hero__visual {
-    display: block;
-    position: relative;
-    min-height: 280px;
-  }
-}
-
 .rjd-home-hero__scene {
   position: relative;
   width: 100%;
-  height: 280px;
+  height: 100%;
+  min-height: 220px;
 }
 
 .rjd-home-books {
   position: absolute;
-  right: 10%;
-  bottom: 20%;
+  right: 5%;
+  bottom: 15%;
   display: flex;
   flex-direction: column;
   gap: 0;
@@ -2068,21 +2090,27 @@ button:focus-visible {
   z-index: 2;
 }
 
+@media (min-width: 900px) {
+  .rjd-home-books {
+    right: 10%;
+    bottom: 20%;
+  }
+}
+
 .rjd-home-book {
-  width: 140px;
-  height: 34px;
+  width: 130px;
+  height: 32px;
   border-radius: 4px 10px 10px 4px;
   display: flex;
   align-items: center;
   gap: 8px;
   padding: 0 12px;
   font-family: var(--font-display);
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.04em;
   color: #fff;
   box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.25);
-  position: relative;
 }
 
 .rjd-home-book span {
@@ -2108,12 +2136,20 @@ button:focus-visible {
 
 .rjd-home-hero__microscope {
   position: absolute;
-  right: 35%;
-  bottom: 25%;
-  font-size: 64px;
+  right: 30%;
+  bottom: 20%;
+  font-size: 56px;
   filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3));
   z-index: 3;
   transform: rotate(-12deg);
+}
+
+@media (min-width: 900px) {
+  .rjd-home-hero__microscope {
+    right: 35%;
+    bottom: 25%;
+    font-size: 64px;
+  }
 }
 
 .rjd-home-floaters {
@@ -2126,9 +2162,16 @@ button:focus-visible {
   position: absolute;
   left: var(--f-x);
   top: var(--f-y);
-  font-size: 28px;
-  opacity: 0.55;
+  font-size: 24px;
+  opacity: 0.5;
   animation: rjd-home-float var(--f-d, 4s) ease-in-out infinite alternate;
+}
+
+@media (min-width: 900px) {
+  .rjd-home-floater {
+    font-size: 28px;
+    opacity: 0.55;
+  }
 }
 
 @keyframes rjd-home-float {
@@ -2136,17 +2179,17 @@ button:focus-visible {
   100% { transform: translateY(-14px) scale(1.08); }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .rjd-home-floater {
-    animation: none;
-  }
-}
-
 /* ---------- Section wrapper -------------------------------------------- */
 .rjd-home-section {
   max-width: var(--container);
   margin: 0 auto;
-  padding: 40px 16px;
+  padding: 32px 16px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-section {
+    padding: 40px 16px;
+  }
 }
 
 .rjd-home-section__title {
@@ -2158,10 +2201,11 @@ button:focus-visible {
   color: var(--ink);
 }
 
-/* ---------- Three Cards ------------------------------------------------ */
+/* ---------- Three Action Cards ----------------------------------------- */
 .rjd-home-cards {
   display: grid;
-  gap: 16px;
+  grid-template-columns: 1fr;
+  gap: 14px;
 }
 
 @media (min-width: 640px) {
@@ -2186,6 +2230,7 @@ button:focus-visible {
   border: none;
   font-family: inherit;
   color: inherit;
+  min-height: 44px;
 }
 
 .rjd-home-card:hover {
@@ -2215,7 +2260,7 @@ button:focus-visible {
 }
 
 .rjd-home-card__body {
-  padding: 24px 18px 22px;
+  padding: 22px 16px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -2223,13 +2268,13 @@ button:focus-visible {
 }
 
 .rjd-home-card__icon {
-  width: 56px;
-  height: 56px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 26px;
+  font-size: 24px;
   margin-bottom: 4px;
 }
 
@@ -2247,14 +2292,14 @@ button:focus-visible {
 
 .rjd-home-card h3 {
   font-family: var(--font-display);
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 700;
   margin: 0;
   color: var(--ink);
 }
 
 .rjd-home-card p {
-  font-size: 13.5px;
+  font-size: 13px;
   line-height: 1.6;
   color: var(--ink-soft);
   margin: 0;
@@ -2265,7 +2310,7 @@ button:focus-visible {
   margin-top: 8px;
   font-size: 13px;
   font-weight: 700;
-  padding: 8px 18px;
+  padding: 9px 18px;
   border-radius: var(--radius-sm);
   transition: background 0.12s ease;
 }
@@ -2288,7 +2333,13 @@ button:focus-visible {
 /* ---------- RailGaadi Section ------------------------------------------ */
 .rjd-home-rail {
   background: linear-gradient(180deg, var(--paper-deep), var(--paper));
-  padding: 48px 16px;
+  padding: 36px 16px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail {
+    padding: 48px 16px;
+  }
 }
 
 .rjd-home-rail__card {
@@ -2298,13 +2349,14 @@ button:focus-visible {
   border: 1px solid var(--line);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow);
-  display: grid;
-  gap: 0;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
 }
 
 @media (min-width: 640px) {
   .rjd-home-rail__card {
+    display: grid;
     grid-template-columns: 220px 1fr;
   }
 }
@@ -2315,12 +2367,18 @@ button:focus-visible {
   align-items: center;
   justify-content: center;
   position: relative;
-  min-height: 160px;
+  min-height: 150px;
   overflow: hidden;
 }
 
+@media (min-width: 640px) {
+  .rjd-home-rail__visual {
+    min-height: auto;
+  }
+}
+
 .rjd-home-rail__train {
-  font-size: 80px;
+  font-size: 72px;
   z-index: 2;
   filter: drop-shadow(2px 4px 4px rgba(0, 0, 0, 0.15));
 }
@@ -2345,7 +2403,7 @@ button:focus-visible {
 }
 
 .rjd-home-rail__text {
-  padding: 28px 24px;
+  padding: 24px 20px;
   text-align: center;
 }
 
@@ -2358,7 +2416,7 @@ button:focus-visible {
 
 .rjd-home-rail__text h2 {
   font-family: var(--font-display);
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   margin: 0 0 8px;
   color: var(--ink);
@@ -2386,12 +2444,13 @@ button:focus-visible {
   color: #fff;
   border: none;
   border-radius: var(--radius-sm);
-  padding: 11px 22px;
+  padding: 12px 22px;
   font-family: var(--font-body);
   font-size: 14px;
   font-weight: 700;
   cursor: pointer;
   transition: transform 0.1s ease, background 0.15s ease;
+  min-height: 44px;
 }
 
 .rjd-home-rail__btn:hover {
@@ -2405,6 +2464,7 @@ button:focus-visible {
 /* ---------- Exam Target Section ---------------------------------------- */
 .rjd-home-exams {
   display: grid;
+  grid-template-columns: 1fr;
   gap: 14px;
 }
 
@@ -2459,7 +2519,7 @@ button:focus-visible {
 /* ---------- Stats Section ---------------------------------------------- */
 .rjd-home-stats-wrap {
   background: linear-gradient(180deg, var(--paper), var(--paper-deep));
-  padding: 36px 16px;
+  padding: 32px 16px;
 }
 
 .rjd-home-stats {
@@ -2467,7 +2527,7 @@ button:focus-visible {
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
+  gap: 14px;
 }
 
 @media (min-width: 640px) {
@@ -2487,13 +2547,13 @@ button:focus-visible {
 }
 
 .rjd-home-stat__icon {
-  font-size: 28px;
+  font-size: 26px;
   margin-bottom: 8px;
 }
 
 .rjd-home-stat__num {
   font-family: var(--font-display);
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 700;
   color: var(--ink);
   line-height: 1;
@@ -2547,8 +2607,14 @@ button:focus-visible {
 .rjd-home-final {
   background: linear-gradient(135deg, #0f1a30 0%, #1b2a4a 100%);
   color: #fff;
-  padding: 44px 16px;
+  padding: 40px 16px;
   text-align: center;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-final {
+    padding: 48px 16px;
+  }
 }
 
 .rjd-home-final__inner {
@@ -2589,6 +2655,7 @@ button:focus-visible {
   cursor: pointer;
   box-shadow: 0 4px 14px rgba(244, 196, 48, 0.35);
   transition: transform 0.1s ease, box-shadow 0.15s ease;
+  min-height: 48px;
 }
 
 .rjd-home-final__btn:hover {
@@ -2599,106 +2666,8 @@ button:focus-visible {
   transform: scale(0.98);
 }
 
-/* ---------- Journey Wrapper (preserved flow) --------------------------- */
-.rjd-home-journey {
-  max-width: var(--container);
-  margin: 0 auto;
-  padding: 24px 16px 48px;
-}
-
-.rjd-home-journey__back {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: transparent;
-  border: 1.5px solid var(--line);
-  color: var(--ink-soft);
-  border-radius: var(--radius-sm);
-  padding: 8px 14px;
-  font-size: 13px;
-  font-weight: 600;
-  cursor: pointer;
-  margin-bottom: 18px;
-  transition: background 0.12s ease, color 0.12s ease;
-}
-
-.rjd-home-journey__back:hover {
-  background: var(--paper);
-  color: var(--ink);
-}
-
-.rjd-home-journey__title {
-  font-family: var(--font-display);
-  font-size: 20px;
-  font-weight: 700;
-  margin: 0 0 18px;
-  color: var(--ink);
-}
-
-/* ---------- Mobile tightening ------------------------------------------ */
-@media (max-width: 480px) {
-  .rjd-home-hero {
-    padding: 32px 0 40px;
-  }
-
-  .rjd-home-hero__title {
-    font-size: 26px;
-  }
-
-  .rjd-home-hero__actions {
-    flex-direction: column;
-  }
-
-  .rjd-home-hero__btn {
-    width: 100%;
-    justify-content: center;
-  }
-
-  .rjd-home-hero__features {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .rjd-home-section {
-    padding: 28px 16px;
-  }
-
-  .rjd-home-card__body {
-    padding: 20px 16px 18px;
-  }
-
-  .rjd-home-rail__text {
-    padding: 22px 18px;
-  }
-
-  .rjd-home-stats {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
-  }
-
-  .rjd-home-stat {
-    padding: 14px 8px;
-  }
-
-  .rjd-home-stat__num {
-    font-size: 22px;
-  }
-
-  .rjd-home-final {
-    padding: 32px 16px;
-  }
-}
-
 /* ---------- Reduced motion --------------------------------------------- */
 @media (prefers-reduced-motion: reduce) {
-  .rjd-home-card,
-  .rjd-home-exam,
-  .rjd-home-hero__btn,
-  .rjd-home-rail__btn,
-  .rjd-home-final__btn {
-    transition: none !important;
-  }
-
   .rjd-home-floater {
     animation: none !important;
   }
