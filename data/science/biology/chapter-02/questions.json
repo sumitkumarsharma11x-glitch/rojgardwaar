@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "ch2_q201",
+    "topic": "importance-of-reproduction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "जनन वह जैविक प्रक्रिया है जिसके द्वारा सजीव क्या करते हैं?",
+      "en": "Reproduction is the biological process by which living organisms do what?"
+    },
+    "options": {
+      "hi": [
+        "भोजन ग्रहण करते हैं",
+        "अपने जैसे नए जीव उत्पन्न करते हैं",
+        "केवल श्वसन करते हैं",
+        "केवल वृद्धि करते हैं"
+      ],
+      "en": [
+        "Take in food",
+        "Produce new individuals of their own kind",
+        "Only respire",
+        "Only grow"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जनन से सजीव अपने जैसे नए जीव उत्पन्न करते हैं।",
+      "en": "Reproduction is how living beings produce new individuals of their own kind."
+    }
+  },
+  {
+    "id": "ch2_q202",
+    "topic": "importance-of-reproduction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "प्रत्येक जीव का एक निश्चित क्या होता है?",
+      "en": "Every organism has a definite what?"
+    },
+    "options": {
+      "hi": [
+        "जीवनकाल",
+        "रंग",
+        "आवास",
+        "केवल आकार"
+      ],
+      "en": [
+        "Life span",
+        "Colour",
+        "Habitat",
+        "Only size"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "प्रत्येक जीव जन्म लेता है, बढ़ता है, परिपक्व होता है, जनन करता है और मर जाता है—यही उसका निश्चित जीवनकाल है।",
+      "en": "Every organism is born, grows, matures, reproduces and dies — this is its definite life span."
+    }
+  },
+  {
+    "id": "ch2_q203",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जनन का सबसे महत्वपूर्ण महत्व क्या है?",
+      "en": "What is the most important significance of reproduction?"
+    },
+    "options": {
+      "hi": [
+        "केवल ऊर्जा प्राप्त करना",
+        "पृथ्वी पर जीवन की निरंतरता बनाए रखना",
+        "केवल भोजन का पाचन",
+        "केवल शरीर का आकार बढ़ाना"
+      ],
+      "en": [
+        "Only gaining energy",
+        "Maintaining the continuity of life on Earth",
+        "Only digestion of food",
+        "Only increasing body size"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जनन से ही पृथ्वी पर जीवन की निरंतरता बनी रहती है।",
+      "en": "Reproduction keeps life continuing on Earth."
+    }
+  },
+  {
+    "id": "ch2_q204",
+    "topic": "importance-of-reproduction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "आम के वृक्ष का उदाहरण जनन के संदर्भ में क्या दर्शाता है?",
+      "en": "What does the example of a mango tree illustrate about reproduction?"
+    },
+    "options": {
+      "hi": [
+        "वृक्ष कभी नहीं मरता",
+        "बीज नए आम के पौधों के रूप में अंकुरित होते हैं",
+        "आम केवल फल देता है",
+        "बीज का कोई उपयोग नहीं होता"
+      ],
+      "en": [
+        "A tree never dies",
+        "Seeds germinate into new mango plants",
+        "Mango only gives fruit",
+        "Seeds are useless"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "आम का वृक्ष नष्ट हो सकता है, पर उसके बीज नए पौधों में विकसित होकर जाति को बनाए रखते हैं।",
+      "en": "A mango tree may die, but its seeds grow into new plants, keeping the species alive."
+    }
+  },
+  {
+    "id": "ch2_q205",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यदि कोई जाति जनन करना बंद कर दे, तो क्या होगा?",
+      "en": "What would happen if a species stopped reproducing?"
+    },
+    "options": {
+      "hi": [
+        "वह तेजी से बढ़ेगी",
+        "वह धीरे-धीरे लुप्त हो जाएगी",
+        "उसका जीवनकाल बढ़ जाएगा",
+        "कुछ नहीं बदलेगा"
+      ],
+      "en": [
+        "It would grow rapidly",
+        "It would gradually become extinct",
+        "Its life span would increase",
+        "Nothing would change"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जनन के बिना पीढ़ियाँ नहीं बनेंगी और जाति लुप्त हो जाएगी।",
+      "en": "Without reproduction there would be no new generations, and the species would become extinct."
+    }
+  },
+  {
+    "id": "ch2_q206",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जीवन चक्र का सही क्रम कौन-सा है?",
+      "en": "Which is the correct sequence of the life cycle?"
+    },
+    "options": {
+      "hi": [
+        "जन्म, वृद्धि, परिपक्वता, जनन, मृत्यु",
+        "मृत्यु, जन्म, जनन, वृद्धि",
+        "जनन, जन्म, मृत्यु, परिपक्वता",
+        "वृद्धि, मृत्यु, जन्म, जनन"
+      ],
+      "en": [
+        "Birth, growth, maturity, reproduction, death",
+        "Death, birth, reproduction, growth",
+        "Reproduction, birth, death, maturity",
+        "Growth, death, birth, reproduction"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "हर जीव जन्म लेता है, वृद्धि करता है, परिपक्व होता है, जनन करता है और अंततः मर जाता है।",
+      "en": "Every organism is born, grows, matures, reproduces and finally dies."
+    }
+  },
+  {
+    "id": "ch2_q207",
+    "topic": "importance-of-reproduction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गाय किसे जन्म देती है?",
+      "en": "What does a cow give birth to?"
+    },
+    "options": {
+      "hi": [
+        "बिलौटे",
+        "पिल्ले",
+        "बछड़े",
+        "शिशु"
+      ],
+      "en": [
+        "Kittens",
+        "Puppies",
+        "Calves",
+        "Babies"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "गाय बछड़ों को जन्म देती है; कुत्ते पिल्लों को और बिल्लियाँ बिलौटों को।",
+      "en": "Cows give birth to calves; dogs to puppies and cats to kittens."
+    }
+  },
+  {
+    "id": "ch2_q208",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जनन सजीवों की किस विशेषता से जुड़ा है?",
+      "en": "Reproduction is linked to which characteristic of living beings?"
+    },
+    "options": {
+      "hi": [
+        "केवल गति",
+        "अपनी जाति को बनाए रखना",
+        "केवल पोषण",
+        "केवल उत्सर्जन"
+      ],
+      "en": [
+        "Only movement",
+        "Perpetuating their own species",
+        "Only nutrition",
+        "Only excretion"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "जनन जाति को बनाए रखने की विशेषता है, जबकि पोषण और श्वसन व्यक्ति को जीवित रखते हैं।",
+      "en": "Reproduction perpetuates the species, whereas nutrition and respiration keep an individual alive."
+    }
+  },
+  {
+    "id": "ch2_q209",
+    "topic": "importance-of-reproduction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जनन व्यक्ति के जीवित रहने के लिए आवश्यक नहीं है, फिर भी यह महत्वपूर्ण क्यों है?",
+      "en": "Reproduction is not necessary for an individual's survival, yet it is important. Why?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि यह जाति की निरंतरता सुनिश्चित करता है",
+        "क्योंकि यह ऊर्जा उत्पन्न करता है",
+        "क्योंकि यह भोजन पचाता है",
+        "क्योंकि यह श्वसन बढ़ाता है"
+      ],
+      "en": [
+        "Because it ensures the continuity of the species",
+        "Because it produces energy",
+        "Because it digests food",
+        "Because it increases respiration"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "व्यक्ति तो जनन के बिना भी जीवित रह सकता है, परंतु जाति को बनाए रखने के लिए जनन अनिवार्य है।",
+      "en": "An individual can survive without reproducing, but reproduction is essential to continue the species."
+    }
+  },
+  {
+    "id": "ch2_q210",
+    "topic": "importance-of-reproduction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कुत्ते किसे जन्म देते हैं?",
+      "en": "What do dogs give birth to?"
+    },
+    "options": {
+      "hi": [
+        "बछड़े",
+        "पिल्ले",
+        "बिलौटे",
+        "अंडे"
+      ],
+      "en": [
+        "Calves",
+        "Puppies",
+        "Kittens",
+        "Eggs"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कुत्ते पिल्लों को जन्म देते हैं।",
+      "en": "Dogs give birth to puppies."
+    }
+  },
+  {
+    "id": "ch2_q211",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बीज का अंकुरित होकर नया पौधा बनना किसका उदाहरण है?",
+      "en": "A seed germinating into a new plant is an example of what?"
+    },
+    "options": {
+      "hi": [
+        "जीवन की निरंतरता",
+        "केवल वृद्धि",
+        "केवल उत्सर्जन",
+        "केवल श्वसन"
+      ],
+      "en": [
+        "Continuity of life",
+        "Only growth",
+        "Only excretion",
+        "Only respiration"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बीज से नया पौधा बनकर जाति की निरंतरता बनी रहती है।",
+      "en": "A new plant from a seed keeps the continuity of the species."
+    }
+  },
+  {
+    "id": "ch2_q212",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'जनन' शब्द का सबसे उपयुक्त अर्थ क्या है?",
+      "en": "What is the most appropriate meaning of 'reproduction'?"
+    },
+    "options": {
+      "hi": [
+        "अपने जैसे नए जीवों का निर्माण",
+        "केवल भोजन करना",
+        "केवल सोना",
+        "केवल जल पीना"
+      ],
+      "en": [
+        "Production of new individuals of one's own kind",
+        "Only eating",
+        "Only sleeping",
+        "Only drinking water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जनन का अर्थ है अपने जैसे नए जीवों का निर्माण करना।",
+      "en": "Reproduction means producing new individuals of one's own kind."
+    }
+  },
+  {
+    "id": "ch2_q213",
+    "topic": "importance-of-reproduction",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मनुष्य किसे जन्म देते हैं?",
+      "en": "What do humans give birth to?"
+    },
+    "options": {
+      "hi": [
+        "पिल्ले",
+        "बछड़े",
+        "शिशु",
+        "बिलौटे"
+      ],
+      "en": [
+        "Puppies",
+        "Calves",
+        "Babies",
+        "Kittens"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "मनुष्य शिशुओं को जन्म देते हैं।",
+      "en": "Humans give birth to babies."
+    }
+  },
+  {
+    "id": "ch2_q214",
+    "topic": "importance-of-reproduction",
+    "difficulty": "hard",
+    "question": {
+      "hi": "जनन और जीवनकाल के बीच क्या संबंध है?",
+      "en": "What is the relationship between reproduction and life span?"
+    },
+    "options": {
+      "hi": [
+        "जीवनकाल समाप्त होने पर भी जनन से जाति बनी रहती है",
+        "जनन जीवनकाल को समाप्त कर देता है",
+        "दोनों का कोई संबंध नहीं है",
+        "जीवनकाल ही जनन है"
+      ],
+      "en": [
+        "Even after the life span ends, reproduction keeps the species alive",
+        "Reproduction ends the life span",
+        "There is no relation between them",
+        "Life span is reproduction"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "हर जीव का जीवनकाल सीमित होता है, पर जनन द्वारा उत्पन्न संतति जाति को आगे बढ़ाती है।",
+      "en": "Every organism has a limited life span, but the offspring produced by reproduction carry the species forward."
+    }
+  },
+  {
+    "id": "ch2_q215",
+    "topic": "importance-of-reproduction",
+    "difficulty": "medium",
+    "question": {
+      "hi": "'जीवन की निरंतरता' का क्या अर्थ है?",
+      "en": "What does 'continuity of life' mean?"
+    },
+    "options": {
+      "hi": [
+        "एक पीढ़ी से दूसरी पीढ़ी का बनते रहना",
+        "केवल भोजन का मिलना",
+        "केवल जल की उपलब्धता",
+        "केवल श्वसन का होना"
+      ],
+      "en": [
+        "Generation after generation keeps forming",
+        "Only getting food",
+        "Only availability of water",
+        "Only respiration"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जनन से एक पीढ़ी दूसरी पीढ़ी को जन्म देती रहती है—यही जीवन की निरंतरता है।",
+      "en": "Through reproduction, one generation keeps giving rise to the next — this is the continuity of life."
+    }
+  },
+  {
+    "id": "ch2_q216",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अलैंगिक जनन में कितने जनक भाग लेते हैं?",
+      "en": "How many parents take part in asexual reproduction?"
+    },
+    "options": {
+      "hi": [
+        "एक",
+        "दो",
+        "तीन",
+        "चार"
+      ],
+      "en": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन में केवल एक ही जनक संतति उत्पन्न करता है।",
+      "en": "In asexual reproduction, a single parent produces the offspring."
+    }
+  },
+  {
+    "id": "ch2_q217",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "easy",
+    "question": {
+      "hi": "लैंगिक जनन में कितने जनक भाग लेते हैं?",
+      "en": "How many parents take part in sexual reproduction?"
+    },
+    "options": {
+      "hi": [
+        "एक",
+        "दो",
+        "तीन",
+        "कोई नहीं"
+      ],
+      "en": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "लैंगिक जनन में दो जनक भाग लेते हैं और संतति में दोनों की विशेषताएँ आती हैं।",
+      "en": "Sexual reproduction involves two parents, and the offspring inherit features of both."
+    }
+  },
+  {
+    "id": "ch2_q218",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "easy",
+    "question": {
+      "hi": "आनुवंशिक रूप से जनक के समान संतति क्या कहलाती है?",
+      "en": "Offspring genetically identical to the parent are called what?"
+    },
+    "options": {
+      "hi": [
+        "क्लोन",
+        "संकर",
+        "युग्मनज",
+        "भ्रूण"
+      ],
+      "en": [
+        "Clones",
+        "Hybrids",
+        "Zygote",
+        "Embryo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन की आनुवंशिक रूप से समान संतति क्लोन कहलाती है।",
+      "en": "Genetically identical offspring of asexual reproduction are called clones."
+    }
+  },
+  {
+    "id": "ch2_q219",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अलैंगिक जनन की संतति जनक से कैसी होती है?",
+      "en": "How is the offspring of asexual reproduction related to the parent?"
+    },
+    "options": {
+      "hi": [
+        "पूर्णतः भिन्न",
+        "लगभग सटीक प्रति",
+        "केवल आधी समान",
+        "हमेशा बड़ी"
+      ],
+      "en": [
+        "Completely different",
+        "An almost exact copy",
+        "Only half similar",
+        "Always larger"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "अलैंगिक जनन में संतति जनक की लगभग सटीक प्रति होती है।",
+      "en": "In asexual reproduction the offspring is an almost exact copy of the parent."
+    }
+  },
+  {
+    "id": "ch2_q220",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "लैंगिक जनन से संतति में क्या उत्पन्न होता है?",
+      "en": "What is produced in offspring through sexual reproduction?"
+    },
+    "options": {
+      "hi": [
+        "विभिन्नता",
+        "केवल समानता",
+        "केवल आकार वृद्धि",
+        "कुछ नहीं"
+      ],
+      "en": [
+        "Variation",
+        "Only similarity",
+        "Only growth in size",
+        "Nothing"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "दो जनकों की विशेषताओं के मिश्रण से संतति में विभिन्नता उत्पन्न होती है।",
+      "en": "Mixing of two parents' characteristics produces variation in offspring."
+    }
+  },
+  {
+    "id": "ch2_q221",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "विभिन्नता सजीवों की किसमें सहायता करती है?",
+      "en": "Variation helps organisms in what?"
+    },
+    "options": {
+      "hi": [
+        "बदलते परिवेश के अनुकूल बनने में",
+        "केवल सोने में",
+        "केवल भोजन करने में",
+        "केवल जल पीने में"
+      ],
+      "en": [
+        "Adapting to changing environments",
+        "Only sleeping",
+        "Only eating",
+        "Only drinking water"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "विभिन्नता से कुछ जीव बदले परिवेश में बेहतर ढल पाते हैं।",
+      "en": "Variation helps some organisms adapt better to changing environments."
+    }
+  },
+  {
+    "id": "ch2_q222",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कौन-सा जनन संतति में विभिन्नता लाता है?",
+      "en": "Which type of reproduction brings variation in offspring?"
+    },
+    "options": {
+      "hi": [
+        "अलैंगिक",
+        "लैंगिक",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "en": [
+        "Asexual",
+        "Sexual",
+        "Both",
+        "None"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "लैंगिक जनन में दो जनकों की विशेषताओं का मिश्रण होने से विभिन्नता आती है।",
+      "en": "Sexual reproduction mixes characteristics of two parents, creating variation."
+    }
+  },
+  {
+    "id": "ch2_q223",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अलैंगिक जनन किस प्रकार के कोशिका विभाजन पर आधारित है?",
+      "en": "Asexual reproduction is based on which type of cell division?"
+    },
+    "options": {
+      "hi": [
+        "अर्धसूत्री विभाजन",
+        "समसूत्री विभाजन",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "en": [
+        "Meiosis",
+        "Mitosis",
+        "Both",
+        "None"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है, जिससे गुणसूत्र संख्या समान रहती है।",
+      "en": "Asexual reproduction is based on mitosis, which keeps the chromosome number the same."
+    }
+  },
+  {
+    "id": "ch2_q224",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "लैंगिक जनन में युग्मक किस विभाजन से बनते हैं?",
+      "en": "Gametes in sexual reproduction are formed by which division?"
+    },
+    "options": {
+      "hi": [
+        "समसूत्री विभाजन",
+        "अर्धसूत्री विभाजन",
+        "केवल संलयन",
+        "कोई विभाजन नहीं"
+      ],
+      "en": [
+        "Mitosis",
+        "Meiosis",
+        "Only fusion",
+        "No division"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "युग्मक अर्धसूत्री विभाजन (meiosis) से बनते हैं, जिसमें गुणसूत्र संख्या आधी हो जाती है।",
+      "en": "Gametes are formed by meiosis, which halves the chromosome number."
+    }
+  },
+  {
+    "id": "ch2_q225",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा लैंगिक जनन का उदाहरण है?",
+      "en": "Which of the following is an example of sexual reproduction?"
+    },
+    "options": {
+      "hi": [
+        "मनुष्य में शिशु का जन्म",
+        "यीस्ट में मुकुलन",
+        "ब्रायोफिलम की पत्ती से नया पौधा",
+        "कवक में बीजाणु निर्माण"
+      ],
+      "en": [
+        "Birth of a baby in humans",
+        "Budding in yeast",
+        "New plant from a Bryophyllum leaf",
+        "Spore formation in fungi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मनुष्य में शिशु का जन्म लैंगिक जनन है; शेष तीनों अलैंगिक विधियाँ हैं।",
+      "en": "Birth of a baby in humans is sexual reproduction; the other three are asexual methods."
+    }
+  },
+  {
+    "id": "ch2_q226",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा अलैंगिक जनन है?",
+      "en": "Which of the following is asexual reproduction?"
+    },
+    "options": {
+      "hi": [
+        "मुकुलन",
+        "निषेचन",
+        "परागण",
+        "अंडोत्सर्ग"
+      ],
+      "en": [
+        "Budding",
+        "Fertilisation",
+        "Pollination",
+        "Ovulation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मुकुलन अलैंगिक जनन है; निषेचन और परागण लैंगिक जनन से जुड़े हैं।",
+      "en": "Budding is asexual reproduction; fertilisation and pollination are part of sexual reproduction."
+    }
+  },
+  {
+    "id": "ch2_q227",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "क्लोन किस प्रकार के जनन से बनते हैं?",
+      "en": "Clones are produced by which type of reproduction?"
+    },
+    "options": {
+      "hi": [
+        "लैंगिक",
+        "अलैंगिक",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "en": [
+        "Sexual",
+        "Asexual",
+        "Both",
+        "None"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "अलैंगिक जनन से आनुवंशिक रूप से समान संतति (क्लोन) बनती है।",
+      "en": "Asexual reproduction produces genetically identical offspring called clones."
+    }
+  },
+  {
+    "id": "ch2_q228",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "आनुवंशिक रूप से समान संतति किस जनन से मिलती है?",
+      "en": "Genetically identical offspring are obtained from which reproduction?"
+    },
+    "options": {
+      "hi": [
+        "अलैंगिक",
+        "लैंगिक",
+        "केवल पर-परागण से",
+        "केवल निषेचन से"
+      ],
+      "en": [
+        "Asexual",
+        "Sexual",
+        "Only cross-pollination",
+        "Only fertilisation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन में एक ही जनक होने से संतति आनुवंशिक रूप से समान होती है।",
+      "en": "With a single parent, asexual reproduction gives genetically identical offspring."
+    }
+  },
+  {
+    "id": "ch2_q229",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "hard",
+    "question": {
+      "hi": "विभिन्नता का संचय अनेक पीढ़ियों में क्या कर सकता है?",
+      "en": "Accumulation of variation over many generations can lead to what?"
+    },
+    "options": {
+      "hi": [
+        "नई जातियों की उत्पत्ति",
+        "केवल जीवनकाल घटना",
+        "केवल आकार घटना",
+        "कुछ नहीं"
+      ],
+      "en": [
+        "Origin of new species",
+        "Only shorter life span",
+        "Only smaller size",
+        "Nothing"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अनेक पीढ़ियों में संचित विभिन्नता अनुकूलन में सहायक होती है और नई जातियों की उत्पत्ति भी कर सकती है।",
+      "en": "Variation accumulated over generations helps adaptation and can give rise to new species."
+    }
+  },
+  {
+    "id": "ch2_q230",
+    "topic": "asexual-vs-sexual",
+    "difficulty": "medium",
+    "question": {
+      "hi": "दो जनकों की विशेषताओं का मिश्रण संतति में किस जनन से आता है?",
+      "en": "Mixing of two parents' characteristics reaches the offspring through which reproduction?"
+    },
+    "options": {
+      "hi": [
+        "अलैंगिक",
+        "लैंगिक",
+        "केवल मुकुलन",
+        "केवल कर्तन"
+      ],
+      "en": [
+        "Asexual",
+        "Sexual",
+        "Only budding",
+        "Only cutting"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "लैंगिक जनन में दो जनकों की विशेषताओं का मिश्रण संतति में आता है।",
+      "en": "In sexual reproduction, the offspring inherit a mix of both parents' characteristics."
+    }
+  },
+  {
+    "id": "ch2_q231",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कायिक प्रवर्धन में नया पौधा किससे बनता है?",
+      "en": "In vegetative propagation, a new plant arises from what?"
+    },
+    "options": {
+      "hi": [
+        "केवल बीज",
+        "कायिक भागों (तना, जड़, पत्ती) से",
+        "केवल फूल",
+        "केवल फल"
+      ],
+      "en": [
+        "Only seeds",
+        "Vegetative parts (stem, root, leaf)",
+        "Only flowers",
+        "Only fruits"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "कायिक प्रवर्धन में नया पौधा कायिक भागों से बिना बीज के बनता है।",
+      "en": "In vegetative propagation a new plant arises from vegetative parts without seeds."
+    }
+  },
+  {
+    "id": "ch2_q232",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "आलू में नया पौधा किस भाग से बनता है?",
+      "en": "From which part does a new potato plant arise?"
+    },
+    "options": {
+      "hi": [
+        "पत्ती",
+        "भूमिगत तना",
+        "फूल",
+        "बीज"
+      ],
+      "en": [
+        "Leaf",
+        "Underground stem",
+        "Flower",
+        "Seed"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "आलू अपने भूमिगत तने से नए पौधे बनाता है।",
+      "en": "Potato produces new plants from its underground stem."
+    }
+  },
+  {
+    "id": "ch2_q233",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अदरक में नया पौधा किस भाग से बनता है?",
+      "en": "From which part does a new ginger plant arise?"
+    },
+    "options": {
+      "hi": [
+        "बीज",
+        "भूमिगत तना",
+        "फल",
+        "पत्ती"
+      ],
+      "en": [
+        "Seed",
+        "Underground stem",
+        "Fruit",
+        "Leaf"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "अदरक का भूमिगत तना नए पौधे बनाता है।",
+      "en": "Ginger's underground stem produces new plants."
+    }
+  },
+  {
+    "id": "ch2_q234",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "ब्रायोफिलम की किस संरचना पर छोटे पादपक निकलते हैं?",
+      "en": "On which structure of Bryophyllum do tiny plantlets appear?"
+    },
+    "options": {
+      "hi": [
+        "जड़",
+        "पत्ती",
+        "फूल",
+        "फल"
+      ],
+      "en": [
+        "Root",
+        "Leaf",
+        "Flower",
+        "Fruit"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "hi": "ब्रायोफिलम की पत्तियों पर छोटे-छोटे पादपक निकलते हैं।",
+      "en": "Tiny plantlets appear on the leaves of Bryophyllum."
+    }
+  },
+  {
+    "id": "ch2_q235",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "गन्ने का नया पौधा किससे बनता है?",
+      "en": "A new sugarcane plant arises from what?"
+    },
+    "options": {
+      "hi": [
+        "तने की कर्तन",
+        "केवल बीज",
+        "केवल फूल",
+        "केवल जड़ के बाल"
+      ],
+      "en": [
+        "Stem cutting",
+        "Only seeds",
+        "Only flowers",
+        "Only root hairs"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "गन्ने के तने की कर्तन नया पौधा बनाती है।",
+      "en": "A stem cutting of sugarcane grows into a new plant."
+    }
+  },
+  {
+    "id": "ch2_q236",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कर्तन (cutting) विधि में तने का भाग मिट्टी में किस कोण पर रखा जाता है?",
+      "en": "In the cutting method, the stem piece is placed in soil at what angle?"
+    },
+    "options": {
+      "hi": [
+        "लगभग 45°–60°",
+        "लगभग 10°",
+        "लगभग 90° के ठीक ऊपर",
+        "किसी भी कोण पर नहीं"
+      ],
+      "en": [
+        "About 45°–60°",
+        "About 10°",
+        "Just above 90°",
+        "At no angle"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कर्तन को मिट्टी की सतह से लगभग 45°–60° के कोण पर रखा जाता है।",
+      "en": "The cutting is inserted into the soil at an angle of about 45°–60°."
+    }
+  },
+  {
+    "id": "ch2_q237",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कलम बाँधना (grafting) में क्या किया जाता है?",
+      "en": "What is done in grafting?"
+    },
+    "options": {
+      "hi": [
+        "एक पौधे के तने का भाग दूसरे पौधे की चीरे में बैठाया जाता है",
+        "केवल बीज बोया जाता है",
+        "केवल पत्ती काटी जाती है",
+        "केवल जड़ उखाड़ी जाती है"
+      ],
+      "en": [
+        "A stem piece of one plant is fitted into a slit of another",
+        "Only seeds are sown",
+        "Only a leaf is cut",
+        "Only a root is uprooted"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कलम बाँधने में एक पौधे के तने का भाग दूसरे पौधे की चीरे में बैठाया जाता है।",
+      "en": "In grafting, a stem piece of one plant is fitted into a slit made in another plant."
+    }
+  },
+  {
+    "id": "ch2_q238",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परतन (layering) में जड़ें लगभग कितने दिनों में विकसित होती हैं?",
+      "en": "In layering, roots develop in about how many days?"
+    },
+    "options": {
+      "hi": [
+        "10–15 दिन",
+        "1–2 दिन",
+        "90–100 दिन",
+        "एक वर्ष"
+      ],
+      "en": [
+        "10–15 days",
+        "1–2 days",
+        "90–100 days",
+        "One year"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "परतन में दबी टहनी पर लगभग 10–15 दिनों में जड़ें विकसित होती हैं।",
+      "en": "In layering, roots develop on the buried twig in about 10–15 days."
+    }
+  },
+  {
+    "id": "ch2_q239",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ऊतक संवर्धन (tissue culture) में पादपक किस भाग से बनते हैं?",
+      "en": "In tissue culture, plantlets are raised from which part?"
+    },
+    "options": {
+      "hi": [
+        "प्ररोह शीर्ष (शीर्षस्थ विभज्योतक)",
+        "केवल बीज",
+        "केवल फल",
+        "केवल मृत कोशिकाएँ"
+      ],
+      "en": [
+        "Shoot tip (apical meristem)",
+        "Only seeds",
+        "Only fruits",
+        "Only dead cells"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ऊतक संवर्धन में प्ररोह शीर्ष (apical meristem) से स्वस्थ पादपक बड़ी संख्या में बनते हैं।",
+      "en": "Tissue culture raises healthy plantlets in large numbers from the shoot tip (apical meristem)."
+    }
+  },
+  {
+    "id": "ch2_q240",
+    "topic": "vegetative-propagation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "ऊतक संवर्धन का एक प्रमुख लाभ क्या है?",
+      "en": "What is a major advantage of tissue culture?"
+    },
+    "options": {
+      "hi": [
+        "विषाणु-मुक्त पौधे बड़ी संख्या में मिलते हैं",
+        "केवल बीज बनते हैं",
+        "केवल फल बढ़ते हैं",
+        "पौधे कभी नहीं मरते"
+      ],
+      "en": [
+        "Virus-free plants are obtained in large numbers",
+        "Only seeds form",
+        "Only fruits grow",
+        "Plants never die"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ऊतक संवर्धन से विषाणु-मुक्त, स्वस्थ पौधे बड़ी संख्या में प्राप्त होते हैं।",
+      "en": "Tissue culture gives virus-free, healthy plants in large numbers."
+    }
+  },
+  {
+    "id": "ch2_q241",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "केले की खेती में किस तकनीक का व्यापक उपयोग होता है?",
+      "en": "Which technique is widely used in banana farming?"
+    },
+    "options": {
+      "hi": [
+        "ऊतक संवर्धन",
+        "केवल बीज बोना",
+        "केवल परतन",
+        "केवल परागण"
+      ],
+      "en": [
+        "Tissue culture",
+        "Only sowing seeds",
+        "Only layering",
+        "Only pollination"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "केले की खेती में ऊतक संवर्धन से स्वस्थ, विषाणु-मुक्त पादपक बड़ी संख्या में मिलते हैं।",
+      "en": "Banana farming uses tissue culture to get healthy, virus-free plantlets in large numbers."
+    }
+  },
+  {
+    "id": "ch2_q242",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "कायिक प्रवर्धन में कितने जनक भाग लेते हैं?",
+      "en": "How many parents take part in vegetative propagation?"
+    },
+    "options": {
+      "hi": [
+        "एक",
+        "दो",
+        "तीन",
+        "चार"
+      ],
+      "en": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कायिक प्रवर्धन अलैंगिक जनन है, इसमें केवल एक ही जनक होता है।",
+      "en": "Vegetative propagation is asexual, involving only one parent."
+    }
+  },
+  {
+    "id": "ch2_q243",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कायिक प्रवर्धन से उत्पन्न पौधे कैसे होते हैं?",
+      "en": "Plants produced by vegetative propagation are how?"
+    },
+    "options": {
+      "hi": [
+        "आनुवंशिक रूप से समान",
+        "पूर्णतः भिन्न",
+        "केवल आधे समान",
+        "हमेशा छोटे"
+      ],
+      "en": [
+        "Genetically identical",
+        "Completely different",
+        "Only half similar",
+        "Always smaller"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कायिक प्रवर्धन में एक ही जनक होने से पौधे आनुवंशिक रूप से समान होते हैं।",
+      "en": "With one parent, vegetative propagation produces genetically identical plants."
+    }
+  },
+  {
+    "id": "ch2_q244",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मनीप्लांट का नया पौधा किससे बनता है?",
+      "en": "A new money plant arises from what?"
+    },
+    "options": {
+      "hi": [
+        "तने की कर्तन",
+        "केवल बीज",
+        "केवल फल",
+        "केवल फूल"
+      ],
+      "en": [
+        "Stem cutting",
+        "Only seeds",
+        "Only fruits",
+        "Only flowers"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मनीप्लांट के तने की कर्तन नया पौधा बनाती है।",
+      "en": "A stem cutting of money plant grows into a new plant."
+    }
+  },
+  {
+    "id": "ch2_q245",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निम्न में से कौन-सा कायिक प्रवर्धन नहीं है?",
+      "en": "Which of the following is NOT vegetative propagation?"
+    },
+    "options": {
+      "hi": [
+        "कर्तन",
+        "कलम बाँधना",
+        "बीज से अंकुरण",
+        "परतन"
+      ],
+      "en": [
+        "Cutting",
+        "Grafting",
+        "Germination from seed",
+        "Layering"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "hi": "बीज से अंकुरण लैंगिक जनन का भाग है; कर्तन, कलम बाँधना और परतन कायिक प्रवर्धन हैं।",
+      "en": "Germination from seed is sexual; cutting, grafting and layering are vegetative propagation."
+    }
+  },
+  {
+    "id": "ch2_q246",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कायिक प्रवर्धन की संतति जनक से आनुवंशिक रूप से समान क्यों होती है?",
+      "en": "Why are the offspring of vegetative propagation genetically identical to the parent?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि इसमें एक ही जनक होता है",
+        "क्योंकि दो जनक होते हैं",
+        "क्योंकि बीज बनते हैं",
+        "क्योंकि परागण होता है"
+      ],
+      "en": [
+        "Because there is a single parent",
+        "Because there are two parents",
+        "Because seeds form",
+        "Because pollination occurs"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "एक ही जनक से उत्पन्न होने के कारण संतति आनुवंशिक रूप से समान होती है।",
+      "en": "Coming from a single parent, the offspring are genetically identical."
+    }
+  },
+  {
+    "id": "ch2_q247",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कलम बाँधने में गुलाब की विभिन्न किस्मों के गुण कैसे मिलाए जाते हैं?",
+      "en": "In grafting, how are traits of different rose varieties combined?"
+    },
+    "options": {
+      "hi": [
+        "एक किस्म के तने का भाग दूसरी की चीरे में बैठाकर",
+        "केवल बीज मिलाकर",
+        "केवल पत्तियाँ जोड़कर",
+        "केवल फूल चिपकाकर"
+      ],
+      "en": [
+        "By fitting a stem piece of one variety into a slit of another",
+        "Only by mixing seeds",
+        "Only by joining leaves",
+        "Only by pasting flowers"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कलम बाँधने में एक किस्म के तने का भाग दूसरी किस्म की चीरे में बैठाया जाता है।",
+      "en": "Grafting fits a stem piece of one variety into a slit of another variety."
+    }
+  },
+  {
+    "id": "ch2_q248",
+    "topic": "vegetative-propagation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "परतन विधि में टहनी का कौन-सा भाग मिट्टी में दबाया जाता है?",
+      "en": "Which part of the twig is buried in soil in the layering method?"
+    },
+    "options": {
+      "hi": [
+        "मध्य भाग",
+        "केवल शीर्ष",
+        "केवल फूल",
+        "केवल काँटे"
+      ],
+      "en": [
+        "The middle part",
+        "Only the tip",
+        "Only the flower",
+        "Only the thorns"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "परतन में टहनी का मध्य भाग मिट्टी में दबाया जाता है, जहाँ से जड़ें निकलती हैं।",
+      "en": "In layering, the middle part of a twig is buried in soil, where roots develop."
+    }
+  },
+  {
+    "id": "ch2_q249",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कायिक प्रवर्धन का कृषि में मुख्य लाभ क्या है?",
+      "en": "What is the main agricultural benefit of vegetative propagation?"
+    },
+    "options": {
+      "hi": [
+        "वांछित गुणों वाले पौधे शीघ्र और बड़ी संख्या में मिलते हैं",
+        "केवल बीज बचते हैं",
+        "केवल पानी बचता है",
+        "केवल खाद बचती है"
+      ],
+      "en": [
+        "Desirable plants are obtained quickly in large numbers",
+        "Only seeds are saved",
+        "Only water is saved",
+        "Only manure is saved"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कायिक प्रवर्धन से वांछित गुणों वाले पौधे शीघ्र और बड़ी संख्या में उगाए जा सकते हैं।",
+      "en": "Vegetative propagation gives desirable plants quickly and in large numbers."
+    }
+  },
+  {
+    "id": "ch2_q250",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ऊतक संवर्धन को अंग्रेजी में क्या कहते हैं?",
+      "en": "What is 'ऊतक संवर्धन' called in English?"
+    },
+    "options": {
+      "hi": [
+        "Tissue culture",
+        "Layering",
+        "Cutting",
+        "Grafting"
+      ],
+      "en": [
+        "Tissue culture",
+        "Layering",
+        "Cutting",
+        "Grafting"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ऊतक संवर्धन को अंग्रेजी में tissue culture कहते हैं।",
+      "en": "ऊतक संवर्धन is called tissue culture in English."
+    }
+  },
+  {
+    "id": "ch2_q251",
+    "topic": "vegetative-propagation",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा पौधा पत्ती से नया पौधा बनाता है?",
+      "en": "Which of the following plants grows a new plant from its leaf?"
+    },
+    "options": {
+      "hi": [
+        "ब्रायोफिलम",
+        "गेहूँ",
+        "चावल",
+        "मक्का"
+      ],
+      "en": [
+        "Bryophyllum",
+        "Wheat",
+        "Rice",
+        "Maize"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ब्रायोफिलम की पत्तियों पर छोटे पादपक निकलकर नए पौधे बनते हैं।",
+      "en": "Bryophyllum leaves bear tiny plantlets that grow into new plants."
+    }
+  },
+  {
+    "id": "ch2_q252",
+    "topic": "vegetative-propagation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कर्तन विधि में निचले आधे भाग की पत्तियाँ क्यों हटाई जाती हैं?",
+      "en": "In the cutting method, why are leaves removed from the lower half?"
+    },
+    "options": {
+      "hi": [
+        "जल की हानि कम करने और रोपण आसान बनाने के लिए",
+        "केवल सजावट के लिए",
+        "केवल फल बढ़ाने के लिए",
+        "केवल रंग बदलने के लिए"
+      ],
+      "en": [
+        "To reduce water loss and ease planting",
+        "Only for decoration",
+        "Only to increase fruit",
+        "Only to change colour"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "निचले आधे भाग की पत्तियाँ हटाने से जल की हानि कम होती है और रोपण आसान होता है।",
+      "en": "Removing lower-half leaves reduces water loss and makes planting easier."
+    }
+  },
+  {
+    "id": "ch2_q253",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कायिक प्रवर्धन बिना किस चीज़ के होता है?",
+      "en": "Vegetative propagation occurs without what?"
+    },
+    "options": {
+      "hi": [
+        "बीज",
+        "तना",
+        "जड़",
+        "पत्ती"
+      ],
+      "en": [
+        "Seeds",
+        "Stem",
+        "Root",
+        "Leaf"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कायिक प्रवर्धन बिना बीज के होता है—नया पौधा कायिक भागों से बनता है।",
+      "en": "Vegetative propagation occurs without seeds — the new plant arises from vegetative parts."
+    }
+  },
+  {
+    "id": "ch2_q254",
+    "topic": "vegetative-propagation",
+    "difficulty": "medium",
+    "question": {
+      "hi": "आलू और अदरक में क्या समानता है?",
+      "en": "What is common between potato and ginger?"
+    },
+    "options": {
+      "hi": [
+        "दोनों भूमिगत तने से नए पौधे बनाते हैं",
+        "दोनों केवल बीज से उगते हैं",
+        "दोनों केवल फूल से उगते हैं",
+        "दोनों कभी नहीं उगते"
+      ],
+      "en": [
+        "Both grow new plants from underground stems",
+        "Both grow only from seeds",
+        "Both grow only from flowers",
+        "Both never grow"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "आलू और अदरक दोनों अपने भूमिगत तने से नए पौधे बनाते हैं।",
+      "en": "Both potato and ginger produce new plants from their underground stems."
+    }
+  },
+  {
+    "id": "ch2_q255",
+    "topic": "vegetative-propagation",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कायिक प्रवर्धित पौधे रोगों के प्रति अधिक संवेदनशील क्यों हो सकते हैं?",
+      "en": "Why can vegetatively propagated plants be more vulnerable to diseases?"
+    },
+    "options": {
+      "hi": [
+        "क्योंकि वे आनुवंशिक रूप से समान होते हैं",
+        "क्योंकि उनमें विभिन्नता होती है",
+        "क्योंकि वे बीज से बनते हैं",
+        "क्योंकि उनमें परागण होता है"
+      ],
+      "en": [
+        "Because they are genetically identical",
+        "Because they show variation",
+        "Because they come from seeds",
+        "Because pollination occurs"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "आनुवंशिक समानता के कारण एक ही रोग पूरी फसल को प्रभावित कर सकता है।",
+      "en": "Genetic uniformity means a single disease can affect the whole crop."
+    }
+  },
+  {
+    "id": "ch2_q256",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मुकुलन (budding) किस जीव में होता है?",
+      "en": "Budding occurs in which organism?"
+    },
+    "options": {
+      "hi": [
+        "यीस्ट",
+        "मनुष्य",
+        "गाय",
+        "आम"
+      ],
+      "en": [
+        "Yeast",
+        "Human",
+        "Cow",
+        "Mango"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यीस्ट मुकुलन द्वारा अलैंगिक जनन करता है।",
+      "en": "Yeast reproduces asexually by budding."
+    }
+  },
+  {
+    "id": "ch2_q257",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "हाइड्रा किस विधि से जनन करता है?",
+      "en": "Hydra reproduces by which method?"
+    },
+    "options": {
+      "hi": [
+        "मुकुलन",
+        "बीज निर्माण",
+        "परागण",
+        "निषेचन"
+      ],
+      "en": [
+        "Budding",
+        "Seed formation",
+        "Pollination",
+        "Fertilisation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "हाइड्रा मुकुलन द्वारा जनन करता है।",
+      "en": "Hydra reproduces by budding."
+    }
+  },
+  {
+    "id": "ch2_q258",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "बीजाणु निर्माण (spore formation) किस समूह में होता है?",
+      "en": "Spore formation occurs in which group?"
+    },
+    "options": {
+      "hi": [
+        "कवक",
+        "स्तनधारी",
+        "पक्षी",
+        "सरीसृप"
+      ],
+      "en": [
+        "Fungi",
+        "Mammals",
+        "Birds",
+        "Reptiles"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कवकों (जैसे ब्रेड पर लगने वाला फफूँद) में बीजाणु निर्माण होता है।",
+      "en": "Fungi, such as bread mould, reproduce by spore formation."
+    }
+  },
+  {
+    "id": "ch2_q259",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "ब्रेड पर फफूँद किससे उत्पन्न होता है?",
+      "en": "Bread mould arises from what?"
+    },
+    "options": {
+      "hi": [
+        "वायु में उपस्थित बीजाणुओं से",
+        "केवल पानी से",
+        "केवल नमक से",
+        "केवल शक्कर से"
+      ],
+      "en": [
+        "Spores present in the air",
+        "Only water",
+        "Only salt",
+        "Only sugar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "वायु में उपस्थित बीजाणु नम ब्रेड पर बैठकर फफूँद बनाते हैं।",
+      "en": "Spores in the air settle on moist bread and grow into mould."
+    }
+  },
+  {
+    "id": "ch2_q260",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जीवाणु किस प्रकार जनन करते हैं?",
+      "en": "How do bacteria reproduce?"
+    },
+    "options": {
+      "hi": [
+        "कोशिका विभाजन से",
+        "केवल बीज से",
+        "केवल परागण से",
+        "केवल निषेचन से"
+      ],
+      "en": [
+        "By cell division",
+        "Only by seeds",
+        "Only by pollination",
+        "Only by fertilisation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जीवाणु कोशिका विभाजन द्वारा अलैंगिक जनन करते हैं।",
+      "en": "Bacteria reproduce asexually by cell division."
+    }
+  },
+  {
+    "id": "ch2_q261",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अमीबा किस प्रकार जनन करता है?",
+      "en": "How does amoeba reproduce?"
+    },
+    "options": {
+      "hi": [
+        "कोशिका विभाजन से",
+        "मुकुलन से",
+        "बीजाणु से",
+        "कर्तन से"
+      ],
+      "en": [
+        "By cell division",
+        "By budding",
+        "By spores",
+        "By cutting"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अमीबा एककोशिकीय जीव है जो कोशिका विभाजन से जनन करता है।",
+      "en": "Amoeba, a unicellular organism, reproduces by cell division."
+    }
+  },
+  {
+    "id": "ch2_q262",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अलैंगिक जनन किस कोशिका विभाजन पर आधारित है?",
+      "en": "Asexual reproduction is based on which cell division?"
+    },
+    "options": {
+      "hi": [
+        "समसूत्री विभाजन",
+        "अर्धसूत्री विभाजन",
+        "केवल संलयन",
+        "कोई विभाजन नहीं"
+      ],
+      "en": [
+        "Mitosis",
+        "Meiosis",
+        "Only fusion",
+        "No division"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है।",
+      "en": "Asexual reproduction is based on mitosis."
+    }
+  },
+  {
+    "id": "ch2_q263",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अलैंगिक जनन की आनुवंशिक रूप से समान संतति क्या कहलाती है?",
+      "en": "Genetically identical offspring of asexual reproduction are called what?"
+    },
+    "options": {
+      "hi": [
+        "क्लोन",
+        "संकर",
+        "भ्रूण",
+        "युग्मनज"
+      ],
+      "en": [
+        "Clones",
+        "Hybrids",
+        "Embryo",
+        "Zygote"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन से बनी समान संतति क्लोन कहलाती है।",
+      "en": "Identical offspring of asexual reproduction are called clones."
+    }
+  },
+  {
+    "id": "ch2_q264",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कवक के बीजाणु किस माध्यम से फैलते हैं?",
+      "en": "Through which medium do fungal spores spread?"
+    },
+    "options": {
+      "hi": [
+        "वायु",
+        "केवल मिट्टी",
+        "केवल लकड़ी",
+        "केवल धातु"
+      ],
+      "en": [
+        "Air",
+        "Only soil",
+        "Only wood",
+        "Only metal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बीजाणु हल्के होते हैं और वायु की धाराओं से आसानी से फैलते हैं।",
+      "en": "Spores are light and spread easily through air currents."
+    }
+  },
+  {
+    "id": "ch2_q265",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बीजाणु कैसे होते हैं?",
+      "en": "How are spores?"
+    },
+    "options": {
+      "hi": [
+        "हल्के और प्रायः एककोशिकीय",
+        "भारी और बहुकोशिकीय",
+        "केवल मृत",
+        "केवल ठोस"
+      ],
+      "en": [
+        "Light and usually unicellular",
+        "Heavy and multicellular",
+        "Only dead",
+        "Only solid"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बीजाणु हल्के, प्रायः एककोशिकीय होते हैं और वायु से फैलते हैं।",
+      "en": "Spores are light, usually unicellular, and disperse through air."
+    }
+  },
+  {
+    "id": "ch2_q266",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "hard",
+    "question": {
+      "hi": "लुई पाश्चर ने किस धारणा का खंडन किया?",
+      "en": "Which notion did Louis Pasteur disprove?"
+    },
+    "options": {
+      "hi": [
+        "स्वतः जनन (जीव निर्जीव से बनते हैं)",
+        "पृथ्वी गोल है",
+        "रक्त परिसंचरण",
+        "प्रकाश संश्लेषण"
+      ],
+      "en": [
+        "Spontaneous generation (life from non-living)",
+        "Earth is round",
+        "Blood circulation",
+        "Photosynthesis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पाश्चर ने सिद्ध किया कि नया जीवन पहले से उपस्थित जीवन से ही बनता है, निर्जीव से नहीं।",
+      "en": "Pasteur proved that new life comes only from pre-existing life, not from non-living matter."
+    }
+  },
+  {
+    "id": "ch2_q267",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यीस्ट किस प्रकार का जीव है?",
+      "en": "What kind of organism is yeast?"
+    },
+    "options": {
+      "hi": [
+        "एककोशिकीय कवक",
+        "बहुकोशिकीय जंतु",
+        "एककोशिकीय शैवाल",
+        "बहुकोशिकीय पादप"
+      ],
+      "en": [
+        "Unicellular fungus",
+        "Multicellular animal",
+        "Unicellular alga",
+        "Multicellular plant"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यीस्ट एक एककोशिकीय कवक है जो मुकुलन से जनन करता है।",
+      "en": "Yeast is a unicellular fungus that reproduces by budding."
+    }
+  },
+  {
+    "id": "ch2_q268",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मुकुलन में जनक के शरीर पर क्या बनता है?",
+      "en": "What forms on the parent body in budding?"
+    },
+    "options": {
+      "hi": [
+        "छोटा उभार (मुकुल)",
+        "बीज",
+        "फूल",
+        "फल"
+      ],
+      "en": [
+        "A small outgrowth (bud)",
+        "Seed",
+        "Flower",
+        "Fruit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मुकुलन में जनक के शरीर पर छोटा उभार बनता है जो बढ़कर नया जीव बन जाता है।",
+      "en": "In budding, a small outgrowth appears on the parent that grows into a new organism."
+    }
+  },
+  {
+    "id": "ch2_q269",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मुकुलन में नया जीव कैसे बनता है?",
+      "en": "How does a new organism form in budding?"
+    },
+    "options": {
+      "hi": [
+        "मुकुल बढ़कर जनक से अलग हो जाता है",
+        "केवल बीज से",
+        "केवल निषेचन से",
+        "केवल परागण से"
+      ],
+      "en": [
+        "The bud grows and separates from the parent",
+        "Only from a seed",
+        "Only by fertilisation",
+        "Only by pollination"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मुकुल बड़ा होकर जनक से अलग होकर स्वतंत्र जीव बन जाता है।",
+      "en": "The bud enlarges and separates from the parent to live independently."
+    }
+  },
+  {
+    "id": "ch2_q270",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बीजाणुओं के अंकुरण के लिए क्या आवश्यक है?",
+      "en": "What is needed for spores to germinate?"
+    },
+    "options": {
+      "hi": [
+        "नमी और पोषण",
+        "केवल प्रकाश",
+        "केवल ध्वनि",
+        "केवल हवा का दबाव"
+      ],
+      "en": [
+        "Moisture and nutrients",
+        "Only light",
+        "Only sound",
+        "Only air pressure"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बीजाणु नमी और पोषक तत्व मिलने पर अंकुरित होकर नया जीव बनाते हैं।",
+      "en": "Spores germinate into new organisms when they get moisture and nutrients."
+    }
+  },
+  {
+    "id": "ch2_q271",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "समसूत्री विभाजन (mitosis) से बनी संतति में गुणसूत्र संख्या कैसी होती है?",
+      "en": "What is the chromosome number of offspring produced by mitosis?"
+    },
+    "options": {
+      "hi": [
+        "जनक के समान",
+        "जनक से आधी",
+        "जनक से दोगुनी",
+        "शून्य"
+      ],
+      "en": [
+        "Same as the parent",
+        "Half of the parent",
+        "Double the parent",
+        "Zero"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "समसूत्री विभाजन में गुणसूत्र संख्या जनक के समान रहती है।",
+      "en": "Mitosis keeps the chromosome number the same as the parent."
+    }
+  },
+  {
+    "id": "ch2_q272",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "hard",
+    "question": {
+      "hi": "अलैंगिक जनन से जनसंख्या में कैसे वृद्धि होती है?",
+      "en": "How does asexual reproduction increase population?"
+    },
+    "options": {
+      "hi": [
+        "अनुकूल परिस्थितियों में तेजी से",
+        "केवल धीरे-धीरे",
+        "केवल बीज से",
+        "केवल परागण से"
+      ],
+      "en": [
+        "Rapidly under favourable conditions",
+        "Only slowly",
+        "Only by seeds",
+        "Only by pollination"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन तेज होता है, इसलिए अनुकूल परिस्थितियों में जनसंख्या तेजी से बढ़ती है।",
+      "en": "Asexual reproduction is fast, so populations grow rapidly under favourable conditions."
+    }
+  },
+  {
+    "id": "ch2_q273",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कवकों से कौन-सी उपयोगी औषधि प्राप्त होती है?",
+      "en": "Which useful medicine is obtained from fungi?"
+    },
+    "options": {
+      "hi": [
+        "पेनिसिलिन जैसे प्रतिजैविक",
+        "केवल विटामिन C",
+        "केवल लोहा",
+        "केवल कैल्शियम"
+      ],
+      "en": [
+        "Antibiotics like penicillin",
+        "Only vitamin C",
+        "Only iron",
+        "Only calcium"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कवकों से पेनिसिलिन और अमोक्सिसिलिन जैसे प्रतिजैविक प्राप्त होते हैं।",
+      "en": "Antibiotics like penicillin and amoxicillin are derived from fungi."
+    }
+  },
+  {
+    "id": "ch2_q274",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "स्पंज किस प्रकार का जीव है जो अलैंगिक जनन करता है?",
+      "en": "Sponge is what kind of organism that reproduces asexually?"
+    },
+    "options": {
+      "hi": [
+        "सरल बहुकोशिकीय जीव",
+        "एककोशिकीय जीवाणु",
+        "पुष्पीय पादप",
+        "स्तनधारी"
+      ],
+      "en": [
+        "Simple multicellular organism",
+        "Unicellular bacterium",
+        "Flowering plant",
+        "Mammal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्पंज एक सरल बहुकोशिकीय जीव है जो अलैंगिक जनन करता है।",
+      "en": "Sponge is a simple multicellular organism that reproduces asexually."
+    }
+  },
+  {
+    "id": "ch2_q275",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बीजाणु किस संरचना में बनते हैं?",
+      "en": "In what structure are spores formed?"
+    },
+    "options": {
+      "hi": [
+        "थैली जैसी संरचना में",
+        "फूल में",
+        "फल में",
+        "बीज में"
+      ],
+      "en": [
+        "In a sac-like structure",
+        "In the flower",
+        "In the fruit",
+        "In the seed"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कवकों में बीजाणु थैली जैसी संरचना में बनते हैं।",
+      "en": "In fungi, spores are formed in a sac-like structure."
+    }
+  },
+  {
+    "id": "ch2_q276",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "एक जीवाणु कैसे नया जीवाणु बनाता है?",
+      "en": "How does one bacterium produce a new bacterium?"
+    },
+    "options": {
+      "hi": [
+        "कोशिका विभाजन से दो भागों में बँटकर",
+        "बीज से",
+        "परागण से",
+        "निषेचन से"
+      ],
+      "en": [
+        "By dividing into two by cell division",
+        "From a seed",
+        "By pollination",
+        "By fertilisation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जीवाणु कोशिका विभाजन से दो नए जीवाणुओं में बँट जाता है।",
+      "en": "A bacterium divides into two new bacteria by cell division."
+    }
+  },
+  {
+    "id": "ch2_q277",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मुकुलन में जनकों की संख्या कितनी होती है?",
+      "en": "How many parents are involved in budding?"
+    },
+    "options": {
+      "hi": [
+        "एक",
+        "दो",
+        "तीन",
+        "चार"
+      ],
+      "en": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मुकुलन अलैंगिक जनन है, इसमें केवल एक जनक होता है।",
+      "en": "Budding is asexual, involving only one parent."
+    }
+  },
+  {
+    "id": "ch2_q278",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अलैंगिक जनन से बनी संतति आनुवंशिक रूप से कैसी होती है?",
+      "en": "Offspring produced by asexual reproduction are genetically how?"
+    },
+    "options": {
+      "hi": [
+        "समान",
+        "भिन्न",
+        "केवल आधी समान",
+        "कभी-कभी समान"
+      ],
+      "en": [
+        "Identical",
+        "Different",
+        "Only half similar",
+        "Sometimes similar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अलैंगिक जनन की संतति आनुवंशिक रूप से समान होती है।",
+      "en": "Asexual offspring are genetically identical."
+    }
+  },
+  {
+    "id": "ch2_q279",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "hard",
+    "question": {
+      "hi": "निम्न में से कौन-सा अलैंगिक जनन नहीं है?",
+      "en": "Which of the following is NOT asexual reproduction?"
+    },
+    "options": {
+      "hi": [
+        "निषेचन",
+        "मुकुलन",
+        "बीजाणु निर्माण",
+        "कायिक प्रवर्धन"
+      ],
+      "en": [
+        "Fertilisation",
+        "Budding",
+        "Spore formation",
+        "Vegetative propagation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "निषेचन लैंगिक जनन की प्रक्रिया है; शेष तीनों अलैंगिक हैं।",
+      "en": "Fertilisation is part of sexual reproduction; the other three are asexual."
+    }
+  },
+  {
+    "id": "ch2_q280",
+    "topic": "asexual-methods-organisms",
+    "difficulty": "medium",
+    "question": {
+      "hi": "प्रशीतन से भोजन अधिक समय तक सुरक्षित क्यों रहता है?",
+      "en": "Why does refrigeration keep food safe longer?"
+    },
+    "options": {
+      "hi": [
+        "कम ताप पर कवक और जीवाणुओं का जनन रुक जाता है",
+        "केवल भोजन मीठा हो जाता है",
+        "केवल भोजन सूख जाता है",
+        "केवल भोजन गर्म हो जाता है"
+      ],
+      "en": [
+        "Low temperature stops reproduction of fungi and bacteria",
+        "Food only becomes sweet",
+        "Food only dries",
+        "Food only heats up"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कम तापमान पर कवकों और जीवाणुओं का जनन रुक जाने से भोजन खराब नहीं होता।",
+      "en": "Low temperature stops fungi and bacteria from reproducing, so food does not spoil."
+    }
+  },
+  {
+    "id": "ch2_q281",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पुष्पीय पादपों का जनन अंग क्या है?",
+      "en": "What is the reproductive organ of flowering plants?"
+    },
+    "options": {
+      "hi": [
+        "पुष्प",
+        "पत्ती",
+        "जड़",
+        "तना"
+      ],
+      "en": [
+        "Flower",
+        "Leaf",
+        "Root",
+        "Stem"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पुष्पीय पादपों (angiosperms) में पुष्प जनन अंग है।",
+      "en": "In angiosperms, the flower is the reproductive organ."
+    }
+  },
+  {
+    "id": "ch2_q282",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "बाह्यदल (sepal) का कार्य क्या है?",
+      "en": "What is the function of sepals?"
+    },
+    "options": {
+      "hi": [
+        "कली अवस्था में पुष्प की रक्षा करना",
+        "केवल परागण करना",
+        "केवल बीज बनाना",
+        "केवल फल बनाना"
+      ],
+      "en": [
+        "Protecting the flower in the bud stage",
+        "Only pollination",
+        "Only seed formation",
+        "Only fruit formation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बाह्यदल कली अवस्था में पुष्प के भागों की रक्षा करते हैं।",
+      "en": "Sepals protect the flower parts in the bud stage."
+    }
+  },
+  {
+    "id": "ch2_q283",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "दल (petal) का मुख्य कार्य क्या है?",
+      "en": "What is the main function of petals?"
+    },
+    "options": {
+      "hi": [
+        "परागणकों को आकर्षित करना",
+        "केवल जल सोखना",
+        "केवल भोजन बनाना",
+        "केवल सहारा देना"
+      ],
+      "en": [
+        "Attracting pollinators",
+        "Only absorbing water",
+        "Only making food",
+        "Only giving support"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "रंगीन दल परागणकों (कीट, पक्षी) को आकर्षित करते हैं।",
+      "en": "Coloured petals attract pollinators such as insects and birds."
+    }
+  },
+  {
+    "id": "ch2_q284",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पुष्प का नर जनन अंग कौन-सा है?",
+      "en": "Which is the male reproductive part of a flower?"
+    },
+    "options": {
+      "hi": [
+        "पुंकेसर",
+        "स्त्रीकेसर",
+        "बाह्यदल",
+        "दल"
+      ],
+      "en": [
+        "Stamen",
+        "Pistil",
+        "Sepal",
+        "Petal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पुंकेसर (stamen) पुष्प का नर जनन अंग है।",
+      "en": "The stamen is the male reproductive part of a flower."
+    }
+  },
+  {
+    "id": "ch2_q285",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "पुष्प का मादा जनन अंग कौन-सा है?",
+      "en": "Which is the female reproductive part of a flower?"
+    },
+    "options": {
+      "hi": [
+        "स्त्रीकेसर",
+        "पुंकेसर",
+        "बाह्यदल",
+        "दल"
+      ],
+      "en": [
+        "Pistil",
+        "Stamen",
+        "Sepal",
+        "Petal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्त्रीकेसर (pistil) पुष्प का मादा जनन अंग है।",
+      "en": "The pistil is the female reproductive part of a flower."
+    }
+  },
+  {
+    "id": "ch2_q286",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परागकण कहाँ बनते हैं?",
+      "en": "Where are pollen grains produced?"
+    },
+    "options": {
+      "hi": [
+        "परागकोश में",
+        "वर्तिकाग्र में",
+        "अंडाशय में",
+        "बाह्यदल में"
+      ],
+      "en": [
+        "In the anther",
+        "In the stigma",
+        "In the ovary",
+        "In the sepal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पुंकेसर के परागकोश में परागकण बनते हैं, जिनमें नर युग्मक होते हैं।",
+      "en": "The anther of the stamen produces pollen grains containing male gametes."
+    }
+  },
+  {
+    "id": "ch2_q287",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अंडाणु (egg cell) कहाँ स्थित होता है?",
+      "en": "Where is the egg cell located?"
+    },
+    "options": {
+      "hi": [
+        "बीजांड में",
+        "परागकोश में",
+        "दल में",
+        "बाह्यदल में"
+      ],
+      "en": [
+        "In the ovule",
+        "In the anther",
+        "In the petal",
+        "In the sepal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अंडाशय के बीजांड में अंडाणु (मादा युग्मक) होता है।",
+      "en": "The ovule inside the ovary contains the egg cell (female gamete)."
+    }
+  },
+  {
+    "id": "ch2_q288",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "परागण की परिभाषा क्या है?",
+      "en": "What is pollination?"
+    },
+    "options": {
+      "hi": [
+        "परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण",
+        "युग्मकों का संलयन",
+        "बीज का अंकुरण",
+        "फल का पकना"
+      ],
+      "en": [
+        "Transfer of pollen from anther to stigma",
+        "Fusion of gametes",
+        "Germination of seed",
+        "Ripening of fruit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण परागण कहलाता है।",
+      "en": "Pollination is the transfer of pollen grains from the anther to the stigma."
+    }
+  },
+  {
+    "id": "ch2_q289",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "स्व-परागण (self-pollination) किसे कहते हैं?",
+      "en": "What is self-pollination?"
+    },
+    "options": {
+      "hi": [
+        "एक ही पुष्प या उसी पौधे के दूसरे पुष्प के वर्तिकाग्र पर पराग स्थानांतरण",
+        "दूसरे पौधे के पुष्प पर पराग स्थानांतरण",
+        "केवल जल द्वारा परागण",
+        "केवल पक्षी द्वारा परागण"
+      ],
+      "en": [
+        "Pollen transfer to the stigma of the same flower or another flower of the same plant",
+        "Pollen transfer to a flower of another plant",
+        "Only pollination by water",
+        "Only pollination by birds"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्व-परागण में पराग उसी पुष्प या उसी पौधे के दूसरे पुष्प के वर्तिकाग्र तक पहुँचता है।",
+      "en": "In self-pollination, pollen reaches the stigma of the same flower or another flower of the same plant."
+    }
+  },
+  {
+    "id": "ch2_q290",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पर-परागण (cross-pollination) किसे कहते हैं?",
+      "en": "What is cross-pollination?"
+    },
+    "options": {
+      "hi": [
+        "एक पौधे के परागकोश से दूसरे पौधे के पुष्प के वर्तिकाग्र तक पराग स्थानांतरण",
+        "उसी पुष्प में पराग स्थानांतरण",
+        "केवल कीट द्वारा परागण",
+        "केवल स्व-स्थानांतरण"
+      ],
+      "en": [
+        "Pollen transfer from the anther of one plant to the stigma of a flower of another plant",
+        "Pollen transfer within the same flower",
+        "Only pollination by insects",
+        "Only self-transfer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पर-परागण में एक पौधे का पराग दूसरे पौधे के पुष्प के वर्तिकाग्र तक जाता है।",
+      "en": "In cross-pollination, pollen goes from one plant to the stigma of a flower of another plant."
+    }
+  },
+  {
+    "id": "ch2_q291",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "वायु द्वारा परागण किन पादपों में होता है?",
+      "en": "Which plants are pollinated by wind?"
+    },
+    "options": {
+      "hi": [
+        "गेहूँ, मक्का, चावल",
+        "सूरजमुखी, गुड़हल",
+        "गेंदा, गुलाब",
+        "कॉरल ट्री"
+      ],
+      "en": [
+        "Wheat, maize, rice",
+        "Sunflower, hibiscus",
+        "Marigold, rose",
+        "Coral tree"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "गेहूँ, मक्का और चावल में वायु द्वारा परागण होता है।",
+      "en": "Wheat, maize and rice are pollinated by wind."
+    }
+  },
+  {
+    "id": "ch2_q292",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "जल द्वारा परागण किन पादपों में होता है?",
+      "en": "Which plants are pollinated by water?"
+    },
+    "options": {
+      "hi": [
+        "Vallisneria और Hydrilla",
+        "गेहूँ और चावल",
+        "सूरजमुखी",
+        "गुड़हल"
+      ],
+      "en": [
+        "Vallisneria and Hydrilla",
+        "Wheat and rice",
+        "Sunflower",
+        "Hibiscus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "Vallisneria और Hydrilla जैसे जलीय पादपों में जल द्वारा परागण होता है।",
+      "en": "Aquatic plants like Vallisneria and Hydrilla are pollinated by water."
+    }
+  },
+  {
+    "id": "ch2_q293",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कीट द्वारा परागित पुष्प की विशेषता क्या है?",
+      "en": "What is a feature of insect-pollinated flowers?"
+    },
+    "options": {
+      "hi": [
+        "चमकीले रंग, मकरंद और सुगंध",
+        "केवल हरे और गंधहीन",
+        "केवल छोटे और हल्के",
+        "केवल पंखदार वर्तिकाग्र"
+      ],
+      "en": [
+        "Bright colours, nectar and fragrance",
+        "Only green and odourless",
+        "Only small and light",
+        "Only feathery stigma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कीट परागित पुष्प चमकीले, सुगंधित और मकरंद युक्त होते हैं।",
+      "en": "Insect-pollinated flowers are brightly coloured, fragrant and nectar-bearing."
+    }
+  },
+  {
+    "id": "ch2_q294",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पक्षी द्वारा परागण किन पुष्पों में होता है?",
+      "en": "Which flowers are pollinated by birds?"
+    },
+    "options": {
+      "hi": [
+        "कॉरल ट्री और गुड़हल",
+        "गेहूँ और मक्का",
+        "चावल और गन्ना",
+        "Vallisneria और Hydrilla"
+      ],
+      "en": [
+        "Coral tree and hibiscus",
+        "Wheat and maize",
+        "Rice and sugarcane",
+        "Vallisneria and Hydrilla"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कॉरल ट्री और गुड़हल के पुष्प पक्षियों (जैसे सनबर्ड) द्वारा परागित होते हैं।",
+      "en": "Coral tree and hibiscus flowers are pollinated by birds such as sunbirds."
+    }
+  },
+  {
+    "id": "ch2_q295",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "hard",
+    "question": {
+      "hi": "वायु परागित पुष्पों में परागकण कैसे होते हैं?",
+      "en": "How are the pollen grains of wind-pollinated flowers?"
+    },
+    "options": {
+      "hi": [
+        "हल्के, छोटे और बड़ी संख्या में",
+        "भारी और चिपचिपे",
+        "केवल काँटेदार",
+        "केवल बड़े"
+      ],
+      "en": [
+        "Light, small and in large numbers",
+        "Heavy and sticky",
+        "Only spiny",
+        "Only large"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "वायु परागित पुष्पों में परागकण हल्के, छोटे और बड़ी संख्या में बनते हैं।",
+      "en": "Wind-pollinated flowers produce light, small pollen in large numbers."
+    }
+  },
+  {
+    "id": "ch2_q296",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "निषेचन की परिभाषा क्या है?",
+      "en": "What is fertilisation?"
+    },
+    "options": {
+      "hi": [
+        "नर और मादा युग्मकों का संलयन",
+        "पराग का स्थानांतरण",
+        "बीज का अंकुरण",
+        "फल का बनना"
+      ],
+      "en": [
+        "Fusion of male and female gametes",
+        "Transfer of pollen",
+        "Germination of seed",
+        "Formation of fruit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "नर युग्मक का अंडाणु से संलयन निषेचन कहलाता है।",
+      "en": "Fertilisation is the fusion of the male gamete with the egg cell."
+    }
+  },
+  {
+    "id": "ch2_q297",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पराग नलिका किस मार्ग से अंडाशय तक पहुँचती है?",
+      "en": "Through which path does the pollen tube reach the ovary?"
+    },
+    "options": {
+      "hi": [
+        "वर्तिकाग्र से वर्तिका होते हुए",
+        "केवल दल से",
+        "केवल बाह्यदल से",
+        "केवल जड़ से"
+      ],
+      "en": [
+        "Through the stigma and style",
+        "Only through the petal",
+        "Only through the sepal",
+        "Only through the root"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पराग नलिका वर्तिकाग्र से वर्तिका होते हुए अंडाशय तक बढ़ती है।",
+      "en": "The pollen tube grows from the stigma down through the style into the ovary."
+    }
+  },
+  {
+    "id": "ch2_q298",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निषेचित अंडा क्या कहलाता है?",
+      "en": "What is the fertilised egg called?"
+    },
+    "options": {
+      "hi": [
+        "युग्मनज",
+        "भ्रूण",
+        "बीज",
+        "फल"
+      ],
+      "en": [
+        "Zygote",
+        "Embryo",
+        "Seed",
+        "Fruit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "निषेचित अंडा युग्मनज कहलाता है, जो बाद में भ्रूण बनता है।",
+      "en": "The fertilised egg is called a zygote, which later develops into an embryo."
+    }
+  },
+  {
+    "id": "ch2_q299",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निषेचन के बाद अंडाशय क्या बनता है?",
+      "en": "What does the ovary develop into after fertilisation?"
+    },
+    "options": {
+      "hi": [
+        "फल",
+        "बीज",
+        "पत्ती",
+        "जड़"
+      ],
+      "en": [
+        "Fruit",
+        "Seed",
+        "Leaf",
+        "Root"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "निषेचन के बाद अंडाशय फल में विकसित होता है।",
+      "en": "After fertilisation, the ovary develops into the fruit."
+    }
+  },
+  {
+    "id": "ch2_q300",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निषेचन के बाद बीजांड क्या बनता है?",
+      "en": "What do the ovules develop into after fertilisation?"
+    },
+    "options": {
+      "hi": [
+        "बीज",
+        "फल",
+        "दल",
+        "बाह्यदल"
+      ],
+      "en": [
+        "Seeds",
+        "Fruit",
+        "Petal",
+        "Sepal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "निषेचन के बाद बीजांड बीज में विकसित होते हैं।",
+      "en": "After fertilisation, the ovules develop into seeds."
+    }
+  },
+  {
+    "id": "ch2_q301",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बीजों का प्रकीर्णन किन कारकों से होता है?",
+      "en": "By which agents are seeds dispersed?"
+    },
+    "options": {
+      "hi": [
+        "वायु, जल और जंतु",
+        "केवल वायु",
+        "केवल ध्वनि",
+        "केवल प्रकाश"
+      ],
+      "en": [
+        "Wind, water and animals",
+        "Only wind",
+        "Only sound",
+        "Only light"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "बीज वायु, जल और जंतुओं द्वारा प्रकीर्णित होते हैं।",
+      "en": "Seeds are dispersed by wind, water and animals."
+    }
+  },
+  {
+    "id": "ch2_q302",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "बीज के अंकुरण के लिए कौन-सी परिस्थितियाँ आवश्यक हैं?",
+      "en": "Which conditions are necessary for seed germination?"
+    },
+    "options": {
+      "hi": [
+        "जल, वायु और उपयुक्त ताप",
+        "केवल प्रकाश",
+        "केवल ध्वनि",
+        "केवल मिट्टी का रंग"
+      ],
+      "en": [
+        "Water, air and suitable temperature",
+        "Only light",
+        "Only sound",
+        "Only soil colour"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "जल, वायु और उपयुक्त तापमान मिलने पर बीज अंकुरित होता है।",
+      "en": "A seed germinates when it gets water, air and suitable temperature."
+    }
+  },
+  {
+    "id": "ch2_q303",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "hard",
+    "question": {
+      "hi": "'भारतीय भ्रूण विज्ञान के जनक' किसे कहा जाता है?",
+      "en": "Who is known as the 'Father of Indian Embryology'?"
+    },
+    "options": {
+      "hi": [
+        "पी. माहेश्वरी",
+        "लुई पाश्चर",
+        "रॉबर्ट हुक",
+        "मेंडल"
+      ],
+      "en": [
+        "P. Maheshwari",
+        "Louis Pasteur",
+        "Robert Hooke",
+        "Mendel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पी. माहेश्वरी को 'भारतीय भ्रूण विज्ञान के जनक' के रूप में जाना जाता है।",
+      "en": "P. Maheshwari is known as the 'Father of Indian Embryology'."
+    }
+  },
+  {
+    "id": "ch2_q304",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "hard",
+    "question": {
+      "hi": "कृत्रिम संकरण (artificial hybridisation) में पहले क्या किया जाता है?",
+      "en": "What is done first in artificial hybridisation?"
+    },
+    "options": {
+      "hi": [
+        "पुष्प से पुंकेसर हटाए जाते हैं",
+        "केवल पानी दिया जाता है",
+        "केवल फल तोड़ा जाता है",
+        "केवल जड़ काटी जाती है"
+      ],
+      "en": [
+        "The stamens are removed from the flower",
+        "Only water is given",
+        "Only the fruit is plucked",
+        "Only the root is cut"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कृत्रिम संकरण में स्व-परागण रोकने के लिए पहले पुंकेसर हटाए जाते हैं।",
+      "en": "In artificial hybridisation, stamens are removed first to prevent self-pollination."
+    }
+  },
+  {
+    "id": "ch2_q305",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "परागण और निषेचन में मूल अंतर क्या है?",
+      "en": "What is the basic difference between pollination and fertilisation?"
+    },
+    "options": {
+      "hi": [
+        "परागण पराग का स्थानांतरण है, निषेचन युग्मकों का संलयन",
+        "दोनों एक ही हैं",
+        "परागण केवल जल में होता है",
+        "निषेचन केवल वायु में होता है"
+      ],
+      "en": [
+        "Pollination is pollen transfer, fertilisation is fusion of gametes",
+        "Both are the same",
+        "Pollination occurs only in water",
+        "Fertilisation occurs only in air"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "परागण परागकणों का स्थानांतरण है, जबकि निषेचन नर और मादा युग्मकों का संलयन है।",
+      "en": "Pollination is the transfer of pollen, while fertilisation is the fusion of gametes."
+    }
+  },
+  {
+    "id": "ch2_q306",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मक्का का परागण किस कारक से होता है?",
+      "en": "Maize is pollinated by which agent?"
+    },
+    "options": {
+      "hi": [
+        "वायु",
+        "जल",
+        "कीट",
+        "पक्षी"
+      ],
+      "en": [
+        "Wind",
+        "Water",
+        "Insects",
+        "Birds"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मक्का वायु द्वारा परागित होता है।",
+      "en": "Maize is pollinated by wind."
+    }
+  },
+  {
+    "id": "ch2_q307",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "hard",
+    "question": {
+      "hi": "पपीते में प्रायः किस प्रकार का परागण होता है?",
+      "en": "Which type of pollination usually occurs in papaya?"
+    },
+    "options": {
+      "hi": [
+        "पर-परागण",
+        "केवल स्व-परागण",
+        "केवल जल परागण",
+        "कोई परागण नहीं"
+      ],
+      "en": [
+        "Cross-pollination",
+        "Only self-pollination",
+        "Only water pollination",
+        "No pollination"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पपीते में नर और मादा पुष्प प्रायः अलग-अलग पौधों पर होते हैं, इसलिए पर-परागण होता है।",
+      "en": "In papaya, male and female flowers are often on different trees, so cross-pollination occurs."
+    }
+  },
+  {
+    "id": "ch2_q308",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "स्त्रीकेसर के तीन भाग कौन-से हैं?",
+      "en": "What are the three parts of the pistil?"
+    },
+    "options": {
+      "hi": [
+        "वर्तिकाग्र, वर्तिका, अंडाशय",
+        "तंतु, परागकोश, दल",
+        "बाह्यदल, दल, तंतु",
+        "परागकोश, वर्तिका, दल"
+      ],
+      "en": [
+        "Stigma, style, ovary",
+        "Filament, anther, petal",
+        "Sepal, petal, filament",
+        "Anther, style, petal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्त्रीकेसर के तीन भाग वर्तिकाग्र, वर्तिका और अंडाशय हैं।",
+      "en": "The pistil has three parts—stigma, style and ovary."
+    }
+  },
+  {
+    "id": "ch2_q309",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "medium",
+    "question": {
+      "hi": "पुंकेसर के भाग कौन-से हैं?",
+      "en": "What are the parts of the stamen?"
+    },
+    "options": {
+      "hi": [
+        "तंतु और परागकोश",
+        "वर्तिकाग्र और वर्तिका",
+        "अंडाशय और बीजांड",
+        "बाह्यदल और दल"
+      ],
+      "en": [
+        "Filament and anther",
+        "Stigma and style",
+        "Ovary and ovule",
+        "Sepal and petal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पुंकेसर तंतु और परागकोश से मिलकर बनता है।",
+      "en": "The stamen consists of a filament and an anther."
+    }
+  },
+  {
+    "id": "ch2_q310",
+    "topic": "sexual-reproduction-plants",
+    "difficulty": "hard",
+    "question": {
+      "hi": "परागण न होने पर पुष्पीय पादप में क्या होगा?",
+      "en": "What will happen in a flowering plant if pollination does not occur?"
+    },
+    "options": {
+      "hi": [
+        "फल और बीज नहीं बनेंगे",
+        "केवल फल बनेंगे",
+        "केवल पत्तियाँ बढ़ेंगी",
+        "कुछ नहीं बदलेगा"
+      ],
+      "en": [
+        "Fruits and seeds will not form",
+        "Only fruits will form",
+        "Only leaves will grow",
+        "Nothing will change"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "परागण के बिना निषेचन नहीं होगा और फल-बीज नहीं बनेंगे।",
+      "en": "Without pollination there is no fertilisation, so fruits and seeds will not form."
+    }
+  },
+  {
+    "id": "ch2_q311",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मानव में नर युग्मक क्या कहलाता है?",
+      "en": "What is the male gamete called in humans?"
+    },
+    "options": {
+      "hi": [
+        "शुक्राणु",
+        "अंडाणु",
+        "युग्मनज",
+        "भ्रूण"
+      ],
+      "en": [
+        "Sperm",
+        "Egg",
+        "Zygote",
+        "Embryo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मानव में नर युग्मक शुक्राणु (sperm) कहलाता है।",
+      "en": "In humans, the male gamete is called sperm."
+    }
+  },
+  {
+    "id": "ch2_q312",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मानव में मादा युग्मक क्या कहलाता है?",
+      "en": "What is the female gamete called in humans?"
+    },
+    "options": {
+      "hi": [
+        "अंडाणु",
+        "शुक्राणु",
+        "युग्मनज",
+        "शिशु"
+      ],
+      "en": [
+        "Egg",
+        "Sperm",
+        "Zygote",
+        "Baby"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मानव में मादा युग्मक अंडाणु (egg) कहलाता है।",
+      "en": "In humans, the female gamete is called the egg."
+    }
+  },
+  {
+    "id": "ch2_q313",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "वृषण (testes) किस संरचना में स्थित होते हैं?",
+      "en": "In which structure are the testes located?"
+    },
+    "options": {
+      "hi": [
+        "अंडकोश (scrotum)",
+        "गर्भाशय",
+        "डिंबवाहिनी",
+        "अंडाशय"
+      ],
+      "en": [
+        "Scrotum",
+        "Uterus",
+        "Oviduct",
+        "Ovary"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "वृषण अंडकोश (scrotum) नामक त्वचा की थैली में स्थित होते हैं।",
+      "en": "The testes lie in a pouch of skin called the scrotum."
+    }
+  },
+  {
+    "id": "ch2_q314",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अंडकोश (scrotum) का कार्य क्या है?",
+      "en": "What is the function of the scrotum?"
+    },
+    "options": {
+      "hi": [
+        "वृषणों को शरीर के ताप से थोड़ा ठंडा रखना",
+        "केवल भोजन पचाना",
+        "केवल श्वसन करना",
+        "केवल उत्सर्जन करना"
+      ],
+      "en": [
+        "Keeping the testes slightly cooler than body temperature",
+        "Only digesting food",
+        "Only respiration",
+        "Only excretion"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अंडकोश वृषणों को शरीर के ताप से थोड़ा कम ताप पर रखता है, जो शुक्राणु निर्माण के लिए आवश्यक है।",
+      "en": "The scrotum keeps the testes slightly cooler than body temperature, which is needed for sperm formation."
+    }
+  },
+  {
+    "id": "ch2_q315",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शुक्रवाहिनी (vas deferens) का कार्य क्या है?",
+      "en": "What is the function of the vas deferens?"
+    },
+    "options": {
+      "hi": [
+        "वृषण से शुक्राणु को आगे ले जाना",
+        "केवल मूत्र बनाना",
+        "केवल अंडाणु बनाना",
+        "केवल हार्मोन बनाना"
+      ],
+      "en": [
+        "Carrying sperm from the testes",
+        "Only making urine",
+        "Only making eggs",
+        "Only making hormones"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "शुक्रवाहिनी वृषण से शुक्राणु को मूत्रमार्ग तक ले जाती है।",
+      "en": "The vas deferens carries sperm from the testes to the urethra."
+    }
+  },
+  {
+    "id": "ch2_q316",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मूत्रमार्ग (urethra) किसका सामान्य मार्ग है?",
+      "en": "The urethra is a common passage for what?"
+    },
+    "options": {
+      "hi": [
+        "मूत्र और शुक्राणु",
+        "मूत्र और अंडाणु",
+        "भोजन और जल",
+        "रक्त और वायु"
+      ],
+      "en": [
+        "Urine and sperm",
+        "Urine and egg",
+        "Food and water",
+        "Blood and air"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मूत्रमार्ग मूत्र और शुक्राणु दोनों का सामान्य मार्ग है।",
+      "en": "The urethra is a common passage for urine and sperm."
+    }
+  },
+  {
+    "id": "ch2_q317",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "शुक्राशय (seminal vesicle) और प्रोस्टेट ग्रंथि का कार्य क्या है?",
+      "en": "What is the function of the seminal vesicles and prostate gland?"
+    },
+    "options": {
+      "hi": [
+        "शुक्राणुओं को पोषण देने वाला तरल मिलाना",
+        "केवल अंडाणु बनाना",
+        "केवल मूत्र बनाना",
+        "केवल हड्डी बनाना"
+      ],
+      "en": [
+        "Adding fluids that nourish the sperm",
+        "Only making eggs",
+        "Only making urine",
+        "Only making bone"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "ये ग्रंथियाँ तरल मिलाकर शुक्राणुओं को पोषण देती हैं और उन्हें सक्रिय रखती हैं।",
+      "en": "These glands add fluids that nourish the sperm and keep them active."
+    }
+  },
+  {
+    "id": "ch2_q318",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शुक्राणु की संरचना कैसी होती है?",
+      "en": "What is the structure of a sperm?"
+    },
+    "options": {
+      "hi": [
+        "सिर (आनुवंशिक पदार्थ) और लंबी पूँछ",
+        "केवल एक गोला",
+        "केवल पत्ती जैसी",
+        "केवल जड़ जैसी"
+      ],
+      "en": [
+        "A head (genetic material) and a long tail",
+        "Only a sphere",
+        "Only leaf-like",
+        "Only root-like"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "शुक्राणु में सिर (आनुवंशिक पदार्थ) और तैरने के लिए लंबी पूँछ होती है।",
+      "en": "A sperm has a head with genetic material and a long tail for swimming."
+    }
+  },
+  {
+    "id": "ch2_q319",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "अंडाशय (ovary) क्या बनाता है?",
+      "en": "What do the ovaries produce?"
+    },
+    "options": {
+      "hi": [
+        "अंडाणु और हार्मोन",
+        "केवल शुक्राणु",
+        "केवल मूत्र",
+        "केवल रक्त"
+      ],
+      "en": [
+        "Eggs and hormones",
+        "Only sperm",
+        "Only urine",
+        "Only blood"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अंडाशय अंडाणु (मादा युग्मक) और हार्मोन बनाते हैं।",
+      "en": "The ovaries produce eggs and hormones."
+    }
+  },
+  {
+    "id": "ch2_q320",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मानव में निषेचन कहाँ होता है?",
+      "en": "Where does fertilisation occur in humans?"
+    },
+    "options": {
+      "hi": [
+        "डिंबवाहिनी (oviduct)",
+        "गर्भाशय",
+        "अंडाशय",
+        "योनि"
+      ],
+      "en": [
+        "Oviduct",
+        "Uterus",
+        "Ovary",
+        "Vagina"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "निषेचन डिंबवाहिनी (oviduct) में होता है।",
+      "en": "Fertilisation occurs in the oviduct."
+    }
+  },
+  {
+    "id": "ch2_q321",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मानव में भ्रूण का विकास कहाँ होता है?",
+      "en": "Where does the embryo develop in humans?"
+    },
+    "options": {
+      "hi": [
+        "गर्भाशय",
+        "अंडाशय",
+        "डिंबवाहिनी",
+        "अंडकोश"
+      ],
+      "en": [
+        "Uterus",
+        "Ovary",
+        "Oviduct",
+        "Scrotum"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "भ्रूण (foetus) का विकास गर्भाशय (uterus) में होता है।",
+      "en": "The embryo develops in the uterus."
+    }
+  },
+  {
+    "id": "ch2_q322",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मानव कायिक कोशिकाओं में कितने गुणसूत्र होते हैं?",
+      "en": "How many chromosomes are there in human body cells?"
+    },
+    "options": {
+      "hi": [
+        "46",
+        "23",
+        "44",
+        "92"
+      ],
+      "en": [
+        "46",
+        "23",
+        "44",
+        "92"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मानव कायिक कोशिकाओं में 23 जोड़े अर्थात 46 गुणसूत्र होते हैं।",
+      "en": "Human body cells have 23 pairs, i.e. 46 chromosomes."
+    }
+  },
+  {
+    "id": "ch2_q323",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मानव युग्मक (शुक्राणु/अंडाणु) में कितने गुणसूत्र होते हैं?",
+      "en": "How many chromosomes are there in a human gamete (sperm/egg)?"
+    },
+    "options": {
+      "hi": [
+        "23",
+        "46",
+        "44",
+        "92"
+      ],
+      "en": [
+        "23",
+        "46",
+        "44",
+        "92"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अर्धसूत्री विभाजन से युग्मक में गुणसूत्र आधे अर्थात 23 रह जाते हैं।",
+      "en": "Meiosis halves the chromosome number, so a gamete has 23 chromosomes."
+    }
+  },
+  {
+    "id": "ch2_q324",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "युग्मकों का निर्माण किस विभाजन से होता है?",
+      "en": "Gametes are formed by which division?"
+    },
+    "options": {
+      "hi": [
+        "अर्धसूत्री विभाजन",
+        "समसूत्री विभाजन",
+        "केवल संलयन",
+        "कोई विभाजन नहीं"
+      ],
+      "en": [
+        "Meiosis",
+        "Mitosis",
+        "Only fusion",
+        "No division"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "युग्मक अर्धसूत्री विभाजन (meiosis) से बनते हैं।",
+      "en": "Gametes are formed by meiosis."
+    }
+  },
+  {
+    "id": "ch2_q325",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "अंडोत्सर्ग (ovulation) क्या है?",
+      "en": "What is ovulation?"
+    },
+    "options": {
+      "hi": [
+        "अंडाशय से परिपक्व अंडाणु का निकलना",
+        "शुक्राणु का बनना",
+        "गर्भाशय का सिकुड़ना",
+        "भ्रूण का बनना"
+      ],
+      "en": [
+        "Release of a mature egg from the ovary",
+        "Formation of sperm",
+        "Contraction of the uterus",
+        "Formation of the embryo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अंडोत्सर्ग अंडाशय से परिपक्व अंडाणु के निकलने की प्रक्रिया है।",
+      "en": "Ovulation is the release of a mature egg from the ovary."
+    }
+  },
+  {
+    "id": "ch2_q326",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "सामान्य 28-दिन के मासिक चक्र में अंडोत्सर्ग लगभग किस दिन होता है?",
+      "en": "In a typical 28-day menstrual cycle, ovulation occurs around which day?"
+    },
+    "options": {
+      "hi": [
+        "14वाँ दिन",
+        "पहला दिन",
+        "28वाँ दिन",
+        "7वाँ दिन"
+      ],
+      "en": [
+        "Day 14",
+        "Day 1",
+        "Day 28",
+        "Day 7"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "अंडोत्सर्ग सामान्यतः मासिक चक्र के लगभग 14वें दिन होता है।",
+      "en": "Ovulation usually occurs around the 14th day of the menstrual cycle."
+    }
+  },
+  {
+    "id": "ch2_q327",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निषेचन के बाद बनने वाली संरचना क्या कहलाती है?",
+      "en": "What is the structure formed after fertilisation called?"
+    },
+    "options": {
+      "hi": [
+        "युग्मनज",
+        "अंडाणु",
+        "शुक्राणु",
+        "भ्रूण-कोश"
+      ],
+      "en": [
+        "Zygote",
+        "Egg",
+        "Sperm",
+        "Embryo sac"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "शुक्राणु और अंडाणु के संलयन से युग्मनज बनता है।",
+      "en": "The fusion of sperm and egg forms a zygote."
+    }
+  },
+  {
+    "id": "ch2_q328",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "युग्मनज में कितने गुणसूत्र होते हैं?",
+      "en": "How many chromosomes does the zygote have?"
+    },
+    "options": {
+      "hi": [
+        "46",
+        "23",
+        "92",
+        "44"
+      ],
+      "en": [
+        "46",
+        "23",
+        "92",
+        "44"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "23+23 गुणसूत्रों के मिलने से युग्मनज में पुनः 46 गुणसूत्र हो जाते हैं।",
+      "en": "The zygote again has 46 chromosomes (23 + 23)."
+    }
+  },
+  {
+    "id": "ch2_q329",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गर्भाशय की भित्ति में युग्मनज के स्थापित होने को क्या कहते हैं?",
+      "en": "What is the implantation of the zygote in the uterine wall called?"
+    },
+    "options": {
+      "hi": [
+        "आरोपण (implantation)",
+        "अंडोत्सर्ग",
+        "रजोदर्शन",
+        "गर्भपात"
+      ],
+      "en": [
+        "Implantation",
+        "Ovulation",
+        "Menarche",
+        "Abortion"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "युग्मनज का गर्भाशय भित्ति में स्थापित होना आरोपण कहलाता है और इसी से गर्भावस्था शुरू होती है।",
+      "en": "Implantation is the attachment of the zygote to the uterine wall, which marks the beginning of pregnancy."
+    }
+  },
+  {
+    "id": "ch2_q330",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मासिक धर्म (menstruation) सामान्यतः कितने दिन चलता है?",
+      "en": "Menstruation usually lasts for how many days?"
+    },
+    "options": {
+      "hi": [
+        "3–7 दिन",
+        "1 घंटा",
+        "1 वर्ष",
+        "28 दिन से अधिक"
+      ],
+      "en": [
+        "3–7 days",
+        "1 hour",
+        "1 year",
+        "More than 28 days"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मासिक धर्म सामान्यतः 3 से 7 दिन तक चलता है।",
+      "en": "Menstruation usually lasts 3 to 7 days."
+    }
+  },
+  {
+    "id": "ch2_q331",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "मासिक चक्र की सामान्य अवधि कितनी होती है?",
+      "en": "What is the normal duration of the menstrual cycle?"
+    },
+    "options": {
+      "hi": [
+        "21–35 दिन (प्रायः 28 दिन)",
+        "केवल 7 दिन",
+        "केवल 3 दिन",
+        "1 वर्ष"
+      ],
+      "en": [
+        "21–35 days (often 28 days)",
+        "Only 7 days",
+        "Only 3 days",
+        "1 year"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मासिक चक्र सामान्यतः 21–35 दिन का होता है, प्रायः लगभग 28 दिन।",
+      "en": "The menstrual cycle is usually 21–35 days, often about 28 days."
+    }
+  },
+  {
+    "id": "ch2_q332",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "मासिक धर्म का रुकना (menopause) सामान्यतः किस आयु के आसपास होता है?",
+      "en": "Menopause usually occurs around what age?"
+    },
+    "options": {
+      "hi": [
+        "लगभग 50 वर्ष",
+        "लगभग 20 वर्ष",
+        "लगभग 30 वर्ष",
+        "लगभग 10 वर्ष"
+      ],
+      "en": [
+        "About 50 years",
+        "About 20 years",
+        "About 30 years",
+        "About 10 years"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "रजोनिवृत्ति (menopause) सामान्यतः लगभग 50 वर्ष की आयु में होती है।",
+      "en": "Menopause usually occurs around the age of 50."
+    }
+  },
+  {
+    "id": "ch2_q333",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "शिशु का लिंग (sex) कौन निर्धारित करता है?",
+      "en": "Who determines the sex of the baby?"
+    },
+    "options": {
+      "hi": [
+        "पिता",
+        "माता",
+        "दोनों समान रूप से",
+        "कोई नहीं"
+      ],
+      "en": [
+        "The father",
+        "The mother",
+        "Both equally",
+        "No one"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "माता सदैव X गुणसूत्र देती है, पिता X या Y—इसलिए पिता ही शिशु का लिंग निर्धारित करता है।",
+      "en": "The mother always gives an X chromosome; the father gives X or Y, so the father determines the baby's sex."
+    }
+  },
+  {
+    "id": "ch2_q334",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "स्त्री में लिंग गुणसूत्रों का युग्म कौन-सा होता है?",
+      "en": "What is the pair of sex chromosomes in a female?"
+    },
+    "options": {
+      "hi": [
+        "XX",
+        "XY",
+        "YY",
+        "XO"
+      ],
+      "en": [
+        "XX",
+        "XY",
+        "YY",
+        "XO"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्त्री में XX और पुरुष में XY लिंग गुणसूत्र होते हैं।",
+      "en": "Females have XX and males have XY sex chromosomes."
+    }
+  },
+  {
+    "id": "ch2_q335",
+    "topic": "human-reproductive-system",
+    "difficulty": "easy",
+    "question": {
+      "hi": "मानव में गर्भकाल लगभग कितना होता है?",
+      "en": "Human pregnancy lasts about how long?"
+    },
+    "options": {
+      "hi": [
+        "लगभग 9 माह",
+        "लगभग 3 माह",
+        "लगभग 1 माह",
+        "लगभग 12 माह"
+      ],
+      "en": [
+        "About 9 months",
+        "About 3 months",
+        "About 1 month",
+        "About 12 months"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मानव में गर्भकाल लगभग 9 माह का होता है।",
+      "en": "Human pregnancy lasts about nine months."
+    }
+  },
+  {
+    "id": "ch2_q336",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "गर्भावस्था कितने चरणों (trimesters) में बँटी होती है?",
+      "en": "Into how many stages (trimesters) is pregnancy divided?"
+    },
+    "options": {
+      "hi": [
+        "तीन",
+        "दो",
+        "चार",
+        "पाँच"
+      ],
+      "en": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "गर्भावस्था तीन त्रैमासिकों (trimesters) में बँटी होती है।",
+      "en": "Pregnancy is divided into three trimesters."
+    }
+  },
+  {
+    "id": "ch2_q337",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "विकासशील भ्रूण किस सप्ताह से 'foetus' कहलाता है?",
+      "en": "From about which week is the developing embryo called a foetus?"
+    },
+    "options": {
+      "hi": [
+        "लगभग 9वें सप्ताह से",
+        "पहले सप्ताह से",
+        "दूसरे दिन से",
+        "जन्म के बाद से"
+      ],
+      "en": [
+        "From about the 9th week",
+        "From the first week",
+        "From the second day",
+        "After birth"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लगभग 9वें सप्ताह से विकासशील भ्रूण को foetus कहा जाता है।",
+      "en": "From about the ninth week, the developing embryo is called a foetus."
+    }
+  },
+  {
+    "id": "ch2_q338",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "IVF में निषेचन कहाँ होता है?",
+      "en": "Where does fertilisation occur in IVF?"
+    },
+    "options": {
+      "hi": [
+        "मादा शरीर के बाहर (कल्चर डिश में)",
+        "गर्भाशय में",
+        "डिंबवाहिनी में",
+        "अंडाशय में"
+      ],
+      "en": [
+        "Outside the female body (in a culture dish)",
+        "In the uterus",
+        "In the oviduct",
+        "In the ovary"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "IVF में निषेचन शरीर के बाहर कल्चर डिश में कराया जाता है, इसलिए इसे 'test tube baby' कहते हैं।",
+      "en": "In IVF, fertilisation occurs outside the body in a culture dish, hence the term 'test tube baby'."
+    }
+  },
+  {
+    "id": "ch2_q339",
+    "topic": "human-reproductive-system",
+    "difficulty": "hard",
+    "question": {
+      "hi": "भारत का पहला 'टेस्ट ट्यूब बेबी' किस वैज्ञानिक के प्रयास से बना?",
+      "en": "India's first 'test tube baby' resulted from the efforts of which scientist?"
+    },
+    "options": {
+      "hi": [
+        "सुभाष मुखोपाध्याय",
+        "पी. माहेश्वरी",
+        "लुई पाश्चर",
+        "मेंडल"
+      ],
+      "en": [
+        "Subhash Mukhopadhyay",
+        "P. Maheshwari",
+        "Louis Pasteur",
+        "Mendel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "1978 में कोलकाता के सुभाष मुखोपाध्याय ने भारत का पहला टेस्ट ट्यूब बेबी (कनुप्रिया अग्रवाल) का प्रयोग किया।",
+      "en": "In 1978, Subhash Mukhopadhyay of Kolkata pioneered India's first test tube baby (Kanupriya Agarwal)."
+    }
+  },
+  {
+    "id": "ch2_q340",
+    "topic": "human-reproductive-system",
+    "difficulty": "medium",
+    "question": {
+      "hi": "यौवन (puberty) में लड़कों में कौन-सा परिवर्तन सामान्य है?",
+      "en": "Which change is common in boys during puberty?"
+    },
+    "options": {
+      "hi": [
+        "आवाज का भारी होना और कंधों का चौड़ा होना",
+        "केवल बालों का झड़ना",
+        "केवल आँखों का रंग बदलना",
+        "केवल नाखून बढ़ना"
+      ],
+      "en": [
+        "Voice deepening and broadening of shoulders",
+        "Only hair loss",
+        "Only change in eye colour",
+        "Only nail growth"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यौवन में लड़कों की लंबाई तेजी से बढ़ती है, कंधे चौड़े होते हैं और आवाज भारी होती है।",
+      "en": "During puberty, boys grow taller rapidly, their shoulders broaden and their voice deepens."
+    }
+  },
+  {
+    "id": "ch2_q341",
+    "topic": "reproductive-health",
+    "difficulty": "easy",
+    "question": {
+      "hi": "निम्न में से कौन-सा यौन संचरित संक्रमण (STI) है?",
+      "en": "Which of the following is a sexually transmitted infection (STI)?"
+    },
+    "options": {
+      "hi": [
+        "HIV",
+        "टाइफाइड",
+        "मलेरिया",
+        "डेंगू"
+      ],
+      "en": [
+        "HIV",
+        "Typhoid",
+        "Malaria",
+        "Dengue"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "HIV एक यौन संचरित संक्रमण है जो अंततः AIDS का कारण बन सकता है।",
+      "en": "HIV is a sexually transmitted infection that can eventually cause AIDS."
+    }
+  },
+  {
+    "id": "ch2_q342",
+    "topic": "reproductive-health",
+    "difficulty": "medium",
+    "question": {
+      "hi": "कंडोम का उपयोग किन दो उद्देश्यों के लिए होता है?",
+      "en": "A condom serves which two purposes?"
+    },
+    "options": {
+      "hi": [
+        "गर्भनिरोध और STI से बचाव",
+        "केवल जल बचाना",
+        "केवल भोजन रखना",
+        "केवल सजावट"
+      ],
+      "en": [
+        "Contraception and protection from STIs",
+        "Only saving water",
+        "Only storing food",
+        "Only decoration"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "कंडोम शुक्राणु को अंडाणु तक पहुँचने से रोकता है और STI से भी बचाता है।",
+      "en": "A condom stops sperm from reaching the egg and also protects against STIs."
+    }
+  },
+  {
+    "id": "ch2_q343",
+    "topic": "reproductive-health",
+    "difficulty": "medium",
+    "question": {
+      "hi": "copper-T किस प्रकार का गर्भनिरोधक है?",
+      "en": "What type of contraceptive is copper-T?"
+    },
+    "options": {
+      "hi": [
+        "अंतर्गर्भाशयी युक्ति (IUD)",
+        "केवल हार्मोनल गोली",
+        "केवल शल्य विधि",
+        "केवल अवरोधक"
+      ],
+      "en": [
+        "Intra-uterine device (IUD)",
+        "Only a hormonal pill",
+        "Only a surgical method",
+        "Only a barrier"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "copper-T एक अंतर्गर्भाशयी युक्ति (IUD) है जो गर्भाशय में रखी जाती है।",
+      "en": "Copper-T is an intra-uterine device (IUD) placed in the uterus."
+    }
+  },
+  {
+    "id": "ch2_q344",
+    "topic": "reproductive-health",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मौखिक गर्भनिरोधक गोलियाँ किस पर प्रभाव डालती हैं?",
+      "en": "Oral contraceptive pills affect what?"
+    },
+    "options": {
+      "hi": [
+        "हार्मोन बदलकर अंडाणु के निकलने पर",
+        "केवल बालों पर",
+        "केवल नाखूनों पर",
+        "केवल हड्डियों पर"
+      ],
+      "en": [
+        "The release of eggs by altering hormones",
+        "Only hair",
+        "Only nails",
+        "Only bones"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "मौखिक गोलियाँ हार्मोन बदलकर अंडाणु के निकलने (ovulation) को रोकती हैं।",
+      "en": "Oral pills alter hormones and prevent the release of eggs."
+    }
+  },
+  {
+    "id": "ch2_q345",
+    "topic": "reproductive-health",
+    "difficulty": "hard",
+    "question": {
+      "hi": "शल्य गर्भनिरोध में पुरुष में कौन-सी नली अवरुद्ध की जाती है?",
+      "en": "Which tube is blocked in males in surgical contraception?"
+    },
+    "options": {
+      "hi": [
+        "शुक्रवाहिनी (vas deferens)",
+        "डिंबवाहिनी",
+        "मूत्रवाहिनी",
+        "श्वासनली"
+      ],
+      "en": [
+        "Vas deferens",
+        "Fallopian tube",
+        "Ureter",
+        "Trachea"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "पुरुष में शुक्रवाहिनी और स्त्री में डिंबवाहिनी (fallopian tube) अवरुद्ध की जाती है।",
+      "en": "In males the vas deferens is blocked; in females the fallopian tubes are blocked."
+    }
+  },
+  {
+    "id": "ch2_q346",
+    "topic": "reproductive-health",
+    "difficulty": "medium",
+    "question": {
+      "hi": "भारत में जन्मपूर्व लिंग परीक्षण की क्या स्थिति है?",
+      "en": "What is the status of prenatal sex determination in India?"
+    },
+    "options": {
+      "hi": [
+        "कानूनन प्रतिबंधित",
+        "पूर्णतः स्वतंत्र",
+        "केवल शुल्क पर",
+        "केवल गाँवों में प्रतिबंधित"
+      ],
+      "en": [
+        "Prohibited by law",
+        "Completely free",
+        "Only for a fee",
+        "Prohibited only in villages"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लिंगानुपात बनाए रखने के लिए भारत में जन्मपूर्व लिंग परीक्षण कानूनन प्रतिबंधित है।",
+      "en": "To maintain the sex ratio, prenatal sex determination is prohibited by law in India."
+    }
+  },
+  {
+    "id": "ch2_q347",
+    "topic": "reproductive-health",
+    "difficulty": "hard",
+    "question": {
+      "hi": "गर्भपात (abortion) सामान्यतः गर्भावस्था के किस चरण में किया जा सकता है?",
+      "en": "Abortion can generally be done in which stage of pregnancy?"
+    },
+    "options": {
+      "hi": [
+        "प्रथम त्रैमासिक में",
+        "केवल प्रसव के बाद",
+        "केवल द्वितीय वर्ष में",
+        "केवल जन्म के समय"
+      ],
+      "en": [
+        "In the first trimester",
+        "Only after delivery",
+        "Only in the second year",
+        "Only at birth"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "गर्भपात सामान्यतः प्रथम त्रैमासिक में, जब भ्रूण बहुत छोटा होता है, किया जाता है।",
+      "en": "Abortion is generally done in the first trimester, when the embryo is very small."
+    }
+  },
+  {
+    "id": "ch2_q348",
+    "topic": "reproductive-health",
+    "difficulty": "medium",
+    "question": {
+      "hi": "मासिक धर्म के दौरान पैड कितने समय में बदलना चाहिए?",
+      "en": "How often should a pad be changed during menstruation?"
+    },
+    "options": {
+      "hi": [
+        "हर 4–6 घंटे में",
+        "हर महीने",
+        "हर वर्ष",
+        "कभी नहीं"
+      ],
+      "en": [
+        "Every 4–6 hours",
+        "Every month",
+        "Every year",
+        "Never"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "स्वच्छता के लिए पैड को 4–6 घंटे में (या आवश्यकता अनुसार पहले) बदलना चाहिए।",
+      "en": "For hygiene, pads should be changed every 4–6 hours, or earlier if needed."
+    }
+  },
+  {
+    "id": "ch2_q349",
+    "topic": "reproductive-health",
+    "difficulty": "hard",
+    "question": {
+      "hi": "विश्व की पहली गैर-स्टेरॉयड, गैर-हार्मोनल साप्ताहिक गोली कहाँ विकसित हुई?",
+      "en": "Where was the world's first non-steroidal, non-hormonal weekly contraceptive pill developed?"
+    },
+    "options": {
+      "hi": [
+        "CDRI, लखनऊ",
+        "ICAR, दिल्ली",
+        "ISRO, बेंगलुरु",
+        "AIIMS, दिल्ली"
+      ],
+      "en": [
+        "CDRI, Lucknow",
+        "ICAR, Delhi",
+        "ISRO, Bengaluru",
+        "AIIMS, Delhi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "लखनऊ के केंद्रीय औषधि अनुसंधान संस्थान (CDRI) ने यह साप्ताहिक गोली विकसित की।",
+      "en": "The Central Drug Research Institute (CDRI), Lucknow, developed this weekly pill."
+    }
+  },
+  {
+    "id": "ch2_q350",
+    "topic": "reproductive-health",
+    "difficulty": "medium",
+    "question": {
+      "hi": "शारीरिक परिपक्वता के साथ-साथ किसकी परिपक्वता भी आवश्यक है?",
+      "en": "Along with physical maturity, what else is necessary?"
+    },
+    "options": {
+      "hi": [
+        "भावनात्मक परिपक्वता",
+        "केवल आयु",
+        "केवल लंबाई",
+        "केवल वजन"
+      ],
+      "en": [
+        "Emotional maturity",
+        "Only age",
+        "Only height",
+        "Only weight"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "hi": "यौन परिपक्वता धीरे-धीरे आती है, पर भावनात्मक परिपक्वता में अधिक समय लगता है और दोनों आवश्यक हैं।",
+      "en": "Sexual maturity is gradual, but emotional maturity takes longer—both are necessary."
+    }
+  }
+]
