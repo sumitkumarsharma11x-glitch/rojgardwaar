@@ -1,0 +1,240 @@
+{
+  "class": 9,
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "chapter": "chapter-02",
+  "chapterNumber": 2,
+  "chapterName": {
+    "hi": "जनन — जीवन की निरंतरता",
+    "en": "Reproduction: How Life Continues"
+  },
+  "mockQuestionCount": 30,
+  "topics": [
+    {
+      "id": "importance-of-reproduction",
+      "name": {
+        "hi": "जनन का महत्व",
+        "en": "Importance of Reproduction"
+      }
+    },
+    {
+      "id": "asexual-vs-sexual",
+      "name": {
+        "hi": "अलैंगिक एवं लैंगिक जनन",
+        "en": "Asexual vs Sexual Reproduction"
+      }
+    },
+    {
+      "id": "vegetative-propagation",
+      "name": {
+        "hi": "कायिक प्रवर्धन",
+        "en": "Vegetative Propagation"
+      }
+    },
+    {
+      "id": "asexual-methods-organisms",
+      "name": {
+        "hi": "जीवों में अलैंगिक जनन की विधियाँ",
+        "en": "Asexual Reproduction Methods in Organisms"
+      }
+    },
+    {
+      "id": "sexual-reproduction-plants",
+      "name": {
+        "hi": "पुष्पीय पादपों में लैंगिक जनन",
+        "en": "Sexual Reproduction in Flowering Plants"
+      }
+    },
+    {
+      "id": "human-reproductive-system",
+      "name": {
+        "hi": "मानव जनन तंत्र",
+        "en": "Human Reproductive System"
+      }
+    },
+    {
+      "id": "reproductive-health",
+      "name": {
+        "hi": "जनन स्वास्थ्य",
+        "en": "Reproductive Health"
+      }
+    }
+  ],
+  "notes": {
+    "hi": {
+      "concept": "जनन वह जैविक प्रक्रिया है जिसके द्वारा सजीव अपने जैसे नए जीव उत्पन्न करते हैं। प्रत्येक जीव का एक निश्चित जीवनकाल होता है—जन्म, वृद्धि, परिपक्वता, जनन और मृत्यु—इसीलिए जनन से ही पृथ्वी पर जीवन की निरंतरता बनी रहती है। जनन मुख्यतः दो प्रकार का होता है—अलैंगिक, जिसमें एक ही जनक संतति उत्पन्न करता है और संतति जनक की लगभग सटीक प्रति होती है, तथा लैंगिक, जिसमें दो जनकों की विशेषताओं का मिश्रण संतति में आता है जिससे विभिन्नता उत्पन्न होती है। अलैंगिक जनन की प्रमुख विधियाँ हैं—मुकुलन, बीजाणु निर्माण और पौधों में कायिक प्रवर्धन (कर्तन, कलम बाँधना, परतन, ऊतक संवर्धन)। अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है, जिससे आनुवंशिक रूप से समान संतति अर्थात क्लोन बनते हैं। लैंगिक जनन में अर्धसूत्री विभाजन (meiosis) से युग्मक बनते हैं जिनमें गुणसूत्रों की संख्या आधी होती है। पुष्पीय पादपों में पुष्प जनन अंग है—पुंकेसर नर भाग और स्त्रीकेसर मादा भाग है; परागण, निषेचन, बीज और फल निर्माण इसके चरण हैं। मानव में वृषण शुक्राणु तथा अंडाशय अंडाणु बनाते हैं, निषेचन से युग्मनज बनता है और गर्भाशय में भ्रूण का विकास होता है। जनन स्वास्थ्य के लिए गर्भनिरोधक विधियाँ और यौन संचरित संक्रमणों से बचाव आवश्यक है।",
+      "example": "आम का वृक्ष वृद्ध होकर नष्ट हो सकता है, किंतु उसके बीज आम के नए पौधों के रूप में अंकुरित होते हैं; इसी प्रकार गाय बछड़ों को, कुत्ते पिल्लों को और मनुष्य शिशुओं को जन्म देते हैं। आलू और अदरक जैसे पौधे बिना बीज के अपने भूमिगत तनों से नए पौधे बनाते हैं, जबकि ब्रायोफिलम की पत्तियों पर छोटे-छोटे पादपक निकलते हैं—ये कायिक प्रवर्धन के उदाहरण हैं। इसी तरह यीस्ट मुकुलन द्वारा तथा ब्रेड पर लगने वाला कवक बीजाणु निर्माण द्वारा अलैंगिक जनन करते हैं।",
+      "sections": [
+        {
+          "heading": "जनन का महत्व",
+          "content": "जनन वह जैविक प्रक्रिया है जिससे सजीव अपने जैसे नए जीव उत्पन्न करते हैं। हर जीव का जीवनकाल निश्चित होता है, इसलिए जनन के बिना कोई भी जाति लुप्त हो जाएगी। जनन से पृथ्वी पर जीवन की निरंतरता बनी रहती है।"
+        },
+        {
+          "heading": "अलैंगिक बनाम लैंगिक जनन",
+          "content": "अलैंगिक जनन में एक ही जनक संतति उत्पन्न करता है, जो जनक की लगभग सटीक प्रति (क्लोन) होती है। लैंगिक जनन में दो जनक भाग लेते हैं और संतति में दोनों की विशेषताओं का मिश्रण होता है, जिससे विभिन्नता उत्पन्न होती है। यही विभिन्नता सजीवों को बदलते परिवेश के अनुकूल बनने में सहायता करती है।"
+        },
+        {
+          "heading": "कायिक प्रवर्धन की विधियाँ",
+          "content": "कायिक प्रवर्धन में नए पौधे पौधे के कायिक भागों (तना, जड़, पत्ती) से बिना बीज के बनते हैं—जैसे आलू और अदरक के भूमिगत तने, गन्ने और मनीप्लांट की तने की कर्तन तथा ब्रायोफिलम की पत्तियाँ। कृषि में प्रयुक्त विधियाँ हैं—कर्तन (cutting), कलम बाँधना (grafting), परतन (layering) और ऊतक संवर्धन (tissue culture)।"
+        },
+        {
+          "heading": "जीवों में अलैंगिक जनन की विधियाँ",
+          "content": "मुकुलन (budding) में जनक के शरीर पर छोटा उभार बनता है—जैसे यीस्ट और हाइड्रा में। बीजाणु निर्माण (spore formation) कवकों में होता है—ब्रेड पर लगने वाला फफूँद बीजाणुओं से बढ़ता है। जीवाणु और अमीबा जैसे एककोशिकीय जीव कोशिका विभाजन से जनन करते हैं। अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है, इसलिए संतति आनुवंशिक रूप से समान होती है।"
+        },
+        {
+          "heading": "पुष्प की संरचना और परागण",
+          "content": "पुष्प पुष्पीय पादपों (angiosperms) का जनन अंग है। इसके चार भाग होते हैं—बाह्यदल (sepal) कली की रक्षा करते हैं, दल (petal) परागणकों को आकर्षित करते हैं, पुंकेसर (stamen) नर भाग है जिसमें तंतु और परागकोश होता है तथा स्त्रीकेसर (pistil) मादा भाग है जिसमें वर्तिकाग्र, वर्तिका और अंडाशय होते हैं। परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण परागण कहलाता है—यह स्व-परागण या पर-परागण हो सकता है।"
+        },
+        {
+          "heading": "निषेचन, बीज और फल निर्माण",
+          "content": "परागण के बाद परागकण से पराग नलिका बनती है जो वर्तिका से होकर अंडाशय तक जाती है। नर युग्मक अंडाणु से संलयित होता है—इसे निषेचन कहते हैं। निषेचित अंडा युग्मनज कहलाता है जो भ्रूण में विकसित होता है। अंडाशय फल में तथा बीजांड बीज में बदल जाते हैं। बीज वायु, जल और जंतुओं द्वारा प्रकीर्णित होते हैं और अनुकूल परिस्थितियों में अंकुरित होते हैं।"
+        },
+        {
+          "heading": "मानव जनन तंत्र",
+          "content": "नर जनन तंत्र में वृषण (testes) शुक्राणु बनाते हैं, जो अंडकोश (scrotum) में रहते हैं। शुक्रवाहिनी (vas deferens) से होकर शुक्राणु मूत्रमार्ग तक जाते हैं। मादा जनन तंत्र में अंडाशय अंडाणु बनाते हैं, डिंबवाहिनी (oviduct) में निषेचन होता है और गर्भाशय (uterus) में भ्रूण का विकास होता है। मानव कोशिकाओं में 46 गुणसूत्र होते हैं, परंतु शुक्राणु और अंडाणु में 23—युग्मनज में पुनः 46 हो जाते हैं।"
+        },
+        {
+          "heading": "जनन स्वास्थ्य",
+          "content": "अवांछित गर्भधारण रोकने के लिए अवरोधक (condom), हार्मोनल गोलियाँ, अंतर्गर्भाशयी युक्तियाँ (copper-T) और शल्य विधियों जैसे गर्भनिरोधक प्रयोग होते हैं। कंडोम यौन संचरित संक्रमणों (STI) जैसे HIV से भी बचाता है। भारत में जन्मपूर्व लिंग परीक्षण कानूनन प्रतिबंधित है। मासिक धर्म के दौरान स्वच्छता का विशेष ध्यान रखना चाहिए।"
+        }
+      ],
+      "keyPoints": [
+        "जनन से पृथ्वी पर जीवन की निरंतरता बनी रहती है",
+        "अलैंगिक जनन में एक जनक से क्लोन बनते हैं, लैंगिक में दो जनकों से विभिन्नता आती है",
+        "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है",
+        "कायिक प्रवर्धन की चार विधियाँ—कर्तन, कलम बाँधना, परतन, ऊतक संवर्धन",
+        "मुकुलन यीस्ट और हाइड्रा में, बीजाणु निर्माण कवकों में होता है",
+        "मानव में 23 जोड़े (46) गुणसूत्र, युग्मक में 23 गुणसूत्र होते हैं",
+        "पुष्प में पुंकेसर नर और स्त्रीकेसर मादा जनन अंग है",
+        "अंडाशय फल बनता है और बीजांड बीज बनता है",
+        "मानव में निषेचन डिंबवाहिनी में, भ्रूण का विकास गर्भाशय में होता है",
+        "गर्भनिरोधक विधियाँ और STI से बचाव जनन स्वास्थ्य के अंग हैं"
+      ],
+      "examFocus": [
+        "अलैंगिक और लैंगिक जनन का मूल अंतर बार-बार पूछा जाता है",
+        "कायिक प्रवर्धन की चारों विधियों के नाम और उनके उदाहरण जोड़कर याद रखें",
+        "पुष्प के भाग और परागण के प्रकार (स्व-परागण/पर-परागण) पर प्रश्न सामान्य हैं",
+        "मानव नर और मादा जनन तंत्र के अंगों के कार्य जोड़कर याद रखें",
+        "गुणसूत्र संख्या (कायिक कोशिका 46, युग्मक 23) पर प्रत्यक्ष प्रश्न आते हैं"
+      ],
+      "examTraps": [
+        "मुकुलन को केवल हाइड्रा मत मानें—यीस्ट (एककोशिकीय कवक) भी मुकुलन करता है",
+        "परागण और निषेचन एक नहीं हैं—परागण पराग का स्थानांतरण है, निषेचन युग्मकों का संलयन",
+        "अंडाशय फल बनता है और बीजांड बीज—इसे उलटकर मत लिखें",
+        "निषेचन डिंबवाहिनी में होता है और विकास गर्भाशय में—स्थान उलटना गलत उत्तर दिला सकता है"
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न में 'एक जनक' आए तो अलैंगिक, 'दो जनक/विभिन्नता' आए तो लैंगिक जनन सोचें",
+        "'पराग का स्थानांतरण' पूछा जाए तो परागण, 'युग्मकों का मिलना' पूछा जाए तो निषेचन उत्तर दें",
+        "गुणसूत्र संख्या का प्रश्न हो तो कायिक कोशिका 46 और युग्मक 23 याद रखें"
+      ],
+      "memoryTricks": [
+        "कायिक प्रवर्धन की चार विधियाँ 'क-क-प-ऊ' क्रम में याद करें—कर्तन, कलम बाँधना, परतन, ऊतक संवर्धन",
+        "पुष्प के चार भाग बाहर से अंदर की ओर—बाह्यदल, दल, पुंकेसर, स्त्रीकेसर",
+        "मासिक चक्र में अंडोत्सर्ग (ovulation) लगभग 14वें दिन होता है"
+      ],
+      "pyqSignals": [
+        "क्लोन की परिभाषा और उदाहरण पर एक-पंक्ति प्रश्न सामान्य हैं",
+        "परागण के कारक (वायु, जल, कीट, पक्षी) और उनके उदाहरण अक्सर पूछे जाते हैं",
+        "गर्भनिरोधक विधियों के प्रकार (अवरोधक, हार्मोनल, IUD, शल्य) पर प्रश्न आते हैं"
+      ],
+      "mustRemember": [
+        "जनन की परिभाषा और दो मुख्य प्रकार",
+        "कायिक प्रवर्धन की चार विधियाँ और उनके उदाहरण",
+        "मानव में 46 गुणसूत्र, युग्मक में 23 गुणसूत्र",
+        "पुंकेसर नर भाग, स्त्रीकेसर मादा भाग; अंडाशय से फल, बीजांड से बीज",
+        "निषेचन डिंबवाहिनी में, विकास गर्भाशय में; गर्भकाल लगभग 9 माह"
+      ],
+      "quickRevision": "जनन वह जैविक प्रक्रिया है जिससे सजीव अपने जैसे नए जीव बनाकर जीवन की निरंतरता बनाए रखते हैं। अलैंगिक जनन एक जनक से होता है और संतति क्लोन होती है, जबकि लैंगिक जनन दो जनकों से होता है और विभिन्नता लाता है। कायिक प्रवर्धन की विधियाँ कर्तन, कलम बाँधना, परतन और ऊतक संवर्धन हैं; मुकुलन और बीजाणु निर्माण अन्य अलैंगिक विधियाँ हैं। लैंगिक जनन में अर्धसूत्री विभाजन से युग्मक बनते हैं—मानव में कायिक कोशिकाओं में 46 और युग्मकों में 23 गुणसूत्र होते हैं। पुष्प में पुंकेसर नर तथा स्त्रीकेसर मादा भाग है; परागण के बाद निषेचन से युग्मनज बनता है, अंडाशय फल और बीजांड बीज बनता है। मानव में निषेचन डिंबवाहिनी में और विकास गर्भाशय में होता है। जनन स्वास्थ्य हेतु गर्भनिरोधक और STI से बचाव आवश्यक है।"
+    },
+    "en": {
+      "concept": "Reproduction is the biological process by which living organisms produce new individuals of their own kind. Every organism has a definite life span—birth, growth, maturity, reproduction and death—so it is reproduction that keeps life continuing on Earth. Reproduction is of two main types—asexual, in which a single parent produces offspring that are nearly exact copies of the parent, and sexual, in which the offspring inherit a mix of characteristics from two parents, creating variation. The main asexual methods are budding, spore formation, and vegetative propagation in plants (cutting, grafting, layering, tissue culture). Asexual reproduction is based on mitosis, so the offspring are genetically identical, i.e. clones. In sexual reproduction, gametes with half the chromosome number are formed by meiosis. In flowering plants the flower is the reproductive organ—the stamen is the male part and the pistil the female part; pollination, fertilisation, seed and fruit formation are its stages. In humans, the testes produce sperm and the ovaries produce eggs; fertilisation forms a zygote and the embryo develops in the uterus. For reproductive health, contraceptive methods and protection from sexually transmitted infections are essential.",
+      "example": "A mango tree may grow old and die, but its seeds germinate into new mango plants; similarly, cows give birth to calves, dogs to puppies and humans to children. Plants like potato and ginger grow new plants from their underground stems without seeds, while tiny plantlets appear on the leaves of Bryophyllum—these are examples of vegetative propagation. Likewise, yeast reproduces by budding and the fungus on bread by spore formation, both asexual methods.",
+      "sections": [
+        {
+          "heading": "Importance of Reproduction",
+          "content": "Reproduction is the biological process by which living beings produce new individuals of their own kind. Every organism has a fixed life span, so without reproduction a species would become extinct. Reproduction maintains the continuity of life on Earth."
+        },
+        {
+          "heading": "Asexual vs Sexual Reproduction",
+          "content": "In asexual reproduction a single parent produces offspring that are almost exact copies (clones) of the parent. Sexual reproduction involves two parents, and the offspring inherit a mix of characteristics from both, creating variation. This variation helps organisms adapt to changing environments."
+        },
+        {
+          "heading": "Methods of Vegetative Propagation",
+          "content": "In vegetative propagation, new plants arise from the vegetative parts (stem, root, leaf) without seeds—for example the underground stems of potato and ginger, stem cuttings of sugarcane and money plant, and the leaves of Bryophyllum. The agricultural methods are cutting, grafting, layering and tissue culture."
+        },
+        {
+          "heading": "Asexual Reproduction Methods in Organisms",
+          "content": "In budding, a small outgrowth appears on the parent body—as in yeast and Hydra. Spore formation occurs in fungi—the mould on bread grows from spores. Unicellular organisms like bacteria and amoeba reproduce by cell division. Asexual reproduction is based on mitosis, so the offspring are genetically identical."
+        },
+        {
+          "heading": "Structure of a Flower and Pollination",
+          "content": "The flower is the reproductive organ of angiosperms. It has four parts—sepals protect the bud, petals attract pollinators, the stamen is the male part with a filament and an anther, and the pistil is the female part with stigma, style and ovary. The transfer of pollen grains from the anther to the stigma is called pollination—it can be self-pollination or cross-pollination."
+        },
+        {
+          "heading": "Fertilisation, Seed and Fruit Formation",
+          "content": "After pollination, a pollen tube grows from the pollen grain down through the style into the ovary. The male gamete fuses with the egg cell—this is fertilisation. The fertilised egg, called a zygote, develops into an embryo. The ovary develops into the fruit and the ovules into seeds. Seeds are dispersed by wind, water and animals and germinate under favourable conditions."
+        },
+        {
+          "heading": "Human Reproductive System",
+          "content": "In the male reproductive system, the testes produce sperm and lie in the scrotum. Sperm travel through the vas deferens to the urethra. In the female reproductive system, the ovaries produce eggs, fertilisation occurs in the oviduct, and the embryo develops in the uterus. Human cells have 46 chromosomes, but sperm and eggs have 23—the zygote again has 46."
+        },
+        {
+          "heading": "Reproductive Health",
+          "content": "Unwanted pregnancies are prevented by contraceptives such as barriers (condoms), hormonal pills, intra-uterine devices (copper-T) and surgical methods. Condoms also protect against sexually transmitted infections (STIs) such as HIV. Prenatal sex determination is prohibited by law in India. Menstrual hygiene requires special care."
+        }
+      ],
+      "keyPoints": [
+        "Reproduction maintains the continuity of life on Earth",
+        "Asexual reproduction makes clones from one parent; sexual reproduction creates variation from two parents",
+        "Asexual reproduction is based on mitosis",
+        "The four methods of vegetative propagation—cutting, grafting, layering, tissue culture",
+        "Budding occurs in yeast and Hydra; spore formation occurs in fungi",
+        "Humans have 23 pairs (46) of chromosomes; gametes have 23",
+        "In a flower, the stamen is the male part and the pistil the female part",
+        "The ovary develops into the fruit and the ovules into seeds",
+        "In humans, fertilisation occurs in the oviduct and development in the uterus",
+        "Contraceptives and protection from STIs are part of reproductive health"
+      ],
+      "examFocus": [
+        "The basic difference between asexual and sexual reproduction is asked repeatedly",
+        "Memorise the four vegetative propagation methods with their examples",
+        "Questions on flower parts and types of pollination (self/cross) are common",
+        "Pair each organ of the male and female reproductive systems with its function",
+        "Direct questions on chromosome numbers (body cell 46, gamete 23) are common"
+      ],
+      "examTraps": [
+        "Do not associate budding only with Hydra—yeast (a unicellular fungus) also reproduces by budding",
+        "Pollination and fertilisation are not the same—pollination is pollen transfer, fertilisation is fusion of gametes",
+        "The ovary forms the fruit and the ovules form the seeds—do not reverse this",
+        "Fertilisation occurs in the oviduct and development in the uterus—reversing the sites can give a wrong answer"
+      ],
+      "thinkBeforeAnswer": [
+        "If the question mentions 'one parent' think asexual; 'two parents/variation' means sexual reproduction",
+        "If 'transfer of pollen' is asked, answer pollination; if 'fusion of gametes', answer fertilisation",
+        "For chromosome-number questions, remember body cells have 46 and gametes 23"
+      ],
+      "memoryTricks": [
+        "Remember the four vegetative propagation methods as C-G-L-T—cutting, grafting, layering, tissue culture",
+        "The four flower parts from outside to inside—sepals, petals, stamen, pistil",
+        "Ovulation occurs around the 14th day of the menstrual cycle"
+      ],
+      "pyqSignals": [
+        "One-line questions on the definition and examples of clones are common",
+        "Pollination agents (wind, water, insects, birds) and their examples are frequently asked",
+        "Questions on types of contraceptives (barrier, hormonal, IUD, surgical) appear often"
+      ],
+      "mustRemember": [
+        "The definition of reproduction and its two main types",
+        "The four methods of vegetative propagation and their examples",
+        "46 chromosomes in humans, 23 in gametes",
+        "Stamen is the male part, pistil the female part; ovary gives fruit, ovules give seeds",
+        "Fertilisation in the oviduct, development in the uterus; pregnancy lasts about 9 months"
+      ],
+      "quickRevision": "Reproduction is the biological process by which organisms produce new individuals of their own kind and maintain the continuity of life. Asexual reproduction involves one parent and produces clones, while sexual reproduction involves two parents and creates variation. Vegetative propagation methods are cutting, grafting, layering and tissue culture; budding and spore formation are other asexual methods. In sexual reproduction, meiosis forms gametes—humans have 46 chromosomes in body cells and 23 in gametes. In a flower, the stamen is the male part and the pistil the female part; after pollination, fertilisation forms a zygote, the ovary becomes the fruit and the ovules become seeds. In humans, fertilisation occurs in the oviduct and development in the uterus. Contraception and protection from STIs are essential for reproductive health."
+    }
+  }
+}
