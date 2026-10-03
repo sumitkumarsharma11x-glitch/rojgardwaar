@@ -840,6 +840,3366 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
         "en": "This question tests a core chemistry concept and its application in daily life."
       }
+    },
+    {
+      "id": "c10q031",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन की संयोजकता कितनी है?",
+        "en": "Choose the correct answer: What is the valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q032",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन की संयोजकता कितनी है?",
+        "en": "In the context of chemistry, answer: What is the valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q033",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन की संयोजकता कितनी है?",
+        "en": "Practice question: What is the valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q034",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन की संयोजकता कितनी है?",
+        "en": "If asked in an exam: What is the valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q035",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन की स्वयं से जुड़ने की क्षमता क्या कहलाती है?",
+        "en": "Choose the correct answer: What is carbon's ability to bond with itself called?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Catenation",
+          "Sublimation",
+          "Filtration",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q036",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन की स्वयं से जुड़ने की क्षमता क्या कहलाती है?",
+        "en": "In the context of chemistry, answer: What is carbon's ability to bond with itself called?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Catenation",
+          "Sublimation",
+          "Filtration",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q037",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन की स्वयं से जुड़ने की क्षमता क्या कहलाती है?",
+        "en": "Practice question: What is carbon's ability to bond with itself called?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Catenation",
+          "Sublimation",
+          "Filtration",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q038",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन की स्वयं से जुड़ने की क्षमता क्या कहलाती है?",
+        "en": "If asked in an exam: What is carbon's ability to bond with itself called?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Catenation",
+          "Sublimation",
+          "Filtration",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q039",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन का परमाणु क्रमांक क्या है?",
+        "en": "Choose the correct answer: What is the atomic number of carbon?"
+      },
+      "options": {
+        "hi": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ],
+        "en": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q040",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन का परमाणु क्रमांक क्या है?",
+        "en": "In the context of chemistry, answer: What is the atomic number of carbon?"
+      },
+      "options": {
+        "hi": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ],
+        "en": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q041",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन का परमाणु क्रमांक क्या है?",
+        "en": "Practice question: What is the atomic number of carbon?"
+      },
+      "options": {
+        "hi": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ],
+        "en": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q042",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन का परमाणु क्रमांक क्या है?",
+        "en": "If asked in an exam: What is the atomic number of carbon?"
+      },
+      "options": {
+        "hi": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ],
+        "en": [
+          "6",
+          "4",
+          "12",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q043",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: मीथेन का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of methane?"
+      },
+      "options": {
+        "hi": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ],
+        "en": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q044",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मीथेन का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of methane?"
+      },
+      "options": {
+        "hi": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ],
+        "en": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q045",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: मीथेन का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of methane?"
+      },
+      "options": {
+        "hi": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ],
+        "en": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q046",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि मीथेन का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of methane?"
+      },
+      "options": {
+        "hi": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ],
+        "en": [
+          "CH₄",
+          "C₂H₆",
+          "CO₂",
+          "CH₃OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q047",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथेन का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of ethane?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ],
+        "en": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q048",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथेन का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of ethane?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ],
+        "en": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q049",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथेन का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of ethane?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ],
+        "en": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q050",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथेन का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of ethane?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ],
+        "en": [
+          "C₂H₆",
+          "CH₄",
+          "C₂H₄",
+          "C₃H₈"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q051",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथीन में कौन-सा बंध पाया जाता है?",
+        "en": "Choose the correct answer: What bond is present in ethene?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध",
+          "एकल बंध ही",
+          "त्रिबंध",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Double bond",
+          "Only single bond",
+          "Triple bond",
+          "Ionic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q052",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथीन में कौन-सा बंध पाया जाता है?",
+        "en": "In the context of chemistry, answer: What bond is present in ethene?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध",
+          "एकल बंध ही",
+          "त्रिबंध",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Double bond",
+          "Only single bond",
+          "Triple bond",
+          "Ionic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q053",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथीन में कौन-सा बंध पाया जाता है?",
+        "en": "Practice question: What bond is present in ethene?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध",
+          "एकल बंध ही",
+          "त्रिबंध",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Double bond",
+          "Only single bond",
+          "Triple bond",
+          "Ionic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q054",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथीन में कौन-सा बंध पाया जाता है?",
+        "en": "If asked in an exam: What bond is present in ethene?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध",
+          "एकल बंध ही",
+          "त्रिबंध",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Double bond",
+          "Only single bond",
+          "Triple bond",
+          "Ionic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q055",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथाइन में कौन-सा बंध पाया जाता है?",
+        "en": "Choose the correct answer: What bond is present in ethyne?"
+      },
+      "options": {
+        "hi": [
+          "त्रिबंध",
+          "द्विबंध",
+          "एकल बंध ही",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Triple bond",
+          "Double bond",
+          "Only single bond",
+          "Metallic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q056",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथाइन में कौन-सा बंध पाया जाता है?",
+        "en": "In the context of chemistry, answer: What bond is present in ethyne?"
+      },
+      "options": {
+        "hi": [
+          "त्रिबंध",
+          "द्विबंध",
+          "एकल बंध ही",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Triple bond",
+          "Double bond",
+          "Only single bond",
+          "Metallic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q057",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथाइन में कौन-सा बंध पाया जाता है?",
+        "en": "Practice question: What bond is present in ethyne?"
+      },
+      "options": {
+        "hi": [
+          "त्रिबंध",
+          "द्विबंध",
+          "एकल बंध ही",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Triple bond",
+          "Double bond",
+          "Only single bond",
+          "Metallic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q058",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथाइन में कौन-सा बंध पाया जाता है?",
+        "en": "If asked in an exam: What bond is present in ethyne?"
+      },
+      "options": {
+        "hi": [
+          "त्रिबंध",
+          "द्विबंध",
+          "एकल बंध ही",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Triple bond",
+          "Double bond",
+          "Only single bond",
+          "Metallic bond"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q059",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: संतृप्त हाइड्रोकार्बन में सामान्यतः कौन-से बंध होते हैं?",
+        "en": "Choose the correct answer: What bonds are generally present in saturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "केवल एकल सहसंयोजक बंध",
+          "द्विबंध ही",
+          "त्रिबंध ही",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Only single covalent bonds",
+          "Only double bonds",
+          "Only triple bonds",
+          "Ionic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q060",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: संतृप्त हाइड्रोकार्बन में सामान्यतः कौन-से बंध होते हैं?",
+        "en": "In the context of chemistry, answer: What bonds are generally present in saturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "केवल एकल सहसंयोजक बंध",
+          "द्विबंध ही",
+          "त्रिबंध ही",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Only single covalent bonds",
+          "Only double bonds",
+          "Only triple bonds",
+          "Ionic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q061",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: संतृप्त हाइड्रोकार्बन में सामान्यतः कौन-से बंध होते हैं?",
+        "en": "Practice question: What bonds are generally present in saturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "केवल एकल सहसंयोजक बंध",
+          "द्विबंध ही",
+          "त्रिबंध ही",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Only single covalent bonds",
+          "Only double bonds",
+          "Only triple bonds",
+          "Ionic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q062",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि संतृप्त हाइड्रोकार्बन में सामान्यतः कौन-से बंध होते हैं?",
+        "en": "If asked in an exam: What bonds are generally present in saturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "केवल एकल सहसंयोजक बंध",
+          "द्विबंध ही",
+          "त्रिबंध ही",
+          "आयनिक बंध"
+        ],
+        "en": [
+          "Only single covalent bonds",
+          "Only double bonds",
+          "Only triple bonds",
+          "Ionic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q063",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: असंतृप्त हाइड्रोकार्बन में क्या हो सकता है?",
+        "en": "Choose the correct answer: What can be present in unsaturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध या त्रिबंध",
+          "केवल एकल बंध",
+          "केवल आयनिक बंध",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Double or triple bonds",
+          "Only single bonds",
+          "Only ionic bonds",
+          "Metallic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q064",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: असंतृप्त हाइड्रोकार्बन में क्या हो सकता है?",
+        "en": "In the context of chemistry, answer: What can be present in unsaturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध या त्रिबंध",
+          "केवल एकल बंध",
+          "केवल आयनिक बंध",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Double or triple bonds",
+          "Only single bonds",
+          "Only ionic bonds",
+          "Metallic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q065",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: असंतृप्त हाइड्रोकार्बन में क्या हो सकता है?",
+        "en": "Practice question: What can be present in unsaturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध या त्रिबंध",
+          "केवल एकल बंध",
+          "केवल आयनिक बंध",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Double or triple bonds",
+          "Only single bonds",
+          "Only ionic bonds",
+          "Metallic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q066",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि असंतृप्त हाइड्रोकार्बन में क्या हो सकता है?",
+        "en": "If asked in an exam: What can be present in unsaturated hydrocarbons?"
+      },
+      "options": {
+        "hi": [
+          "द्विबंध या त्रिबंध",
+          "केवल एकल बंध",
+          "केवल आयनिक बंध",
+          "धात्विक बंध"
+        ],
+        "en": [
+          "Double or triple bonds",
+          "Only single bonds",
+          "Only ionic bonds",
+          "Metallic bonds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q067",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समजातीय श्रेणी के क्रमिक सदस्यों में अंतर कितना होता है?",
+        "en": "Choose the correct answer: What is the difference between successive members of a homologous series?"
+      },
+      "options": {
+        "hi": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ],
+        "en": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q068",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: समजातीय श्रेणी के क्रमिक सदस्यों में अंतर कितना होता है?",
+        "en": "In the context of chemistry, answer: What is the difference between successive members of a homologous series?"
+      },
+      "options": {
+        "hi": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ],
+        "en": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q069",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समजातीय श्रेणी के क्रमिक सदस्यों में अंतर कितना होता है?",
+        "en": "Practice question: What is the difference between successive members of a homologous series?"
+      },
+      "options": {
+        "hi": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ],
+        "en": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q070",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समजातीय श्रेणी के क्रमिक सदस्यों में अंतर कितना होता है?",
+        "en": "If asked in an exam: What is the difference between successive members of a homologous series?"
+      },
+      "options": {
+        "hi": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ],
+        "en": [
+          "CH₂",
+          "CH₃",
+          "H₂",
+          "CO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q071",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथेनॉल का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of ethanol?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ],
+        "en": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q072",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथेनॉल का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of ethanol?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ],
+        "en": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q073",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथेनॉल का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of ethanol?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ],
+        "en": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q074",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथेनॉल का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of ethanol?"
+      },
+      "options": {
+        "hi": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ],
+        "en": [
+          "C₂H₅OH",
+          "CH₃COOH",
+          "CH₄",
+          "C₂H₆"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q075",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथेनोइक अम्ल का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ],
+        "en": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q076",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथेनोइक अम्ल का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ],
+        "en": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q077",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथेनोइक अम्ल का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ],
+        "en": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q078",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथेनोइक अम्ल का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ],
+        "en": [
+          "CH₃COOH",
+          "C₂H₅OH",
+          "CH₄",
+          "CO₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q079",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथेनोइक अम्ल का सामान्य नाम क्या है?",
+        "en": "Choose the correct answer: What is the common name of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एसीटिक अम्ल",
+          "फॉर्मिक अम्ल",
+          "सिट्रिक अम्ल",
+          "लैक्टिक अम्ल"
+        ],
+        "en": [
+          "Acetic acid",
+          "Formic acid",
+          "Citric acid",
+          "Lactic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q080",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथेनोइक अम्ल का सामान्य नाम क्या है?",
+        "en": "In the context of chemistry, answer: What is the common name of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एसीटिक अम्ल",
+          "फॉर्मिक अम्ल",
+          "सिट्रिक अम्ल",
+          "लैक्टिक अम्ल"
+        ],
+        "en": [
+          "Acetic acid",
+          "Formic acid",
+          "Citric acid",
+          "Lactic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q081",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथेनोइक अम्ल का सामान्य नाम क्या है?",
+        "en": "Practice question: What is the common name of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एसीटिक अम्ल",
+          "फॉर्मिक अम्ल",
+          "सिट्रिक अम्ल",
+          "लैक्टिक अम्ल"
+        ],
+        "en": [
+          "Acetic acid",
+          "Formic acid",
+          "Citric acid",
+          "Lactic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q082",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथेनोइक अम्ल का सामान्य नाम क्या है?",
+        "en": "If asked in an exam: What is the common name of ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एसीटिक अम्ल",
+          "फॉर्मिक अम्ल",
+          "सिट्रिक अम्ल",
+          "लैक्टिक अम्ल"
+        ],
+        "en": [
+          "Acetic acid",
+          "Formic acid",
+          "Citric acid",
+          "Lactic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q083",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एथेनॉल और एथेनोइक अम्ल की अभिक्रिया से क्या बन सकता है?",
+        "en": "Choose the correct answer: What can form when ethanol reacts with ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एस्टर",
+          "मीथेन",
+          "सोडियम क्लोराइड",
+          "कार्बन"
+        ],
+        "en": [
+          "Ester",
+          "Methane",
+          "Sodium chloride",
+          "Carbon"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q084",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एथेनॉल और एथेनोइक अम्ल की अभिक्रिया से क्या बन सकता है?",
+        "en": "In the context of chemistry, answer: What can form when ethanol reacts with ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एस्टर",
+          "मीथेन",
+          "सोडियम क्लोराइड",
+          "कार्बन"
+        ],
+        "en": [
+          "Ester",
+          "Methane",
+          "Sodium chloride",
+          "Carbon"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q085",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एथेनॉल और एथेनोइक अम्ल की अभिक्रिया से क्या बन सकता है?",
+        "en": "Practice question: What can form when ethanol reacts with ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एस्टर",
+          "मीथेन",
+          "सोडियम क्लोराइड",
+          "कार्बन"
+        ],
+        "en": [
+          "Ester",
+          "Methane",
+          "Sodium chloride",
+          "Carbon"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q086",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एथेनॉल और एथेनोइक अम्ल की अभिक्रिया से क्या बन सकता है?",
+        "en": "If asked in an exam: What can form when ethanol reacts with ethanoic acid?"
+      },
+      "options": {
+        "hi": [
+          "एस्टर",
+          "मीथेन",
+          "सोडियम क्लोराइड",
+          "कार्बन"
+        ],
+        "en": [
+          "Ester",
+          "Methane",
+          "Sodium chloride",
+          "Carbon"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q087",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एस्टरीकरण में कैसी गंध वाले पदार्थ बन सकते हैं?",
+        "en": "Choose the correct answer: What kind of smell can esters have?"
+      },
+      "options": {
+        "hi": [
+          "फल जैसी सुगंध",
+          "तीखी धात्विक गंध",
+          "कोई गंध हमेशा नहीं",
+          "केवल सड़ी गंध"
+        ],
+        "en": [
+          "Fruity smell",
+          "Sharp metallic smell",
+          "Always no smell",
+          "Only rotten smell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q088",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एस्टरीकरण में कैसी गंध वाले पदार्थ बन सकते हैं?",
+        "en": "In the context of chemistry, answer: What kind of smell can esters have?"
+      },
+      "options": {
+        "hi": [
+          "फल जैसी सुगंध",
+          "तीखी धात्विक गंध",
+          "कोई गंध हमेशा नहीं",
+          "केवल सड़ी गंध"
+        ],
+        "en": [
+          "Fruity smell",
+          "Sharp metallic smell",
+          "Always no smell",
+          "Only rotten smell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q089",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एस्टरीकरण में कैसी गंध वाले पदार्थ बन सकते हैं?",
+        "en": "Practice question: What kind of smell can esters have?"
+      },
+      "options": {
+        "hi": [
+          "फल जैसी सुगंध",
+          "तीखी धात्विक गंध",
+          "कोई गंध हमेशा नहीं",
+          "केवल सड़ी गंध"
+        ],
+        "en": [
+          "Fruity smell",
+          "Sharp metallic smell",
+          "Always no smell",
+          "Only rotten smell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q090",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एस्टरीकरण में कैसी गंध वाले पदार्थ बन सकते हैं?",
+        "en": "If asked in an exam: What kind of smell can esters have?"
+      },
+      "options": {
+        "hi": [
+          "फल जैसी सुगंध",
+          "तीखी धात्विक गंध",
+          "कोई गंध हमेशा नहीं",
+          "केवल सड़ी गंध"
+        ],
+        "en": [
+          "Fruity smell",
+          "Sharp metallic smell",
+          "Always no smell",
+          "Only rotten smell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q091",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: साबुन किस प्रकार के लवण होते हैं?",
+        "en": "Choose the correct answer: Soaps are salts of what?"
+      },
+      "options": {
+        "hi": [
+          "उच्च वसीय अम्लों",
+          "खनिज अम्लों",
+          "नाइट्रिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
+        ],
+        "en": [
+          "Higher fatty acids",
+          "Mineral acids",
+          "Nitric acid",
+          "Hydrochloric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q092",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: साबुन किस प्रकार के लवण होते हैं?",
+        "en": "In the context of chemistry, answer: Soaps are salts of what?"
+      },
+      "options": {
+        "hi": [
+          "उच्च वसीय अम्लों",
+          "खनिज अम्लों",
+          "नाइट्रिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
+        ],
+        "en": [
+          "Higher fatty acids",
+          "Mineral acids",
+          "Nitric acid",
+          "Hydrochloric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q093",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: साबुन किस प्रकार के लवण होते हैं?",
+        "en": "Practice question: Soaps are salts of what?"
+      },
+      "options": {
+        "hi": [
+          "उच्च वसीय अम्लों",
+          "खनिज अम्लों",
+          "नाइट्रिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
+        ],
+        "en": [
+          "Higher fatty acids",
+          "Mineral acids",
+          "Nitric acid",
+          "Hydrochloric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q094",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि साबुन किस प्रकार के लवण होते हैं?",
+        "en": "If asked in an exam: Soaps are salts of what?"
+      },
+      "options": {
+        "hi": [
+          "उच्च वसीय अम्लों",
+          "खनिज अम्लों",
+          "नाइट्रिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
+        ],
+        "en": [
+          "Higher fatty acids",
+          "Mineral acids",
+          "Nitric acid",
+          "Hydrochloric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q095",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: डिटर्जेंट कठोर जल में साबुन की तुलना में क्यों उपयोगी हो सकते हैं?",
+        "en": "Choose the correct answer: Why can detergents be useful in hard water compared with soaps?"
+      },
+      "options": {
+        "hi": [
+          "वे सामान्यतः कम अघुलनशील मैल बनाते हैं",
+          "वे पानी को उबालते हैं",
+          "वे धातु बनाते हैं",
+          "वे ऑक्सीजन हटाते हैं"
+        ],
+        "en": [
+          "They generally form less insoluble scum",
+          "They boil water",
+          "They make metals",
+          "They remove oxygen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q096",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: डिटर्जेंट कठोर जल में साबुन की तुलना में क्यों उपयोगी हो सकते हैं?",
+        "en": "In the context of chemistry, answer: Why can detergents be useful in hard water compared with soaps?"
+      },
+      "options": {
+        "hi": [
+          "वे सामान्यतः कम अघुलनशील मैल बनाते हैं",
+          "वे पानी को उबालते हैं",
+          "वे धातु बनाते हैं",
+          "वे ऑक्सीजन हटाते हैं"
+        ],
+        "en": [
+          "They generally form less insoluble scum",
+          "They boil water",
+          "They make metals",
+          "They remove oxygen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q097",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: डिटर्जेंट कठोर जल में साबुन की तुलना में क्यों उपयोगी हो सकते हैं?",
+        "en": "Practice question: Why can detergents be useful in hard water compared with soaps?"
+      },
+      "options": {
+        "hi": [
+          "वे सामान्यतः कम अघुलनशील मैल बनाते हैं",
+          "वे पानी को उबालते हैं",
+          "वे धातु बनाते हैं",
+          "वे ऑक्सीजन हटाते हैं"
+        ],
+        "en": [
+          "They generally form less insoluble scum",
+          "They boil water",
+          "They make metals",
+          "They remove oxygen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q098",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि डिटर्जेंट कठोर जल में साबुन की तुलना में क्यों उपयोगी हो सकते हैं?",
+        "en": "If asked in an exam: Why can detergents be useful in hard water compared with soaps?"
+      },
+      "options": {
+        "hi": [
+          "वे सामान्यतः कम अघुलनशील मैल बनाते हैं",
+          "वे पानी को उबालते हैं",
+          "वे धातु बनाते हैं",
+          "वे ऑक्सीजन हटाते हैं"
+        ],
+        "en": [
+          "They generally form less insoluble scum",
+          "They boil water",
+          "They make metals",
+          "They remove oxygen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q099",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन सामान्यतः किस प्रकार के बंध बनाता है?",
+        "en": "Choose the correct answer: What type of bonds does carbon generally form?"
+      },
+      "options": {
+        "hi": [
+          "सहसंयोजक",
+          "आयनिक ही",
+          "धात्विक",
+          "हाइड्रोजन ही"
+        ],
+        "en": [
+          "Covalent",
+          "Only ionic",
+          "Metallic",
+          "Only hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q100",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन सामान्यतः किस प्रकार के बंध बनाता है?",
+        "en": "In the context of chemistry, answer: What type of bonds does carbon generally form?"
+      },
+      "options": {
+        "hi": [
+          "सहसंयोजक",
+          "आयनिक ही",
+          "धात्विक",
+          "हाइड्रोजन ही"
+        ],
+        "en": [
+          "Covalent",
+          "Only ionic",
+          "Metallic",
+          "Only hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q101",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन सामान्यतः किस प्रकार के बंध बनाता है?",
+        "en": "Practice question: What type of bonds does carbon generally form?"
+      },
+      "options": {
+        "hi": [
+          "सहसंयोजक",
+          "आयनिक ही",
+          "धात्विक",
+          "हाइड्रोजन ही"
+        ],
+        "en": [
+          "Covalent",
+          "Only ionic",
+          "Metallic",
+          "Only hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q102",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन सामान्यतः किस प्रकार के बंध बनाता है?",
+        "en": "If asked in an exam: What type of bonds does carbon generally form?"
+      },
+      "options": {
+        "hi": [
+          "सहसंयोजक",
+          "आयनिक ही",
+          "धात्विक",
+          "हाइड्रोजन ही"
+        ],
+        "en": [
+          "Covalent",
+          "Only ionic",
+          "Metallic",
+          "Only hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q103",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: दहन में हाइड्रोकार्बन पूर्ण रूप से जलने पर मुख्यतः क्या बनाता है?",
+        "en": "Choose the correct answer: What mainly forms when a hydrocarbon burns completely?"
+      },
+      "options": {
+        "hi": [
+          "CO₂ और H₂O",
+          "CO और H₂",
+          "C और H₂",
+          "NaCl और H₂O"
+        ],
+        "en": [
+          "CO₂ and H₂O",
+          "CO and H₂",
+          "C and H₂",
+          "NaCl and H₂O"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q104",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: दहन में हाइड्रोकार्बन पूर्ण रूप से जलने पर मुख्यतः क्या बनाता है?",
+        "en": "In the context of chemistry, answer: What mainly forms when a hydrocarbon burns completely?"
+      },
+      "options": {
+        "hi": [
+          "CO₂ और H₂O",
+          "CO और H₂",
+          "C और H₂",
+          "NaCl और H₂O"
+        ],
+        "en": [
+          "CO₂ and H₂O",
+          "CO and H₂",
+          "C and H₂",
+          "NaCl and H₂O"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q105",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: दहन में हाइड्रोकार्बन पूर्ण रूप से जलने पर मुख्यतः क्या बनाता है?",
+        "en": "Practice question: What mainly forms when a hydrocarbon burns completely?"
+      },
+      "options": {
+        "hi": [
+          "CO₂ और H₂O",
+          "CO और H₂",
+          "C और H₂",
+          "NaCl और H₂O"
+        ],
+        "en": [
+          "CO₂ and H₂O",
+          "CO and H₂",
+          "C and H₂",
+          "NaCl and H₂O"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q106",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि दहन में हाइड्रोकार्बन पूर्ण रूप से जलने पर मुख्यतः क्या बनाता है?",
+        "en": "If asked in an exam: What mainly forms when a hydrocarbon burns completely?"
+      },
+      "options": {
+        "hi": [
+          "CO₂ और H₂O",
+          "CO और H₂",
+          "C और H₂",
+          "NaCl और H₂O"
+        ],
+        "en": [
+          "CO₂ and H₂O",
+          "CO and H₂",
+          "C and H₂",
+          "NaCl and H₂O"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q107",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन मोनोऑक्साइड किस स्थिति में अधिक बन सकती है?",
+        "en": "Choose the correct answer: When can carbon monoxide form more readily?"
+      },
+      "options": {
+        "hi": [
+          "अपूर्ण दहन में",
+          "पूर्ण दहन में ही",
+          "निस्यंदन में",
+          "आसवन में"
+        ],
+        "en": [
+          "During incomplete combustion",
+          "Only during complete combustion",
+          "During filtration",
+          "During distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q108",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन मोनोऑक्साइड किस स्थिति में अधिक बन सकती है?",
+        "en": "In the context of chemistry, answer: When can carbon monoxide form more readily?"
+      },
+      "options": {
+        "hi": [
+          "अपूर्ण दहन में",
+          "पूर्ण दहन में ही",
+          "निस्यंदन में",
+          "आसवन में"
+        ],
+        "en": [
+          "During incomplete combustion",
+          "Only during complete combustion",
+          "During filtration",
+          "During distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q109",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन मोनोऑक्साइड किस स्थिति में अधिक बन सकती है?",
+        "en": "Practice question: When can carbon monoxide form more readily?"
+      },
+      "options": {
+        "hi": [
+          "अपूर्ण दहन में",
+          "पूर्ण दहन में ही",
+          "निस्यंदन में",
+          "आसवन में"
+        ],
+        "en": [
+          "During incomplete combustion",
+          "Only during complete combustion",
+          "During filtration",
+          "During distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q110",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन मोनोऑक्साइड किस स्थिति में अधिक बन सकती है?",
+        "en": "If asked in an exam: When can carbon monoxide form more readily?"
+      },
+      "options": {
+        "hi": [
+          "अपूर्ण दहन में",
+          "पूर्ण दहन में ही",
+          "निस्यंदन में",
+          "आसवन में"
+        ],
+        "en": [
+          "During incomplete combustion",
+          "Only during complete combustion",
+          "During filtration",
+          "During distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q111",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अल्कोहल में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "Choose the correct answer: Which functional group is present in alcohols?"
+      },
+      "options": {
+        "hi": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ],
+        "en": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q112",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अल्कोहल में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "In the context of chemistry, answer: Which functional group is present in alcohols?"
+      },
+      "options": {
+        "hi": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ],
+        "en": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q113",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अल्कोहल में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "Practice question: Which functional group is present in alcohols?"
+      },
+      "options": {
+        "hi": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ],
+        "en": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q114",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अल्कोहल में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "If asked in an exam: Which functional group is present in alcohols?"
+      },
+      "options": {
+        "hi": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ],
+        "en": [
+          "–OH",
+          "–COOH",
+          "–CHO",
+          "–CO–"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q115",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बोक्सिलिक अम्ल में कौन-सा समूह होता है?",
+        "en": "Choose the correct answer: Which group is present in carboxylic acids?"
+      },
+      "options": {
+        "hi": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ],
+        "en": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q116",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बोक्सिलिक अम्ल में कौन-सा समूह होता है?",
+        "en": "In the context of chemistry, answer: Which group is present in carboxylic acids?"
+      },
+      "options": {
+        "hi": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ],
+        "en": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q117",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बोक्सिलिक अम्ल में कौन-सा समूह होता है?",
+        "en": "Practice question: Which group is present in carboxylic acids?"
+      },
+      "options": {
+        "hi": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ],
+        "en": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q118",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बोक्सिलिक अम्ल में कौन-सा समूह होता है?",
+        "en": "If asked in an exam: Which group is present in carboxylic acids?"
+      },
+      "options": {
+        "hi": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ],
+        "en": [
+          "–COOH",
+          "–OH",
+          "–CHO",
+          "–Cl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q119",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एल्डिहाइड में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "Choose the correct answer: Which functional group is present in aldehydes?"
+      },
+      "options": {
+        "hi": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ],
+        "en": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q120",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: एल्डिहाइड में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "In the context of chemistry, answer: Which functional group is present in aldehydes?"
+      },
+      "options": {
+        "hi": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ],
+        "en": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q121",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एल्डिहाइड में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "Practice question: Which functional group is present in aldehydes?"
+      },
+      "options": {
+        "hi": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ],
+        "en": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q122",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एल्डिहाइड में कौन-सा क्रियात्मक समूह होता है?",
+        "en": "If asked in an exam: Which functional group is present in aldehydes?"
+      },
+      "options": {
+        "hi": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ],
+        "en": [
+          "–CHO",
+          "–COOH",
+          "–OH",
+          "–NH₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q123",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: हाइड्रोकार्बन किन तत्वों से बने होते हैं?",
+        "en": "Choose the correct answer: Hydrocarbons are made of which elements?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन और हाइड्रोजन",
+          "कार्बन और ऑक्सीजन",
+          "हाइड्रोजन और नाइट्रोजन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Carbon and hydrogen",
+          "Carbon and oxygen",
+          "Hydrogen and nitrogen",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q124",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: हाइड्रोकार्बन किन तत्वों से बने होते हैं?",
+        "en": "In the context of chemistry, answer: Hydrocarbons are made of which elements?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन और हाइड्रोजन",
+          "कार्बन और ऑक्सीजन",
+          "हाइड्रोजन और नाइट्रोजन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Carbon and hydrogen",
+          "Carbon and oxygen",
+          "Hydrogen and nitrogen",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q125",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: हाइड्रोकार्बन किन तत्वों से बने होते हैं?",
+        "en": "Practice question: Hydrocarbons are made of which elements?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन और हाइड्रोजन",
+          "कार्बन और ऑक्सीजन",
+          "हाइड्रोजन और नाइट्रोजन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Carbon and hydrogen",
+          "Carbon and oxygen",
+          "Hydrogen and nitrogen",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q126",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि हाइड्रोकार्बन किन तत्वों से बने होते हैं?",
+        "en": "If asked in an exam: Hydrocarbons are made of which elements?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन और हाइड्रोजन",
+          "कार्बन और ऑक्सीजन",
+          "हाइड्रोजन और नाइट्रोजन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Carbon and hydrogen",
+          "Carbon and oxygen",
+          "Hydrogen and nitrogen",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q127",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समावयवी यौगिकों में क्या समान होता है?",
+        "en": "Choose the correct answer: What is the same in isomeric compounds?"
+      },
+      "options": {
+        "hi": [
+          "आणविक सूत्र",
+          "संरचना हमेशा",
+          "गुण हमेशा",
+          "नाम हमेशा"
+        ],
+        "en": [
+          "Molecular formula",
+          "Always structure",
+          "Always properties",
+          "Always name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q128",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: समावयवी यौगिकों में क्या समान होता है?",
+        "en": "In the context of chemistry, answer: What is the same in isomeric compounds?"
+      },
+      "options": {
+        "hi": [
+          "आणविक सूत्र",
+          "संरचना हमेशा",
+          "गुण हमेशा",
+          "नाम हमेशा"
+        ],
+        "en": [
+          "Molecular formula",
+          "Always structure",
+          "Always properties",
+          "Always name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q129",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समावयवी यौगिकों में क्या समान होता है?",
+        "en": "Practice question: What is the same in isomeric compounds?"
+      },
+      "options": {
+        "hi": [
+          "आणविक सूत्र",
+          "संरचना हमेशा",
+          "गुण हमेशा",
+          "नाम हमेशा"
+        ],
+        "en": [
+          "Molecular formula",
+          "Always structure",
+          "Always properties",
+          "Always name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q130",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समावयवी यौगिकों में क्या समान होता है?",
+        "en": "If asked in an exam: What is the same in isomeric compounds?"
+      },
+      "options": {
+        "hi": [
+          "आणविक सूत्र",
+          "संरचना हमेशा",
+          "गुण हमेशा",
+          "नाम हमेशा"
+        ],
+        "en": [
+          "Molecular formula",
+          "Always structure",
+          "Always properties",
+          "Always name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q131",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: पेट्रोलियम किसका महत्वपूर्ण स्रोत है?",
+        "en": "Choose the correct answer: Petroleum is an important source of what?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोकार्बन",
+          "केवल जल",
+          "केवल ऑक्सीजन",
+          "केवल लवण"
+        ],
+        "en": [
+          "Hydrocarbons",
+          "Only water",
+          "Only oxygen",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q132",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: पेट्रोलियम किसका महत्वपूर्ण स्रोत है?",
+        "en": "In the context of chemistry, answer: Petroleum is an important source of what?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोकार्बन",
+          "केवल जल",
+          "केवल ऑक्सीजन",
+          "केवल लवण"
+        ],
+        "en": [
+          "Hydrocarbons",
+          "Only water",
+          "Only oxygen",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q133",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: पेट्रोलियम किसका महत्वपूर्ण स्रोत है?",
+        "en": "Practice question: Petroleum is an important source of what?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोकार्बन",
+          "केवल जल",
+          "केवल ऑक्सीजन",
+          "केवल लवण"
+        ],
+        "en": [
+          "Hydrocarbons",
+          "Only water",
+          "Only oxygen",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q134",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि पेट्रोलियम किसका महत्वपूर्ण स्रोत है?",
+        "en": "If asked in an exam: Petroleum is an important source of what?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोकार्बन",
+          "केवल जल",
+          "केवल ऑक्सीजन",
+          "केवल लवण"
+        ],
+        "en": [
+          "Hydrocarbons",
+          "Only water",
+          "Only oxygen",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q135",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: प्राकृतिक गैस में मुख्य घटक सामान्यतः कौन-सा है?",
+        "en": "Choose the correct answer: What is generally the main component of natural gas?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "एथेनॉल",
+          "एथेनोइक अम्ल",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Methane",
+          "Ethanol",
+          "Ethanoic acid",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q136",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: प्राकृतिक गैस में मुख्य घटक सामान्यतः कौन-सा है?",
+        "en": "In the context of chemistry, answer: What is generally the main component of natural gas?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "एथेनॉल",
+          "एथेनोइक अम्ल",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Methane",
+          "Ethanol",
+          "Ethanoic acid",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q137",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: प्राकृतिक गैस में मुख्य घटक सामान्यतः कौन-सा है?",
+        "en": "Practice question: What is generally the main component of natural gas?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "एथेनॉल",
+          "एथेनोइक अम्ल",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Methane",
+          "Ethanol",
+          "Ethanoic acid",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q138",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि प्राकृतिक गैस में मुख्य घटक सामान्यतः कौन-सा है?",
+        "en": "If asked in an exam: What is generally the main component of natural gas?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "एथेनॉल",
+          "एथेनोइक अम्ल",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Methane",
+          "Ethanol",
+          "Ethanoic acid",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q139",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: सहसंयोजक बंध में इलेक्ट्रॉन कैसे साझा होते हैं?",
+        "en": "Choose the correct answer: How are electrons shared in a covalent bond?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के बीच साझा होते हैं",
+          "पूरी तरह एक परमाणु को दे दिए जाते हैं",
+          "नाभिक में चले जाते हैं",
+          "नष्ट हो जाते हैं"
+        ],
+        "en": [
+          "Shared between atoms",
+          "Completely given to one atom",
+          "Move into the nucleus",
+          "Are destroyed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q140",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: सहसंयोजक बंध में इलेक्ट्रॉन कैसे साझा होते हैं?",
+        "en": "In the context of chemistry, answer: How are electrons shared in a covalent bond?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के बीच साझा होते हैं",
+          "पूरी तरह एक परमाणु को दे दिए जाते हैं",
+          "नाभिक में चले जाते हैं",
+          "नष्ट हो जाते हैं"
+        ],
+        "en": [
+          "Shared between atoms",
+          "Completely given to one atom",
+          "Move into the nucleus",
+          "Are destroyed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q141",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: सहसंयोजक बंध में इलेक्ट्रॉन कैसे साझा होते हैं?",
+        "en": "Practice question: How are electrons shared in a covalent bond?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के बीच साझा होते हैं",
+          "पूरी तरह एक परमाणु को दे दिए जाते हैं",
+          "नाभिक में चले जाते हैं",
+          "नष्ट हो जाते हैं"
+        ],
+        "en": [
+          "Shared between atoms",
+          "Completely given to one atom",
+          "Move into the nucleus",
+          "Are destroyed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q142",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि सहसंयोजक बंध में इलेक्ट्रॉन कैसे साझा होते हैं?",
+        "en": "If asked in an exam: How are electrons shared in a covalent bond?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के बीच साझा होते हैं",
+          "पूरी तरह एक परमाणु को दे दिए जाते हैं",
+          "नाभिक में चले जाते हैं",
+          "नष्ट हो जाते हैं"
+        ],
+        "en": [
+          "Shared between atoms",
+          "Completely given to one atom",
+          "Move into the nucleus",
+          "Are destroyed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q143",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन की श्रृंखला शाखित हो सकती है क्योंकि उसमें क्या गुण है?",
+        "en": "Choose the correct answer: Carbon chains can be branched because carbon has what property?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "केवल धात्विकता",
+          "आयनन",
+          "निस्यंदन"
+        ],
+        "en": [
+          "Catenation",
+          "Only metallicity",
+          "Ionization",
+          "Filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q144",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन की श्रृंखला शाखित हो सकती है क्योंकि उसमें क्या गुण है?",
+        "en": "In the context of chemistry, answer: Carbon chains can be branched because carbon has what property?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "केवल धात्विकता",
+          "आयनन",
+          "निस्यंदन"
+        ],
+        "en": [
+          "Catenation",
+          "Only metallicity",
+          "Ionization",
+          "Filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q145",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन की श्रृंखला शाखित हो सकती है क्योंकि उसमें क्या गुण है?",
+        "en": "Practice question: Carbon chains can be branched because carbon has what property?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "केवल धात्विकता",
+          "आयनन",
+          "निस्यंदन"
+        ],
+        "en": [
+          "Catenation",
+          "Only metallicity",
+          "Ionization",
+          "Filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q146",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन की श्रृंखला शाखित हो सकती है क्योंकि उसमें क्या गुण है?",
+        "en": "If asked in an exam: Carbon chains can be branched because carbon has what property?"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखलन",
+          "केवल धात्विकता",
+          "आयनन",
+          "निस्यंदन"
+        ],
+        "en": [
+          "Catenation",
+          "Only metallicity",
+          "Ionization",
+          "Filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q147",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन के अनेक यौगिकों का कारण क्या है?",
+        "en": "Choose the correct answer: Why does carbon form many compounds?"
+      },
+      "options": {
+        "hi": [
+          "चतुर्संयोजकता और श्रृंखलन",
+          "केवल उसका रंग",
+          "केवल उसका द्रव्यमान",
+          "केवल उसकी घुलनशीलता"
+        ],
+        "en": [
+          "Tetravalency and catenation",
+          "Only its colour",
+          "Only its mass",
+          "Only its solubility"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q148",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन के अनेक यौगिकों का कारण क्या है?",
+        "en": "In the context of chemistry, answer: Why does carbon form many compounds?"
+      },
+      "options": {
+        "hi": [
+          "चतुर्संयोजकता और श्रृंखलन",
+          "केवल उसका रंग",
+          "केवल उसका द्रव्यमान",
+          "केवल उसकी घुलनशीलता"
+        ],
+        "en": [
+          "Tetravalency and catenation",
+          "Only its colour",
+          "Only its mass",
+          "Only its solubility"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q149",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन के अनेक यौगिकों का कारण क्या है?",
+        "en": "Practice question: Why does carbon form many compounds?"
+      },
+      "options": {
+        "hi": [
+          "चतुर्संयोजकता और श्रृंखलन",
+          "केवल उसका रंग",
+          "केवल उसका द्रव्यमान",
+          "केवल उसकी घुलनशीलता"
+        ],
+        "en": [
+          "Tetravalency and catenation",
+          "Only its colour",
+          "Only its mass",
+          "Only its solubility"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c10q150",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन के अनेक यौगिकों का कारण क्या है?",
+        "en": "If asked in an exam: Why does carbon form many compounds?"
+      },
+      "options": {
+        "hi": [
+          "चतुर्संयोजकता और श्रृंखलन",
+          "केवल उसका रंग",
+          "केवल उसका द्रव्यमान",
+          "केवल उसकी घुलनशीलता"
+        ],
+        "en": [
+          "Tetravalency and catenation",
+          "Only its colour",
+          "Only its mass",
+          "Only its solubility"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
     }
   ]
 }
