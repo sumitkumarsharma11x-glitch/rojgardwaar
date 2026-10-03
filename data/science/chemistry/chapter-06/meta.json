@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-06",
+  "chapterNumber": 6,
+  "chapterName": {
+    "hi": "परमाणु की संरचना",
+    "en": "Structure of the Atom"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
