@@ -840,6 +840,3366 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
         "en": "This question tests a core chemistry concept from the chapter."
       }
+    },
+    {
+      "id": "c05q031",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: परमाणु क्या है?",
+        "en": "Choose the correct answer: What is an atom?"
+      },
+      "options": {
+        "hi": [
+          "तत्व की सबसे छोटी इकाई जो उसके रासायनिक गुणों को दर्शाती है",
+          "मिश्रण का पूरा भाग",
+          "केवल द्रव की इकाई",
+          "केवल यौगिक का नाम"
+        ],
+        "en": [
+          "The smallest unit of an element showing its chemical properties",
+          "The whole part of a mixture",
+          "Only a unit of liquid",
+          "Only the name of a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q032",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: परमाणु क्या है?",
+        "en": "In the context of chemistry, answer: What is an atom?"
+      },
+      "options": {
+        "hi": [
+          "तत्व की सबसे छोटी इकाई जो उसके रासायनिक गुणों को दर्शाती है",
+          "मिश्रण का पूरा भाग",
+          "केवल द्रव की इकाई",
+          "केवल यौगिक का नाम"
+        ],
+        "en": [
+          "The smallest unit of an element showing its chemical properties",
+          "The whole part of a mixture",
+          "Only a unit of liquid",
+          "Only the name of a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q033",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: परमाणु क्या है?",
+        "en": "Practice question: What is an atom?"
+      },
+      "options": {
+        "hi": [
+          "तत्व की सबसे छोटी इकाई जो उसके रासायनिक गुणों को दर्शाती है",
+          "मिश्रण का पूरा भाग",
+          "केवल द्रव की इकाई",
+          "केवल यौगिक का नाम"
+        ],
+        "en": [
+          "The smallest unit of an element showing its chemical properties",
+          "The whole part of a mixture",
+          "Only a unit of liquid",
+          "Only the name of a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q034",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि परमाणु क्या है?",
+        "en": "If asked in an exam: What is an atom?"
+      },
+      "options": {
+        "hi": [
+          "तत्व की सबसे छोटी इकाई जो उसके रासायनिक गुणों को दर्शाती है",
+          "मिश्रण का पूरा भाग",
+          "केवल द्रव की इकाई",
+          "केवल यौगिक का नाम"
+        ],
+        "en": [
+          "The smallest unit of an element showing its chemical properties",
+          "The whole part of a mixture",
+          "Only a unit of liquid",
+          "Only the name of a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q035",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अणु क्या है?",
+        "en": "Choose the correct answer: What is a molecule?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक परमाणुओं का बंधित समूह जो स्वतंत्र रूप से अस्तित्व रख सकता है",
+          "केवल एक इलेक्ट्रॉन",
+          "केवल एक न्यूट्रॉन",
+          "एक मिश्रण"
+        ],
+        "en": [
+          "A bonded group of atoms that can exist independently",
+          "Only one electron",
+          "Only one neutron",
+          "A mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q036",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अणु क्या है?",
+        "en": "In the context of chemistry, answer: What is a molecule?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक परमाणुओं का बंधित समूह जो स्वतंत्र रूप से अस्तित्व रख सकता है",
+          "केवल एक इलेक्ट्रॉन",
+          "केवल एक न्यूट्रॉन",
+          "एक मिश्रण"
+        ],
+        "en": [
+          "A bonded group of atoms that can exist independently",
+          "Only one electron",
+          "Only one neutron",
+          "A mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q037",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अणु क्या है?",
+        "en": "Practice question: What is a molecule?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक परमाणुओं का बंधित समूह जो स्वतंत्र रूप से अस्तित्व रख सकता है",
+          "केवल एक इलेक्ट्रॉन",
+          "केवल एक न्यूट्रॉन",
+          "एक मिश्रण"
+        ],
+        "en": [
+          "A bonded group of atoms that can exist independently",
+          "Only one electron",
+          "Only one neutron",
+          "A mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q038",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अणु क्या है?",
+        "en": "If asked in an exam: What is a molecule?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक परमाणुओं का बंधित समूह जो स्वतंत्र रूप से अस्तित्व रख सकता है",
+          "केवल एक इलेक्ट्रॉन",
+          "केवल एक न्यूट्रॉन",
+          "एक मिश्रण"
+        ],
+        "en": [
+          "A bonded group of atoms that can exist independently",
+          "Only one electron",
+          "Only one neutron",
+          "A mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q039",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: जल का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of water?"
+      },
+      "options": {
+        "hi": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ],
+        "en": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q040",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: जल का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of water?"
+      },
+      "options": {
+        "hi": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ],
+        "en": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q041",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: जल का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of water?"
+      },
+      "options": {
+        "hi": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ],
+        "en": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q042",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि जल का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of water?"
+      },
+      "options": {
+        "hi": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ],
+        "en": [
+          "H₂O",
+          "HO₂",
+          "H₂",
+          "O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q043",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ऑक्सीजन गैस का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of oxygen gas?"
+      },
+      "options": {
+        "hi": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ],
+        "en": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q044",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: ऑक्सीजन गैस का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of oxygen gas?"
+      },
+      "options": {
+        "hi": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ],
+        "en": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q045",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ऑक्सीजन गैस का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of oxygen gas?"
+      },
+      "options": {
+        "hi": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ],
+        "en": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q046",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ऑक्सीजन गैस का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of oxygen gas?"
+      },
+      "options": {
+        "hi": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ],
+        "en": [
+          "O₂",
+          "O",
+          "O₃",
+          "OH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q047",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: हाइड्रोजन गैस का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of hydrogen gas?"
+      },
+      "options": {
+        "hi": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ],
+        "en": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q048",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: हाइड्रोजन गैस का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of hydrogen gas?"
+      },
+      "options": {
+        "hi": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ],
+        "en": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q049",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: हाइड्रोजन गैस का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of hydrogen gas?"
+      },
+      "options": {
+        "hi": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ],
+        "en": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q050",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि हाइड्रोजन गैस का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of hydrogen gas?"
+      },
+      "options": {
+        "hi": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ],
+        "en": [
+          "H₂",
+          "H",
+          "H₂O",
+          "HO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q051",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन डाइऑक्साइड का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ],
+        "en": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q052",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन डाइऑक्साइड का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ],
+        "en": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q053",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन डाइऑक्साइड का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ],
+        "en": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q054",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन डाइऑक्साइड का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ],
+        "en": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "C₂O₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q055",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: सोडियम क्लोराइड का सूत्र क्या है?",
+        "en": "Choose the correct answer: What is the formula of sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ],
+        "en": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q056",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: सोडियम क्लोराइड का सूत्र क्या है?",
+        "en": "In the context of chemistry, answer: What is the formula of sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ],
+        "en": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q057",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: सोडियम क्लोराइड का सूत्र क्या है?",
+        "en": "Practice question: What is the formula of sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ],
+        "en": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q058",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि सोडियम क्लोराइड का सूत्र क्या है?",
+        "en": "If asked in an exam: What is the formula of sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ],
+        "en": [
+          "NaCl",
+          "Na₂Cl",
+          "NaCl₂",
+          "NCl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q059",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ऑक्सीजन की सामान्य संयोजकता क्या है?",
+        "en": "Choose the correct answer: What is the common valency of oxygen?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q060",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: ऑक्सीजन की सामान्य संयोजकता क्या है?",
+        "en": "In the context of chemistry, answer: What is the common valency of oxygen?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q061",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ऑक्सीजन की सामान्य संयोजकता क्या है?",
+        "en": "Practice question: What is the common valency of oxygen?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q062",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ऑक्सीजन की सामान्य संयोजकता क्या है?",
+        "en": "If asked in an exam: What is the common valency of oxygen?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q063",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: हाइड्रोजन की सामान्य संयोजकता क्या है?",
+        "en": "Choose the correct answer: What is the common valency of hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "en": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q064",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: हाइड्रोजन की सामान्य संयोजकता क्या है?",
+        "en": "In the context of chemistry, answer: What is the common valency of hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "en": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q065",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: हाइड्रोजन की सामान्य संयोजकता क्या है?",
+        "en": "Practice question: What is the common valency of hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "en": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q066",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि हाइड्रोजन की सामान्य संयोजकता क्या है?",
+        "en": "If asked in an exam: What is the common valency of hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "en": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q067",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन की सामान्य संयोजकता क्या है?",
+        "en": "Choose the correct answer: What is the common valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q068",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन की सामान्य संयोजकता क्या है?",
+        "en": "In the context of chemistry, answer: What is the common valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q069",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन की सामान्य संयोजकता क्या है?",
+        "en": "Practice question: What is the common valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q070",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन की सामान्य संयोजकता क्या है?",
+        "en": "If asked in an exam: What is the common valency of carbon?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "en": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q071",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रासायनिक प्रतीक किसे दर्शाता है?",
+        "en": "Choose the correct answer: What does a chemical symbol represent?"
+      },
+      "options": {
+        "hi": [
+          "किसी तत्व को",
+          "किसी मिश्रण को",
+          "किसी प्रक्रिया को",
+          "किसी विलयन को"
+        ],
+        "en": [
+          "An element",
+          "A mixture",
+          "A process",
+          "A solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q072",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रासायनिक प्रतीक किसे दर्शाता है?",
+        "en": "In the context of chemistry, answer: What does a chemical symbol represent?"
+      },
+      "options": {
+        "hi": [
+          "किसी तत्व को",
+          "किसी मिश्रण को",
+          "किसी प्रक्रिया को",
+          "किसी विलयन को"
+        ],
+        "en": [
+          "An element",
+          "A mixture",
+          "A process",
+          "A solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q073",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रासायनिक प्रतीक किसे दर्शाता है?",
+        "en": "Practice question: What does a chemical symbol represent?"
+      },
+      "options": {
+        "hi": [
+          "किसी तत्व को",
+          "किसी मिश्रण को",
+          "किसी प्रक्रिया को",
+          "किसी विलयन को"
+        ],
+        "en": [
+          "An element",
+          "A mixture",
+          "A process",
+          "A solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q074",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रासायनिक प्रतीक किसे दर्शाता है?",
+        "en": "If asked in an exam: What does a chemical symbol represent?"
+      },
+      "options": {
+        "hi": [
+          "किसी तत्व को",
+          "किसी मिश्रण को",
+          "किसी प्रक्रिया को",
+          "किसी विलयन को"
+        ],
+        "en": [
+          "An element",
+          "A mixture",
+          "A process",
+          "A solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q075",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: Na किस तत्व का प्रतीक है?",
+        "en": "Choose the correct answer: Na is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "सोडियम",
+          "नाइट्रोजन",
+          "नियॉन",
+          "निकेल"
+        ],
+        "en": [
+          "Sodium",
+          "Nitrogen",
+          "Neon",
+          "Nickel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q076",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: Na किस तत्व का प्रतीक है?",
+        "en": "In the context of chemistry, answer: Na is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "सोडियम",
+          "नाइट्रोजन",
+          "नियॉन",
+          "निकेल"
+        ],
+        "en": [
+          "Sodium",
+          "Nitrogen",
+          "Neon",
+          "Nickel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q077",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: Na किस तत्व का प्रतीक है?",
+        "en": "Practice question: Na is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "सोडियम",
+          "नाइट्रोजन",
+          "नियॉन",
+          "निकेल"
+        ],
+        "en": [
+          "Sodium",
+          "Nitrogen",
+          "Neon",
+          "Nickel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q078",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि Na किस तत्व का प्रतीक है?",
+        "en": "If asked in an exam: Na is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "सोडियम",
+          "नाइट्रोजन",
+          "नियॉन",
+          "निकेल"
+        ],
+        "en": [
+          "Sodium",
+          "Nitrogen",
+          "Neon",
+          "Nickel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q079",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: Cl किस तत्व का प्रतीक है?",
+        "en": "Choose the correct answer: Cl is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "क्लोरीन",
+          "कैल्शियम",
+          "कार्बन",
+          "कोबाल्ट"
+        ],
+        "en": [
+          "Chlorine",
+          "Calcium",
+          "Carbon",
+          "Cobalt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q080",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: Cl किस तत्व का प्रतीक है?",
+        "en": "In the context of chemistry, answer: Cl is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "क्लोरीन",
+          "कैल्शियम",
+          "कार्बन",
+          "कोबाल्ट"
+        ],
+        "en": [
+          "Chlorine",
+          "Calcium",
+          "Carbon",
+          "Cobalt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q081",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: Cl किस तत्व का प्रतीक है?",
+        "en": "Practice question: Cl is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "क्लोरीन",
+          "कैल्शियम",
+          "कार्बन",
+          "कोबाल्ट"
+        ],
+        "en": [
+          "Chlorine",
+          "Calcium",
+          "Carbon",
+          "Cobalt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q082",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि Cl किस तत्व का प्रतीक है?",
+        "en": "If asked in an exam: Cl is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "क्लोरीन",
+          "कैल्शियम",
+          "कार्बन",
+          "कोबाल्ट"
+        ],
+        "en": [
+          "Chlorine",
+          "Calcium",
+          "Carbon",
+          "Cobalt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q083",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: Ca किस तत्व का प्रतीक है?",
+        "en": "Choose the correct answer: Ca is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम",
+          "कार्बन",
+          "क्लोरीन",
+          "कैडमियम"
+        ],
+        "en": [
+          "Calcium",
+          "Carbon",
+          "Chlorine",
+          "Cadmium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q084",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: Ca किस तत्व का प्रतीक है?",
+        "en": "In the context of chemistry, answer: Ca is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम",
+          "कार्बन",
+          "क्लोरीन",
+          "कैडमियम"
+        ],
+        "en": [
+          "Calcium",
+          "Carbon",
+          "Chlorine",
+          "Cadmium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q085",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: Ca किस तत्व का प्रतीक है?",
+        "en": "Practice question: Ca is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम",
+          "कार्बन",
+          "क्लोरीन",
+          "कैडमियम"
+        ],
+        "en": [
+          "Calcium",
+          "Carbon",
+          "Chlorine",
+          "Cadmium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q086",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि Ca किस तत्व का प्रतीक है?",
+        "en": "If asked in an exam: Ca is the symbol for which element?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम",
+          "कार्बन",
+          "क्लोरीन",
+          "कैडमियम"
+        ],
+        "en": [
+          "Calcium",
+          "Carbon",
+          "Chlorine",
+          "Cadmium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q087",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: NH₃ का नाम क्या है?",
+        "en": "Choose the correct answer: What is the name of NH₃?"
+      },
+      "options": {
+        "hi": [
+          "अमोनिया",
+          "मीथेन",
+          "नाइट्रोजन",
+          "अमोनियम क्लोराइड"
+        ],
+        "en": [
+          "Ammonia",
+          "Methane",
+          "Nitrogen",
+          "Ammonium chloride"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q088",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: NH₃ का नाम क्या है?",
+        "en": "In the context of chemistry, answer: What is the name of NH₃?"
+      },
+      "options": {
+        "hi": [
+          "अमोनिया",
+          "मीथेन",
+          "नाइट्रोजन",
+          "अमोनियम क्लोराइड"
+        ],
+        "en": [
+          "Ammonia",
+          "Methane",
+          "Nitrogen",
+          "Ammonium chloride"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q089",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: NH₃ का नाम क्या है?",
+        "en": "Practice question: What is the name of NH₃?"
+      },
+      "options": {
+        "hi": [
+          "अमोनिया",
+          "मीथेन",
+          "नाइट्रोजन",
+          "अमोनियम क्लोराइड"
+        ],
+        "en": [
+          "Ammonia",
+          "Methane",
+          "Nitrogen",
+          "Ammonium chloride"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q090",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि NH₃ का नाम क्या है?",
+        "en": "If asked in an exam: What is the name of NH₃?"
+      },
+      "options": {
+        "hi": [
+          "अमोनिया",
+          "मीथेन",
+          "नाइट्रोजन",
+          "अमोनियम क्लोराइड"
+        ],
+        "en": [
+          "Ammonia",
+          "Methane",
+          "Nitrogen",
+          "Ammonium chloride"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q091",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: CH₄ का नाम क्या है?",
+        "en": "Choose the correct answer: What is the name of CH₄?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "अमोनिया",
+          "कार्बन मोनोऑक्साइड",
+          "एथेन"
+        ],
+        "en": [
+          "Methane",
+          "Ammonia",
+          "Carbon monoxide",
+          "Ethane"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q092",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: CH₄ का नाम क्या है?",
+        "en": "In the context of chemistry, answer: What is the name of CH₄?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "अमोनिया",
+          "कार्बन मोनोऑक्साइड",
+          "एथेन"
+        ],
+        "en": [
+          "Methane",
+          "Ammonia",
+          "Carbon monoxide",
+          "Ethane"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q093",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: CH₄ का नाम क्या है?",
+        "en": "Practice question: What is the name of CH₄?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "अमोनिया",
+          "कार्बन मोनोऑक्साइड",
+          "एथेन"
+        ],
+        "en": [
+          "Methane",
+          "Ammonia",
+          "Carbon monoxide",
+          "Ethane"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q094",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि CH₄ का नाम क्या है?",
+        "en": "If asked in an exam: What is the name of CH₄?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "अमोनिया",
+          "कार्बन मोनोऑक्साइड",
+          "एथेन"
+        ],
+        "en": [
+          "Methane",
+          "Ammonia",
+          "Carbon monoxide",
+          "Ethane"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q095",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: HCl का नाम क्या है?",
+        "en": "Choose the correct answer: What is the name of HCl?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन क्लोराइड",
+          "हाइड्रोजन कार्बोनेट",
+          "क्लोरीन",
+          "हाइड्रोजन"
+        ],
+        "en": [
+          "Hydrogen chloride",
+          "Hydrogen carbonate",
+          "Chlorine",
+          "Hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q096",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: HCl का नाम क्या है?",
+        "en": "In the context of chemistry, answer: What is the name of HCl?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन क्लोराइड",
+          "हाइड्रोजन कार्बोनेट",
+          "क्लोरीन",
+          "हाइड्रोजन"
+        ],
+        "en": [
+          "Hydrogen chloride",
+          "Hydrogen carbonate",
+          "Chlorine",
+          "Hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q097",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: HCl का नाम क्या है?",
+        "en": "Practice question: What is the name of HCl?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन क्लोराइड",
+          "हाइड्रोजन कार्बोनेट",
+          "क्लोरीन",
+          "हाइड्रोजन"
+        ],
+        "en": [
+          "Hydrogen chloride",
+          "Hydrogen carbonate",
+          "Chlorine",
+          "Hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q098",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि HCl का नाम क्या है?",
+        "en": "If asked in an exam: What is the name of HCl?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन क्लोराइड",
+          "हाइड्रोजन कार्बोनेट",
+          "क्लोरीन",
+          "हाइड्रोजन"
+        ],
+        "en": [
+          "Hydrogen chloride",
+          "Hydrogen carbonate",
+          "Chlorine",
+          "Hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q099",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: CaCO₃ का सामान्य नाम क्या है?",
+        "en": "Choose the correct answer: What is the common name associated with CaCO₃?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम कार्बोनेट",
+          "कैल्शियम क्लोराइड",
+          "कैल्शियम ऑक्साइड",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Calcium carbonate",
+          "Calcium chloride",
+          "Calcium oxide",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q100",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: CaCO₃ का सामान्य नाम क्या है?",
+        "en": "In the context of chemistry, answer: What is the common name associated with CaCO₃?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम कार्बोनेट",
+          "कैल्शियम क्लोराइड",
+          "कैल्शियम ऑक्साइड",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Calcium carbonate",
+          "Calcium chloride",
+          "Calcium oxide",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q101",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: CaCO₃ का सामान्य नाम क्या है?",
+        "en": "Practice question: What is the common name associated with CaCO₃?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम कार्बोनेट",
+          "कैल्शियम क्लोराइड",
+          "कैल्शियम ऑक्साइड",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Calcium carbonate",
+          "Calcium chloride",
+          "Calcium oxide",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q102",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि CaCO₃ का सामान्य नाम क्या है?",
+        "en": "If asked in an exam: What is the common name associated with CaCO₃?"
+      },
+      "options": {
+        "hi": [
+          "कैल्शियम कार्बोनेट",
+          "कैल्शियम क्लोराइड",
+          "कैल्शियम ऑक्साइड",
+          "कार्बन मोनोऑक्साइड"
+        ],
+        "en": [
+          "Calcium carbonate",
+          "Calcium chloride",
+          "Calcium oxide",
+          "Carbon monoxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q103",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अणु में परमाणुओं की संख्या बताने वाला अंक क्या कहलाता है?",
+        "en": "Choose the correct answer: What is the number showing atoms in a molecule called?"
+      },
+      "options": {
+        "hi": [
+          "उपस्क्रिप्ट",
+          "गुणांक",
+          "चर",
+          "सूचक"
+        ],
+        "en": [
+          "Subscript",
+          "Coefficient",
+          "Variable",
+          "Indicator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q104",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अणु में परमाणुओं की संख्या बताने वाला अंक क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: What is the number showing atoms in a molecule called?"
+      },
+      "options": {
+        "hi": [
+          "उपस्क्रिप्ट",
+          "गुणांक",
+          "चर",
+          "सूचक"
+        ],
+        "en": [
+          "Subscript",
+          "Coefficient",
+          "Variable",
+          "Indicator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q105",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अणु में परमाणुओं की संख्या बताने वाला अंक क्या कहलाता है?",
+        "en": "Practice question: What is the number showing atoms in a molecule called?"
+      },
+      "options": {
+        "hi": [
+          "उपस्क्रिप्ट",
+          "गुणांक",
+          "चर",
+          "सूचक"
+        ],
+        "en": [
+          "Subscript",
+          "Coefficient",
+          "Variable",
+          "Indicator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q106",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अणु में परमाणुओं की संख्या बताने वाला अंक क्या कहलाता है?",
+        "en": "If asked in an exam: What is the number showing atoms in a molecule called?"
+      },
+      "options": {
+        "hi": [
+          "उपस्क्रिप्ट",
+          "गुणांक",
+          "चर",
+          "सूचक"
+        ],
+        "en": [
+          "Subscript",
+          "Coefficient",
+          "Variable",
+          "Indicator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q107",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: 2H₂O में 2 क्या दर्शाता है?",
+        "en": "Choose the correct answer: In 2H₂O, what does the 2 before H₂O indicate?"
+      },
+      "options": {
+        "hi": [
+          "जल के दो अणु",
+          "हाइड्रोजन के दो परमाणु",
+          "ऑक्सीजन के दो परमाणु",
+          "दो तत्व"
+        ],
+        "en": [
+          "Two molecules of water",
+          "Two hydrogen atoms",
+          "Two oxygen atoms",
+          "Two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q108",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: 2H₂O में 2 क्या दर्शाता है?",
+        "en": "In the context of chemistry, answer: In 2H₂O, what does the 2 before H₂O indicate?"
+      },
+      "options": {
+        "hi": [
+          "जल के दो अणु",
+          "हाइड्रोजन के दो परमाणु",
+          "ऑक्सीजन के दो परमाणु",
+          "दो तत्व"
+        ],
+        "en": [
+          "Two molecules of water",
+          "Two hydrogen atoms",
+          "Two oxygen atoms",
+          "Two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q109",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: 2H₂O में 2 क्या दर्शाता है?",
+        "en": "Practice question: In 2H₂O, what does the 2 before H₂O indicate?"
+      },
+      "options": {
+        "hi": [
+          "जल के दो अणु",
+          "हाइड्रोजन के दो परमाणु",
+          "ऑक्सीजन के दो परमाणु",
+          "दो तत्व"
+        ],
+        "en": [
+          "Two molecules of water",
+          "Two hydrogen atoms",
+          "Two oxygen atoms",
+          "Two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q110",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि 2H₂O में 2 क्या दर्शाता है?",
+        "en": "If asked in an exam: In 2H₂O, what does the 2 before H₂O indicate?"
+      },
+      "options": {
+        "hi": [
+          "जल के दो अणु",
+          "हाइड्रोजन के दो परमाणु",
+          "ऑक्सीजन के दो परमाणु",
+          "दो तत्व"
+        ],
+        "en": [
+          "Two molecules of water",
+          "Two hydrogen atoms",
+          "Two oxygen atoms",
+          "Two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q111",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: H₂O के एक अणु में हाइड्रोजन परमाणु कितने हैं?",
+        "en": "Choose the correct answer: How many hydrogen atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q112",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: H₂O के एक अणु में हाइड्रोजन परमाणु कितने हैं?",
+        "en": "In the context of chemistry, answer: How many hydrogen atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q113",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: H₂O के एक अणु में हाइड्रोजन परमाणु कितने हैं?",
+        "en": "Practice question: How many hydrogen atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q114",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि H₂O के एक अणु में हाइड्रोजन परमाणु कितने हैं?",
+        "en": "If asked in an exam: How many hydrogen atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q115",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: H₂O के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "Choose the correct answer: How many total atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q116",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: H₂O के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "In the context of chemistry, answer: How many total atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q117",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: H₂O के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "Practice question: How many total atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q118",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि H₂O के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "If asked in an exam: How many total atoms are in one H₂O molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q119",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: CO₂ के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "Choose the correct answer: How many total atoms are in one CO₂ molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "en": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q120",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: CO₂ के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "In the context of chemistry, answer: How many total atoms are in one CO₂ molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "en": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q121",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: CO₂ के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "Practice question: How many total atoms are in one CO₂ molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "en": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q122",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि CO₂ के एक अणु में कुल परमाणु कितने हैं?",
+        "en": "If asked in an exam: How many total atoms are in one CO₂ molecule?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "en": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q123",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: O₂ किस प्रकार का अणु है?",
+        "en": "Choose the correct answer: What type of molecule is O₂?"
+      },
+      "options": {
+        "hi": [
+          "द्विपरमाणुक",
+          "एकपरमाणुक",
+          "त्रिपरमाणुक",
+          "बहुपरमाणुक यौगिक"
+        ],
+        "en": [
+          "Diatomic",
+          "Monatomic",
+          "Triatomic",
+          "Polyatomic compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q124",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: O₂ किस प्रकार का अणु है?",
+        "en": "In the context of chemistry, answer: What type of molecule is O₂?"
+      },
+      "options": {
+        "hi": [
+          "द्विपरमाणुक",
+          "एकपरमाणुक",
+          "त्रिपरमाणुक",
+          "बहुपरमाणुक यौगिक"
+        ],
+        "en": [
+          "Diatomic",
+          "Monatomic",
+          "Triatomic",
+          "Polyatomic compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q125",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: O₂ किस प्रकार का अणु है?",
+        "en": "Practice question: What type of molecule is O₂?"
+      },
+      "options": {
+        "hi": [
+          "द्विपरमाणुक",
+          "एकपरमाणुक",
+          "त्रिपरमाणुक",
+          "बहुपरमाणुक यौगिक"
+        ],
+        "en": [
+          "Diatomic",
+          "Monatomic",
+          "Triatomic",
+          "Polyatomic compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q126",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि O₂ किस प्रकार का अणु है?",
+        "en": "If asked in an exam: What type of molecule is O₂?"
+      },
+      "options": {
+        "hi": [
+          "द्विपरमाणुक",
+          "एकपरमाणुक",
+          "त्रिपरमाणुक",
+          "बहुपरमाणुक यौगिक"
+        ],
+        "en": [
+          "Diatomic",
+          "Monatomic",
+          "Triatomic",
+          "Polyatomic compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q127",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: O₃ में ऑक्सीजन के कितने परमाणु हैं?",
+        "en": "Choose the correct answer: How many oxygen atoms are in O₃?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q128",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: O₃ में ऑक्सीजन के कितने परमाणु हैं?",
+        "en": "In the context of chemistry, answer: How many oxygen atoms are in O₃?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q129",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: O₃ में ऑक्सीजन के कितने परमाणु हैं?",
+        "en": "Practice question: How many oxygen atoms are in O₃?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q130",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि O₃ में ऑक्सीजन के कितने परमाणु हैं?",
+        "en": "If asked in an exam: How many oxygen atoms are in O₃?"
+      },
+      "options": {
+        "hi": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "en": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q131",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रासायनिक सूत्र से क्या पता चलता है?",
+        "en": "Choose the correct answer: What can a chemical formula tell us?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक के तत्व और उनके परमाणुओं का अनुपात",
+          "केवल रंग",
+          "केवल अवस्था",
+          "केवल तापमान"
+        ],
+        "en": [
+          "The elements and their atomic ratio in a compound",
+          "Only colour",
+          "Only state",
+          "Only temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q132",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रासायनिक सूत्र से क्या पता चलता है?",
+        "en": "In the context of chemistry, answer: What can a chemical formula tell us?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक के तत्व और उनके परमाणुओं का अनुपात",
+          "केवल रंग",
+          "केवल अवस्था",
+          "केवल तापमान"
+        ],
+        "en": [
+          "The elements and their atomic ratio in a compound",
+          "Only colour",
+          "Only state",
+          "Only temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q133",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रासायनिक सूत्र से क्या पता चलता है?",
+        "en": "Practice question: What can a chemical formula tell us?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक के तत्व और उनके परमाणुओं का अनुपात",
+          "केवल रंग",
+          "केवल अवस्था",
+          "केवल तापमान"
+        ],
+        "en": [
+          "The elements and their atomic ratio in a compound",
+          "Only colour",
+          "Only state",
+          "Only temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q134",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रासायनिक सूत्र से क्या पता चलता है?",
+        "en": "If asked in an exam: What can a chemical formula tell us?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक के तत्व और उनके परमाणुओं का अनुपात",
+          "केवल रंग",
+          "केवल अवस्था",
+          "केवल तापमान"
+        ],
+        "en": [
+          "The elements and their atomic ratio in a compound",
+          "Only colour",
+          "Only state",
+          "Only temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q135",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: CO₂ में C और O का परमाणु अनुपात क्या है?",
+        "en": "Choose the correct answer: What is the atomic ratio of C to O in CO₂?"
+      },
+      "options": {
+        "hi": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ],
+        "en": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q136",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: CO₂ में C और O का परमाणु अनुपात क्या है?",
+        "en": "In the context of chemistry, answer: What is the atomic ratio of C to O in CO₂?"
+      },
+      "options": {
+        "hi": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ],
+        "en": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q137",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: CO₂ में C और O का परमाणु अनुपात क्या है?",
+        "en": "Practice question: What is the atomic ratio of C to O in CO₂?"
+      },
+      "options": {
+        "hi": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ],
+        "en": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q138",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि CO₂ में C और O का परमाणु अनुपात क्या है?",
+        "en": "If asked in an exam: What is the atomic ratio of C to O in CO₂?"
+      },
+      "options": {
+        "hi": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ],
+        "en": [
+          "1:2",
+          "2:1",
+          "1:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q139",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: NaCl में Na और Cl का अनुपात क्या है?",
+        "en": "Choose the correct answer: What is the ratio of Na to Cl in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ],
+        "en": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q140",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: NaCl में Na और Cl का अनुपात क्या है?",
+        "en": "In the context of chemistry, answer: What is the ratio of Na to Cl in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ],
+        "en": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q141",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: NaCl में Na और Cl का अनुपात क्या है?",
+        "en": "Practice question: What is the ratio of Na to Cl in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ],
+        "en": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q142",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि NaCl में Na और Cl का अनुपात क्या है?",
+        "en": "If asked in an exam: What is the ratio of Na to Cl in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ],
+        "en": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "2:2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q143",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अणुभार किससे संबंधित है?",
+        "en": "Choose the correct answer: Molecular mass is related to what?"
+      },
+      "options": {
+        "hi": [
+          "अणु में उपस्थित परमाणुओं के सापेक्ष परमाणु द्रव्यमानों के योग से",
+          "केवल रंग से",
+          "केवल घनत्व से",
+          "केवल गलनांक से"
+        ],
+        "en": [
+          "The sum of relative atomic masses of atoms in a molecule",
+          "Only colour",
+          "Only density",
+          "Only melting point"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q144",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अणुभार किससे संबंधित है?",
+        "en": "In the context of chemistry, answer: Molecular mass is related to what?"
+      },
+      "options": {
+        "hi": [
+          "अणु में उपस्थित परमाणुओं के सापेक्ष परमाणु द्रव्यमानों के योग से",
+          "केवल रंग से",
+          "केवल घनत्व से",
+          "केवल गलनांक से"
+        ],
+        "en": [
+          "The sum of relative atomic masses of atoms in a molecule",
+          "Only colour",
+          "Only density",
+          "Only melting point"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q145",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अणुभार किससे संबंधित है?",
+        "en": "Practice question: Molecular mass is related to what?"
+      },
+      "options": {
+        "hi": [
+          "अणु में उपस्थित परमाणुओं के सापेक्ष परमाणु द्रव्यमानों के योग से",
+          "केवल रंग से",
+          "केवल घनत्व से",
+          "केवल गलनांक से"
+        ],
+        "en": [
+          "The sum of relative atomic masses of atoms in a molecule",
+          "Only colour",
+          "Only density",
+          "Only melting point"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q146",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अणुभार किससे संबंधित है?",
+        "en": "If asked in an exam: Molecular mass is related to what?"
+      },
+      "options": {
+        "hi": [
+          "अणु में उपस्थित परमाणुओं के सापेक्ष परमाणु द्रव्यमानों के योग से",
+          "केवल रंग से",
+          "केवल घनत्व से",
+          "केवल गलनांक से"
+        ],
+        "en": [
+          "The sum of relative atomic masses of atoms in a molecule",
+          "Only colour",
+          "Only density",
+          "Only melting point"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q147",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रासायनिक सूत्र लिखने में संयोजकता क्यों उपयोगी है?",
+        "en": "Choose the correct answer: Why is valency useful in writing chemical formulae?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के संयोजन का अनुपात निर्धारित करने में",
+          "रंग निर्धारित करने में",
+          "तापमान मापने में",
+          "द्रव्यमान सीधे तौलने में"
+        ],
+        "en": [
+          "In determining the combining ratio of atoms",
+          "In determining colour",
+          "In measuring temperature",
+          "In directly weighing mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q148",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रासायनिक सूत्र लिखने में संयोजकता क्यों उपयोगी है?",
+        "en": "In the context of chemistry, answer: Why is valency useful in writing chemical formulae?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के संयोजन का अनुपात निर्धारित करने में",
+          "रंग निर्धारित करने में",
+          "तापमान मापने में",
+          "द्रव्यमान सीधे तौलने में"
+        ],
+        "en": [
+          "In determining the combining ratio of atoms",
+          "In determining colour",
+          "In measuring temperature",
+          "In directly weighing mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q149",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रासायनिक सूत्र लिखने में संयोजकता क्यों उपयोगी है?",
+        "en": "Practice question: Why is valency useful in writing chemical formulae?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के संयोजन का अनुपात निर्धारित करने में",
+          "रंग निर्धारित करने में",
+          "तापमान मापने में",
+          "द्रव्यमान सीधे तौलने में"
+        ],
+        "en": [
+          "In determining the combining ratio of atoms",
+          "In determining colour",
+          "In measuring temperature",
+          "In directly weighing mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c05q150",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रासायनिक सूत्र लिखने में संयोजकता क्यों उपयोगी है?",
+        "en": "If asked in an exam: Why is valency useful in writing chemical formulae?"
+      },
+      "options": {
+        "hi": [
+          "परमाणुओं के संयोजन का अनुपात निर्धारित करने में",
+          "रंग निर्धारित करने में",
+          "तापमान मापने में",
+          "द्रव्यमान सीधे तौलने में"
+        ],
+        "en": [
+          "In determining the combining ratio of atoms",
+          "In determining colour",
+          "In measuring temperature",
+          "In directly weighing mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
     }
   ]
 }
