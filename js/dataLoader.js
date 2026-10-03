@@ -69,8 +69,8 @@ const DataLoader = (function () {
 
     const base = basePath(classNum, subject, chapter);
     const [meta, questionData] = await Promise.all([
-      fetchJSON(`${base}/meta.json`),
-      fetchJSON(`${base}/questions.json`),
+      fetchJSON(`${base}/meta.json?v=20261003-4`),
+      fetchJSON(`${base}/questions.json?v=20261003-4`),
     ]);
 
     const bundle = {
