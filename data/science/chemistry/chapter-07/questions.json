@@ -4060,6 +4060,146 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
         "en": "This question tests a core chemistry concept and its application."
       }
+    },
+    {
+      "id": "c07q146",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: रासायनिक अभिक्रिया में क्या बनता है?",
+        "en": "Quick check: What forms in a chemical reaction?"
+      },
+      "options": {
+        "hi": [
+          "नए पदार्थ",
+          "केवल मिश्रण",
+          "केवल विलयन",
+          "केवल ताप"
+        ],
+        "en": [
+          "New substances",
+          "Only a mixture",
+          "Only a solution",
+          "Only heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c07q147",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: रासायनिक समीकरण किसका संक्षिप्त निरूपण है?",
+        "en": "Quick check: A chemical equation is a concise representation of what?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक अभिक्रिया",
+          "भौतिक अवस्था",
+          "तापमान",
+          "दाब"
+        ],
+        "en": [
+          "A chemical reaction",
+          "Physical state",
+          "Temperature",
+          "Pressure"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c07q148",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: संतुलित समीकरण में दोनों ओर क्या समान होता है?",
+        "en": "Quick check: What is equal on both sides of a balanced equation?"
+      },
+      "options": {
+        "hi": [
+          "प्रत्येक तत्व के परमाणुओं की संख्या",
+          "अणुओं की संख्या हमेशा",
+          "गुणांक हमेशा",
+          "तापमान"
+        ],
+        "en": [
+          "Number of atoms of each element",
+          "Always number of molecules",
+          "Coefficients always",
+          "Temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c07q149",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: अभिक्रिया में प्रारंभिक पदार्थ क्या कहलाते हैं?",
+        "en": "Quick check: What are the starting substances in a reaction called?"
+      },
+      "options": {
+        "hi": [
+          "अभिकारक",
+          "उत्पाद",
+          "उत्प्रेरक",
+          "अवक्षेप"
+        ],
+        "en": [
+          "Reactants",
+          "Products",
+          "Catalysts",
+          "Precipitates"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c07q150",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: अभिक्रिया से बनने वाले पदार्थ क्या कहलाते हैं?",
+        "en": "Quick check: What are substances formed in a reaction called?"
+      },
+      "options": {
+        "hi": [
+          "उत्पाद",
+          "अभिकारक",
+          "विलायक",
+          "सूचक"
+        ],
+        "en": [
+          "Products",
+          "Reactants",
+          "Solvent",
+          "Indicator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
     }
   ]
 }
