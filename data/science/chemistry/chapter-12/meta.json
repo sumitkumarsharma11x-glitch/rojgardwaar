@@ -8,5 +8,61 @@
     "en": "Fuels, Combustion and Chemistry in Daily Life"
   },
   "mockQuestionCount": 30,
-  "topics": "core concepts and applications"
+  "topics": [
+    {
+      "id": "chemistry-chapter-12",
+      "name": {
+        "hi": "ईंधन, दहन एवं दैनिक जीवन का रसायन",
+        "en": "Fuels, Combustion and Chemistry in Daily Life"
+      }
+    }
+  ],
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "notes": {
+    "hi": {
+      "concept": "ईंधन, दहन एवं दैनिक जीवन का रसायन के मुख्य सिद्धांतों को समझें और फिर अभ्यास प्रश्न हल करें।",
+      "example": "अवधारणा को दैनिक जीवन के उदाहरण से जोड़कर याद करें।",
+      "sections": [],
+      "keyPoints": [
+        "मुख्य परिभाषाएँ और तथ्य याद रखें",
+        "समान अवधारणाओं के बीच अंतर स्पष्ट रखें",
+        "प्रश्न को ध्यान से पढ़ें"
+      ],
+      "examFocus": [
+        "परिभाषा आधारित प्रश्न",
+        "अंतर एवं पहचान आधारित प्रश्न",
+        "अनुप्रयोग आधारित प्रश्न"
+      ],
+      "examTraps": [],
+      "thinkBeforeAnswer": [],
+      "memoryTricks": [],
+      "pyqSignals": [],
+      "mustRemember": [],
+      "quickRevision": "ईंधन, दहन एवं दैनिक जीवन का रसायन के मुख्य बिंदुओं को दोहराएँ और मॉक टेस्ट दें।"
+    },
+    "en": {
+      "concept": "Understand the core ideas of Fuels, Combustion and Chemistry in Daily Life before attempting practice questions.",
+      "example": "Connect the concept with a simple real-life example.",
+      "sections": [],
+      "keyPoints": [
+        "Remember key definitions and facts",
+        "Keep related concepts clearly differentiated",
+        "Read each question carefully"
+      ],
+      "examFocus": [
+        "Definition-based questions",
+        "Difference and identification questions",
+        "Application-based questions"
+      ],
+      "examTraps": [],
+      "thinkBeforeAnswer": [],
+      "memoryTricks": [],
+      "pyqSignals": [],
+      "mustRemember": [],
+      "quickRevision": "Revise the key points of Fuels, Combustion and Chemistry in Daily Life, then attempt the mock tests."
+    }
+  }
 }
