@@ -1,0 +1,845 @@
+{
+  "chapter": "chapter-12",
+  "questions": [
+    {
+      "id": "c12q01",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ईंधन क्या है?",
+        "en": "What is a fuel?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा पदार्थ जो ऊर्जा देने के लिए जलाया/उपयोग किया जा सकता है",
+          "केवल पानी",
+          "केवल धातु",
+          "केवल गैस"
+        ],
+        "en": [
+          "A substance that can be burned/used to provide energy",
+          "Only water",
+          "Only metal",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q02",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दहन के लिए सामान्यतः किस गैस की आवश्यकता होती है?",
+        "en": "Which gas is generally required for combustion?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हीलियम",
+          "कार्बन डाइऑक्साइड"
+        ],
+        "en": [
+          "Oxygen",
+          "Nitrogen",
+          "Helium",
+          "Carbon dioxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q03",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पूर्ण दहन में कार्बन युक्त ईंधन से मुख्यतः क्या बनता है?",
+        "en": "What mainly forms during complete combustion of a carbon-containing fuel?"
+      },
+      "options": {
+        "hi": [
+          "CO₂ और H₂O",
+          "CO और C",
+          "केवल C",
+          "NaCl"
+        ],
+        "en": [
+          "CO₂ and H₂O",
+          "CO and C",
+          "Only C",
+          "NaCl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q04",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अपूर्ण दहन से कौन-सी विषैली गैस बन सकती है?",
+        "en": "Which poisonous gas can form during incomplete combustion?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन मोनोऑक्साइड",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हीलियम"
+        ],
+        "en": [
+          "Carbon monoxide",
+          "Oxygen",
+          "Nitrogen",
+          "Helium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q05",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ईंधन का ऊष्मीय मान क्या बताता है?",
+        "en": "What does the calorific value of a fuel indicate?"
+      },
+      "options": {
+        "hi": [
+          "ईंधन की एक निश्चित मात्रा से प्राप्त ऊष्मा",
+          "ईंधन का रंग",
+          "ईंधन का घनत्व ही",
+          "ईंधन का pH"
+        ],
+        "en": [
+          "Heat obtained from a given amount of fuel",
+          "Colour of fuel",
+          "Only fuel density",
+          "Fuel pH"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q06",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अच्छे ईंधन की एक विशेषता क्या है?",
+        "en": "What is one characteristic of a good fuel?"
+      },
+      "options": {
+        "hi": [
+          "उच्च ऊष्मीय मान",
+          "बहुत अधिक धुआँ",
+          "बहुत अधिक राख",
+          "बहुत कम ऊर्जा"
+        ],
+        "en": [
+          "High calorific value",
+          "A lot of smoke",
+          "A lot of ash",
+          "Very low energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q07",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "LPG का मुख्य उपयोग किस रूप में होता है?",
+        "en": "What is LPG mainly used for?"
+      },
+      "options": {
+        "hi": [
+          "ईंधन",
+          "उर्वरक",
+          "सूचक",
+          "शीतलक ही"
+        ],
+        "en": [
+          "Fuel",
+          "Fertilizer",
+          "Indicator",
+          "Only coolant"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q08",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "CNG का मुख्य घटक सामान्यतः क्या है?",
+        "en": "What is the main component of CNG generally?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "एथेनॉल",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड"
+        ],
+        "en": [
+          "Methane",
+          "Ethanol",
+          "Oxygen",
+          "Carbon dioxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q09",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बायोगैस में मुख्य ज्वलनशील गैस कौन-सी होती है?",
+        "en": "What is the main combustible gas in biogas?"
+      },
+      "options": {
+        "hi": [
+          "मीथेन",
+          "नाइट्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड"
+        ],
+        "en": [
+          "Methane",
+          "Nitrogen",
+          "Oxygen",
+          "Carbon dioxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q10",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कोयला किस प्रकार का ईंधन है?",
+        "en": "What type of fuel is coal?"
+      },
+      "options": {
+        "hi": [
+          "जीवाश्म ईंधन",
+          "नवीकरणीय ईंधन",
+          "परमाणु ईंधन",
+          "जैव ईंधन ही हमेशा"
+        ],
+        "en": [
+          "Fossil fuel",
+          "Renewable fuel",
+          "Nuclear fuel",
+          "Always biofuel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q11",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेट्रोलियम को किसका मिश्रण माना जाता है?",
+        "en": "Petroleum is considered a mixture of what?"
+      },
+      "options": {
+        "hi": [
+          "विभिन्न हाइड्रोकार्बन",
+          "केवल पानी",
+          "केवल ऑक्सीजन",
+          "केवल लवण"
+        ],
+        "en": [
+          "Various hydrocarbons",
+          "Only water",
+          "Only oxygen",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q12",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेट्रोलियम से अलग-अलग अंश किस प्रक्रिया से मिलते हैं?",
+        "en": "By which process are different fractions obtained from petroleum?"
+      },
+      "options": {
+        "hi": [
+          "अंश आसवन",
+          "निस्यंदन",
+          "हाथ से चुनना",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Fractional distillation",
+          "Filtration",
+          "Handpicking",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q13",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "डीजल का उपयोग सामान्यतः किसमें होता है?",
+        "en": "Diesel is commonly used in what?"
+      },
+      "options": {
+        "hi": [
+          "डीजल इंजन",
+          "पानी शोधन",
+          "सूचक निर्माण",
+          "फिल्टर पेपर"
+        ],
+        "en": [
+          "Diesel engines",
+          "Water purification",
+          "Indicator making",
+          "Filter paper"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q14",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केरोसिन का उपयोग किस रूप में किया जा सकता है?",
+        "en": "Kerosene can be used as what?"
+      },
+      "options": {
+        "hi": [
+          "ईंधन",
+          "अम्ल सूचक",
+          "लवण",
+          "उर्वरक"
+        ],
+        "en": [
+          "Fuel",
+          "Acid indicator",
+          "Salt",
+          "Fertilizer"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q15",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ईंधन के जलने से ऊर्जा किस रूप में निकलती है?",
+        "en": "In burning fuel, energy is released mainly as what?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा",
+          "केवल ध्वनि",
+          "केवल द्रव",
+          "केवल द्रव्यमान"
+        ],
+        "en": [
+          "Heat",
+          "Only sound",
+          "Only liquid",
+          "Only mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q16",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आग बुझाने में CO₂ क्यों उपयोगी है?",
+        "en": "Why is CO₂ useful in fire extinguishers?"
+      },
+      "options": {
+        "hi": [
+          "यह दहन के आसपास ऑक्सीजन की उपलब्धता कम करती है",
+          "यह आग को ऑक्सीजन देती है",
+          "यह ईंधन बनाती है",
+          "यह ताप बढ़ाती है"
+        ],
+        "en": [
+          "It reduces oxygen availability around the fire",
+          "It supplies oxygen to fire",
+          "It makes fuel",
+          "It increases temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q17",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दहन के लिए आवश्यक तीन कारकों को क्या कहते हैं?",
+        "en": "What are the three factors needed for combustion called?"
+      },
+      "options": {
+        "hi": [
+          "अग्नि त्रिकोण",
+          "जल चक्र",
+          "कार्बन चक्र",
+          "नाइट्रोजन चक्र"
+        ],
+        "en": [
+          "Fire triangle",
+          "Water cycle",
+          "Carbon cycle",
+          "Nitrogen cycle"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q18",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अग्नि त्रिकोण में कौन-सा कारक शामिल है?",
+        "en": "Which factor is part of the fire triangle?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा",
+          "केवल जल",
+          "केवल नमक",
+          "केवल नाइट्रोजन"
+        ],
+        "en": [
+          "Heat",
+          "Only water",
+          "Only salt",
+          "Only nitrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q19",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल से किस प्रकार की आग बुझाना हमेशा उचित नहीं है?",
+        "en": "For which type of fire is using water not always appropriate?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत उपकरणों की आग",
+          "कागज की आग",
+          "लकड़ी की आग",
+          "कपड़े की आग"
+        ],
+        "en": [
+          "Electrical equipment fire",
+          "Paper fire",
+          "Wood fire",
+          "Cloth fire"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q20",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ईंधन का धुआँ किस समस्या में योगदान दे सकता है?",
+        "en": "Fuel smoke can contribute to which problem?"
+      },
+      "options": {
+        "hi": [
+          "वायु प्रदूषण",
+          "जल की शुद्धता",
+          "मिट्टी की उर्वरता हमेशा",
+          "ओजोन निर्माण हमेशा"
+        ],
+        "en": [
+          "Air pollution",
+          "Water purity",
+          "Always soil fertility",
+          "Always ozone formation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q21",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सल्फर युक्त ईंधन जलाने से कौन-सी गैस बन सकती है?",
+        "en": "Which gas can form when sulfur-containing fuel burns?"
+      },
+      "options": {
+        "hi": [
+          "SO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ],
+        "en": [
+          "SO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q22",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "SO₂ वायुमंडल में किस समस्या से जुड़ी है?",
+        "en": "SO₂ in the atmosphere is associated with which problem?"
+      },
+      "options": {
+        "hi": [
+          "अम्लीय वर्षा",
+          "ओजोन परत की मोटाई बढ़ना",
+          "केवल कोहरा",
+          "जल का जमना"
+        ],
+        "en": [
+          "Acid rain",
+          "Thickening of ozone layer",
+          "Only fog",
+          "Freezing of water"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q23",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पेट्रोल और डीजल के जलने से CO₂ क्यों बढ़ सकती है?",
+        "en": "Why can burning petrol and diesel increase CO₂?"
+      },
+      "options": {
+        "hi": [
+          "इनमें कार्बन होता है और दहन में कार्बन ऑक्सीकृत होता है",
+          "इनमें केवल ऑक्सीजन होती है",
+          "वे पानी बनाते हैं",
+          "वे नाइट्रोजन हटाते हैं"
+        ],
+        "en": [
+          "They contain carbon which is oxidized during combustion",
+          "They contain only oxygen",
+          "They make water",
+          "They remove nitrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q24",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जैव ईंधन का उदाहरण कौन-सा है?",
+        "en": "Which is an example of a biofuel?"
+      },
+      "options": {
+        "hi": [
+          "बायोगैस",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ],
+        "en": [
+          "Biogas",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q25",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "हाइड्रोजन को ईंधन के रूप में क्यों अध्ययन किया जाता है?",
+        "en": "Why is hydrogen studied as a fuel?"
+      },
+      "options": {
+        "hi": [
+          "इसके उपयोग में पानी मुख्य उत्पाद हो सकता है",
+          "यह हमेशा CO₂ बनाता है",
+          "यह जलता नहीं",
+          "यह केवल ठोस है"
+        ],
+        "en": [
+          "Water can be the main product of its use",
+          "It always makes CO₂",
+          "It does not burn",
+          "It is only a solid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q26",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दैनिक जीवन में ब्लीचिंग पाउडर का एक उपयोग क्या है?",
+        "en": "What is one use of bleaching powder in daily life?"
+      },
+      "options": {
+        "hi": [
+          "जल कीटाणुशोधन",
+          "ईंधन बनाना",
+          "धातु गलाना",
+          "कार्बन बनाना"
+        ],
+        "en": [
+          "Disinfection of water",
+          "Making fuel",
+          "Melting metals",
+          "Making carbon"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q27",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बेकिंग सोडा का एक दैनिक उपयोग क्या है?",
+        "en": "What is one daily use of baking soda?"
+      },
+      "options": {
+        "hi": [
+          "बेकिंग में फुलाव देने के लिए",
+          "ईंधन के रूप में हमेशा",
+          "धातु के रूप में",
+          "जल को कठोर बनाने के लिए"
+        ],
+        "en": [
+          "To provide leavening in baking",
+          "Always as a fuel",
+          "As a metal",
+          "To harden water"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q28",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "साबुन का मुख्य कार्य क्या है?",
+        "en": "What is the main function of soap?"
+      },
+      "options": {
+        "hi": [
+          "तेल और गंदगी को पानी के साथ हटाने में मदद करना",
+          "जल को गैस बनाना",
+          "ऑक्सीजन बनाना",
+          "धातु बनाना"
+        ],
+        "en": [
+          "Helping remove oil and dirt with water",
+          "Turning water into gas",
+          "Producing oxygen",
+          "Making metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q29",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एंटीसेप्टिक का उपयोग किसलिए किया जाता है?",
+        "en": "What are antiseptics used for?"
+      },
+      "options": {
+        "hi": [
+          "जीवाणुओं की वृद्धि को कम करने के लिए",
+          "ईंधन बनाने के लिए",
+          "धातु साफ करने के लिए हमेशा",
+          "जल को नमकीन बनाने के लिए"
+        ],
+        "en": [
+          "To reduce microbial growth",
+          "To make fuel",
+          "Always to clean metals",
+          "To make water salty"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c12q30",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परिरक्षक (preservative) का उपयोग भोजन में क्यों किया जाता है?",
+        "en": "Why are preservatives used in food?"
+      },
+      "options": {
+        "hi": [
+          "खराब होने की प्रक्रिया को धीमा करने के लिए",
+          "ऑक्सीजन बनाने के लिए",
+          "भोजन को धातु बनाने के लिए",
+          "pH हमेशा 7 करने के लिए"
+        ],
+        "en": [
+          "To slow spoilage",
+          "To produce oxygen",
+          "To turn food into metal",
+          "To always make pH 7"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    }
+  ]
+}
