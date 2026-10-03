@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-10",
+  "chapterNumber": 10,
+  "chapterName": {
+    "hi": "कार्बन एवं उसके यौगिक",
+    "en": "Carbon and Its Compounds"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
