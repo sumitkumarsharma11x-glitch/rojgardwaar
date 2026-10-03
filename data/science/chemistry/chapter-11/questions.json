@@ -4060,6 +4060,146 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
         "en": "This question tests a core chemistry concept and its application in daily life."
       }
+    },
+    {
+      "id": "c11q146",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: वायु में सबसे अधिक मात्रा में कौन-सी गैस होती है?",
+        "en": "Quick check: Which gas is present in the largest proportion in air?"
+      },
+      "options": {
+        "hi": [
+          "नाइट्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
+        ],
+        "en": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q147",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: वायु में ऑक्सीजन लगभग कितने प्रतिशत होती है?",
+        "en": "Quick check: Approximately what percentage of air is oxygen?"
+      },
+      "options": {
+        "hi": [
+          "21%",
+          "78%",
+          "0.04%",
+          "50%"
+        ],
+        "en": [
+          "21%",
+          "78%",
+          "0.04%",
+          "50%"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q148",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: वायु में नाइट्रोजन लगभग कितने प्रतिशत होती है?",
+        "en": "Quick check: Approximately what percentage of air is nitrogen?"
+      },
+      "options": {
+        "hi": [
+          "78%",
+          "21%",
+          "1%",
+          "10%"
+        ],
+        "en": [
+          "78%",
+          "21%",
+          "1%",
+          "10%"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q149",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: कार्बन डाइऑक्साइड की मात्रा वायु में लगभग कितनी है?",
+        "en": "Quick check: Approximately how much carbon dioxide is in air?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 0.04%",
+          "21%",
+          "78%",
+          "10%"
+        ],
+        "en": [
+          "About 0.04%",
+          "21%",
+          "78%",
+          "10%"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q150",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: पौधे प्रकाश संश्लेषण में कौन-सी गैस लेते हैं?",
+        "en": "Quick check: Which gas do plants take in during photosynthesis?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन",
+          "हीलियम"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen",
+          "Helium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
     }
   ]
 }
