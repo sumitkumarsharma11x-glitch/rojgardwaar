@@ -1,0 +1,817 @@
+{
+  "chapter": "chapter-08",
+  "questions": [
+    {
+      "id": "c8q01",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अम्ल का स्वाद सामान्यतः कैसा होता है?",
+        "en": "What is the typical taste of an acid?"
+      },
+      "options": {
+        "hi": [
+          "खट्टा",
+          "मीठा",
+          "कड़वा",
+          "नमकीन ही"
+        ],
+        "en": [
+          "Sour",
+          "Sweet",
+          "Bitter",
+          "Always salty"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q02",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्षार का स्वाद सामान्यतः कैसा हो सकता है?",
+        "en": "What can be the typical taste of a base?"
+      },
+      "options": {
+        "hi": [
+          "कड़वा",
+          "खट्टा",
+          "मीठा",
+          "फल जैसा"
+        ],
+        "en": [
+          "Bitter",
+          "Sour",
+          "Sweet",
+          "Fruity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q03",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नीला लिटमस अम्ल में किस रंग का हो जाता है?",
+        "en": "What colour does blue litmus turn in an acid?"
+      },
+      "options": {
+        "hi": [
+          "लाल",
+          "नीला",
+          "हरा",
+          "पीला"
+        ],
+        "en": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q04",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लाल लिटमस क्षार में किस रंग का हो जाता है?",
+        "en": "What colour does red litmus turn in a base?"
+      },
+      "options": {
+        "hi": [
+          "नीला",
+          "लाल",
+          "पीला",
+          "काला"
+        ],
+        "en": [
+          "Blue",
+          "Red",
+          "Yellow",
+          "Black"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q05",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "pH 7 किसे दर्शाता है?",
+        "en": "What does pH 7 indicate?"
+      },
+      "options": {
+        "hi": [
+          "उदासीनता",
+          "अम्लीयता",
+          "क्षारीयता",
+          "अत्यधिक अम्ल"
+        ],
+        "en": [
+          "Neutrality",
+          "Acidity",
+          "Basicity",
+          "Strong acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q06",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "pH 7 से कम होने पर विलयन कैसा होता है?",
+        "en": "A solution with pH below 7 is what?"
+      },
+      "options": {
+        "hi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन",
+          "हमेशा लवणीय"
+        ],
+        "en": [
+          "Acidic",
+          "Basic",
+          "Neutral",
+          "Always saline"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q07",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "pH 7 से अधिक होने पर विलयन कैसा होता है?",
+        "en": "A solution with pH above 7 is what?"
+      },
+      "options": {
+        "hi": [
+          "क्षारीय",
+          "अम्लीय",
+          "उदासीन",
+          "केवल गैसीय"
+        ],
+        "en": [
+          "Basic",
+          "Acidic",
+          "Neutral",
+          "Only gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q08",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हल्दी क्षार के संपर्क में सामान्यतः किस रंग की हो जाती है?",
+        "en": "What colour does turmeric generally turn in contact with a base?"
+      },
+      "options": {
+        "hi": [
+          "लाल-भूरी",
+          "नीली",
+          "हरी",
+          "सफेद"
+        ],
+        "en": [
+          "Reddish-brown",
+          "Blue",
+          "Green",
+          "White"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q09",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फिनॉल्फ्थेलिन क्षारीय विलयन में कैसी होती है?",
+        "en": "What colour is phenolphthalein in a basic solution?"
+      },
+      "options": {
+        "hi": [
+          "गुलाबी",
+          "रंगहीन",
+          "पीली",
+          "नीली"
+        ],
+        "en": [
+          "Pink",
+          "Colourless",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q10",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मिथाइल ऑरेंज अम्लीय माध्यम में किस रंग का होता है?",
+        "en": "What colour is methyl orange in an acidic medium?"
+      },
+      "options": {
+        "hi": [
+          "लाल",
+          "पीला",
+          "नीला",
+          "हरा"
+        ],
+        "en": [
+          "Red",
+          "Yellow",
+          "Blue",
+          "Green"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q11",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अम्ल और क्षार की अभिक्रिया को क्या कहते हैं?",
+        "en": "What is the reaction between an acid and a base called?"
+      },
+      "options": {
+        "hi": [
+          "उदासीनीकरण",
+          "विस्थापन",
+          "अपघटन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Neutralization",
+          "Displacement",
+          "Decomposition",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q12",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "HCl का सामान्य नाम क्या है?",
+        "en": "What is the common name of HCl?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोक्लोरिक अम्ल",
+          "सल्फ्यूरिक अम्ल",
+          "नाइट्रिक अम्ल",
+          "एसीटिक अम्ल"
+        ],
+        "en": [
+          "Hydrochloric acid",
+          "Sulfuric acid",
+          "Nitric acid",
+          "Acetic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q13",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "H₂SO₄ कौन-सा अम्ल है?",
+        "en": "What acid is H₂SO₄?"
+      },
+      "options": {
+        "hi": [
+          "सल्फ्यूरिक अम्ल",
+          "नाइट्रिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल",
+          "कार्बोनिक अम्ल"
+        ],
+        "en": [
+          "Sulfuric acid",
+          "Nitric acid",
+          "Hydrochloric acid",
+          "Carbonic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q14",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "CH₃COOH किस अम्ल का सूत्र है?",
+        "en": "CH₃COOH is the formula of which acid?"
+      },
+      "options": {
+        "hi": [
+          "एसीटिक अम्ल",
+          "सल्फ्यूरिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल",
+          "नाइट्रिक अम्ल"
+        ],
+        "en": [
+          "Acetic acid",
+          "Sulfuric acid",
+          "Hydrochloric acid",
+          "Nitric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q15",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साधारण नमक का सूत्र क्या है?",
+        "en": "What is the formula of common salt?"
+      },
+      "options": {
+        "hi": [
+          "NaCl",
+          "NaOH",
+          "HCl",
+          "KClO"
+        ],
+        "en": [
+          "NaCl",
+          "NaOH",
+          "HCl",
+          "KClO"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q16",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बेकिंग सोडा का सूत्र क्या है?",
+        "en": "What is the formula of baking soda?"
+      },
+      "options": {
+        "hi": [
+          "NaHCO₃",
+          "NaCl",
+          "Na₂CO₃",
+          "CaCO₃"
+        ],
+        "en": [
+          "NaHCO₃",
+          "NaCl",
+          "Na₂CO₃",
+          "CaCO₃"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q17",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वॉशिंग सोडा का सूत्र क्या है?",
+        "en": "What is the formula of washing soda?"
+      },
+      "options": {
+        "hi": [
+          "Na₂CO₃·10H₂O",
+          "NaHCO₃",
+          "NaCl",
+          "CaSO₄"
+        ],
+        "en": [
+          "Na₂CO₃·10H₂O",
+          "NaHCO₃",
+          "NaCl",
+          "CaSO₄"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q18",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चूने के पानी में मुख्यतः कौन-सा यौगिक होता है?",
+        "en": "Which compound is mainly present in lime water?"
+      },
+      "options": {
+        "hi": [
+          "Ca(OH)₂",
+          "NaOH",
+          "HCl",
+          "NaCl"
+        ],
+        "en": [
+          "Ca(OH)₂",
+          "NaOH",
+          "HCl",
+          "NaCl"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q19",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दाँतों की सड़न से बचाव में फ्लोराइड क्यों उपयोगी है?",
+        "en": "Why is fluoride useful in preventing tooth decay?"
+      },
+      "options": {
+        "hi": [
+          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
+          "यह अम्ल बनाता है",
+          "यह शर्करा बढ़ाता है",
+          "यह दाँत घोलता है"
+        ],
+        "en": [
+          "It makes tooth enamel more resistant",
+          "It produces acid",
+          "It increases sugar",
+          "It dissolves teeth"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q20",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेट में पाया जाने वाला प्रमुख अम्ल कौन-सा है?",
+        "en": "Which major acid is present in the stomach?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोक्लोरिक अम्ल",
+          "सल्फ्यूरिक अम्ल",
+          "नाइट्रिक अम्ल",
+          "एसीटिक अम्ल"
+        ],
+        "en": [
+          "Hydrochloric acid",
+          "Sulfuric acid",
+          "Nitric acid",
+          "Acetic acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q21",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एंटासिड का उपयोग किसके लिए होता है?",
+        "en": "What are antacids used for?"
+      },
+      "options": {
+        "hi": [
+          "अधिक पेट के अम्ल को निष्क्रिय करने के लिए",
+          "रक्त में ऑक्सीजन बढ़ाने के लिए",
+          "पानी को नमकीन बनाने के लिए",
+          "धातु गलाने के लिए"
+        ],
+        "en": [
+          "To neutralize excess stomach acid",
+          "To increase oxygen in blood",
+          "To make water salty",
+          "To melt metals"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q22",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अम्ल की धातु से अभिक्रिया में कौन-सी गैस निकल सकती है?",
+        "en": "Which gas may be released when an acid reacts with a metal?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड हमेशा"
+        ],
+        "en": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Always carbon dioxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q23",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अम्ल की कार्बोनेट से अभिक्रिया में कौन-सी गैस निकलती है?",
+        "en": "Which gas is released when an acid reacts with a carbonate?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q24",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "लवण सामान्यतः कैसे बन सकता है?",
+        "en": "How can a salt commonly be formed?"
+      },
+      "options": {
+        "hi": [
+          "अम्ल और क्षार की अभिक्रिया से",
+          "केवल पानी उबालने से",
+          "केवल चुंबक से",
+          "केवल निस्यंदन से"
+        ],
+        "en": [
+          "By reaction of an acid and a base",
+          "Only by boiling water",
+          "Only with a magnet",
+          "Only by filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q25",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नींबू में कौन-सा अम्ल प्रमुख होता है?",
+        "en": "Which acid is prominent in lemon?"
+      },
+      "options": {
+        "hi": [
+          "सिट्रिक अम्ल",
+          "लैक्टिक अम्ल",
+          "एसीटिक अम्ल",
+          "सल्फ्यूरिक अम्ल"
+        ],
+        "en": [
+          "Citric acid",
+          "Lactic acid",
+          "Acetic acid",
+          "Sulfuric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q26",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दही में कौन-सा अम्ल पाया जाता है?",
+        "en": "Which acid is found in curd?"
+      },
+      "options": {
+        "hi": [
+          "लैक्टिक अम्ल",
+          "सिट्रिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल",
+          "नाइट्रिक अम्ल"
+        ],
+        "en": [
+          "Lactic acid",
+          "Citric acid",
+          "Hydrochloric acid",
+          "Nitric acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q27",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "साबुन का विलयन सामान्यतः कैसा होता है?",
+        "en": "What is a soap solution generally like?"
+      },
+      "options": {
+        "hi": [
+          "क्षारीय",
+          "अम्लीय",
+          "उदासीन",
+          "हमेशा गैसीय"
+        ],
+        "en": [
+          "Basic",
+          "Acidic",
+          "Neutral",
+          "Always gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q28",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अम्लीय वर्षा का pH सामान्यतः किससे कम होता है?",
+        "en": "Acid rain generally has a pH below what?"
+      },
+      "options": {
+        "hi": [
+          "5.6",
+          "7.0",
+          "8.5",
+          "10"
+        ],
+        "en": [
+          "5.6",
+          "7.0",
+          "8.5",
+          "10"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c8q29",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सार्वत्रिक सूचक क्या बताता है?",
+        "en": "What does a universal indicator show?"
+      },
+      "options": {
+        "hi": [
+          "विलयन का लगभग pH",
+          "केवल द्रव्यमान",
+          "केवल घनत्व",
+          "केवल क्वथनांक"
+        ],
+        "en": [
+          "Approximate pH of a solution",
+          "Only mass",
+          "Only density",
+          "Only boiling point"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    }
+  ]
+}
