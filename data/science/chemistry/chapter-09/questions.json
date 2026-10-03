@@ -840,6 +840,3366 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
         "en": "This question tests a core chemistry concept and its application in daily life."
       }
+    },
+    {
+      "id": "c09q031",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं की सामान्य अवस्था क्या होती है?",
+        "en": "Choose the correct answer: What is the common physical state of metals?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "गैस",
+          "द्रव",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Solid",
+          "Gas",
+          "Liquid",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q032",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं की सामान्य अवस्था क्या होती है?",
+        "en": "In the context of chemistry, answer: What is the common physical state of metals?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "गैस",
+          "द्रव",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Solid",
+          "Gas",
+          "Liquid",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q033",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं की सामान्य अवस्था क्या होती है?",
+        "en": "Practice question: What is the common physical state of metals?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "गैस",
+          "द्रव",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Solid",
+          "Gas",
+          "Liquid",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q034",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं की सामान्य अवस्था क्या होती है?",
+        "en": "If asked in an exam: What is the common physical state of metals?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "गैस",
+          "द्रव",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Solid",
+          "Gas",
+          "Liquid",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q035",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: पारा किस प्रकार का धातु है?",
+        "en": "Choose the correct answer: What type of metal is mercury?"
+      },
+      "options": {
+        "hi": [
+          "द्रव धातु",
+          "ठोस धातु",
+          "गैस",
+          "अधातु"
+        ],
+        "en": [
+          "Liquid metal",
+          "Solid metal",
+          "Gas",
+          "Non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q036",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: पारा किस प्रकार का धातु है?",
+        "en": "In the context of chemistry, answer: What type of metal is mercury?"
+      },
+      "options": {
+        "hi": [
+          "द्रव धातु",
+          "ठोस धातु",
+          "गैस",
+          "अधातु"
+        ],
+        "en": [
+          "Liquid metal",
+          "Solid metal",
+          "Gas",
+          "Non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q037",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: पारा किस प्रकार का धातु है?",
+        "en": "Practice question: What type of metal is mercury?"
+      },
+      "options": {
+        "hi": [
+          "द्रव धातु",
+          "ठोस धातु",
+          "गैस",
+          "अधातु"
+        ],
+        "en": [
+          "Liquid metal",
+          "Solid metal",
+          "Gas",
+          "Non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q038",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि पारा किस प्रकार का धातु है?",
+        "en": "If asked in an exam: What type of metal is mercury?"
+      },
+      "options": {
+        "hi": [
+          "द्रव धातु",
+          "ठोस धातु",
+          "गैस",
+          "अधातु"
+        ],
+        "en": [
+          "Liquid metal",
+          "Solid metal",
+          "Gas",
+          "Non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q039",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं में कौन-सा गुण सामान्य है?",
+        "en": "Choose the correct answer: Which property is common in metals?"
+      },
+      "options": {
+        "hi": [
+          "चमक",
+          "भंगुरता हमेशा",
+          "खराब चालकता",
+          "गैसीय अवस्था"
+        ],
+        "en": [
+          "Lustre",
+          "Always brittleness",
+          "Poor conductivity",
+          "Gaseous state"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q040",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं में कौन-सा गुण सामान्य है?",
+        "en": "In the context of chemistry, answer: Which property is common in metals?"
+      },
+      "options": {
+        "hi": [
+          "चमक",
+          "भंगुरता हमेशा",
+          "खराब चालकता",
+          "गैसीय अवस्था"
+        ],
+        "en": [
+          "Lustre",
+          "Always brittleness",
+          "Poor conductivity",
+          "Gaseous state"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q041",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं में कौन-सा गुण सामान्य है?",
+        "en": "Practice question: Which property is common in metals?"
+      },
+      "options": {
+        "hi": [
+          "चमक",
+          "भंगुरता हमेशा",
+          "खराब चालकता",
+          "गैसीय अवस्था"
+        ],
+        "en": [
+          "Lustre",
+          "Always brittleness",
+          "Poor conductivity",
+          "Gaseous state"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q042",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं में कौन-सा गुण सामान्य है?",
+        "en": "If asked in an exam: Which property is common in metals?"
+      },
+      "options": {
+        "hi": [
+          "चमक",
+          "भंगुरता हमेशा",
+          "खराब चालकता",
+          "गैसीय अवस्था"
+        ],
+        "en": [
+          "Lustre",
+          "Always brittleness",
+          "Poor conductivity",
+          "Gaseous state"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q043",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुएँ विद्युत की कैसी चालक होती हैं?",
+        "en": "Choose the correct answer: How do metals conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "अच्छी चालक",
+          "हमेशा कुचालक",
+          "केवल गैसों में चालक",
+          "केवल ठंड में चालक"
+        ],
+        "en": [
+          "Good conductors",
+          "Always insulators",
+          "Conductors only in gases",
+          "Conductors only when cold"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q044",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुएँ विद्युत की कैसी चालक होती हैं?",
+        "en": "In the context of chemistry, answer: How do metals conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "अच्छी चालक",
+          "हमेशा कुचालक",
+          "केवल गैसों में चालक",
+          "केवल ठंड में चालक"
+        ],
+        "en": [
+          "Good conductors",
+          "Always insulators",
+          "Conductors only in gases",
+          "Conductors only when cold"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q045",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुएँ विद्युत की कैसी चालक होती हैं?",
+        "en": "Practice question: How do metals conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "अच्छी चालक",
+          "हमेशा कुचालक",
+          "केवल गैसों में चालक",
+          "केवल ठंड में चालक"
+        ],
+        "en": [
+          "Good conductors",
+          "Always insulators",
+          "Conductors only in gases",
+          "Conductors only when cold"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q046",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुएँ विद्युत की कैसी चालक होती हैं?",
+        "en": "If asked in an exam: How do metals conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "अच्छी चालक",
+          "हमेशा कुचालक",
+          "केवल गैसों में चालक",
+          "केवल ठंड में चालक"
+        ],
+        "en": [
+          "Good conductors",
+          "Always insulators",
+          "Conductors only in gases",
+          "Conductors only when cold"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q047",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं को पीटकर चादर बनाने का गुण क्या कहलाता है?",
+        "en": "Choose the correct answer: What is the property of metals by which they can be beaten into sheets?"
+      },
+      "options": {
+        "hi": [
+          "आघातवर्धनीयता",
+          "तन्यता",
+          "भंगुरता",
+          "कठोरता"
+        ],
+        "en": [
+          "Malleability",
+          "Ductility",
+          "Brittleness",
+          "Hardness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q048",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं को पीटकर चादर बनाने का गुण क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: What is the property of metals by which they can be beaten into sheets?"
+      },
+      "options": {
+        "hi": [
+          "आघातवर्धनीयता",
+          "तन्यता",
+          "भंगुरता",
+          "कठोरता"
+        ],
+        "en": [
+          "Malleability",
+          "Ductility",
+          "Brittleness",
+          "Hardness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q049",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं को पीटकर चादर बनाने का गुण क्या कहलाता है?",
+        "en": "Practice question: What is the property of metals by which they can be beaten into sheets?"
+      },
+      "options": {
+        "hi": [
+          "आघातवर्धनीयता",
+          "तन्यता",
+          "भंगुरता",
+          "कठोरता"
+        ],
+        "en": [
+          "Malleability",
+          "Ductility",
+          "Brittleness",
+          "Hardness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q050",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं को पीटकर चादर बनाने का गुण क्या कहलाता है?",
+        "en": "If asked in an exam: What is the property of metals by which they can be beaten into sheets?"
+      },
+      "options": {
+        "hi": [
+          "आघातवर्धनीयता",
+          "तन्यता",
+          "भंगुरता",
+          "कठोरता"
+        ],
+        "en": [
+          "Malleability",
+          "Ductility",
+          "Brittleness",
+          "Hardness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q051",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं को खींचकर तार बनाने का गुण क्या है?",
+        "en": "Choose the correct answer: What property allows metals to be drawn into wires?"
+      },
+      "options": {
+        "hi": [
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता",
+          "चमक"
+        ],
+        "en": [
+          "Ductility",
+          "Malleability",
+          "Brittleness",
+          "Lustre"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q052",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं को खींचकर तार बनाने का गुण क्या है?",
+        "en": "In the context of chemistry, answer: What property allows metals to be drawn into wires?"
+      },
+      "options": {
+        "hi": [
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता",
+          "चमक"
+        ],
+        "en": [
+          "Ductility",
+          "Malleability",
+          "Brittleness",
+          "Lustre"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q053",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं को खींचकर तार बनाने का गुण क्या है?",
+        "en": "Practice question: What property allows metals to be drawn into wires?"
+      },
+      "options": {
+        "hi": [
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता",
+          "चमक"
+        ],
+        "en": [
+          "Ductility",
+          "Malleability",
+          "Brittleness",
+          "Lustre"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q054",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं को खींचकर तार बनाने का गुण क्या है?",
+        "en": "If asked in an exam: What property allows metals to be drawn into wires?"
+      },
+      "options": {
+        "hi": [
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता",
+          "चमक"
+        ],
+        "en": [
+          "Ductility",
+          "Malleability",
+          "Brittleness",
+          "Lustre"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q055",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अधातुएँ सामान्यतः विद्युत की कैसी चालक होती हैं?",
+        "en": "Choose the correct answer: How do non-metals generally conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "खराब चालक",
+          "बहुत अच्छे चालक",
+          "हमेशा धातु जैसे",
+          "केवल ठोस में अच्छे चालक"
+        ],
+        "en": [
+          "Poor conductors",
+          "Very good conductors",
+          "Always like metals",
+          "Good conductors only in solids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q056",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अधातुएँ सामान्यतः विद्युत की कैसी चालक होती हैं?",
+        "en": "In the context of chemistry, answer: How do non-metals generally conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "खराब चालक",
+          "बहुत अच्छे चालक",
+          "हमेशा धातु जैसे",
+          "केवल ठोस में अच्छे चालक"
+        ],
+        "en": [
+          "Poor conductors",
+          "Very good conductors",
+          "Always like metals",
+          "Good conductors only in solids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q057",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अधातुएँ सामान्यतः विद्युत की कैसी चालक होती हैं?",
+        "en": "Practice question: How do non-metals generally conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "खराब चालक",
+          "बहुत अच्छे चालक",
+          "हमेशा धातु जैसे",
+          "केवल ठोस में अच्छे चालक"
+        ],
+        "en": [
+          "Poor conductors",
+          "Very good conductors",
+          "Always like metals",
+          "Good conductors only in solids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q058",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अधातुएँ सामान्यतः विद्युत की कैसी चालक होती हैं?",
+        "en": "If asked in an exam: How do non-metals generally conduct electricity?"
+      },
+      "options": {
+        "hi": [
+          "खराब चालक",
+          "बहुत अच्छे चालक",
+          "हमेशा धातु जैसे",
+          "केवल ठोस में अच्छे चालक"
+        ],
+        "en": [
+          "Poor conductors",
+          "Very good conductors",
+          "Always like metals",
+          "Good conductors only in solids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q059",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ग्रेफाइट किसका अपवाद है?",
+        "en": "Choose the correct answer: Graphite is an exception to which general property?"
+      },
+      "options": {
+        "hi": [
+          "अधातु होकर विद्युत का चालक होना",
+          "धातु होकर गैस होना",
+          "अधातु होकर द्रव होना",
+          "धातु होकर कुचालक होना"
+        ],
+        "en": [
+          "Being a non-metal that conducts electricity",
+          "Being a metal gas",
+          "Being a liquid non-metal",
+          "Being a non-conducting metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q060",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: ग्रेफाइट किसका अपवाद है?",
+        "en": "In the context of chemistry, answer: Graphite is an exception to which general property?"
+      },
+      "options": {
+        "hi": [
+          "अधातु होकर विद्युत का चालक होना",
+          "धातु होकर गैस होना",
+          "अधातु होकर द्रव होना",
+          "धातु होकर कुचालक होना"
+        ],
+        "en": [
+          "Being a non-metal that conducts electricity",
+          "Being a metal gas",
+          "Being a liquid non-metal",
+          "Being a non-conducting metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q061",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ग्रेफाइट किसका अपवाद है?",
+        "en": "Practice question: Graphite is an exception to which general property?"
+      },
+      "options": {
+        "hi": [
+          "अधातु होकर विद्युत का चालक होना",
+          "धातु होकर गैस होना",
+          "अधातु होकर द्रव होना",
+          "धातु होकर कुचालक होना"
+        ],
+        "en": [
+          "Being a non-metal that conducts electricity",
+          "Being a metal gas",
+          "Being a liquid non-metal",
+          "Being a non-conducting metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q062",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ग्रेफाइट किसका अपवाद है?",
+        "en": "If asked in an exam: Graphite is an exception to which general property?"
+      },
+      "options": {
+        "hi": [
+          "अधातु होकर विद्युत का चालक होना",
+          "धातु होकर गैस होना",
+          "अधातु होकर द्रव होना",
+          "धातु होकर कुचालक होना"
+        ],
+        "en": [
+          "Being a non-metal that conducts electricity",
+          "Being a metal gas",
+          "Being a liquid non-metal",
+          "Being a non-conducting metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q063",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातु ऑक्सीजन से अभिक्रिया करके सामान्यतः क्या बनाते हैं?",
+        "en": "Choose the correct answer: Metals generally react with oxygen to form what?"
+      },
+      "options": {
+        "hi": [
+          "धातु ऑक्साइड",
+          "अधातु ऑक्साइड",
+          "अम्ल",
+          "लवण ही"
+        ],
+        "en": [
+          "Metal oxides",
+          "Non-metal oxides",
+          "Acids",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q064",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातु ऑक्सीजन से अभिक्रिया करके सामान्यतः क्या बनाते हैं?",
+        "en": "In the context of chemistry, answer: Metals generally react with oxygen to form what?"
+      },
+      "options": {
+        "hi": [
+          "धातु ऑक्साइड",
+          "अधातु ऑक्साइड",
+          "अम्ल",
+          "लवण ही"
+        ],
+        "en": [
+          "Metal oxides",
+          "Non-metal oxides",
+          "Acids",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q065",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातु ऑक्सीजन से अभिक्रिया करके सामान्यतः क्या बनाते हैं?",
+        "en": "Practice question: Metals generally react with oxygen to form what?"
+      },
+      "options": {
+        "hi": [
+          "धातु ऑक्साइड",
+          "अधातु ऑक्साइड",
+          "अम्ल",
+          "लवण ही"
+        ],
+        "en": [
+          "Metal oxides",
+          "Non-metal oxides",
+          "Acids",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q066",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातु ऑक्सीजन से अभिक्रिया करके सामान्यतः क्या बनाते हैं?",
+        "en": "If asked in an exam: Metals generally react with oxygen to form what?"
+      },
+      "options": {
+        "hi": [
+          "धातु ऑक्साइड",
+          "अधातु ऑक्साइड",
+          "अम्ल",
+          "लवण ही"
+        ],
+        "en": [
+          "Metal oxides",
+          "Non-metal oxides",
+          "Acids",
+          "Only salts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q067",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अधातु ऑक्साइड सामान्यतः कैसे होते हैं?",
+        "en": "Choose the correct answer: Non-metal oxides are generally what?"
+      },
+      "options": {
+        "hi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन ही",
+          "धात्विक"
+        ],
+        "en": [
+          "Acidic",
+          "Basic",
+          "Always neutral",
+          "Metallic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q068",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अधातु ऑक्साइड सामान्यतः कैसे होते हैं?",
+        "en": "In the context of chemistry, answer: Non-metal oxides are generally what?"
+      },
+      "options": {
+        "hi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन ही",
+          "धात्विक"
+        ],
+        "en": [
+          "Acidic",
+          "Basic",
+          "Always neutral",
+          "Metallic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q069",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अधातु ऑक्साइड सामान्यतः कैसे होते हैं?",
+        "en": "Practice question: Non-metal oxides are generally what?"
+      },
+      "options": {
+        "hi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन ही",
+          "धात्विक"
+        ],
+        "en": [
+          "Acidic",
+          "Basic",
+          "Always neutral",
+          "Metallic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q070",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अधातु ऑक्साइड सामान्यतः कैसे होते हैं?",
+        "en": "If asked in an exam: Non-metal oxides are generally what?"
+      },
+      "options": {
+        "hi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन ही",
+          "धात्विक"
+        ],
+        "en": [
+          "Acidic",
+          "Basic",
+          "Always neutral",
+          "Metallic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q071",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातु और अम्ल की अभिक्रिया में कौन-सी गैस निकल सकती है?",
+        "en": "Choose the correct answer: Which gas may be released when a metal reacts with an acid?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q072",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातु और अम्ल की अभिक्रिया में कौन-सी गैस निकल सकती है?",
+        "en": "In the context of chemistry, answer: Which gas may be released when a metal reacts with an acid?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q073",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातु और अम्ल की अभिक्रिया में कौन-सी गैस निकल सकती है?",
+        "en": "Practice question: Which gas may be released when a metal reacts with an acid?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q074",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातु और अम्ल की अभिक्रिया में कौन-सी गैस निकल सकती है?",
+        "en": "If asked in an exam: Which gas may be released when a metal reacts with an acid?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q075",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: लोहे पर जंग लगने के लिए मुख्यतः क्या आवश्यक है?",
+        "en": "Choose the correct answer: What is mainly needed for iron rusting?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन और नमी",
+          "केवल नाइट्रोजन",
+          "केवल धूप",
+          "केवल नमक"
+        ],
+        "en": [
+          "Oxygen and moisture",
+          "Only nitrogen",
+          "Only sunlight",
+          "Only salt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q076",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: लोहे पर जंग लगने के लिए मुख्यतः क्या आवश्यक है?",
+        "en": "In the context of chemistry, answer: What is mainly needed for iron rusting?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन और नमी",
+          "केवल नाइट्रोजन",
+          "केवल धूप",
+          "केवल नमक"
+        ],
+        "en": [
+          "Oxygen and moisture",
+          "Only nitrogen",
+          "Only sunlight",
+          "Only salt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q077",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: लोहे पर जंग लगने के लिए मुख्यतः क्या आवश्यक है?",
+        "en": "Practice question: What is mainly needed for iron rusting?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन और नमी",
+          "केवल नाइट्रोजन",
+          "केवल धूप",
+          "केवल नमक"
+        ],
+        "en": [
+          "Oxygen and moisture",
+          "Only nitrogen",
+          "Only sunlight",
+          "Only salt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q078",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि लोहे पर जंग लगने के लिए मुख्यतः क्या आवश्यक है?",
+        "en": "If asked in an exam: What is mainly needed for iron rusting?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन और नमी",
+          "केवल नाइट्रोजन",
+          "केवल धूप",
+          "केवल नमक"
+        ],
+        "en": [
+          "Oxygen and moisture",
+          "Only nitrogen",
+          "Only sunlight",
+          "Only salt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q079",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातु का ऑक्सीजन से अभिक्रिया करके ऑक्साइड बनाना क्या कहलाता है?",
+        "en": "Choose the correct answer: What is reaction of a metal with oxygen to form an oxide called?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीकरण",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "आसवन"
+        ],
+        "en": [
+          "Oxidation",
+          "Sublimation",
+          "Filtration",
+          "Distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q080",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातु का ऑक्सीजन से अभिक्रिया करके ऑक्साइड बनाना क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: What is reaction of a metal with oxygen to form an oxide called?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीकरण",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "आसवन"
+        ],
+        "en": [
+          "Oxidation",
+          "Sublimation",
+          "Filtration",
+          "Distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q081",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातु का ऑक्सीजन से अभिक्रिया करके ऑक्साइड बनाना क्या कहलाता है?",
+        "en": "Practice question: What is reaction of a metal with oxygen to form an oxide called?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीकरण",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "आसवन"
+        ],
+        "en": [
+          "Oxidation",
+          "Sublimation",
+          "Filtration",
+          "Distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q082",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातु का ऑक्सीजन से अभिक्रिया करके ऑक्साइड बनाना क्या कहलाता है?",
+        "en": "If asked in an exam: What is reaction of a metal with oxygen to form an oxide called?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीकरण",
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "आसवन"
+        ],
+        "en": [
+          "Oxidation",
+          "Sublimation",
+          "Filtration",
+          "Distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q083",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण से क्या कर सकती है?",
+        "en": "Choose the correct answer: What can a more reactive metal do to a less reactive metal from its salt?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापित कर सकती है",
+          "घोल नहीं सकती",
+          "हमेशा गैस बना सकती है",
+          "उसे अधातु बना सकती है"
+        ],
+        "en": [
+          "Displace it",
+          "Cannot dissolve it",
+          "Always form a gas",
+          "Turn it into a non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q084",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण से क्या कर सकती है?",
+        "en": "In the context of chemistry, answer: What can a more reactive metal do to a less reactive metal from its salt?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापित कर सकती है",
+          "घोल नहीं सकती",
+          "हमेशा गैस बना सकती है",
+          "उसे अधातु बना सकती है"
+        ],
+        "en": [
+          "Displace it",
+          "Cannot dissolve it",
+          "Always form a gas",
+          "Turn it into a non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q085",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण से क्या कर सकती है?",
+        "en": "Practice question: What can a more reactive metal do to a less reactive metal from its salt?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापित कर सकती है",
+          "घोल नहीं सकती",
+          "हमेशा गैस बना सकती है",
+          "उसे अधातु बना सकती है"
+        ],
+        "en": [
+          "Displace it",
+          "Cannot dissolve it",
+          "Always form a gas",
+          "Turn it into a non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q086",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण से क्या कर सकती है?",
+        "en": "If asked in an exam: What can a more reactive metal do to a less reactive metal from its salt?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापित कर सकती है",
+          "घोल नहीं सकती",
+          "हमेशा गैस बना सकती है",
+          "उसे अधातु बना सकती है"
+        ],
+        "en": [
+          "Displace it",
+          "Cannot dissolve it",
+          "Always form a gas",
+          "Turn it into a non-metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q087",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: लोहे की कील को कॉपर सल्फेट में डालने पर कौन-सा धातु विस्थापित होता है?",
+        "en": "Choose the correct answer: When an iron nail is placed in copper sulfate, which metal is displaced?"
+      },
+      "options": {
+        "hi": [
+          "तांबा",
+          "लोहा",
+          "जस्ता",
+          "सोडियम"
+        ],
+        "en": [
+          "Copper",
+          "Iron",
+          "Zinc",
+          "Sodium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q088",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: लोहे की कील को कॉपर सल्फेट में डालने पर कौन-सा धातु विस्थापित होता है?",
+        "en": "In the context of chemistry, answer: When an iron nail is placed in copper sulfate, which metal is displaced?"
+      },
+      "options": {
+        "hi": [
+          "तांबा",
+          "लोहा",
+          "जस्ता",
+          "सोडियम"
+        ],
+        "en": [
+          "Copper",
+          "Iron",
+          "Zinc",
+          "Sodium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q089",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: लोहे की कील को कॉपर सल्फेट में डालने पर कौन-सा धातु विस्थापित होता है?",
+        "en": "Practice question: When an iron nail is placed in copper sulfate, which metal is displaced?"
+      },
+      "options": {
+        "hi": [
+          "तांबा",
+          "लोहा",
+          "जस्ता",
+          "सोडियम"
+        ],
+        "en": [
+          "Copper",
+          "Iron",
+          "Zinc",
+          "Sodium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q090",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि लोहे की कील को कॉपर सल्फेट में डालने पर कौन-सा धातु विस्थापित होता है?",
+        "en": "If asked in an exam: When an iron nail is placed in copper sulfate, which metal is displaced?"
+      },
+      "options": {
+        "hi": [
+          "तांबा",
+          "लोहा",
+          "जस्ता",
+          "सोडियम"
+        ],
+        "en": [
+          "Copper",
+          "Iron",
+          "Zinc",
+          "Sodium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q091",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं के कार्बोनेट को अम्ल से अभिक्रिया कराने पर कौन-सी गैस निकलती है?",
+        "en": "Choose the correct answer: Which gas is released when metal carbonates react with acids?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q092",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं के कार्बोनेट को अम्ल से अभिक्रिया कराने पर कौन-सी गैस निकलती है?",
+        "en": "In the context of chemistry, answer: Which gas is released when metal carbonates react with acids?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q093",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं के कार्बोनेट को अम्ल से अभिक्रिया कराने पर कौन-सी गैस निकलती है?",
+        "en": "Practice question: Which gas is released when metal carbonates react with acids?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q094",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं के कार्बोनेट को अम्ल से अभिक्रिया कराने पर कौन-सी गैस निकलती है?",
+        "en": "If asked in an exam: Which gas is released when metal carbonates react with acids?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "क्लोरीन"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Hydrogen",
+          "Oxygen",
+          "Chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q095",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: खनिज से उपयोगी धातु प्राप्त करने की प्रक्रिया क्या कहलाती है?",
+        "en": "Choose the correct answer: What is the process of obtaining useful metal from ore called?"
+      },
+      "options": {
+        "hi": [
+          "धातुकर्म",
+          "निस्यंदन",
+          "वाष्पीकरण",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Metallurgy",
+          "Filtration",
+          "Evaporation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q096",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: खनिज से उपयोगी धातु प्राप्त करने की प्रक्रिया क्या कहलाती है?",
+        "en": "In the context of chemistry, answer: What is the process of obtaining useful metal from ore called?"
+      },
+      "options": {
+        "hi": [
+          "धातुकर्म",
+          "निस्यंदन",
+          "वाष्पीकरण",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Metallurgy",
+          "Filtration",
+          "Evaporation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q097",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: खनिज से उपयोगी धातु प्राप्त करने की प्रक्रिया क्या कहलाती है?",
+        "en": "Practice question: What is the process of obtaining useful metal from ore called?"
+      },
+      "options": {
+        "hi": [
+          "धातुकर्म",
+          "निस्यंदन",
+          "वाष्पीकरण",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Metallurgy",
+          "Filtration",
+          "Evaporation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q098",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि खनिज से उपयोगी धातु प्राप्त करने की प्रक्रिया क्या कहलाती है?",
+        "en": "If asked in an exam: What is the process of obtaining useful metal from ore called?"
+      },
+      "options": {
+        "hi": [
+          "धातुकर्म",
+          "निस्यंदन",
+          "वाष्पीकरण",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Metallurgy",
+          "Filtration",
+          "Evaporation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q099",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अयस्क क्या है?",
+        "en": "Choose the correct answer: What is an ore?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा खनिज जिससे धातु आर्थिक रूप से निकाली जा सके",
+          "हर चट्टान",
+          "शुद्ध अधातु",
+          "केवल मिश्रण"
+        ],
+        "en": [
+          "A mineral from which a metal can be economically extracted",
+          "Every rock",
+          "A pure non-metal",
+          "Only a mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q100",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अयस्क क्या है?",
+        "en": "In the context of chemistry, answer: What is an ore?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा खनिज जिससे धातु आर्थिक रूप से निकाली जा सके",
+          "हर चट्टान",
+          "शुद्ध अधातु",
+          "केवल मिश्रण"
+        ],
+        "en": [
+          "A mineral from which a metal can be economically extracted",
+          "Every rock",
+          "A pure non-metal",
+          "Only a mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q101",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अयस्क क्या है?",
+        "en": "Practice question: What is an ore?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा खनिज जिससे धातु आर्थिक रूप से निकाली जा सके",
+          "हर चट्टान",
+          "शुद्ध अधातु",
+          "केवल मिश्रण"
+        ],
+        "en": [
+          "A mineral from which a metal can be economically extracted",
+          "Every rock",
+          "A pure non-metal",
+          "Only a mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q102",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अयस्क क्या है?",
+        "en": "If asked in an exam: What is an ore?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा खनिज जिससे धातु आर्थिक रूप से निकाली जा सके",
+          "हर चट्टान",
+          "शुद्ध अधातु",
+          "केवल मिश्रण"
+        ],
+        "en": [
+          "A mineral from which a metal can be economically extracted",
+          "Every rock",
+          "A pure non-metal",
+          "Only a mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q103",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रधातु क्या है?",
+        "en": "Choose the correct answer: What is an alloy?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक तत्वों का ठोस मिश्रण जिसमें कम से कम एक धातु हो",
+          "केवल एक शुद्ध धातु",
+          "केवल गैसों का मिश्रण",
+          "एक यौगिक हमेशा"
+        ],
+        "en": [
+          "A solid mixture of two or more elements with at least one metal",
+          "Only a pure metal",
+          "A mixture of gases only",
+          "Always a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q104",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रधातु क्या है?",
+        "en": "In the context of chemistry, answer: What is an alloy?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक तत्वों का ठोस मिश्रण जिसमें कम से कम एक धातु हो",
+          "केवल एक शुद्ध धातु",
+          "केवल गैसों का मिश्रण",
+          "एक यौगिक हमेशा"
+        ],
+        "en": [
+          "A solid mixture of two or more elements with at least one metal",
+          "Only a pure metal",
+          "A mixture of gases only",
+          "Always a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q105",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: मिश्रधातु क्या है?",
+        "en": "Practice question: What is an alloy?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक तत्वों का ठोस मिश्रण जिसमें कम से कम एक धातु हो",
+          "केवल एक शुद्ध धातु",
+          "केवल गैसों का मिश्रण",
+          "एक यौगिक हमेशा"
+        ],
+        "en": [
+          "A solid mixture of two or more elements with at least one metal",
+          "Only a pure metal",
+          "A mixture of gases only",
+          "Always a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q106",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि मिश्रधातु क्या है?",
+        "en": "If asked in an exam: What is an alloy?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक तत्वों का ठोस मिश्रण जिसमें कम से कम एक धातु हो",
+          "केवल एक शुद्ध धातु",
+          "केवल गैसों का मिश्रण",
+          "एक यौगिक हमेशा"
+        ],
+        "en": [
+          "A solid mixture of two or more elements with at least one metal",
+          "Only a pure metal",
+          "A mixture of gases only",
+          "Always a compound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q107",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: पीतल किन धातुओं की मिश्रधातु है?",
+        "en": "Choose the correct answer: Brass is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "एल्युमिनियम और लोहा"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Aluminium and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q108",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: पीतल किन धातुओं की मिश्रधातु है?",
+        "en": "In the context of chemistry, answer: Brass is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "एल्युमिनियम और लोहा"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Aluminium and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q109",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: पीतल किन धातुओं की मिश्रधातु है?",
+        "en": "Practice question: Brass is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "एल्युमिनियम और लोहा"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Aluminium and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q110",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि पीतल किन धातुओं की मिश्रधातु है?",
+        "en": "If asked in an exam: Brass is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "एल्युमिनियम और लोहा"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Aluminium and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q111",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कांसा किन धातुओं की मिश्रधातु है?",
+        "en": "Choose the correct answer: Bronze is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "तांबा और जस्ता",
+          "लोहा और कार्बन",
+          "जस्ता और लोहा"
+        ],
+        "en": [
+          "Copper and tin",
+          "Copper and zinc",
+          "Iron and carbon",
+          "Zinc and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q112",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कांसा किन धातुओं की मिश्रधातु है?",
+        "en": "In the context of chemistry, answer: Bronze is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "तांबा और जस्ता",
+          "लोहा और कार्बन",
+          "जस्ता और लोहा"
+        ],
+        "en": [
+          "Copper and tin",
+          "Copper and zinc",
+          "Iron and carbon",
+          "Zinc and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q113",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कांसा किन धातुओं की मिश्रधातु है?",
+        "en": "Practice question: Bronze is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "तांबा और जस्ता",
+          "लोहा और कार्बन",
+          "जस्ता और लोहा"
+        ],
+        "en": [
+          "Copper and tin",
+          "Copper and zinc",
+          "Iron and carbon",
+          "Zinc and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q114",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कांसा किन धातुओं की मिश्रधातु है?",
+        "en": "If asked in an exam: Bronze is an alloy of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "तांबा और जस्ता",
+          "लोहा और कार्बन",
+          "जस्ता और लोहा"
+        ],
+        "en": [
+          "Copper and tin",
+          "Copper and zinc",
+          "Iron and carbon",
+          "Zinc and iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q115",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: स्टील मुख्यतः किसका मिश्रण है?",
+        "en": "Choose the correct answer: Steel is mainly a mixture of what?"
+      },
+      "options": {
+        "hi": [
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Iron and carbon",
+          "Copper and zinc",
+          "Copper and tin",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q116",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: स्टील मुख्यतः किसका मिश्रण है?",
+        "en": "In the context of chemistry, answer: Steel is mainly a mixture of what?"
+      },
+      "options": {
+        "hi": [
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Iron and carbon",
+          "Copper and zinc",
+          "Copper and tin",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q117",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: स्टील मुख्यतः किसका मिश्रण है?",
+        "en": "Practice question: Steel is mainly a mixture of what?"
+      },
+      "options": {
+        "hi": [
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Iron and carbon",
+          "Copper and zinc",
+          "Copper and tin",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q118",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि स्टील मुख्यतः किसका मिश्रण है?",
+        "en": "If asked in an exam: Steel is mainly a mixture of what?"
+      },
+      "options": {
+        "hi": [
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Iron and carbon",
+          "Copper and zinc",
+          "Copper and tin",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q119",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं के अयस्कों में अशुद्धियों को क्या कहते हैं?",
+        "en": "Choose the correct answer: What are impurities in metal ores called?"
+      },
+      "options": {
+        "hi": [
+          "गैंग",
+          "मिश्रधातु",
+          "अवक्षेप",
+          "विलायक"
+        ],
+        "en": [
+          "Gangue",
+          "Alloy",
+          "Precipitate",
+          "Solvent"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q120",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं के अयस्कों में अशुद्धियों को क्या कहते हैं?",
+        "en": "In the context of chemistry, answer: What are impurities in metal ores called?"
+      },
+      "options": {
+        "hi": [
+          "गैंग",
+          "मिश्रधातु",
+          "अवक्षेप",
+          "विलायक"
+        ],
+        "en": [
+          "Gangue",
+          "Alloy",
+          "Precipitate",
+          "Solvent"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q121",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं के अयस्कों में अशुद्धियों को क्या कहते हैं?",
+        "en": "Practice question: What are impurities in metal ores called?"
+      },
+      "options": {
+        "hi": [
+          "गैंग",
+          "मिश्रधातु",
+          "अवक्षेप",
+          "विलायक"
+        ],
+        "en": [
+          "Gangue",
+          "Alloy",
+          "Precipitate",
+          "Solvent"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q122",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं के अयस्कों में अशुद्धियों को क्या कहते हैं?",
+        "en": "If asked in an exam: What are impurities in metal ores called?"
+      },
+      "options": {
+        "hi": [
+          "गैंग",
+          "मिश्रधातु",
+          "अवक्षेप",
+          "विलायक"
+        ],
+        "en": [
+          "Gangue",
+          "Alloy",
+          "Precipitate",
+          "Solvent"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q123",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं की सतह पर सुरक्षात्मक परत बनने की प्रक्रिया क्या कहलाती है?",
+        "en": "Choose the correct answer: What is the formation of a protective layer on a metal surface called?"
+      },
+      "options": {
+        "hi": [
+          "निष्क्रियता/पैसिवेशन",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Passivation",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q124",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं की सतह पर सुरक्षात्मक परत बनने की प्रक्रिया क्या कहलाती है?",
+        "en": "In the context of chemistry, answer: What is the formation of a protective layer on a metal surface called?"
+      },
+      "options": {
+        "hi": [
+          "निष्क्रियता/पैसिवेशन",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Passivation",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q125",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं की सतह पर सुरक्षात्मक परत बनने की प्रक्रिया क्या कहलाती है?",
+        "en": "Practice question: What is the formation of a protective layer on a metal surface called?"
+      },
+      "options": {
+        "hi": [
+          "निष्क्रियता/पैसिवेशन",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Passivation",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q126",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं की सतह पर सुरक्षात्मक परत बनने की प्रक्रिया क्या कहलाती है?",
+        "en": "If asked in an exam: What is the formation of a protective layer on a metal surface called?"
+      },
+      "options": {
+        "hi": [
+          "निष्क्रियता/पैसिवेशन",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Passivation",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q127",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: सोडियम को मिट्टी के तेल में क्यों रखा जाता है?",
+        "en": "Choose the correct answer: Why is sodium stored under kerosene?"
+      },
+      "options": {
+        "hi": [
+          "वह वायु और नमी से तीव्रता से अभिक्रिया करता है",
+          "वह बहुत भारी है",
+          "वह पानी में नहीं घुलता",
+          "वह गैस है"
+        ],
+        "en": [
+          "It reacts rapidly with air and moisture",
+          "It is very heavy",
+          "It does not dissolve in water",
+          "It is a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q128",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: सोडियम को मिट्टी के तेल में क्यों रखा जाता है?",
+        "en": "In the context of chemistry, answer: Why is sodium stored under kerosene?"
+      },
+      "options": {
+        "hi": [
+          "वह वायु और नमी से तीव्रता से अभिक्रिया करता है",
+          "वह बहुत भारी है",
+          "वह पानी में नहीं घुलता",
+          "वह गैस है"
+        ],
+        "en": [
+          "It reacts rapidly with air and moisture",
+          "It is very heavy",
+          "It does not dissolve in water",
+          "It is a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q129",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: सोडियम को मिट्टी के तेल में क्यों रखा जाता है?",
+        "en": "Practice question: Why is sodium stored under kerosene?"
+      },
+      "options": {
+        "hi": [
+          "वह वायु और नमी से तीव्रता से अभिक्रिया करता है",
+          "वह बहुत भारी है",
+          "वह पानी में नहीं घुलता",
+          "वह गैस है"
+        ],
+        "en": [
+          "It reacts rapidly with air and moisture",
+          "It is very heavy",
+          "It does not dissolve in water",
+          "It is a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q130",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि सोडियम को मिट्टी के तेल में क्यों रखा जाता है?",
+        "en": "If asked in an exam: Why is sodium stored under kerosene?"
+      },
+      "options": {
+        "hi": [
+          "वह वायु और नमी से तीव्रता से अभिक्रिया करता है",
+          "वह बहुत भारी है",
+          "वह पानी में नहीं घुलता",
+          "वह गैस है"
+        ],
+        "en": [
+          "It reacts rapidly with air and moisture",
+          "It is very heavy",
+          "It does not dissolve in water",
+          "It is a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q131",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं में ध्वनि उत्पन्न करने का गुण क्या कहलाता है?",
+        "en": "Choose the correct answer: What is the property of metals of producing sound when struck called?"
+      },
+      "options": {
+        "hi": [
+          "ध्वन्यात्मकता",
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता"
+        ],
+        "en": [
+          "Sonority",
+          "Ductility",
+          "Malleability",
+          "Brittleness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q132",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं में ध्वनि उत्पन्न करने का गुण क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: What is the property of metals of producing sound when struck called?"
+      },
+      "options": {
+        "hi": [
+          "ध्वन्यात्मकता",
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता"
+        ],
+        "en": [
+          "Sonority",
+          "Ductility",
+          "Malleability",
+          "Brittleness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q133",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं में ध्वनि उत्पन्न करने का गुण क्या कहलाता है?",
+        "en": "Practice question: What is the property of metals of producing sound when struck called?"
+      },
+      "options": {
+        "hi": [
+          "ध्वन्यात्मकता",
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता"
+        ],
+        "en": [
+          "Sonority",
+          "Ductility",
+          "Malleability",
+          "Brittleness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q134",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं में ध्वनि उत्पन्न करने का गुण क्या कहलाता है?",
+        "en": "If asked in an exam: What is the property of metals of producing sound when struck called?"
+      },
+      "options": {
+        "hi": [
+          "ध्वन्यात्मकता",
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "भंगुरता"
+        ],
+        "en": [
+          "Sonority",
+          "Ductility",
+          "Malleability",
+          "Brittleness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q135",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अधातु ब्रोमीन की सामान्य अवस्था क्या है?",
+        "en": "Choose the correct answer: What is the usual physical state of the non-metal bromine?"
+      },
+      "options": {
+        "hi": [
+          "द्रव",
+          "ठोस",
+          "गैस",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Liquid",
+          "Solid",
+          "Gas",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q136",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अधातु ब्रोमीन की सामान्य अवस्था क्या है?",
+        "en": "In the context of chemistry, answer: What is the usual physical state of the non-metal bromine?"
+      },
+      "options": {
+        "hi": [
+          "द्रव",
+          "ठोस",
+          "गैस",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Liquid",
+          "Solid",
+          "Gas",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q137",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अधातु ब्रोमीन की सामान्य अवस्था क्या है?",
+        "en": "Practice question: What is the usual physical state of the non-metal bromine?"
+      },
+      "options": {
+        "hi": [
+          "द्रव",
+          "ठोस",
+          "गैस",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Liquid",
+          "Solid",
+          "Gas",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q138",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अधातु ब्रोमीन की सामान्य अवस्था क्या है?",
+        "en": "If asked in an exam: What is the usual physical state of the non-metal bromine?"
+      },
+      "options": {
+        "hi": [
+          "द्रव",
+          "ठोस",
+          "गैस",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Liquid",
+          "Solid",
+          "Gas",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q139",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अधातु आयोडीन की एक विशेषता क्या है?",
+        "en": "Choose the correct answer: What is one characteristic of non-metal iodine?"
+      },
+      "options": {
+        "hi": [
+          "यह चमकीला दिखाई दे सकता है",
+          "यह हमेशा गैस है",
+          "यह धातु है",
+          "यह बिजली का बहुत अच्छा चालक है"
+        ],
+        "en": [
+          "It can appear lustrous",
+          "It is always a gas",
+          "It is a metal",
+          "It is a very good electrical conductor"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q140",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अधातु आयोडीन की एक विशेषता क्या है?",
+        "en": "In the context of chemistry, answer: What is one characteristic of non-metal iodine?"
+      },
+      "options": {
+        "hi": [
+          "यह चमकीला दिखाई दे सकता है",
+          "यह हमेशा गैस है",
+          "यह धातु है",
+          "यह बिजली का बहुत अच्छा चालक है"
+        ],
+        "en": [
+          "It can appear lustrous",
+          "It is always a gas",
+          "It is a metal",
+          "It is a very good electrical conductor"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q141",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अधातु आयोडीन की एक विशेषता क्या है?",
+        "en": "Practice question: What is one characteristic of non-metal iodine?"
+      },
+      "options": {
+        "hi": [
+          "यह चमकीला दिखाई दे सकता है",
+          "यह हमेशा गैस है",
+          "यह धातु है",
+          "यह बिजली का बहुत अच्छा चालक है"
+        ],
+        "en": [
+          "It can appear lustrous",
+          "It is always a gas",
+          "It is a metal",
+          "It is a very good electrical conductor"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q142",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अधातु आयोडीन की एक विशेषता क्या है?",
+        "en": "If asked in an exam: What is one characteristic of non-metal iodine?"
+      },
+      "options": {
+        "hi": [
+          "यह चमकीला दिखाई दे सकता है",
+          "यह हमेशा गैस है",
+          "यह धातु है",
+          "यह बिजली का बहुत अच्छा चालक है"
+        ],
+        "en": [
+          "It can appear lustrous",
+          "It is always a gas",
+          "It is a metal",
+          "It is a very good electrical conductor"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q143",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धातुओं और अधातुओं के बीच इलेक्ट्रॉन स्थानांतरण से क्या बन सकता है?",
+        "en": "Choose the correct answer: What can form by transfer of electrons between metals and non-metals?"
+      },
+      "options": {
+        "hi": [
+          "आयनिक यौगिक",
+          "केवल मिश्रण",
+          "केवल धातु",
+          "केवल गैस"
+        ],
+        "en": [
+          "Ionic compound",
+          "Only mixture",
+          "Only metal",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q144",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: धातुओं और अधातुओं के बीच इलेक्ट्रॉन स्थानांतरण से क्या बन सकता है?",
+        "en": "In the context of chemistry, answer: What can form by transfer of electrons between metals and non-metals?"
+      },
+      "options": {
+        "hi": [
+          "आयनिक यौगिक",
+          "केवल मिश्रण",
+          "केवल धातु",
+          "केवल गैस"
+        ],
+        "en": [
+          "Ionic compound",
+          "Only mixture",
+          "Only metal",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q145",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धातुओं और अधातुओं के बीच इलेक्ट्रॉन स्थानांतरण से क्या बन सकता है?",
+        "en": "Practice question: What can form by transfer of electrons between metals and non-metals?"
+      },
+      "options": {
+        "hi": [
+          "आयनिक यौगिक",
+          "केवल मिश्रण",
+          "केवल धातु",
+          "केवल गैस"
+        ],
+        "en": [
+          "Ionic compound",
+          "Only mixture",
+          "Only metal",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q146",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धातुओं और अधातुओं के बीच इलेक्ट्रॉन स्थानांतरण से क्या बन सकता है?",
+        "en": "If asked in an exam: What can form by transfer of electrons between metals and non-metals?"
+      },
+      "options": {
+        "hi": [
+          "आयनिक यौगिक",
+          "केवल मिश्रण",
+          "केवल धातु",
+          "केवल गैस"
+        ],
+        "en": [
+          "Ionic compound",
+          "Only mixture",
+          "Only metal",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q147",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: NaCl में सोडियम किस प्रकार का आयन है?",
+        "en": "Choose the correct answer: What type of ion is sodium in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "धनायन",
+          "ऋणायन",
+          "उदासीन परमाणु",
+          "अणु"
+        ],
+        "en": [
+          "Cation",
+          "Anion",
+          "Neutral atom",
+          "Molecule"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q148",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: NaCl में सोडियम किस प्रकार का आयन है?",
+        "en": "In the context of chemistry, answer: What type of ion is sodium in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "धनायन",
+          "ऋणायन",
+          "उदासीन परमाणु",
+          "अणु"
+        ],
+        "en": [
+          "Cation",
+          "Anion",
+          "Neutral atom",
+          "Molecule"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q149",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: NaCl में सोडियम किस प्रकार का आयन है?",
+        "en": "Practice question: What type of ion is sodium in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "धनायन",
+          "ऋणायन",
+          "उदासीन परमाणु",
+          "अणु"
+        ],
+        "en": [
+          "Cation",
+          "Anion",
+          "Neutral atom",
+          "Molecule"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c09q150",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि NaCl में सोडियम किस प्रकार का आयन है?",
+        "en": "If asked in an exam: What type of ion is sodium in NaCl?"
+      },
+      "options": {
+        "hi": [
+          "धनायन",
+          "ऋणायन",
+          "उदासीन परमाणु",
+          "अणु"
+        ],
+        "en": [
+          "Cation",
+          "Anion",
+          "Neutral atom",
+          "Molecule"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
     }
   ]
 }
