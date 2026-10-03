@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-04",
+  "chapterNumber": 4,
+  "chapterName": {
+    "hi": "तत्व, यौगिक एवं शुद्ध पदार्थ",
+    "en": "Elements, Compounds and Pure Substances"
+  },
+  "mockQuestionCount": 30,
+  "topics": "elements, compounds, mixtures, pure substances, homogeneous and heterogeneous mixtures"
+}
