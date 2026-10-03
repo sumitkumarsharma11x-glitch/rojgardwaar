@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-08",
+  "chapterNumber": 8,
+  "chapterName": {
+    "hi": "अम्ल, क्षार, लवण एवं सूचक",
+    "en": "Acids, Bases, Salts and Indicators"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
