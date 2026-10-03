@@ -94,6 +94,69 @@
                 "hi": "पदार्थों का पृथक्करण एवं मिश्रण",
                 "en": "Separation of Substances and Mixtures"
               }
+            },
+            {
+              "chapter": "chapter-04",
+              "name": {
+                "hi": "तत्व, यौगिक एवं शुद्ध पदार्थ",
+                "en": "Elements, Compounds and Pure Substances"
+              }
+            },
+            {
+              "chapter": "chapter-05",
+              "name": {
+                "hi": "परमाणु, अणु एवं रासायनिक सूत्र",
+                "en": "Atoms, Molecules and Chemical Formulae"
+              }
+            },
+            {
+              "chapter": "chapter-06",
+              "name": {
+                "hi": "परमाणु की संरचना",
+                "en": "Structure of the Atom"
+              }
+            },
+            {
+              "chapter": "chapter-07",
+              "name": {
+                "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+                "en": "Chemical Reactions and Equations"
+              }
+            },
+            {
+              "chapter": "chapter-08",
+              "name": {
+                "hi": "अम्ल, क्षार, लवण एवं सूचक",
+                "en": "Acids, Bases, Salts and Indicators"
+              }
+            },
+            {
+              "chapter": "chapter-09",
+              "name": {
+                "hi": "धातुएँ एवं अधातुएँ",
+                "en": "Metals and Non-metals"
+              }
+            },
+            {
+              "chapter": "chapter-10",
+              "name": {
+                "hi": "कार्बन एवं उसके यौगिक",
+                "en": "Carbon and Its Compounds"
+              }
+            },
+            {
+              "chapter": "chapter-11",
+              "name": {
+                "hi": "वायु, जल एवं पर्यावरणीय रसायन",
+                "en": "Air, Water and Environmental Chemistry"
+              }
+            },
+            {
+              "chapter": "chapter-12",
+              "name": {
+                "hi": "ईंधन, दहन एवं दैनिक जीवन का रसायन",
+                "en": "Fuels, Combustion and Chemistry in Daily Life"
+              }
             }
           ]
         },
