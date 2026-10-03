@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-07",
+  "chapterNumber": 7,
+  "chapterName": {
+    "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+    "en": "Chemical Reactions and Equations"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
