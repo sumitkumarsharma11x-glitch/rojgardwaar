@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-05",
+  "chapterNumber": 5,
+  "chapterName": {
+    "hi": "परमाणु, अणु एवं रासायनिक सूत्र",
+    "en": "Atoms, Molecules and Chemical Formulae"
+  },
+  "mockQuestionCount": 30,
+  "topics": "atoms, molecules, symbols, valency, formulae, molecular mass"
+}
