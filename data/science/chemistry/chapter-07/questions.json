@@ -1,0 +1,817 @@
+{
+  "chapter": "chapter-07",
+  "questions": [
+    {
+      "id": "c7q01",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रासायनिक अभिक्रिया में क्या बनता है?",
+        "en": "What forms in a chemical reaction?"
+      },
+      "options": {
+        "hi": [
+          "नए पदार्थ",
+          "केवल मिश्रण",
+          "केवल विलयन",
+          "केवल ताप"
+        ],
+        "en": [
+          "New substances",
+          "Only a mixture",
+          "Only a solution",
+          "Only heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q02",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रासायनिक समीकरण किसका संक्षिप्त निरूपण है?",
+        "en": "A chemical equation is a concise representation of what?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक अभिक्रिया",
+          "भौतिक अवस्था",
+          "तापमान",
+          "दाब"
+        ],
+        "en": [
+          "A chemical reaction",
+          "Physical state",
+          "Temperature",
+          "Pressure"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q03",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संतुलित समीकरण में दोनों ओर क्या समान होता है?",
+        "en": "What is equal on both sides of a balanced equation?"
+      },
+      "options": {
+        "hi": [
+          "प्रत्येक तत्व के परमाणुओं की संख्या",
+          "अणुओं की संख्या हमेशा",
+          "गुणांक हमेशा",
+          "तापमान"
+        ],
+        "en": [
+          "Number of atoms of each element",
+          "Always number of molecules",
+          "Coefficients always",
+          "Temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q04",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अभिक्रिया में प्रारंभिक पदार्थ क्या कहलाते हैं?",
+        "en": "What are the starting substances in a reaction called?"
+      },
+      "options": {
+        "hi": [
+          "अभिकारक",
+          "उत्पाद",
+          "उत्प्रेरक",
+          "अवक्षेप"
+        ],
+        "en": [
+          "Reactants",
+          "Products",
+          "Catalysts",
+          "Precipitates"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q05",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अभिक्रिया से बनने वाले पदार्थ क्या कहलाते हैं?",
+        "en": "What are substances formed in a reaction called?"
+      },
+      "options": {
+        "hi": [
+          "उत्पाद",
+          "अभिकारक",
+          "विलायक",
+          "सूचक"
+        ],
+        "en": [
+          "Products",
+          "Reactants",
+          "Solvent",
+          "Indicator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q06",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "2H₂ + O₂ → 2H₂O किस प्रकार की अभिक्रिया है?",
+        "en": "What type of reaction is 2H₂ + O₂ → 2H₂O?"
+      },
+      "options": {
+        "hi": [
+          "संयोजन",
+          "अपघटन",
+          "विस्थापन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Combination",
+          "Decomposition",
+          "Displacement",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q07",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "CaCO₃ → CaO + CO₂ किस प्रकार की अभिक्रिया है?",
+        "en": "What type of reaction is CaCO₃ → CaO + CO₂?"
+      },
+      "options": {
+        "hi": [
+          "अपघटन",
+          "संयोजन",
+          "विस्थापन",
+          "दहन"
+        ],
+        "en": [
+          "Decomposition",
+          "Combination",
+          "Displacement",
+          "Combustion"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q08",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "Zn + CuSO₄ → ZnSO₄ + Cu किस प्रकार की अभिक्रिया है?",
+        "en": "What type of reaction is Zn + CuSO₄ → ZnSO₄ + Cu?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापन",
+          "संयोजन",
+          "अपघटन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Displacement",
+          "Combination",
+          "Decomposition",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q09",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अभिक्रिया में गैस निकलना किसका संकेत हो सकता है?",
+        "en": "Evolution of gas in a reaction can be a sign of what?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक परिवर्तन",
+          "केवल भौतिक परिवर्तन",
+          "मिश्रण बनने का",
+          "तापमान स्थिर रहने का"
+        ],
+        "en": [
+          "Chemical change",
+          "Only physical change",
+          "Formation of a mixture",
+          "Constant temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q10",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रंग परिवर्तन किसका संकेत हो सकता है?",
+        "en": "A colour change can indicate what?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक परिवर्तन",
+          "केवल वाष्पीकरण",
+          "केवल निस्यंदन",
+          "केवल पिघलना"
+        ],
+        "en": [
+          "Chemical change",
+          "Only evaporation",
+          "Only filtration",
+          "Only melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q11",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवक्षेप क्या है?",
+        "en": "What is a precipitate?"
+      },
+      "options": {
+        "hi": [
+          "अभिक्रिया में बनने वाला अघुलनशील ठोस",
+          "एक गैस",
+          "एक विलायक",
+          "एक धातु का नाम"
+        ],
+        "en": [
+          "An insoluble solid formed in a reaction",
+          "A gas",
+          "A solvent",
+          "A metal name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q12",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊष्माक्षेपी अभिक्रिया में क्या निकलता है?",
+        "en": "What is released in an exothermic reaction?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा",
+          "केवल प्रकाश",
+          "केवल द्रव",
+          "न्यूट्रॉन"
+        ],
+        "en": [
+          "Heat",
+          "Only light",
+          "Only liquid",
+          "Neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q13",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊष्माशोषी अभिक्रिया में क्या अवशोषित होता है?",
+        "en": "What is absorbed in an endothermic reaction?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा",
+          "प्रोटॉन",
+          "नमक",
+          "अवक्षेप"
+        ],
+        "en": [
+          "Heat",
+          "Protons",
+          "Salt",
+          "Precipitate"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q14",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दहन सामान्यतः किस प्रकार की अभिक्रिया है?",
+        "en": "Combustion is generally what type of reaction?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्माक्षेपी",
+          "ऊष्माशोषी",
+          "निस्यंदन",
+          "अवसादन"
+        ],
+        "en": [
+          "Exothermic",
+          "Endothermic",
+          "Filtration",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q15",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लोहे पर जंग लगना किसका उदाहरण है?",
+        "en": "Rusting of iron is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीकरण/रासायनिक परिवर्तन",
+          "भौतिक मिश्रण",
+          "निस्यंदन",
+          "आसवन"
+        ],
+        "en": [
+          "Oxidation/chemical change",
+          "Physical mixture",
+          "Filtration",
+          "Distillation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q16",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऑक्सीकरण में सामान्यतः क्या जुड़ सकता है?",
+        "en": "What may generally be added during oxidation?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन",
+          "नाइट्रोजन ही",
+          "सोडियम ही",
+          "क्लोरीन ही"
+        ],
+        "en": [
+          "Oxygen",
+          "Only nitrogen",
+          "Only sodium",
+          "Only chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q17",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अपचयन में सामान्यतः क्या हट सकता है?",
+        "en": "What may generally be removed during reduction?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन",
+          "हाइड्रोजन हमेशा",
+          "कार्बन हमेशा",
+          "नमक"
+        ],
+        "en": [
+          "Oxygen",
+          "Always hydrogen",
+          "Always carbon",
+          "Salt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q18",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अभिक्रिया को तीर से क्या दर्शाया जाता है?",
+        "en": "What does the arrow in a reaction indicate?"
+      },
+      "options": {
+        "hi": [
+          "अभिकारकों से उत्पाद बनने की दिशा",
+          "तापमान",
+          "दाब",
+          "रंग"
+        ],
+        "en": [
+          "Direction from reactants to products",
+          "Temperature",
+          "Pressure",
+          "Colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q19",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संतुलित समीकरण किस नियम का पालन करता है?",
+        "en": "A balanced equation follows which law?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान संरक्षण का नियम",
+          "गुरुत्वाकर्षण का नियम",
+          "ओम का नियम",
+          "पास्कल का नियम"
+        ],
+        "en": [
+          "Law of conservation of mass",
+          "Law of gravitation",
+          "Ohm's law",
+          "Pascal's law"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q20",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्प्रेरक का मुख्य कार्य क्या है?",
+        "en": "What is the main role of a catalyst?"
+      },
+      "options": {
+        "hi": [
+          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए",
+          "उत्पाद का द्रव्यमान बढ़ाना",
+          "तत्व को बदलना",
+          "समीकरण मिटाना"
+        ],
+        "en": [
+          "Change reaction rate without being permanently consumed",
+          "Increase product mass",
+          "Change an element",
+          "Erase the equation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q21",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जब दो पदार्थ मिलकर एक उत्पाद बनाते हैं, इसे क्या कहते हैं?",
+        "en": "When two substances combine to form one product, what is it called?"
+      },
+      "options": {
+        "hi": [
+          "संयोजन अभिक्रिया",
+          "अपघटन",
+          "विस्थापन",
+          "दहन ही"
+        ],
+        "en": [
+          "Combination reaction",
+          "Decomposition",
+          "Displacement",
+          "Only combustion"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q22",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जब एक यौगिक टूटकर सरल पदार्थ बनाता है, उसे क्या कहते हैं?",
+        "en": "When a compound breaks into simpler substances, what is it called?"
+      },
+      "options": {
+        "hi": [
+          "अपघटन अभिक्रिया",
+          "संयोजन",
+          "विस्थापन",
+          "उदासीनीकरण"
+        ],
+        "en": [
+          "Decomposition reaction",
+          "Combination",
+          "Displacement",
+          "Neutralization"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q23",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभिकारकों के गुण उत्पादों के समान होते हैं या अलग?",
+        "en": "Are reactants' properties the same as products' properties?"
+      },
+      "options": {
+        "hi": [
+          "आमतौर पर अलग",
+          "हमेशा समान",
+          "केवल रंग समान",
+          "हमेशा गैसीय"
+        ],
+        "en": [
+          "Usually different",
+          "Always the same",
+          "Only colour is same",
+          "Always gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q24",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मैग्नीशियम जलने पर क्या देता है?",
+        "en": "What does magnesium form on burning?"
+      },
+      "options": {
+        "hi": [
+          "मैग्नीशियम ऑक्साइड",
+          "मैग्नीशियम क्लोराइड",
+          "कार्बन डाइऑक्साइड",
+          "सोडियम ऑक्साइड"
+        ],
+        "en": [
+          "Magnesium oxide",
+          "Magnesium chloride",
+          "Carbon dioxide",
+          "Sodium oxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q25",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "रासायनिक अभिक्रिया में बंधों का क्या होता है?",
+        "en": "What happens to bonds in a chemical reaction?"
+      },
+      "options": {
+        "hi": [
+          "टूटते और नए बंध बनते हैं",
+          "कुछ नहीं होता",
+          "केवल रंग बदलता है",
+          "केवल अवस्था बदलती है"
+        ],
+        "en": [
+          "Bonds break and new bonds form",
+          "Nothing happens",
+          "Only colour changes",
+          "Only state changes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q26",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उदासीनीकरण में अम्ल और क्षार से क्या बनते हैं?",
+        "en": "What forms when an acid reacts with a base in neutralization?"
+      },
+      "options": {
+        "hi": [
+          "लवण और जल",
+          "केवल गैस",
+          "केवल धातु",
+          "केवल अम्ल"
+        ],
+        "en": [
+          "Salt and water",
+          "Only gas",
+          "Only metal",
+          "Only acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q27",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्रकाश निकलना किसका संकेत हो सकता है?",
+        "en": "Emission of light can be a sign of what?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक अभिक्रिया",
+          "केवल छानना",
+          "केवल गलना",
+          "केवल निथारना"
+        ],
+        "en": [
+          "Chemical reaction",
+          "Only filtration",
+          "Only melting",
+          "Only decantation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q28",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "समीकरण संतुलित करने के लिए किसे बदला जाता है?",
+        "en": "What is changed to balance an equation?"
+      },
+      "options": {
+        "hi": [
+          "गुणांक",
+          "रासायनिक सूत्र के नीचे के अंक",
+          "तत्वों के नाम",
+          "परमाणु क्रमांक"
+        ],
+        "en": [
+          "Coefficients",
+          "Subscripts in chemical formulae",
+          "Element names",
+          "Atomic numbers"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c7q29",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "रासायनिक समीकरण में (aq) क्या दर्शाता है?",
+        "en": "What does (aq) indicate in a chemical equation?"
+      },
+      "options": {
+        "hi": [
+          "जलीय विलयन",
+          "ठोस",
+          "गैस",
+          "शुद्ध धातु"
+        ],
+        "en": [
+          "Aqueous solution",
+          "Solid",
+          "Gas",
+          "Pure metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    }
+  ]
+}
