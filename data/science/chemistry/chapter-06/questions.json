@@ -840,6 +840,3366 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
         "en": "This question tests a core chemistry concept and its application."
       }
+    },
+    {
+      "id": "c6q031",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: परमाणु के केंद्र को क्या कहते हैं?",
+        "en": "Choose the correct answer: What is the centre of an atom called?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक",
+          "कक्षा",
+          "इलेक्ट्रॉन बादल",
+          "संयोजकता"
+        ],
+        "en": [
+          "Nucleus",
+          "Orbit",
+          "Electron cloud",
+          "Valency"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q032",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: परमाणु के केंद्र को क्या कहते हैं?",
+        "en": "In the context of atomic structure, answer: What is the centre of an atom called?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक",
+          "कक्षा",
+          "इलेक्ट्रॉन बादल",
+          "संयोजकता"
+        ],
+        "en": [
+          "Nucleus",
+          "Orbit",
+          "Electron cloud",
+          "Valency"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q033",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: परमाणु के केंद्र को क्या कहते हैं?",
+        "en": "Practice question: What is the centre of an atom called?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक",
+          "कक्षा",
+          "इलेक्ट्रॉन बादल",
+          "संयोजकता"
+        ],
+        "en": [
+          "Nucleus",
+          "Orbit",
+          "Electron cloud",
+          "Valency"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q034",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि परमाणु के केंद्र को क्या कहते हैं?",
+        "en": "If asked in an exam: What is the centre of an atom called?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक",
+          "कक्षा",
+          "इलेक्ट्रॉन बादल",
+          "संयोजकता"
+        ],
+        "en": [
+          "Nucleus",
+          "Orbit",
+          "Electron cloud",
+          "Valency"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q035",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: नाभिक में कौन-कौन से कण पाए जाते हैं?",
+        "en": "Choose the correct answer: Which particles are found in the nucleus?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "इलेक्ट्रॉन और प्रोटॉन",
+          "केवल इलेक्ट्रॉन",
+          "केवल न्यूट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Electrons and protons",
+          "Only electrons",
+          "Only neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q036",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: नाभिक में कौन-कौन से कण पाए जाते हैं?",
+        "en": "In the context of atomic structure, answer: Which particles are found in the nucleus?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "इलेक्ट्रॉन और प्रोटॉन",
+          "केवल इलेक्ट्रॉन",
+          "केवल न्यूट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Electrons and protons",
+          "Only electrons",
+          "Only neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q037",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: नाभिक में कौन-कौन से कण पाए जाते हैं?",
+        "en": "Practice question: Which particles are found in the nucleus?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "इलेक्ट्रॉन और प्रोटॉन",
+          "केवल इलेक्ट्रॉन",
+          "केवल न्यूट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Electrons and protons",
+          "Only electrons",
+          "Only neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q038",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि नाभिक में कौन-कौन से कण पाए जाते हैं?",
+        "en": "If asked in an exam: Which particles are found in the nucleus?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "इलेक्ट्रॉन और प्रोटॉन",
+          "केवल इलेक्ट्रॉन",
+          "केवल न्यूट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Electrons and protons",
+          "Only electrons",
+          "Only neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q039",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: इलेक्ट्रॉन का आवेश कैसा होता है?",
+        "en": "Choose the correct answer: What is the charge of an electron?"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक",
+          "धनात्मक",
+          "उदासीन",
+          "परिवर्तनशील"
+        ],
+        "en": [
+          "Negative",
+          "Positive",
+          "Neutral",
+          "Variable"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q040",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: इलेक्ट्रॉन का आवेश कैसा होता है?",
+        "en": "In the context of atomic structure, answer: What is the charge of an electron?"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक",
+          "धनात्मक",
+          "उदासीन",
+          "परिवर्तनशील"
+        ],
+        "en": [
+          "Negative",
+          "Positive",
+          "Neutral",
+          "Variable"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q041",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: इलेक्ट्रॉन का आवेश कैसा होता है?",
+        "en": "Practice question: What is the charge of an electron?"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक",
+          "धनात्मक",
+          "उदासीन",
+          "परिवर्तनशील"
+        ],
+        "en": [
+          "Negative",
+          "Positive",
+          "Neutral",
+          "Variable"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q042",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि इलेक्ट्रॉन का आवेश कैसा होता है?",
+        "en": "If asked in an exam: What is the charge of an electron?"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक",
+          "धनात्मक",
+          "उदासीन",
+          "परिवर्तनशील"
+        ],
+        "en": [
+          "Negative",
+          "Positive",
+          "Neutral",
+          "Variable"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q043",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: प्रोटॉन का आवेश कैसा होता है?",
+        "en": "Choose the correct answer: What is the charge of a proton?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक",
+          "ऋणात्मक",
+          "उदासीन",
+          "कोई आवेश नहीं"
+        ],
+        "en": [
+          "Positive",
+          "Negative",
+          "Neutral",
+          "No charge"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q044",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: प्रोटॉन का आवेश कैसा होता है?",
+        "en": "In the context of atomic structure, answer: What is the charge of a proton?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक",
+          "ऋणात्मक",
+          "उदासीन",
+          "कोई आवेश नहीं"
+        ],
+        "en": [
+          "Positive",
+          "Negative",
+          "Neutral",
+          "No charge"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q045",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: प्रोटॉन का आवेश कैसा होता है?",
+        "en": "Practice question: What is the charge of a proton?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक",
+          "ऋणात्मक",
+          "उदासीन",
+          "कोई आवेश नहीं"
+        ],
+        "en": [
+          "Positive",
+          "Negative",
+          "Neutral",
+          "No charge"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q046",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि प्रोटॉन का आवेश कैसा होता है?",
+        "en": "If asked in an exam: What is the charge of a proton?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक",
+          "ऋणात्मक",
+          "उदासीन",
+          "कोई आवेश नहीं"
+        ],
+        "en": [
+          "Positive",
+          "Negative",
+          "Neutral",
+          "No charge"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q047",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: न्यूट्रॉन का आवेश कैसा होता है?",
+        "en": "Choose the correct answer: What is the charge of a neutron?"
+      },
+      "options": {
+        "hi": [
+          "उदासीन",
+          "धनात्मक",
+          "ऋणात्मक",
+          "दोगुना धनात्मक"
+        ],
+        "en": [
+          "Neutral",
+          "Positive",
+          "Negative",
+          "Doubly positive"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q048",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: न्यूट्रॉन का आवेश कैसा होता है?",
+        "en": "In the context of atomic structure, answer: What is the charge of a neutron?"
+      },
+      "options": {
+        "hi": [
+          "उदासीन",
+          "धनात्मक",
+          "ऋणात्मक",
+          "दोगुना धनात्मक"
+        ],
+        "en": [
+          "Neutral",
+          "Positive",
+          "Negative",
+          "Doubly positive"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q049",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: न्यूट्रॉन का आवेश कैसा होता है?",
+        "en": "Practice question: What is the charge of a neutron?"
+      },
+      "options": {
+        "hi": [
+          "उदासीन",
+          "धनात्मक",
+          "ऋणात्मक",
+          "दोगुना धनात्मक"
+        ],
+        "en": [
+          "Neutral",
+          "Positive",
+          "Negative",
+          "Doubly positive"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q050",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि न्यूट्रॉन का आवेश कैसा होता है?",
+        "en": "If asked in an exam: What is the charge of a neutron?"
+      },
+      "options": {
+        "hi": [
+          "उदासीन",
+          "धनात्मक",
+          "ऋणात्मक",
+          "दोगुना धनात्मक"
+        ],
+        "en": [
+          "Neutral",
+          "Positive",
+          "Negative",
+          "Doubly positive"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q051",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: परमाणु क्रमांक किसके बराबर होता है?",
+        "en": "Choose the correct answer: Atomic number is equal to what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "कुल न्यूक्लिऑनों की संख्या",
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Total nucleons",
+          "Electrons plus neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q052",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: परमाणु क्रमांक किसके बराबर होता है?",
+        "en": "In the context of atomic structure, answer: Atomic number is equal to what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "कुल न्यूक्लिऑनों की संख्या",
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Total nucleons",
+          "Electrons plus neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q053",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: परमाणु क्रमांक किसके बराबर होता है?",
+        "en": "Practice question: Atomic number is equal to what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "कुल न्यूक्लिऑनों की संख्या",
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Total nucleons",
+          "Electrons plus neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q054",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि परमाणु क्रमांक किसके बराबर होता है?",
+        "en": "If asked in an exam: Atomic number is equal to what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "कुल न्यूक्लिऑनों की संख्या",
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Total nucleons",
+          "Electrons plus neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q055",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: द्रव्यमान संख्या किसके योग के बराबर होती है?",
+        "en": "Choose the correct answer: Mass number equals the sum of what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल प्रोटॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q056",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: द्रव्यमान संख्या किसके योग के बराबर होती है?",
+        "en": "In the context of atomic structure, answer: Mass number equals the sum of what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल प्रोटॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q057",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: द्रव्यमान संख्या किसके योग के बराबर होती है?",
+        "en": "Practice question: Mass number equals the sum of what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल प्रोटॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q058",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि द्रव्यमान संख्या किसके योग के बराबर होती है?",
+        "en": "If asked in an exam: Mass number equals the sum of what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल प्रोटॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q059",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: उदासीन परमाणु में इलेक्ट्रॉनों की संख्या किसके बराबर होती है?",
+        "en": "Choose the correct answer: In a neutral atom, the number of electrons equals what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "द्रव्यमान संख्या",
+          "नाभिकीय कणों की संख्या"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Mass number",
+          "Nucleons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q060",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: उदासीन परमाणु में इलेक्ट्रॉनों की संख्या किसके बराबर होती है?",
+        "en": "In the context of atomic structure, answer: In a neutral atom, the number of electrons equals what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "द्रव्यमान संख्या",
+          "नाभिकीय कणों की संख्या"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Mass number",
+          "Nucleons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q061",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: उदासीन परमाणु में इलेक्ट्रॉनों की संख्या किसके बराबर होती है?",
+        "en": "Practice question: In a neutral atom, the number of electrons equals what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "द्रव्यमान संख्या",
+          "नाभिकीय कणों की संख्या"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Mass number",
+          "Nucleons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q062",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि उदासीन परमाणु में इलेक्ट्रॉनों की संख्या किसके बराबर होती है?",
+        "en": "If asked in an exam: In a neutral atom, the number of electrons equals what?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या",
+          "द्रव्यमान संख्या",
+          "नाभिकीय कणों की संख्या"
+        ],
+        "en": [
+          "Number of protons",
+          "Number of neutrons",
+          "Mass number",
+          "Nucleons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q063",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समस्थानिकों में क्या समान होता है?",
+        "en": "Choose the correct answer: What is the same in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "परमाणु द्रव्यमान हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always atomic mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q064",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: समस्थानिकों में क्या समान होता है?",
+        "en": "In the context of atomic structure, answer: What is the same in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "परमाणु द्रव्यमान हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always atomic mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q065",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समस्थानिकों में क्या समान होता है?",
+        "en": "Practice question: What is the same in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "परमाणु द्रव्यमान हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always atomic mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q066",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समस्थानिकों में क्या समान होता है?",
+        "en": "If asked in an exam: What is the same in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "परमाणु द्रव्यमान हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always atomic mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q067",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समस्थानिकों में क्या अलग होता है?",
+        "en": "Choose the correct answer: What differs in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "न्यूट्रॉन संख्या",
+          "प्रोटॉन संख्या",
+          "परमाणु क्रमांक",
+          "तत्व का नाम"
+        ],
+        "en": [
+          "Number of neutrons",
+          "Number of protons",
+          "Atomic number",
+          "Element name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q068",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: समस्थानिकों में क्या अलग होता है?",
+        "en": "In the context of atomic structure, answer: What differs in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "न्यूट्रॉन संख्या",
+          "प्रोटॉन संख्या",
+          "परमाणु क्रमांक",
+          "तत्व का नाम"
+        ],
+        "en": [
+          "Number of neutrons",
+          "Number of protons",
+          "Atomic number",
+          "Element name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q069",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समस्थानिकों में क्या अलग होता है?",
+        "en": "Practice question: What differs in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "न्यूट्रॉन संख्या",
+          "प्रोटॉन संख्या",
+          "परमाणु क्रमांक",
+          "तत्व का नाम"
+        ],
+        "en": [
+          "Number of neutrons",
+          "Number of protons",
+          "Atomic number",
+          "Element name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q070",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समस्थानिकों में क्या अलग होता है?",
+        "en": "If asked in an exam: What differs in isotopes?"
+      },
+      "options": {
+        "hi": [
+          "न्यूट्रॉन संख्या",
+          "प्रोटॉन संख्या",
+          "परमाणु क्रमांक",
+          "तत्व का नाम"
+        ],
+        "en": [
+          "Number of neutrons",
+          "Number of protons",
+          "Atomic number",
+          "Element name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q071",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: इलेक्ट्रॉन कहाँ पाए जाते हैं?",
+        "en": "Choose the correct answer: Where are electrons found?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के बाहर ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "केवल न्यूट्रॉन में",
+          "केवल प्रोटॉन में"
+        ],
+        "en": [
+          "In energy levels outside the nucleus",
+          "Inside the nucleus",
+          "Only in neutrons",
+          "Only in protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q072",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: इलेक्ट्रॉन कहाँ पाए जाते हैं?",
+        "en": "In the context of atomic structure, answer: Where are electrons found?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के बाहर ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "केवल न्यूट्रॉन में",
+          "केवल प्रोटॉन में"
+        ],
+        "en": [
+          "In energy levels outside the nucleus",
+          "Inside the nucleus",
+          "Only in neutrons",
+          "Only in protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q073",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: इलेक्ट्रॉन कहाँ पाए जाते हैं?",
+        "en": "Practice question: Where are electrons found?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के बाहर ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "केवल न्यूट्रॉन में",
+          "केवल प्रोटॉन में"
+        ],
+        "en": [
+          "In energy levels outside the nucleus",
+          "Inside the nucleus",
+          "Only in neutrons",
+          "Only in protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q074",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि इलेक्ट्रॉन कहाँ पाए जाते हैं?",
+        "en": "If asked in an exam: Where are electrons found?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के बाहर ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "केवल न्यूट्रॉन में",
+          "केवल प्रोटॉन में"
+        ],
+        "en": [
+          "In energy levels outside the nucleus",
+          "Inside the nucleus",
+          "Only in neutrons",
+          "Only in protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q075",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: K-शेल में अधिकतम कितने इलेक्ट्रॉन हो सकते हैं?",
+        "en": "Choose the correct answer: What is the maximum number of electrons in the K shell?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "en": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q076",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: K-शेल में अधिकतम कितने इलेक्ट्रॉन हो सकते हैं?",
+        "en": "In the context of atomic structure, answer: What is the maximum number of electrons in the K shell?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "en": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q077",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: K-शेल में अधिकतम कितने इलेक्ट्रॉन हो सकते हैं?",
+        "en": "Practice question: What is the maximum number of electrons in the K shell?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "en": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q078",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि K-शेल में अधिकतम कितने इलेक्ट्रॉन हो सकते हैं?",
+        "en": "If asked in an exam: What is the maximum number of electrons in the K shell?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "en": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q079",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: L-शेल की अधिकतम इलेक्ट्रॉन क्षमता क्या है?",
+        "en": "Choose the correct answer: What is the maximum electron capacity of the L shell?"
+      },
+      "options": {
+        "hi": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ],
+        "en": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q080",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: L-शेल की अधिकतम इलेक्ट्रॉन क्षमता क्या है?",
+        "en": "In the context of atomic structure, answer: What is the maximum electron capacity of the L shell?"
+      },
+      "options": {
+        "hi": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ],
+        "en": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q081",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: L-शेल की अधिकतम इलेक्ट्रॉन क्षमता क्या है?",
+        "en": "Practice question: What is the maximum electron capacity of the L shell?"
+      },
+      "options": {
+        "hi": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ],
+        "en": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q082",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि L-शेल की अधिकतम इलेक्ट्रॉन क्षमता क्या है?",
+        "en": "If asked in an exam: What is the maximum electron capacity of the L shell?"
+      },
+      "options": {
+        "hi": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ],
+        "en": [
+          "8",
+          "2",
+          "18",
+          "32"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q083",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ऑक्टेट का अर्थ क्या है?",
+        "en": "Choose the correct answer: What does octet mean?"
+      },
+      "options": {
+        "hi": [
+          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
+          "नाभिक में 8 प्रोटॉन",
+          "कुल 8 न्यूट्रॉन",
+          "8 ऊर्जा स्तर"
+        ],
+        "en": [
+          "8 electrons in the outer shell",
+          "8 protons in nucleus",
+          "8 neutrons total",
+          "8 energy levels"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q084",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: ऑक्टेट का अर्थ क्या है?",
+        "en": "In the context of atomic structure, answer: What does octet mean?"
+      },
+      "options": {
+        "hi": [
+          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
+          "नाभिक में 8 प्रोटॉन",
+          "कुल 8 न्यूट्रॉन",
+          "8 ऊर्जा स्तर"
+        ],
+        "en": [
+          "8 electrons in the outer shell",
+          "8 protons in nucleus",
+          "8 neutrons total",
+          "8 energy levels"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q085",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ऑक्टेट का अर्थ क्या है?",
+        "en": "Practice question: What does octet mean?"
+      },
+      "options": {
+        "hi": [
+          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
+          "नाभिक में 8 प्रोटॉन",
+          "कुल 8 न्यूट्रॉन",
+          "8 ऊर्जा स्तर"
+        ],
+        "en": [
+          "8 electrons in the outer shell",
+          "8 protons in nucleus",
+          "8 neutrons total",
+          "8 energy levels"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q086",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ऑक्टेट का अर्थ क्या है?",
+        "en": "If asked in an exam: What does octet mean?"
+      },
+      "options": {
+        "hi": [
+          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
+          "नाभिक में 8 प्रोटॉन",
+          "कुल 8 न्यूट्रॉन",
+          "8 ऊर्जा स्तर"
+        ],
+        "en": [
+          "8 electrons in the outer shell",
+          "8 protons in nucleus",
+          "8 neutrons total",
+          "8 energy levels"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q087",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: संयोजक इलेक्ट्रॉन कहाँ होते हैं?",
+        "en": "Choose the correct answer: Where are valence electrons located?"
+      },
+      "options": {
+        "hi": [
+          "सबसे बाहरी ऊर्जा स्तर में",
+          "नाभिक में",
+          "K-शेल में हमेशा",
+          "न्यूट्रॉन के अंदर"
+        ],
+        "en": [
+          "In the outermost energy level",
+          "In the nucleus",
+          "Always in K shell",
+          "Inside neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q088",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: संयोजक इलेक्ट्रॉन कहाँ होते हैं?",
+        "en": "In the context of atomic structure, answer: Where are valence electrons located?"
+      },
+      "options": {
+        "hi": [
+          "सबसे बाहरी ऊर्जा स्तर में",
+          "नाभिक में",
+          "K-शेल में हमेशा",
+          "न्यूट्रॉन के अंदर"
+        ],
+        "en": [
+          "In the outermost energy level",
+          "In the nucleus",
+          "Always in K shell",
+          "Inside neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q089",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: संयोजक इलेक्ट्रॉन कहाँ होते हैं?",
+        "en": "Practice question: Where are valence electrons located?"
+      },
+      "options": {
+        "hi": [
+          "सबसे बाहरी ऊर्जा स्तर में",
+          "नाभिक में",
+          "K-शेल में हमेशा",
+          "न्यूट्रॉन के अंदर"
+        ],
+        "en": [
+          "In the outermost energy level",
+          "In the nucleus",
+          "Always in K shell",
+          "Inside neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q090",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि संयोजक इलेक्ट्रॉन कहाँ होते हैं?",
+        "en": "If asked in an exam: Where are valence electrons located?"
+      },
+      "options": {
+        "hi": [
+          "सबसे बाहरी ऊर्जा स्तर में",
+          "नाभिक में",
+          "K-शेल में हमेशा",
+          "न्यूट्रॉन के अंदर"
+        ],
+        "en": [
+          "In the outermost energy level",
+          "In the nucleus",
+          "Always in K shell",
+          "Inside neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q091",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रदरफोर्ड के प्रयोग से किसकी जानकारी मिली?",
+        "en": "Choose the correct answer: What did Rutherford's experiment reveal?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक की उपस्थिति",
+          "न्यूट्रॉन की खोज",
+          "क्वांटम संख्या",
+          "रासायनिक बंधन"
+        ],
+        "en": [
+          "Presence of the nucleus",
+          "Discovery of neutron",
+          "Quantum number",
+          "Chemical bonding"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q092",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: रदरफोर्ड के प्रयोग से किसकी जानकारी मिली?",
+        "en": "In the context of atomic structure, answer: What did Rutherford's experiment reveal?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक की उपस्थिति",
+          "न्यूट्रॉन की खोज",
+          "क्वांटम संख्या",
+          "रासायनिक बंधन"
+        ],
+        "en": [
+          "Presence of the nucleus",
+          "Discovery of neutron",
+          "Quantum number",
+          "Chemical bonding"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q093",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रदरफोर्ड के प्रयोग से किसकी जानकारी मिली?",
+        "en": "Practice question: What did Rutherford's experiment reveal?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक की उपस्थिति",
+          "न्यूट्रॉन की खोज",
+          "क्वांटम संख्या",
+          "रासायनिक बंधन"
+        ],
+        "en": [
+          "Presence of the nucleus",
+          "Discovery of neutron",
+          "Quantum number",
+          "Chemical bonding"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q094",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रदरफोर्ड के प्रयोग से किसकी जानकारी मिली?",
+        "en": "If asked in an exam: What did Rutherford's experiment reveal?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक की उपस्थिति",
+          "न्यूट्रॉन की खोज",
+          "क्वांटम संख्या",
+          "रासायनिक बंधन"
+        ],
+        "en": [
+          "Presence of the nucleus",
+          "Discovery of neutron",
+          "Quantum number",
+          "Chemical bonding"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q095",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: बोर मॉडल में इलेक्ट्रॉन कहाँ घूमते हैं?",
+        "en": "Choose the correct answer: In the Bohr model, where do electrons move?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "किसी भी ऊर्जा पर",
+          "केवल सतह पर"
+        ],
+        "en": [
+          "In fixed energy levels",
+          "Inside the nucleus",
+          "At any energy",
+          "Only on the surface"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q096",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: बोर मॉडल में इलेक्ट्रॉन कहाँ घूमते हैं?",
+        "en": "In the context of atomic structure, answer: In the Bohr model, where do electrons move?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "किसी भी ऊर्जा पर",
+          "केवल सतह पर"
+        ],
+        "en": [
+          "In fixed energy levels",
+          "Inside the nucleus",
+          "At any energy",
+          "Only on the surface"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q097",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: बोर मॉडल में इलेक्ट्रॉन कहाँ घूमते हैं?",
+        "en": "Practice question: In the Bohr model, where do electrons move?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "किसी भी ऊर्जा पर",
+          "केवल सतह पर"
+        ],
+        "en": [
+          "In fixed energy levels",
+          "Inside the nucleus",
+          "At any energy",
+          "Only on the surface"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q098",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि बोर मॉडल में इलेक्ट्रॉन कहाँ घूमते हैं?",
+        "en": "If asked in an exam: In the Bohr model, where do electrons move?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित ऊर्जा स्तरों में",
+          "नाभिक के भीतर",
+          "किसी भी ऊर्जा पर",
+          "केवल सतह पर"
+        ],
+        "en": [
+          "In fixed energy levels",
+          "Inside the nucleus",
+          "At any energy",
+          "Only on the surface"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q099",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: नाभिक का आकार परमाणु की तुलना में कैसा है?",
+        "en": "Choose the correct answer: How is the nucleus sized compared with the atom?"
+      },
+      "options": {
+        "hi": [
+          "बहुत छोटा",
+          "लगभग समान",
+          "बहुत बड़ा",
+          "परमाणु से बाहर"
+        ],
+        "en": [
+          "Very small",
+          "Nearly the same",
+          "Very large",
+          "Outside the atom"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q100",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: नाभिक का आकार परमाणु की तुलना में कैसा है?",
+        "en": "In the context of atomic structure, answer: How is the nucleus sized compared with the atom?"
+      },
+      "options": {
+        "hi": [
+          "बहुत छोटा",
+          "लगभग समान",
+          "बहुत बड़ा",
+          "परमाणु से बाहर"
+        ],
+        "en": [
+          "Very small",
+          "Nearly the same",
+          "Very large",
+          "Outside the atom"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q101",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: नाभिक का आकार परमाणु की तुलना में कैसा है?",
+        "en": "Practice question: How is the nucleus sized compared with the atom?"
+      },
+      "options": {
+        "hi": [
+          "बहुत छोटा",
+          "लगभग समान",
+          "बहुत बड़ा",
+          "परमाणु से बाहर"
+        ],
+        "en": [
+          "Very small",
+          "Nearly the same",
+          "Very large",
+          "Outside the atom"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q102",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि नाभिक का आकार परमाणु की तुलना में कैसा है?",
+        "en": "If asked in an exam: How is the nucleus sized compared with the atom?"
+      },
+      "options": {
+        "hi": [
+          "बहुत छोटा",
+          "लगभग समान",
+          "बहुत बड़ा",
+          "परमाणु से बाहर"
+        ],
+        "en": [
+          "Very small",
+          "Nearly the same",
+          "Very large",
+          "Outside the atom"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q103",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: परमाणु का अधिकांश भाग कैसा होता है?",
+        "en": "Choose the correct answer: Most of an atom is what?"
+      },
+      "options": {
+        "hi": [
+          "रिक्त स्थान",
+          "ठोस द्रव्य",
+          "न्यूट्रॉन",
+          "प्रोटॉन"
+        ],
+        "en": [
+          "Empty space",
+          "Solid matter",
+          "Neutrons",
+          "Protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q104",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: परमाणु का अधिकांश भाग कैसा होता है?",
+        "en": "In the context of atomic structure, answer: Most of an atom is what?"
+      },
+      "options": {
+        "hi": [
+          "रिक्त स्थान",
+          "ठोस द्रव्य",
+          "न्यूट्रॉन",
+          "प्रोटॉन"
+        ],
+        "en": [
+          "Empty space",
+          "Solid matter",
+          "Neutrons",
+          "Protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q105",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: परमाणु का अधिकांश भाग कैसा होता है?",
+        "en": "Practice question: Most of an atom is what?"
+      },
+      "options": {
+        "hi": [
+          "रिक्त स्थान",
+          "ठोस द्रव्य",
+          "न्यूट्रॉन",
+          "प्रोटॉन"
+        ],
+        "en": [
+          "Empty space",
+          "Solid matter",
+          "Neutrons",
+          "Protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q106",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि परमाणु का अधिकांश भाग कैसा होता है?",
+        "en": "If asked in an exam: Most of an atom is what?"
+      },
+      "options": {
+        "hi": [
+          "रिक्त स्थान",
+          "ठोस द्रव्य",
+          "न्यूट्रॉन",
+          "प्रोटॉन"
+        ],
+        "en": [
+          "Empty space",
+          "Solid matter",
+          "Neutrons",
+          "Protons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q107",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: आयन कैसे बन सकता है?",
+        "en": "Choose the correct answer: How can an ion form?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने या पाने से",
+          "प्रोटॉन बदलने से सामान्यतः",
+          "न्यूट्रॉन के पिघलने से",
+          "तत्व का नाम बदलने से"
+        ],
+        "en": [
+          "By losing or gaining electrons",
+          "Usually by changing protons",
+          "By melting neutrons",
+          "By changing the element's name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q108",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: आयन कैसे बन सकता है?",
+        "en": "In the context of atomic structure, answer: How can an ion form?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने या पाने से",
+          "प्रोटॉन बदलने से सामान्यतः",
+          "न्यूट्रॉन के पिघलने से",
+          "तत्व का नाम बदलने से"
+        ],
+        "en": [
+          "By losing or gaining electrons",
+          "Usually by changing protons",
+          "By melting neutrons",
+          "By changing the element's name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q109",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: आयन कैसे बन सकता है?",
+        "en": "Practice question: How can an ion form?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने या पाने से",
+          "प्रोटॉन बदलने से सामान्यतः",
+          "न्यूट्रॉन के पिघलने से",
+          "तत्व का नाम बदलने से"
+        ],
+        "en": [
+          "By losing or gaining electrons",
+          "Usually by changing protons",
+          "By melting neutrons",
+          "By changing the element's name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q110",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि आयन कैसे बन सकता है?",
+        "en": "If asked in an exam: How can an ion form?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने या पाने से",
+          "प्रोटॉन बदलने से सामान्यतः",
+          "न्यूट्रॉन के पिघलने से",
+          "तत्व का नाम बदलने से"
+        ],
+        "en": [
+          "By losing or gaining electrons",
+          "Usually by changing protons",
+          "By melting neutrons",
+          "By changing the element's name"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q111",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: धनायन कैसे बनता है?",
+        "en": "Choose the correct answer: How is a cation formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से",
+          "प्रोटॉन खोने से",
+          "न्यूट्रॉन पाने से"
+        ],
+        "en": [
+          "By losing electrons",
+          "By gaining electrons",
+          "By losing protons",
+          "By gaining neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q112",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: धनायन कैसे बनता है?",
+        "en": "In the context of atomic structure, answer: How is a cation formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से",
+          "प्रोटॉन खोने से",
+          "न्यूट्रॉन पाने से"
+        ],
+        "en": [
+          "By losing electrons",
+          "By gaining electrons",
+          "By losing protons",
+          "By gaining neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q113",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: धनायन कैसे बनता है?",
+        "en": "Practice question: How is a cation formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से",
+          "प्रोटॉन खोने से",
+          "न्यूट्रॉन पाने से"
+        ],
+        "en": [
+          "By losing electrons",
+          "By gaining electrons",
+          "By losing protons",
+          "By gaining neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q114",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि धनायन कैसे बनता है?",
+        "en": "If asked in an exam: How is a cation formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से",
+          "प्रोटॉन खोने से",
+          "न्यूट्रॉन पाने से"
+        ],
+        "en": [
+          "By losing electrons",
+          "By gaining electrons",
+          "By losing protons",
+          "By gaining neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q115",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ऋणायन कैसे बनता है?",
+        "en": "Choose the correct answer: How is an anion formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से",
+          "प्रोटॉन पाने से",
+          "न्यूट्रॉन खोने से"
+        ],
+        "en": [
+          "By gaining electrons",
+          "By losing electrons",
+          "By gaining protons",
+          "By losing neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q116",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: ऋणायन कैसे बनता है?",
+        "en": "In the context of atomic structure, answer: How is an anion formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से",
+          "प्रोटॉन पाने से",
+          "न्यूट्रॉन खोने से"
+        ],
+        "en": [
+          "By gaining electrons",
+          "By losing electrons",
+          "By gaining protons",
+          "By losing neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q117",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ऋणायन कैसे बनता है?",
+        "en": "Practice question: How is an anion formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से",
+          "प्रोटॉन पाने से",
+          "न्यूट्रॉन खोने से"
+        ],
+        "en": [
+          "By gaining electrons",
+          "By losing electrons",
+          "By gaining protons",
+          "By losing neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q118",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ऋणायन कैसे बनता है?",
+        "en": "If asked in an exam: How is an anion formed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से",
+          "प्रोटॉन पाने से",
+          "न्यूट्रॉन खोने से"
+        ],
+        "en": [
+          "By gaining electrons",
+          "By losing electrons",
+          "By gaining protons",
+          "By losing neutrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q119",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: एक परमाणु में कुल न्यूक्लिऑन क्या हैं?",
+        "en": "Choose the correct answer: What are the total nucleons in an atom?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल इलेक्ट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only electrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q120",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: एक परमाणु में कुल न्यूक्लिऑन क्या हैं?",
+        "en": "In the context of atomic structure, answer: What are the total nucleons in an atom?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल इलेक्ट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only electrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q121",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: एक परमाणु में कुल न्यूक्लिऑन क्या हैं?",
+        "en": "Practice question: What are the total nucleons in an atom?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल इलेक्ट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only electrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q122",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि एक परमाणु में कुल न्यूक्लिऑन क्या हैं?",
+        "en": "If asked in an exam: What are the total nucleons in an atom?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन",
+          "इलेक्ट्रॉन और न्यूट्रॉन",
+          "केवल इलेक्ट्रॉन"
+        ],
+        "en": [
+          "Protons and neutrons",
+          "Protons and electrons",
+          "Electrons and neutrons",
+          "Only electrons"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q123",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यदि परमाणु क्रमांक 11 है, तो प्रोटॉन कितने होंगे?",
+        "en": "Choose the correct answer: If atomic number is 11, how many protons are there?"
+      },
+      "options": {
+        "hi": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ],
+        "en": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q124",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: यदि परमाणु क्रमांक 11 है, तो प्रोटॉन कितने होंगे?",
+        "en": "In the context of atomic structure, answer: If atomic number is 11, how many protons are there?"
+      },
+      "options": {
+        "hi": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ],
+        "en": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q125",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यदि परमाणु क्रमांक 11 है, तो प्रोटॉन कितने होंगे?",
+        "en": "Practice question: If atomic number is 11, how many protons are there?"
+      },
+      "options": {
+        "hi": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ],
+        "en": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q126",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यदि परमाणु क्रमांक 11 है, तो प्रोटॉन कितने होंगे?",
+        "en": "If asked in an exam: If atomic number is 11, how many protons are there?"
+      },
+      "options": {
+        "hi": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ],
+        "en": [
+          "11",
+          "10",
+          "12",
+          "22"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q127",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यदि उदासीन परमाणु में 17 प्रोटॉन हैं, तो इलेक्ट्रॉन कितने होंगे?",
+        "en": "Choose the correct answer: If a neutral atom has 17 protons, how many electrons does it have?"
+      },
+      "options": {
+        "hi": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ],
+        "en": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q128",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: यदि उदासीन परमाणु में 17 प्रोटॉन हैं, तो इलेक्ट्रॉन कितने होंगे?",
+        "en": "In the context of atomic structure, answer: If a neutral atom has 17 protons, how many electrons does it have?"
+      },
+      "options": {
+        "hi": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ],
+        "en": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q129",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यदि उदासीन परमाणु में 17 प्रोटॉन हैं, तो इलेक्ट्रॉन कितने होंगे?",
+        "en": "Practice question: If a neutral atom has 17 protons, how many electrons does it have?"
+      },
+      "options": {
+        "hi": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ],
+        "en": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q130",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यदि उदासीन परमाणु में 17 प्रोटॉन हैं, तो इलेक्ट्रॉन कितने होंगे?",
+        "en": "If asked in an exam: If a neutral atom has 17 protons, how many electrons does it have?"
+      },
+      "options": {
+        "hi": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ],
+        "en": [
+          "17",
+          "16",
+          "18",
+          "34"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q131",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यदि प्रोटॉन 6 और न्यूट्रॉन 6 हैं, तो द्रव्यमान संख्या क्या होगी?",
+        "en": "Choose the correct answer: If there are 6 protons and 6 neutrons, what is the mass number?"
+      },
+      "options": {
+        "hi": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ],
+        "en": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q132",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: यदि प्रोटॉन 6 और न्यूट्रॉन 6 हैं, तो द्रव्यमान संख्या क्या होगी?",
+        "en": "In the context of atomic structure, answer: If there are 6 protons and 6 neutrons, what is the mass number?"
+      },
+      "options": {
+        "hi": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ],
+        "en": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q133",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यदि प्रोटॉन 6 और न्यूट्रॉन 6 हैं, तो द्रव्यमान संख्या क्या होगी?",
+        "en": "Practice question: If there are 6 protons and 6 neutrons, what is the mass number?"
+      },
+      "options": {
+        "hi": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ],
+        "en": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q134",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यदि प्रोटॉन 6 और न्यूट्रॉन 6 हैं, तो द्रव्यमान संख्या क्या होगी?",
+        "en": "If asked in an exam: If there are 6 protons and 6 neutrons, what is the mass number?"
+      },
+      "options": {
+        "hi": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ],
+        "en": [
+          "12",
+          "6",
+          "18",
+          "0"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q135",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समस्थानिकों के रासायनिक गुण सामान्यतः क्यों समान होते हैं?",
+        "en": "Choose the correct answer: Why are chemical properties of isotopes generally similar?"
+      },
+      "options": {
+        "hi": [
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
+          "उनकी न्यूट्रॉन संख्या समान होती है",
+          "उनकी द्रव्यमान संख्या समान होती है",
+          "उनके रंग समान होते हैं"
+        ],
+        "en": [
+          "They have the same electronic configuration",
+          "They have the same neutron number",
+          "They have the same mass number",
+          "They have the same colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q136",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: समस्थानिकों के रासायनिक गुण सामान्यतः क्यों समान होते हैं?",
+        "en": "In the context of atomic structure, answer: Why are chemical properties of isotopes generally similar?"
+      },
+      "options": {
+        "hi": [
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
+          "उनकी न्यूट्रॉन संख्या समान होती है",
+          "उनकी द्रव्यमान संख्या समान होती है",
+          "उनके रंग समान होते हैं"
+        ],
+        "en": [
+          "They have the same electronic configuration",
+          "They have the same neutron number",
+          "They have the same mass number",
+          "They have the same colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q137",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समस्थानिकों के रासायनिक गुण सामान्यतः क्यों समान होते हैं?",
+        "en": "Practice question: Why are chemical properties of isotopes generally similar?"
+      },
+      "options": {
+        "hi": [
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
+          "उनकी न्यूट्रॉन संख्या समान होती है",
+          "उनकी द्रव्यमान संख्या समान होती है",
+          "उनके रंग समान होते हैं"
+        ],
+        "en": [
+          "They have the same electronic configuration",
+          "They have the same neutron number",
+          "They have the same mass number",
+          "They have the same colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q138",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समस्थानिकों के रासायनिक गुण सामान्यतः क्यों समान होते हैं?",
+        "en": "If asked in an exam: Why are chemical properties of isotopes generally similar?"
+      },
+      "options": {
+        "hi": [
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
+          "उनकी न्यूट्रॉन संख्या समान होती है",
+          "उनकी द्रव्यमान संख्या समान होती है",
+          "उनके रंग समान होते हैं"
+        ],
+        "en": [
+          "They have the same electronic configuration",
+          "They have the same neutron number",
+          "They have the same mass number",
+          "They have the same colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q139",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: तत्व की पहचान किस संख्या से निर्धारित होती है?",
+        "en": "Choose the correct answer: Which number determines the identity of an element?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "इलेक्ट्रॉन संख्या हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always electron number"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q140",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: तत्व की पहचान किस संख्या से निर्धारित होती है?",
+        "en": "In the context of atomic structure, answer: Which number determines the identity of an element?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "इलेक्ट्रॉन संख्या हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always electron number"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q141",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: तत्व की पहचान किस संख्या से निर्धारित होती है?",
+        "en": "Practice question: Which number determines the identity of an element?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "इलेक्ट्रॉन संख्या हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always electron number"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q142",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि तत्व की पहचान किस संख्या से निर्धारित होती है?",
+        "en": "If asked in an exam: Which number determines the identity of an element?"
+      },
+      "options": {
+        "hi": [
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या",
+          "न्यूट्रॉन संख्या",
+          "इलेक्ट्रॉन संख्या हमेशा"
+        ],
+        "en": [
+          "Atomic number",
+          "Mass number",
+          "Neutron number",
+          "Always electron number"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q143",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: इलेक्ट्रॉन का द्रव्यमान प्रोटॉन की तुलना में कैसा है?",
+        "en": "Choose the correct answer: How is electron mass compared with proton mass?"
+      },
+      "options": {
+        "hi": [
+          "बहुत कम",
+          "अधिक",
+          "समान",
+          "शून्य से अधिक नहीं"
+        ],
+        "en": [
+          "Much smaller",
+          "Greater",
+          "Equal",
+          "Not greater than zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q144",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: इलेक्ट्रॉन का द्रव्यमान प्रोटॉन की तुलना में कैसा है?",
+        "en": "In the context of atomic structure, answer: How is electron mass compared with proton mass?"
+      },
+      "options": {
+        "hi": [
+          "बहुत कम",
+          "अधिक",
+          "समान",
+          "शून्य से अधिक नहीं"
+        ],
+        "en": [
+          "Much smaller",
+          "Greater",
+          "Equal",
+          "Not greater than zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q145",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: इलेक्ट्रॉन का द्रव्यमान प्रोटॉन की तुलना में कैसा है?",
+        "en": "Practice question: How is electron mass compared with proton mass?"
+      },
+      "options": {
+        "hi": [
+          "बहुत कम",
+          "अधिक",
+          "समान",
+          "शून्य से अधिक नहीं"
+        ],
+        "en": [
+          "Much smaller",
+          "Greater",
+          "Equal",
+          "Not greater than zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q146",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि इलेक्ट्रॉन का द्रव्यमान प्रोटॉन की तुलना में कैसा है?",
+        "en": "If asked in an exam: How is electron mass compared with proton mass?"
+      },
+      "options": {
+        "hi": [
+          "बहुत कम",
+          "अधिक",
+          "समान",
+          "शून्य से अधिक नहीं"
+        ],
+        "en": [
+          "Much smaller",
+          "Greater",
+          "Equal",
+          "Not greater than zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q147",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: नाभिकीय बल मुख्यतः किन कणों को बांधता है?",
+        "en": "Choose the correct answer: Nuclear force mainly binds which particles?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के कणों को",
+          "केवल इलेक्ट्रॉनों को",
+          "केवल अणुओं को",
+          "केवल आयनों को"
+        ],
+        "en": [
+          "Particles in the nucleus",
+          "Only electrons",
+          "Only molecules",
+          "Only ions"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q148",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु संरचना के संदर्भ में बताइए: नाभिकीय बल मुख्यतः किन कणों को बांधता है?",
+        "en": "In the context of atomic structure, answer: Nuclear force mainly binds which particles?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के कणों को",
+          "केवल इलेक्ट्रॉनों को",
+          "केवल अणुओं को",
+          "केवल आयनों को"
+        ],
+        "en": [
+          "Particles in the nucleus",
+          "Only electrons",
+          "Only molecules",
+          "Only ions"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q149",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: नाभिकीय बल मुख्यतः किन कणों को बांधता है?",
+        "en": "Practice question: Nuclear force mainly binds which particles?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के कणों को",
+          "केवल इलेक्ट्रॉनों को",
+          "केवल अणुओं को",
+          "केवल आयनों को"
+        ],
+        "en": [
+          "Particles in the nucleus",
+          "Only electrons",
+          "Only molecules",
+          "Only ions"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c6q150",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि नाभिकीय बल मुख्यतः किन कणों को बांधता है?",
+        "en": "If asked in an exam: Nuclear force mainly binds which particles?"
+      },
+      "options": {
+        "hi": [
+          "नाभिक के कणों को",
+          "केवल इलेक्ट्रॉनों को",
+          "केवल अणुओं को",
+          "केवल आयनों को"
+        ],
+        "en": [
+          "Particles in the nucleus",
+          "Only electrons",
+          "Only molecules",
+          "Only ions"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
     }
   ]
 }
