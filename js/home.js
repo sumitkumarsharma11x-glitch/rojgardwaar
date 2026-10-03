@@ -397,7 +397,7 @@
   ========================================================= */
   async function boot() {
     try {
-      const res = await fetch("data/manifest.json");
+      const res = await fetch("data/manifest.json?v=20261003-3", { cache: "no-store" });
       if (res.ok) manifest = await res.json();
     } catch (err) {
       console.warn("Manifest load failed", err);
