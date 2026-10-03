@@ -22,6 +22,8 @@
   let activeTab =
     openParam === "practice-wrong"
       ? "practice"
+      : openParam === "mocktests"
+      ? "mocktests"
       : "notes";
 
   let practiceMode =
