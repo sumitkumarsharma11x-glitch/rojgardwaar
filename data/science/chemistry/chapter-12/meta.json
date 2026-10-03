@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-12",
+  "chapterNumber": 12,
+  "chapterName": {
+    "hi": "ईंधन, दहन एवं दैनिक जीवन का रसायन",
+    "en": "Fuels, Combustion and Chemistry in Daily Life"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
