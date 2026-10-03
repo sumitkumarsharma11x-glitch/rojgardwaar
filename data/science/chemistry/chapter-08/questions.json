@@ -4060,6 +4060,146 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
         "en": "This question tests a core chemistry concept and its application."
       }
+    },
+    {
+      "id": "c08q146",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: अम्ल का स्वाद सामान्यतः कैसा होता है?",
+        "en": "Quick check: What is the typical taste of an acid?"
+      },
+      "options": {
+        "hi": [
+          "खट्टा",
+          "मीठा",
+          "कड़वा",
+          "नमकीन ही"
+        ],
+        "en": [
+          "Sour",
+          "Sweet",
+          "Bitter",
+          "Always salty"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c08q147",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: क्षार का स्वाद सामान्यतः कैसा हो सकता है?",
+        "en": "Quick check: What can be the typical taste of a base?"
+      },
+      "options": {
+        "hi": [
+          "कड़वा",
+          "खट्टा",
+          "मीठा",
+          "फल जैसा"
+        ],
+        "en": [
+          "Bitter",
+          "Sour",
+          "Sweet",
+          "Fruity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c08q148",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: नीला लिटमस अम्ल में किस रंग का हो जाता है?",
+        "en": "Quick check: What colour does blue litmus turn in an acid?"
+      },
+      "options": {
+        "hi": [
+          "लाल",
+          "नीला",
+          "हरा",
+          "पीला"
+        ],
+        "en": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c08q149",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: लाल लिटमस क्षार में किस रंग का हो जाता है?",
+        "en": "Quick check: What colour does red litmus turn in a base?"
+      },
+      "options": {
+        "hi": [
+          "नीला",
+          "लाल",
+          "पीला",
+          "काला"
+        ],
+        "en": [
+          "Blue",
+          "Red",
+          "Yellow",
+          "Black"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
+    },
+    {
+      "id": "c08q150",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरित जाँच: pH 7 किसे दर्शाता है?",
+        "en": "Quick check: What does pH 7 indicate?"
+      },
+      "options": {
+        "hi": [
+          "उदासीनता",
+          "अम्लीयता",
+          "क्षारीयता",
+          "अत्यधिक अम्ल"
+        ],
+        "en": [
+          "Neutrality",
+          "Acidity",
+          "Basicity",
+          "Strong acid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application."
+      }
     }
   ]
 }
