@@ -1,0 +1,817 @@
+{
+  "chapter": "chapter-11",
+  "questions": [
+    {
+      "id": "c11q01",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायु में सबसे अधिक मात्रा में कौन-सी गैस होती है?",
+        "en": "Which gas is present in the largest proportion in air?"
+      },
+      "options": {
+        "hi": [
+          "नाइट्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
+        ],
+        "en": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q02",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायु में ऑक्सीजन लगभग कितने प्रतिशत होती है?",
+        "en": "Approximately what percentage of air is oxygen?"
+      },
+      "options": {
+        "hi": [
+          "21%",
+          "78%",
+          "0.04%",
+          "50%"
+        ],
+        "en": [
+          "21%",
+          "78%",
+          "0.04%",
+          "50%"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q03",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायु में नाइट्रोजन लगभग कितने प्रतिशत होती है?",
+        "en": "Approximately what percentage of air is nitrogen?"
+      },
+      "options": {
+        "hi": [
+          "78%",
+          "21%",
+          "1%",
+          "10%"
+        ],
+        "en": [
+          "78%",
+          "21%",
+          "1%",
+          "10%"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q04",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कार्बन डाइऑक्साइड की मात्रा वायु में लगभग कितनी है?",
+        "en": "Approximately how much carbon dioxide is in air?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 0.04%",
+          "21%",
+          "78%",
+          "10%"
+        ],
+        "en": [
+          "About 0.04%",
+          "21%",
+          "78%",
+          "10%"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q05",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पौधे प्रकाश संश्लेषण में कौन-सी गैस लेते हैं?",
+        "en": "Which gas do plants take in during photosynthesis?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन",
+          "हीलियम"
+        ],
+        "en": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen",
+          "Helium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q06",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश संश्लेषण में कौन-सी गैस निकलती है?",
+        "en": "Which gas is released during photosynthesis?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "मीथेन"
+        ],
+        "en": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Methane"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q07",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओजोन का सूत्र क्या है?",
+        "en": "What is the formula of ozone?"
+      },
+      "options": {
+        "hi": [
+          "O₃",
+          "O₂",
+          "CO₂",
+          "NO₂"
+        ],
+        "en": [
+          "O₃",
+          "O₂",
+          "CO₂",
+          "NO₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q08",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओजोन परत मुख्यतः किससे बचाती है?",
+        "en": "What does the ozone layer mainly protect us from?"
+      },
+      "options": {
+        "hi": [
+          "हानिकारक पराबैंगनी विकिरण",
+          "ध्वनि प्रदूषण",
+          "भूकंप",
+          "बाढ़"
+        ],
+        "en": [
+          "Harmful ultraviolet radiation",
+          "Noise pollution",
+          "Earthquakes",
+          "Floods"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q09",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओजोन क्षरण में कौन-से यौगिक ऐतिहासिक रूप से महत्वपूर्ण रहे हैं?",
+        "en": "Which compounds have historically been important in ozone depletion?"
+      },
+      "options": {
+        "hi": [
+          "CFCs",
+          "NaCl",
+          "CaCO₃",
+          "H₂O"
+        ],
+        "en": [
+          "CFCs",
+          "NaCl",
+          "CaCO₃",
+          "H₂O"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q10",
+      "topic": "core",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ग्रीनहाउस गैस का उदाहरण कौन-सा है?",
+        "en": "Which is an example of a greenhouse gas?"
+      },
+      "options": {
+        "hi": [
+          "CO₂",
+          "O₂",
+          "N₂",
+          "Ar"
+        ],
+        "en": [
+          "CO₂",
+          "O₂",
+          "N₂",
+          "Ar"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q11",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्रीनहाउस प्रभाव किससे संबंधित है?",
+        "en": "The greenhouse effect is related to what?"
+      },
+      "options": {
+        "hi": [
+          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
+          "ऑक्सीजन के पूर्ण समाप्त होने से",
+          "पानी के जमने से",
+          "चुंबकीय क्षेत्र के बनने से"
+        ],
+        "en": [
+          "Trapping of some of Earth's heat",
+          "Complete loss of oxygen",
+          "Freezing of water",
+          "Formation of magnetic field"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q12",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अम्लीय वर्षा मुख्यतः किन गैसों से संबंधित है?",
+        "en": "Acid rain is mainly associated with which gases?"
+      },
+      "options": {
+        "hi": [
+          "SO₂ और NOₓ",
+          "O₂ और N₂",
+          "H₂ और He",
+          "Ar और Ne"
+        ],
+        "en": [
+          "SO₂ and NOₓ",
+          "O₂ and N₂",
+          "H₂ and He",
+          "Ar and Ne"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q13",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल का रासायनिक सूत्र क्या है?",
+        "en": "What is the chemical formula of water?"
+      },
+      "options": {
+        "hi": [
+          "H₂O",
+          "CO₂",
+          "O₂",
+          "H₂"
+        ],
+        "en": [
+          "H₂O",
+          "CO₂",
+          "O₂",
+          "H₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q14",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शुद्ध जल का pH लगभग कितना होता है?",
+        "en": "What is the approximate pH of pure water?"
+      },
+      "options": {
+        "hi": [
+          "7",
+          "2",
+          "5",
+          "10"
+        ],
+        "en": [
+          "7",
+          "2",
+          "5",
+          "10"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q15",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल की कठोरता मुख्यतः किन आयनों से संबंधित है?",
+        "en": "Water hardness is mainly associated with which ions?"
+      },
+      "options": {
+        "hi": [
+          "Ca²⁺ और Mg²⁺",
+          "Na⁺ और K⁺",
+          "H⁺ और Cl⁻",
+          "O₂ और N₂"
+        ],
+        "en": [
+          "Ca²⁺ and Mg²⁺",
+          "Na⁺ and K⁺",
+          "H⁺ and Cl⁻",
+          "O₂ and N₂"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q16",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अस्थायी कठोरता को किससे कम किया जा सकता है?",
+        "en": "How can temporary hardness be reduced?"
+      },
+      "options": {
+        "hi": [
+          "उबालने से",
+          "चुंबक से",
+          "निस्यंदन मात्र से",
+          "ठंडा करने से"
+        ],
+        "en": [
+          "By boiling",
+          "With a magnet",
+          "By filtration alone",
+          "By cooling"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q17",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल को पीने योग्य बनाने की प्रक्रिया क्या कहलाती है?",
+        "en": "What is the process of making water fit for drinking called?"
+      },
+      "options": {
+        "hi": [
+          "जल शोधन",
+          "दहन",
+          "आसवन ही हमेशा",
+          "धातुकर्म"
+        ],
+        "en": [
+          "Water purification",
+          "Combustion",
+          "Always distillation",
+          "Metallurgy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q18",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल में रोगाणुओं को नष्ट करने के लिए क्या किया जा सकता है?",
+        "en": "What can be done to destroy microbes in water?"
+      },
+      "options": {
+        "hi": [
+          "क्लोरीनीकरण",
+          "रेत मिलाना",
+          "तेल मिलाना",
+          "चीनी मिलाना"
+        ],
+        "en": [
+          "Chlorination",
+          "Adding sand",
+          "Adding oil",
+          "Adding sugar"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q19",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल प्रदूषण का एक स्रोत क्या है?",
+        "en": "What is one source of water pollution?"
+      },
+      "options": {
+        "hi": [
+          "औद्योगिक अपशिष्ट",
+          "शुद्ध वर्षा जल",
+          "ऑक्सीजन",
+          "नाइट्रोजन"
+        ],
+        "en": [
+          "Industrial waste",
+          "Pure rainwater",
+          "Oxygen",
+          "Nitrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q20",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यूट्रोफिकेशन किससे जुड़ा है?",
+        "en": "Eutrophication is associated with what?"
+      },
+      "options": {
+        "hi": [
+          "जल में पोषक लवणों की अधिकता",
+          "जल में ऑक्सीजन की बहुत अधिकता हमेशा",
+          "केवल नमक की कमी",
+          "रेगिस्तान बनने से"
+        ],
+        "en": [
+          "Excess nutrients in water",
+          "Always excess oxygen",
+          "Only lack of salt",
+          "Formation of deserts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q21",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "BOD किससे संबंधित है?",
+        "en": "BOD is related to what?"
+      },
+      "options": {
+        "hi": [
+          "जल में जैविक प्रदूषण और ऑक्सीजन की मांग",
+          "वायु का दाब",
+          "मिट्टी का रंग",
+          "धातु की कठोरता"
+        ],
+        "en": [
+          "Organic pollution and oxygen demand in water",
+          "Air pressure",
+          "Soil colour",
+          "Metal hardness"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q22",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु प्रदूषण में PM का अर्थ क्या है?",
+        "en": "What does PM mean in air pollution?"
+      },
+      "options": {
+        "hi": [
+          "Particulate Matter",
+          "Pure Metal",
+          "Pressure Measure",
+          "Plant Matter"
+        ],
+        "en": [
+          "Particulate Matter",
+          "Pure Metal",
+          "Pressure Measure",
+          "Plant Matter"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q23",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "धूम्र कोहरा किसे कहते हैं?",
+        "en": "What is smog?"
+      },
+      "options": {
+        "hi": [
+          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
+          "शुद्ध ऑक्सीजन",
+          "शुद्ध जल",
+          "केवल धूल"
+        ],
+        "en": [
+          "A polluted mixture involving smoke, fog and air pollutants",
+          "Pure oxygen",
+          "Pure water",
+          "Only dust"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q24",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कार्बन मोनोऑक्साइड का प्रमुख जोखिम क्या है?",
+        "en": "What is a major risk of carbon monoxide?"
+      },
+      "options": {
+        "hi": [
+          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है",
+          "यह ऑक्सीजन बनाती है",
+          "यह पानी शुद्ध करती है",
+          "यह नाइट्रोजन हटाती है"
+        ],
+        "en": [
+          "It binds with haemoglobin and interferes with oxygen transport",
+          "It produces oxygen",
+          "It purifies water",
+          "It removes nitrogen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q25",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नवीकरणीय ऊर्जा का उदाहरण कौन-सा है?",
+        "en": "Which is an example of renewable energy?"
+      },
+      "options": {
+        "hi": [
+          "सौर ऊर्जा",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ],
+        "en": [
+          "Solar energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q26",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जीवाश्म ईंधन जलाने से कौन-सी गैस बढ़ सकती है?",
+        "en": "Which gas can increase due to burning fossil fuels?"
+      },
+      "options": {
+        "hi": [
+          "CO₂",
+          "O₂",
+          "He",
+          "Ne"
+        ],
+        "en": [
+          "CO₂",
+          "O₂",
+          "He",
+          "Ne"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q27",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जल चक्र में वाष्पीकरण क्या है?",
+        "en": "What is evaporation in the water cycle?"
+      },
+      "options": {
+        "hi": [
+          "जल का द्रव से वाष्प में बदलना",
+          "वाष्प का द्रव बनना",
+          "बर्फ का गैस बनना हमेशा",
+          "गैस का ठोस बनना"
+        ],
+        "en": [
+          "Change of liquid water into vapour",
+          "Change of vapour into liquid",
+          "Always ice to gas",
+          "Gas to solid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q28",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "संघनन क्या है?",
+        "en": "What is condensation?"
+      },
+      "options": {
+        "hi": [
+          "वाष्प का द्रव में बदलना",
+          "द्रव का गैस बनना",
+          "ठोस का द्रव बनना",
+          "द्रव का ठोस बनना ही"
+        ],
+        "en": [
+          "Change of vapour into liquid",
+          "Liquid to gas",
+          "Solid to liquid",
+          "Only liquid to solid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    },
+    {
+      "id": "c11q29",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वायु की गुणवत्ता सुधारने में पेड़ कैसे मदद करते हैं?",
+        "en": "How do trees help improve air quality?"
+      },
+      "options": {
+        "hi": [
+          "CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं",
+          "वे नाइट्रोजन पूरी तरह हटा देते हैं",
+          "वे धुआँ बनाते हैं",
+          "वे ऑक्सीजन समाप्त करते हैं"
+        ],
+        "en": [
+          "They can absorb CO₂ and help trap some pollutants",
+          "They remove all nitrogen",
+          "They produce smoke",
+          "They eliminate oxygen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा और उसके दैनिक जीवन में अनुप्रयोग पर आधारित है।",
+        "en": "This question tests a core chemistry concept and its application in daily life."
+      }
+    }
+  ]
+}
