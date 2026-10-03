@@ -1,0 +1,11 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-03",
+  "chapterNumber": 3,
+  "chapterName": {
+    "hi": "पदार्थों का पृथक्करण एवं मिश्रण",
+    "en": "Separation of Substances and Mixtures"
+  },
+  "mockQuestionCount": 30
+}
