@@ -840,6 +840,3366 @@
         "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
         "en": "This question tests the concept of mixtures and the appropriate physical separation method."
       }
+    },
+    {
+      "id": "c03q031",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रण क्या है?",
+        "en": "Choose the correct answer: What is a mixture?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक पदार्थों का भौतिक मेल",
+          "एक ही तत्व का शुद्ध रूप",
+          "केवल एक यौगिक",
+          "केवल एक धातु"
+        ],
+        "en": [
+          "Physical combination of two or more substances",
+          "Pure form of one element",
+          "Only one compound",
+          "Only one metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q032",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रण क्या है?",
+        "en": "In the context of chemistry, answer: What is a mixture?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक पदार्थों का भौतिक मेल",
+          "एक ही तत्व का शुद्ध रूप",
+          "केवल एक यौगिक",
+          "केवल एक धातु"
+        ],
+        "en": [
+          "Physical combination of two or more substances",
+          "Pure form of one element",
+          "Only one compound",
+          "Only one metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q033",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: मिश्रण क्या है?",
+        "en": "Practice question: What is a mixture?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक पदार्थों का भौतिक मेल",
+          "एक ही तत्व का शुद्ध रूप",
+          "केवल एक यौगिक",
+          "केवल एक धातु"
+        ],
+        "en": [
+          "Physical combination of two or more substances",
+          "Pure form of one element",
+          "Only one compound",
+          "Only one metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q034",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि मिश्रण क्या है?",
+        "en": "If asked in an exam: What is a mixture?"
+      },
+      "options": {
+        "hi": [
+          "दो या अधिक पदार्थों का भौतिक मेल",
+          "एक ही तत्व का शुद्ध रूप",
+          "केवल एक यौगिक",
+          "केवल एक धातु"
+        ],
+        "en": [
+          "Physical combination of two or more substances",
+          "Pure form of one element",
+          "Only one compound",
+          "Only one metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q035",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
+        "en": "Choose the correct answer: How can components of a mixture generally be separated?"
+      },
+      "options": {
+        "hi": [
+          "भौतिक विधियों से",
+          "केवल रासायनिक अभिक्रिया से",
+          "केवल विद्युत अपघटन से",
+          "कभी नहीं"
+        ],
+        "en": [
+          "By physical methods",
+          "Only by chemical reaction",
+          "Only by electrolysis",
+          "Never"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q036",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
+        "en": "In the context of chemistry, answer: How can components of a mixture generally be separated?"
+      },
+      "options": {
+        "hi": [
+          "भौतिक विधियों से",
+          "केवल रासायनिक अभिक्रिया से",
+          "केवल विद्युत अपघटन से",
+          "कभी नहीं"
+        ],
+        "en": [
+          "By physical methods",
+          "Only by chemical reaction",
+          "Only by electrolysis",
+          "Never"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q037",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
+        "en": "Practice question: How can components of a mixture generally be separated?"
+      },
+      "options": {
+        "hi": [
+          "भौतिक विधियों से",
+          "केवल रासायनिक अभिक्रिया से",
+          "केवल विद्युत अपघटन से",
+          "कभी नहीं"
+        ],
+        "en": [
+          "By physical methods",
+          "Only by chemical reaction",
+          "Only by electrolysis",
+          "Never"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q038",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
+        "en": "If asked in an exam: How can components of a mixture generally be separated?"
+      },
+      "options": {
+        "hi": [
+          "भौतिक विधियों से",
+          "केवल रासायनिक अभिक्रिया से",
+          "केवल विद्युत अपघटन से",
+          "कभी नहीं"
+        ],
+        "en": [
+          "By physical methods",
+          "Only by chemical reaction",
+          "Only by electrolysis",
+          "Never"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q039",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "Choose the correct answer: Which method is suitable for obtaining salt from a salt-water solution?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q040",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "In the context of chemistry, answer: Which method is suitable for obtaining salt from a salt-water solution?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q041",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "Practice question: Which method is suitable for obtaining salt from a salt-water solution?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q042",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "If asked in an exam: Which method is suitable for obtaining salt from a salt-water solution?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q043",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "Choose the correct answer: Which method is suitable for separating sand and water?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंदन",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Filtration",
+          "Distillation",
+          "Chromatography",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q044",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "In the context of chemistry, answer: Which method is suitable for separating sand and water?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंदन",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Filtration",
+          "Distillation",
+          "Chromatography",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q045",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "Practice question: Which method is suitable for separating sand and water?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंदन",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Filtration",
+          "Distillation",
+          "Chromatography",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q046",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
+        "en": "If asked in an exam: Which method is suitable for separating sand and water?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंदन",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Filtration",
+          "Distillation",
+          "Chromatography",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q047",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: निस्यंदन में किसका उपयोग किया जाता है?",
+        "en": "Choose the correct answer: What is used in filtration?"
+      },
+      "options": {
+        "hi": [
+          "छिद्रयुक्त फिल्टर",
+          "चुंबक",
+          "थर्मामीटर",
+          "ब्यूरेट"
+        ],
+        "en": [
+          "A porous filter",
+          "A magnet",
+          "A thermometer",
+          "A burette"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q048",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: निस्यंदन में किसका उपयोग किया जाता है?",
+        "en": "In the context of chemistry, answer: What is used in filtration?"
+      },
+      "options": {
+        "hi": [
+          "छिद्रयुक्त फिल्टर",
+          "चुंबक",
+          "थर्मामीटर",
+          "ब्यूरेट"
+        ],
+        "en": [
+          "A porous filter",
+          "A magnet",
+          "A thermometer",
+          "A burette"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q049",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: निस्यंदन में किसका उपयोग किया जाता है?",
+        "en": "Practice question: What is used in filtration?"
+      },
+      "options": {
+        "hi": [
+          "छिद्रयुक्त फिल्टर",
+          "चुंबक",
+          "थर्मामीटर",
+          "ब्यूरेट"
+        ],
+        "en": [
+          "A porous filter",
+          "A magnet",
+          "A thermometer",
+          "A burette"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q050",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि निस्यंदन में किसका उपयोग किया जाता है?",
+        "en": "If asked in an exam: What is used in filtration?"
+      },
+      "options": {
+        "hi": [
+          "छिद्रयुक्त फिल्टर",
+          "चुंबक",
+          "थर्मामीटर",
+          "ब्यूरेट"
+        ],
+        "en": [
+          "A porous filter",
+          "A magnet",
+          "A thermometer",
+          "A burette"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q051",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
+        "en": "Choose the correct answer: What is the solid left on the filter after filtration called?"
+      },
+      "options": {
+        "hi": [
+          "अवशेष",
+          "निस्यंद",
+          "विलायक",
+          "विलेय"
+        ],
+        "en": [
+          "Residue",
+          "Filtrate",
+          "Solvent",
+          "Solute"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q052",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: What is the solid left on the filter after filtration called?"
+      },
+      "options": {
+        "hi": [
+          "अवशेष",
+          "निस्यंद",
+          "विलायक",
+          "विलेय"
+        ],
+        "en": [
+          "Residue",
+          "Filtrate",
+          "Solvent",
+          "Solute"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q053",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
+        "en": "Practice question: What is the solid left on the filter after filtration called?"
+      },
+      "options": {
+        "hi": [
+          "अवशेष",
+          "निस्यंद",
+          "विलायक",
+          "विलेय"
+        ],
+        "en": [
+          "Residue",
+          "Filtrate",
+          "Solvent",
+          "Solute"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q054",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
+        "en": "If asked in an exam: What is the solid left on the filter after filtration called?"
+      },
+      "options": {
+        "hi": [
+          "अवशेष",
+          "निस्यंद",
+          "विलायक",
+          "विलेय"
+        ],
+        "en": [
+          "Residue",
+          "Filtrate",
+          "Solvent",
+          "Solute"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q055",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
+        "en": "Choose the correct answer: What is the liquid that passes through the filter called?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंद",
+          "अवशेष",
+          "विलेय",
+          "तलछट"
+        ],
+        "en": [
+          "Filtrate",
+          "Residue",
+          "Solute",
+          "Sediment"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q056",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: What is the liquid that passes through the filter called?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंद",
+          "अवशेष",
+          "विलेय",
+          "तलछट"
+        ],
+        "en": [
+          "Filtrate",
+          "Residue",
+          "Solute",
+          "Sediment"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q057",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
+        "en": "Practice question: What is the liquid that passes through the filter called?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंद",
+          "अवशेष",
+          "विलेय",
+          "तलछट"
+        ],
+        "en": [
+          "Filtrate",
+          "Residue",
+          "Solute",
+          "Sediment"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q058",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
+        "en": "If asked in an exam: What is the liquid that passes through the filter called?"
+      },
+      "options": {
+        "hi": [
+          "निस्यंद",
+          "अवशेष",
+          "विलेय",
+          "तलछट"
+        ],
+        "en": [
+          "Filtrate",
+          "Residue",
+          "Solute",
+          "Sediment"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q059",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: तेल और पानी जैसे अमिश्रणीय द्रवों को अलग करने के लिए कौन-सा उपकरण उपयोगी है?",
+        "en": "Choose the correct answer: Which apparatus is useful for separating immiscible liquids such as oil and water?"
+      },
+      "options": {
+        "hi": [
+          "पृथक्करण कीप",
+          "फिल्टर पेपर",
+          "क्रूसिबल",
+          "घड़ी कांच"
+        ],
+        "en": [
+          "Separating funnel",
+          "Filter paper",
+          "Crucible",
+          "Watch glass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q060",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: तेल और पानी जैसे अमिश्रणीय द्रवों को अलग करने के लिए कौन-सा उपकरण उपयोगी है?",
+        "en": "In the context of chemistry, answer: Which apparatus is useful for separating immiscible liquids such as oil and water?"
+      },
+      "options": {
+        "hi": [
+          "पृथक्करण कीप",
+          "फिल्टर पेपर",
+          "क्रूसिबल",
+          "घड़ी कांच"
+        ],
+        "en": [
+          "Separating funnel",
+          "Filter paper",
+          "Crucible",
+          "Watch glass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q061",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: तेल और पानी जैसे अमिश्रणीय द्रवों को अलग करने के लिए कौन-सा उपकरण उपयोगी है?",
+        "en": "Practice question: Which apparatus is useful for separating immiscible liquids such as oil and water?"
+      },
+      "options": {
+        "hi": [
+          "पृथक्करण कीप",
+          "फिल्टर पेपर",
+          "क्रूसिबल",
+          "घड़ी कांच"
+        ],
+        "en": [
+          "Separating funnel",
+          "Filter paper",
+          "Crucible",
+          "Watch glass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q062",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि तेल और पानी जैसे अमिश्रणीय द्रवों को अलग करने के लिए कौन-सा उपकरण उपयोगी है?",
+        "en": "If asked in an exam: Which apparatus is useful for separating immiscible liquids such as oil and water?"
+      },
+      "options": {
+        "hi": [
+          "पृथक्करण कीप",
+          "फिल्टर पेपर",
+          "क्रूसिबल",
+          "घड़ी कांच"
+        ],
+        "en": [
+          "Separating funnel",
+          "Filter paper",
+          "Crucible",
+          "Watch glass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q063",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: दो मिश्रणीय द्रवों के क्वथनांक अलग हों तो उन्हें किस विधि से अलग किया जा सकता है?",
+        "en": "Choose the correct answer: If two miscible liquids have different boiling points, which method can separate them?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q064",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: दो मिश्रणीय द्रवों के क्वथनांक अलग हों तो उन्हें किस विधि से अलग किया जा सकता है?",
+        "en": "In the context of chemistry, answer: If two miscible liquids have different boiling points, which method can separate them?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q065",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: दो मिश्रणीय द्रवों के क्वथनांक अलग हों तो उन्हें किस विधि से अलग किया जा सकता है?",
+        "en": "Practice question: If two miscible liquids have different boiling points, which method can separate them?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q066",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि दो मिश्रणीय द्रवों के क्वथनांक अलग हों तो उन्हें किस विधि से अलग किया जा सकता है?",
+        "en": "If asked in an exam: If two miscible liquids have different boiling points, which method can separate them?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q067",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: आसवन में पृथक्करण मुख्यतः किस गुण के अंतर पर आधारित है?",
+        "en": "Choose the correct answer: Distillation mainly depends on the difference in which property?"
+      },
+      "options": {
+        "hi": [
+          "क्वथनांक",
+          "रंग",
+          "आकार",
+          "चुंबकीयता"
+        ],
+        "en": [
+          "Boiling point",
+          "Colour",
+          "Size",
+          "Magnetism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q068",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: आसवन में पृथक्करण मुख्यतः किस गुण के अंतर पर आधारित है?",
+        "en": "In the context of chemistry, answer: Distillation mainly depends on the difference in which property?"
+      },
+      "options": {
+        "hi": [
+          "क्वथनांक",
+          "रंग",
+          "आकार",
+          "चुंबकीयता"
+        ],
+        "en": [
+          "Boiling point",
+          "Colour",
+          "Size",
+          "Magnetism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q069",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: आसवन में पृथक्करण मुख्यतः किस गुण के अंतर पर आधारित है?",
+        "en": "Practice question: Distillation mainly depends on the difference in which property?"
+      },
+      "options": {
+        "hi": [
+          "क्वथनांक",
+          "रंग",
+          "आकार",
+          "चुंबकीयता"
+        ],
+        "en": [
+          "Boiling point",
+          "Colour",
+          "Size",
+          "Magnetism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q070",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि आसवन में पृथक्करण मुख्यतः किस गुण के अंतर पर आधारित है?",
+        "en": "If asked in an exam: Distillation mainly depends on the difference in which property?"
+      },
+      "options": {
+        "hi": [
+          "क्वथनांक",
+          "रंग",
+          "आकार",
+          "चुंबकीयता"
+        ],
+        "en": [
+          "Boiling point",
+          "Colour",
+          "Size",
+          "Magnetism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q071",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: आसवन में वाष्प को फिर से द्रव में बदलने की प्रक्रिया क्या कहलाती है?",
+        "en": "Choose the correct answer: In distillation, what is the process of changing vapour back into liquid called?"
+      },
+      "options": {
+        "hi": [
+          "संघनन",
+          "वाष्पीकरण",
+          "उर्ध्वपातन",
+          "गलन"
+        ],
+        "en": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q072",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: आसवन में वाष्प को फिर से द्रव में बदलने की प्रक्रिया क्या कहलाती है?",
+        "en": "In the context of chemistry, answer: In distillation, what is the process of changing vapour back into liquid called?"
+      },
+      "options": {
+        "hi": [
+          "संघनन",
+          "वाष्पीकरण",
+          "उर्ध्वपातन",
+          "गलन"
+        ],
+        "en": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q073",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: आसवन में वाष्प को फिर से द्रव में बदलने की प्रक्रिया क्या कहलाती है?",
+        "en": "Practice question: In distillation, what is the process of changing vapour back into liquid called?"
+      },
+      "options": {
+        "hi": [
+          "संघनन",
+          "वाष्पीकरण",
+          "उर्ध्वपातन",
+          "गलन"
+        ],
+        "en": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q074",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि आसवन में वाष्प को फिर से द्रव में बदलने की प्रक्रिया क्या कहलाती है?",
+        "en": "If asked in an exam: In distillation, what is the process of changing vapour back into liquid called?"
+      },
+      "options": {
+        "hi": [
+          "संघनन",
+          "वाष्पीकरण",
+          "उर्ध्वपातन",
+          "गलन"
+        ],
+        "en": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q075",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अंश आसवन कब अधिक उपयोगी होता है?",
+        "en": "Choose the correct answer: When is fractional distillation more useful?"
+      },
+      "options": {
+        "hi": [
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
+          "जब ठोस और पानी मिले हों",
+          "जब एक पदार्थ चुंबकीय हो",
+          "जब दोनों पदार्थ अघुलनशील हों"
+        ],
+        "en": [
+          "When miscible liquids have close boiling points",
+          "When a solid and water are mixed",
+          "When one substance is magnetic",
+          "When both substances are immiscible"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q076",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अंश आसवन कब अधिक उपयोगी होता है?",
+        "en": "In the context of chemistry, answer: When is fractional distillation more useful?"
+      },
+      "options": {
+        "hi": [
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
+          "जब ठोस और पानी मिले हों",
+          "जब एक पदार्थ चुंबकीय हो",
+          "जब दोनों पदार्थ अघुलनशील हों"
+        ],
+        "en": [
+          "When miscible liquids have close boiling points",
+          "When a solid and water are mixed",
+          "When one substance is magnetic",
+          "When both substances are immiscible"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q077",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अंश आसवन कब अधिक उपयोगी होता है?",
+        "en": "Practice question: When is fractional distillation more useful?"
+      },
+      "options": {
+        "hi": [
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
+          "जब ठोस और पानी मिले हों",
+          "जब एक पदार्थ चुंबकीय हो",
+          "जब दोनों पदार्थ अघुलनशील हों"
+        ],
+        "en": [
+          "When miscible liquids have close boiling points",
+          "When a solid and water are mixed",
+          "When one substance is magnetic",
+          "When both substances are immiscible"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q078",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अंश आसवन कब अधिक उपयोगी होता है?",
+        "en": "If asked in an exam: When is fractional distillation more useful?"
+      },
+      "options": {
+        "hi": [
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
+          "जब ठोस और पानी मिले हों",
+          "जब एक पदार्थ चुंबकीय हो",
+          "जब दोनों पदार्थ अघुलनशील हों"
+        ],
+        "en": [
+          "When miscible liquids have close boiling points",
+          "When a solid and water are mixed",
+          "When one substance is magnetic",
+          "When both substances are immiscible"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q079",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: क्रोमैटोग्राफी का उपयोग किसके पृथक्करण में किया जाता है?",
+        "en": "Choose the correct answer: Chromatography is used for separating what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
+          "केवल लोहे और रेत",
+          "केवल तेल और पानी",
+          "केवल पत्थर और रेत"
+        ],
+        "en": [
+          "Different coloured components in a mixture",
+          "Only iron and sand",
+          "Only oil and water",
+          "Only stones and sand"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q080",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: क्रोमैटोग्राफी का उपयोग किसके पृथक्करण में किया जाता है?",
+        "en": "In the context of chemistry, answer: Chromatography is used for separating what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
+          "केवल लोहे और रेत",
+          "केवल तेल और पानी",
+          "केवल पत्थर और रेत"
+        ],
+        "en": [
+          "Different coloured components in a mixture",
+          "Only iron and sand",
+          "Only oil and water",
+          "Only stones and sand"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q081",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: क्रोमैटोग्राफी का उपयोग किसके पृथक्करण में किया जाता है?",
+        "en": "Practice question: Chromatography is used for separating what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
+          "केवल लोहे और रेत",
+          "केवल तेल और पानी",
+          "केवल पत्थर और रेत"
+        ],
+        "en": [
+          "Different coloured components in a mixture",
+          "Only iron and sand",
+          "Only oil and water",
+          "Only stones and sand"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q082",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि क्रोमैटोग्राफी का उपयोग किसके पृथक्करण में किया जाता है?",
+        "en": "If asked in an exam: Chromatography is used for separating what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
+          "केवल लोहे और रेत",
+          "केवल तेल और पानी",
+          "केवल पत्थर और रेत"
+        ],
+        "en": [
+          "Different coloured components in a mixture",
+          "Only iron and sand",
+          "Only oil and water",
+          "Only stones and sand"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q083",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: स्याही में उपस्थित विभिन्न रंगों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "Choose the correct answer: Which method is useful for separating different colours present in ink?"
+      },
+      "options": {
+        "hi": [
+          "क्रोमैटोग्राफी",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Chromatography",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q084",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: स्याही में उपस्थित विभिन्न रंगों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "In the context of chemistry, answer: Which method is useful for separating different colours present in ink?"
+      },
+      "options": {
+        "hi": [
+          "क्रोमैटोग्राफी",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Chromatography",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q085",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: स्याही में उपस्थित विभिन्न रंगों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "Practice question: Which method is useful for separating different colours present in ink?"
+      },
+      "options": {
+        "hi": [
+          "क्रोमैटोग्राफी",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Chromatography",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q086",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि स्याही में उपस्थित विभिन्न रंगों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "If asked in an exam: Which method is useful for separating different colours present in ink?"
+      },
+      "options": {
+        "hi": [
+          "क्रोमैटोग्राफी",
+          "निस्यंदन",
+          "अवसादन",
+          "चुंबकीय पृथक्करण"
+        ],
+        "en": [
+          "Chromatography",
+          "Filtration",
+          "Sedimentation",
+          "Magnetic separation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q087",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: लोहे के बुरादे और रेत के मिश्रण को किससे अलग किया जा सकता है?",
+        "en": "Choose the correct answer: Iron filings and sand can be separated using what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक",
+          "फिल्टर पेपर",
+          "आसवन",
+          "पृथक्करण कीप"
+        ],
+        "en": [
+          "A magnet",
+          "Filter paper",
+          "Distillation",
+          "Separating funnel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q088",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: लोहे के बुरादे और रेत के मिश्रण को किससे अलग किया जा सकता है?",
+        "en": "In the context of chemistry, answer: Iron filings and sand can be separated using what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक",
+          "फिल्टर पेपर",
+          "आसवन",
+          "पृथक्करण कीप"
+        ],
+        "en": [
+          "A magnet",
+          "Filter paper",
+          "Distillation",
+          "Separating funnel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q089",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: लोहे के बुरादे और रेत के मिश्रण को किससे अलग किया जा सकता है?",
+        "en": "Practice question: Iron filings and sand can be separated using what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक",
+          "फिल्टर पेपर",
+          "आसवन",
+          "पृथक्करण कीप"
+        ],
+        "en": [
+          "A magnet",
+          "Filter paper",
+          "Distillation",
+          "Separating funnel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q090",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि लोहे के बुरादे और रेत के मिश्रण को किससे अलग किया जा सकता है?",
+        "en": "If asked in an exam: Iron filings and sand can be separated using what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक",
+          "फिल्टर पेपर",
+          "आसवन",
+          "पृथक्करण कीप"
+        ],
+        "en": [
+          "A magnet",
+          "Filter paper",
+          "Distillation",
+          "Separating funnel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q091",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: चावल और पत्थरों के मिश्रण से बड़े पत्थर अलग करने की सरल विधि क्या है?",
+        "en": "Choose the correct answer: What is a simple method to remove large stones from a rice-stone mixture?"
+      },
+      "options": {
+        "hi": [
+          "हाथ से चुनना",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "संघनन"
+        ],
+        "en": [
+          "Handpicking",
+          "Distillation",
+          "Chromatography",
+          "Condensation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q092",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: चावल और पत्थरों के मिश्रण से बड़े पत्थर अलग करने की सरल विधि क्या है?",
+        "en": "In the context of chemistry, answer: What is a simple method to remove large stones from a rice-stone mixture?"
+      },
+      "options": {
+        "hi": [
+          "हाथ से चुनना",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "संघनन"
+        ],
+        "en": [
+          "Handpicking",
+          "Distillation",
+          "Chromatography",
+          "Condensation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q093",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: चावल और पत्थरों के मिश्रण से बड़े पत्थर अलग करने की सरल विधि क्या है?",
+        "en": "Practice question: What is a simple method to remove large stones from a rice-stone mixture?"
+      },
+      "options": {
+        "hi": [
+          "हाथ से चुनना",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "संघनन"
+        ],
+        "en": [
+          "Handpicking",
+          "Distillation",
+          "Chromatography",
+          "Condensation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q094",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि चावल और पत्थरों के मिश्रण से बड़े पत्थर अलग करने की सरल विधि क्या है?",
+        "en": "If asked in an exam: What is a simple method to remove large stones from a rice-stone mixture?"
+      },
+      "options": {
+        "hi": [
+          "हाथ से चुनना",
+          "आसवन",
+          "क्रोमैटोग्राफी",
+          "संघनन"
+        ],
+        "en": [
+          "Handpicking",
+          "Distillation",
+          "Chromatography",
+          "Condensation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q095",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अनाज से हल्के भूसे को अलग करने में कौन-सी विधि उपयोगी है?",
+        "en": "Choose the correct answer: Which method is useful for separating lighter husk from grains?"
+      },
+      "options": {
+        "hi": [
+          "फटकना",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Winnowing",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q096",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अनाज से हल्के भूसे को अलग करने में कौन-सी विधि उपयोगी है?",
+        "en": "In the context of chemistry, answer: Which method is useful for separating lighter husk from grains?"
+      },
+      "options": {
+        "hi": [
+          "फटकना",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Winnowing",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q097",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अनाज से हल्के भूसे को अलग करने में कौन-सी विधि उपयोगी है?",
+        "en": "Practice question: Which method is useful for separating lighter husk from grains?"
+      },
+      "options": {
+        "hi": [
+          "फटकना",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Winnowing",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q098",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अनाज से हल्के भूसे को अलग करने में कौन-सी विधि उपयोगी है?",
+        "en": "If asked in an exam: Which method is useful for separating lighter husk from grains?"
+      },
+      "options": {
+        "hi": [
+          "फटकना",
+          "निस्यंदन",
+          "आसवन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Winnowing",
+          "Filtration",
+          "Distillation",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q099",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: विभिन्न आकार के ठोस कणों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "Choose the correct answer: Which method is useful for separating solid particles of different sizes?"
+      },
+      "options": {
+        "hi": [
+          "छानना",
+          "आसवन",
+          "संघनन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Sieving",
+          "Distillation",
+          "Condensation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q100",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: विभिन्न आकार के ठोस कणों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "In the context of chemistry, answer: Which method is useful for separating solid particles of different sizes?"
+      },
+      "options": {
+        "hi": [
+          "छानना",
+          "आसवन",
+          "संघनन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Sieving",
+          "Distillation",
+          "Condensation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q101",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: विभिन्न आकार के ठोस कणों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "Practice question: Which method is useful for separating solid particles of different sizes?"
+      },
+      "options": {
+        "hi": [
+          "छानना",
+          "आसवन",
+          "संघनन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Sieving",
+          "Distillation",
+          "Condensation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q102",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि विभिन्न आकार के ठोस कणों को अलग करने के लिए कौन-सी विधि उपयोगी है?",
+        "en": "If asked in an exam: Which method is useful for separating solid particles of different sizes?"
+      },
+      "options": {
+        "hi": [
+          "छानना",
+          "आसवन",
+          "संघनन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Sieving",
+          "Distillation",
+          "Condensation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q103",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: अवसादन में भारी अघुलनशील कण क्या करते हैं?",
+        "en": "Choose the correct answer: What do heavier insoluble particles do during sedimentation?"
+      },
+      "options": {
+        "hi": [
+          "नीचे बैठ जाते हैं",
+          "वाष्प बन जाते हैं",
+          "घुल जाते हैं",
+          "ऊपर तैरने लगते हैं"
+        ],
+        "en": [
+          "Settle at the bottom",
+          "Turn into vapour",
+          "Dissolve",
+          "Float upward"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q104",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: अवसादन में भारी अघुलनशील कण क्या करते हैं?",
+        "en": "In the context of chemistry, answer: What do heavier insoluble particles do during sedimentation?"
+      },
+      "options": {
+        "hi": [
+          "नीचे बैठ जाते हैं",
+          "वाष्प बन जाते हैं",
+          "घुल जाते हैं",
+          "ऊपर तैरने लगते हैं"
+        ],
+        "en": [
+          "Settle at the bottom",
+          "Turn into vapour",
+          "Dissolve",
+          "Float upward"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q105",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: अवसादन में भारी अघुलनशील कण क्या करते हैं?",
+        "en": "Practice question: What do heavier insoluble particles do during sedimentation?"
+      },
+      "options": {
+        "hi": [
+          "नीचे बैठ जाते हैं",
+          "वाष्प बन जाते हैं",
+          "घुल जाते हैं",
+          "ऊपर तैरने लगते हैं"
+        ],
+        "en": [
+          "Settle at the bottom",
+          "Turn into vapour",
+          "Dissolve",
+          "Float upward"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q106",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि अवसादन में भारी अघुलनशील कण क्या करते हैं?",
+        "en": "If asked in an exam: What do heavier insoluble particles do during sedimentation?"
+      },
+      "options": {
+        "hi": [
+          "नीचे बैठ जाते हैं",
+          "वाष्प बन जाते हैं",
+          "घुल जाते हैं",
+          "ऊपर तैरने लगते हैं"
+        ],
+        "en": [
+          "Settle at the bottom",
+          "Turn into vapour",
+          "Dissolve",
+          "Float upward"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q107",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ऊपर के साफ द्रव को तलछट से अलग करने की प्रक्रिया क्या कहलाती है?",
+        "en": "Choose the correct answer: What is the process of separating the clear upper liquid from sediment called?"
+      },
+      "options": {
+        "hi": [
+          "निथारना",
+          "उर्ध्वपातन",
+          "आसवन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Decantation",
+          "Sublimation",
+          "Distillation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q108",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: ऊपर के साफ द्रव को तलछट से अलग करने की प्रक्रिया क्या कहलाती है?",
+        "en": "In the context of chemistry, answer: What is the process of separating the clear upper liquid from sediment called?"
+      },
+      "options": {
+        "hi": [
+          "निथारना",
+          "उर्ध्वपातन",
+          "आसवन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Decantation",
+          "Sublimation",
+          "Distillation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q109",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ऊपर के साफ द्रव को तलछट से अलग करने की प्रक्रिया क्या कहलाती है?",
+        "en": "Practice question: What is the process of separating the clear upper liquid from sediment called?"
+      },
+      "options": {
+        "hi": [
+          "निथारना",
+          "उर्ध्वपातन",
+          "आसवन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Decantation",
+          "Sublimation",
+          "Distillation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q110",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ऊपर के साफ द्रव को तलछट से अलग करने की प्रक्रिया क्या कहलाती है?",
+        "en": "If asked in an exam: What is the process of separating the clear upper liquid from sediment called?"
+      },
+      "options": {
+        "hi": [
+          "निथारना",
+          "उर्ध्वपातन",
+          "आसवन",
+          "क्रोमैटोग्राफी"
+        ],
+        "en": [
+          "Decantation",
+          "Sublimation",
+          "Distillation",
+          "Chromatography"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q111",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रेत और नमक के मिश्रण को अलग करने का सही पहला कदम क्या होगा?",
+        "en": "Choose the correct answer: What is the correct first step for separating a sand-salt mixture?"
+      },
+      "options": {
+        "hi": [
+          "पानी मिलाकर नमक घोलना",
+          "चुंबक लगाना",
+          "सीधे आसवन करना",
+          "केवल हाथ से चुनना"
+        ],
+        "en": [
+          "Add water to dissolve the salt",
+          "Use a magnet",
+          "Distil directly",
+          "Only handpick"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q112",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रेत और नमक के मिश्रण को अलग करने का सही पहला कदम क्या होगा?",
+        "en": "In the context of chemistry, answer: What is the correct first step for separating a sand-salt mixture?"
+      },
+      "options": {
+        "hi": [
+          "पानी मिलाकर नमक घोलना",
+          "चुंबक लगाना",
+          "सीधे आसवन करना",
+          "केवल हाथ से चुनना"
+        ],
+        "en": [
+          "Add water to dissolve the salt",
+          "Use a magnet",
+          "Distil directly",
+          "Only handpick"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q113",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रेत और नमक के मिश्रण को अलग करने का सही पहला कदम क्या होगा?",
+        "en": "Practice question: What is the correct first step for separating a sand-salt mixture?"
+      },
+      "options": {
+        "hi": [
+          "पानी मिलाकर नमक घोलना",
+          "चुंबक लगाना",
+          "सीधे आसवन करना",
+          "केवल हाथ से चुनना"
+        ],
+        "en": [
+          "Add water to dissolve the salt",
+          "Use a magnet",
+          "Distil directly",
+          "Only handpick"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q114",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रेत और नमक के मिश्रण को अलग करने का सही पहला कदम क्या होगा?",
+        "en": "If asked in an exam: What is the correct first step for separating a sand-salt mixture?"
+      },
+      "options": {
+        "hi": [
+          "पानी मिलाकर नमक घोलना",
+          "चुंबक लगाना",
+          "सीधे आसवन करना",
+          "केवल हाथ से चुनना"
+        ],
+        "en": [
+          "Add water to dissolve the salt",
+          "Use a magnet",
+          "Distil directly",
+          "Only handpick"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q115",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: रेत-नमक-पानी के मिश्रण में नमक का पानी से पृथक्करण किससे किया जा सकता है?",
+        "en": "Choose the correct answer: In a sand-salt-water mixture, how can salt be separated from water?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "छानना"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sieving"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q116",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रेत-नमक-पानी के मिश्रण में नमक का पानी से पृथक्करण किससे किया जा सकता है?",
+        "en": "In the context of chemistry, answer: In a sand-salt-water mixture, how can salt be separated from water?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "छानना"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sieving"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q117",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: रेत-नमक-पानी के मिश्रण में नमक का पानी से पृथक्करण किससे किया जा सकता है?",
+        "en": "Practice question: In a sand-salt-water mixture, how can salt be separated from water?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "छानना"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sieving"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q118",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि रेत-नमक-पानी के मिश्रण में नमक का पानी से पृथक्करण किससे किया जा सकता है?",
+        "en": "If asked in an exam: In a sand-salt-water mixture, how can salt be separated from water?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "छानना"
+        ],
+        "en": [
+          "Evaporation",
+          "Filtration",
+          "Magnetic separation",
+          "Sieving"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q119",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यदि नमक को वापस ठोस रूप में प्राप्त करना हो, तो कौन-सी विधि उपयुक्त है?",
+        "en": "Choose the correct answer: If salt is to be recovered as a solid, which method is suitable?"
+      },
+      "options": {
+        "hi": [
+          "क्रिस्टलीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Crystallization",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q120",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: यदि नमक को वापस ठोस रूप में प्राप्त करना हो, तो कौन-सी विधि उपयुक्त है?",
+        "en": "In the context of chemistry, answer: If salt is to be recovered as a solid, which method is suitable?"
+      },
+      "options": {
+        "hi": [
+          "क्रिस्टलीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Crystallization",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q121",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यदि नमक को वापस ठोस रूप में प्राप्त करना हो, तो कौन-सी विधि उपयुक्त है?",
+        "en": "Practice question: If salt is to be recovered as a solid, which method is suitable?"
+      },
+      "options": {
+        "hi": [
+          "क्रिस्टलीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Crystallization",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q122",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यदि नमक को वापस ठोस रूप में प्राप्त करना हो, तो कौन-सी विधि उपयुक्त है?",
+        "en": "If asked in an exam: If salt is to be recovered as a solid, which method is suitable?"
+      },
+      "options": {
+        "hi": [
+          "क्रिस्टलीकरण",
+          "निस्यंदन",
+          "चुंबकीय पृथक्करण",
+          "अवसादन"
+        ],
+        "en": [
+          "Crystallization",
+          "Filtration",
+          "Magnetic separation",
+          "Sedimentation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q123",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: शुद्ध पदार्थ की एक महत्वपूर्ण विशेषता क्या है?",
+        "en": "Choose the correct answer: What is an important characteristic of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "उसकी संरचना निश्चित होती है",
+          "उसकी संरचना हमेशा बदलती रहती है",
+          "उसमें अनिवार्य रूप से दो तत्व होते हैं",
+          "उसे केवल छानकर अलग किया जा सकता है"
+        ],
+        "en": [
+          "It has a fixed composition",
+          "Its composition always changes",
+          "It must contain two elements",
+          "It can only be separated by filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q124",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: शुद्ध पदार्थ की एक महत्वपूर्ण विशेषता क्या है?",
+        "en": "In the context of chemistry, answer: What is an important characteristic of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "उसकी संरचना निश्चित होती है",
+          "उसकी संरचना हमेशा बदलती रहती है",
+          "उसमें अनिवार्य रूप से दो तत्व होते हैं",
+          "उसे केवल छानकर अलग किया जा सकता है"
+        ],
+        "en": [
+          "It has a fixed composition",
+          "Its composition always changes",
+          "It must contain two elements",
+          "It can only be separated by filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q125",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: शुद्ध पदार्थ की एक महत्वपूर्ण विशेषता क्या है?",
+        "en": "Practice question: What is an important characteristic of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "उसकी संरचना निश्चित होती है",
+          "उसकी संरचना हमेशा बदलती रहती है",
+          "उसमें अनिवार्य रूप से दो तत्व होते हैं",
+          "उसे केवल छानकर अलग किया जा सकता है"
+        ],
+        "en": [
+          "It has a fixed composition",
+          "Its composition always changes",
+          "It must contain two elements",
+          "It can only be separated by filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q126",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि शुद्ध पदार्थ की एक महत्वपूर्ण विशेषता क्या है?",
+        "en": "If asked in an exam: What is an important characteristic of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "उसकी संरचना निश्चित होती है",
+          "उसकी संरचना हमेशा बदलती रहती है",
+          "उसमें अनिवार्य रूप से दो तत्व होते हैं",
+          "उसे केवल छानकर अलग किया जा सकता है"
+        ],
+        "en": [
+          "It has a fixed composition",
+          "Its composition always changes",
+          "It must contain two elements",
+          "It can only be separated by filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q127",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: विलयन किस प्रकार का मिश्रण है?",
+        "en": "Choose the correct answer: What type of mixture is a solution?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "विषमांगी मिश्रण",
+          "केवल ठोस मिश्रण",
+          "केवल गैसीय मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Heterogeneous mixture",
+          "Only a solid mixture",
+          "Only a gaseous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q128",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: विलयन किस प्रकार का मिश्रण है?",
+        "en": "In the context of chemistry, answer: What type of mixture is a solution?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "विषमांगी मिश्रण",
+          "केवल ठोस मिश्रण",
+          "केवल गैसीय मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Heterogeneous mixture",
+          "Only a solid mixture",
+          "Only a gaseous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q129",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: विलयन किस प्रकार का मिश्रण है?",
+        "en": "Practice question: What type of mixture is a solution?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "विषमांगी मिश्रण",
+          "केवल ठोस मिश्रण",
+          "केवल गैसीय मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Heterogeneous mixture",
+          "Only a solid mixture",
+          "Only a gaseous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q130",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि विलयन किस प्रकार का मिश्रण है?",
+        "en": "If asked in an exam: What type of mixture is a solution?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "विषमांगी मिश्रण",
+          "केवल ठोस मिश्रण",
+          "केवल गैसीय मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Heterogeneous mixture",
+          "Only a solid mixture",
+          "Only a gaseous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q131",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: चीनी के पानी में चीनी क्या कहलाती है?",
+        "en": "Choose the correct answer: In sugar water, what is sugar called?"
+      },
+      "options": {
+        "hi": [
+          "विलेय",
+          "विलायक",
+          "निस्यंद",
+          "अवशेष"
+        ],
+        "en": [
+          "Solute",
+          "Solvent",
+          "Filtrate",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q132",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: चीनी के पानी में चीनी क्या कहलाती है?",
+        "en": "In the context of chemistry, answer: In sugar water, what is sugar called?"
+      },
+      "options": {
+        "hi": [
+          "विलेय",
+          "विलायक",
+          "निस्यंद",
+          "अवशेष"
+        ],
+        "en": [
+          "Solute",
+          "Solvent",
+          "Filtrate",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q133",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: चीनी के पानी में चीनी क्या कहलाती है?",
+        "en": "Practice question: In sugar water, what is sugar called?"
+      },
+      "options": {
+        "hi": [
+          "विलेय",
+          "विलायक",
+          "निस्यंद",
+          "अवशेष"
+        ],
+        "en": [
+          "Solute",
+          "Solvent",
+          "Filtrate",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q134",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि चीनी के पानी में चीनी क्या कहलाती है?",
+        "en": "If asked in an exam: In sugar water, what is sugar called?"
+      },
+      "options": {
+        "hi": [
+          "विलेय",
+          "विलायक",
+          "निस्यंद",
+          "अवशेष"
+        ],
+        "en": [
+          "Solute",
+          "Solvent",
+          "Filtrate",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q135",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: चीनी के पानी में पानी क्या कहलाता है?",
+        "en": "Choose the correct answer: In sugar water, what is water called?"
+      },
+      "options": {
+        "hi": [
+          "विलायक",
+          "विलेय",
+          "तलछट",
+          "अवशेष"
+        ],
+        "en": [
+          "Solvent",
+          "Solute",
+          "Sediment",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q136",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: चीनी के पानी में पानी क्या कहलाता है?",
+        "en": "In the context of chemistry, answer: In sugar water, what is water called?"
+      },
+      "options": {
+        "hi": [
+          "विलायक",
+          "विलेय",
+          "तलछट",
+          "अवशेष"
+        ],
+        "en": [
+          "Solvent",
+          "Solute",
+          "Sediment",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q137",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: चीनी के पानी में पानी क्या कहलाता है?",
+        "en": "Practice question: In sugar water, what is water called?"
+      },
+      "options": {
+        "hi": [
+          "विलायक",
+          "विलेय",
+          "तलछट",
+          "अवशेष"
+        ],
+        "en": [
+          "Solvent",
+          "Solute",
+          "Sediment",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q138",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि चीनी के पानी में पानी क्या कहलाता है?",
+        "en": "If asked in an exam: In sugar water, what is water called?"
+      },
+      "options": {
+        "hi": [
+          "विलायक",
+          "विलेय",
+          "तलछट",
+          "अवशेष"
+        ],
+        "en": [
+          "Solvent",
+          "Solute",
+          "Sediment",
+          "Residue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q139",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समुद्री जल से पीने योग्य पानी प्राप्त करने के लिए कौन-सी प्रक्रिया उपयोगी है?",
+        "en": "Choose the correct answer: Which process is useful for obtaining fresh water from seawater?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन मात्र",
+          "चुंबकीय पृथक्करण",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration alone",
+          "Magnetic separation",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q140",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: समुद्री जल से पीने योग्य पानी प्राप्त करने के लिए कौन-सी प्रक्रिया उपयोगी है?",
+        "en": "In the context of chemistry, answer: Which process is useful for obtaining fresh water from seawater?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन मात्र",
+          "चुंबकीय पृथक्करण",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration alone",
+          "Magnetic separation",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q141",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समुद्री जल से पीने योग्य पानी प्राप्त करने के लिए कौन-सी प्रक्रिया उपयोगी है?",
+        "en": "Practice question: Which process is useful for obtaining fresh water from seawater?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन मात्र",
+          "चुंबकीय पृथक्करण",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration alone",
+          "Magnetic separation",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q142",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समुद्री जल से पीने योग्य पानी प्राप्त करने के लिए कौन-सी प्रक्रिया उपयोगी है?",
+        "en": "If asked in an exam: Which process is useful for obtaining fresh water from seawater?"
+      },
+      "options": {
+        "hi": [
+          "आसवन",
+          "निस्यंदन मात्र",
+          "चुंबकीय पृथक्करण",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "Distillation",
+          "Filtration alone",
+          "Magnetic separation",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q143",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: क्रिस्टलीकरण का एक प्रमुख लाभ क्या है?",
+        "en": "Choose the correct answer: What is a major advantage of crystallization?"
+      },
+      "options": {
+        "hi": [
+          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
+          "लोहे को चुंबक से अलग करना",
+          "केवल गैसों को अलग करना",
+          "बड़े पत्थर चुनना"
+        ],
+        "en": [
+          "Obtaining a dissolved solid as relatively pure crystals",
+          "Separating iron with a magnet",
+          "Separating only gases",
+          "Picking large stones"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q144",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: क्रिस्टलीकरण का एक प्रमुख लाभ क्या है?",
+        "en": "In the context of chemistry, answer: What is a major advantage of crystallization?"
+      },
+      "options": {
+        "hi": [
+          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
+          "लोहे को चुंबक से अलग करना",
+          "केवल गैसों को अलग करना",
+          "बड़े पत्थर चुनना"
+        ],
+        "en": [
+          "Obtaining a dissolved solid as relatively pure crystals",
+          "Separating iron with a magnet",
+          "Separating only gases",
+          "Picking large stones"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q145",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: क्रिस्टलीकरण का एक प्रमुख लाभ क्या है?",
+        "en": "Practice question: What is a major advantage of crystallization?"
+      },
+      "options": {
+        "hi": [
+          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
+          "लोहे को चुंबक से अलग करना",
+          "केवल गैसों को अलग करना",
+          "बड़े पत्थर चुनना"
+        ],
+        "en": [
+          "Obtaining a dissolved solid as relatively pure crystals",
+          "Separating iron with a magnet",
+          "Separating only gases",
+          "Picking large stones"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q146",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि क्रिस्टलीकरण का एक प्रमुख लाभ क्या है?",
+        "en": "If asked in an exam: What is a major advantage of crystallization?"
+      },
+      "options": {
+        "hi": [
+          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
+          "लोहे को चुंबक से अलग करना",
+          "केवल गैसों को अलग करना",
+          "बड़े पत्थर चुनना"
+        ],
+        "en": [
+          "Obtaining a dissolved solid as relatively pure crystals",
+          "Separating iron with a magnet",
+          "Separating only gases",
+          "Picking large stones"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q147",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: पृथक्करण की सही विधि चुनने का आधार क्या होना चाहिए?",
+        "en": "Choose the correct answer: What should be the basis for choosing a suitable separation method?"
+      },
+      "options": {
+        "hi": [
+          "घटकों के भौतिक गुणों में अंतर",
+          "केवल मिश्रण का रंग",
+          "केवल मिश्रण का नाम",
+          "केवल पात्र का आकार"
+        ],
+        "en": [
+          "Difference in physical properties of the components",
+          "Only the colour of the mixture",
+          "Only the name of the mixture",
+          "Only the size of the container"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q148",
+      "topic": "separation-and-mixtures",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: पृथक्करण की सही विधि चुनने का आधार क्या होना चाहिए?",
+        "en": "In the context of chemistry, answer: What should be the basis for choosing a suitable separation method?"
+      },
+      "options": {
+        "hi": [
+          "घटकों के भौतिक गुणों में अंतर",
+          "केवल मिश्रण का रंग",
+          "केवल मिश्रण का नाम",
+          "केवल पात्र का आकार"
+        ],
+        "en": [
+          "Difference in physical properties of the components",
+          "Only the colour of the mixture",
+          "Only the name of the mixture",
+          "Only the size of the container"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q149",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: पृथक्करण की सही विधि चुनने का आधार क्या होना चाहिए?",
+        "en": "Practice question: What should be the basis for choosing a suitable separation method?"
+      },
+      "options": {
+        "hi": [
+          "घटकों के भौतिक गुणों में अंतर",
+          "केवल मिश्रण का रंग",
+          "केवल मिश्रण का नाम",
+          "केवल पात्र का आकार"
+        ],
+        "en": [
+          "Difference in physical properties of the components",
+          "Only the colour of the mixture",
+          "Only the name of the mixture",
+          "Only the size of the container"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
+    },
+    {
+      "id": "c03q150",
+      "topic": "separation-and-mixtures",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि पृथक्करण की सही विधि चुनने का आधार क्या होना चाहिए?",
+        "en": "If asked in an exam: What should be the basis for choosing a suitable separation method?"
+      },
+      "options": {
+        "hi": [
+          "घटकों के भौतिक गुणों में अंतर",
+          "केवल मिश्रण का रंग",
+          "केवल मिश्रण का नाम",
+          "केवल पात्र का आकार"
+        ],
+        "en": [
+          "Difference in physical properties of the components",
+          "Only the colour of the mixture",
+          "Only the name of the mixture",
+          "Only the size of the container"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न पदार्थों के मिश्रण और उनके भौतिक पृथक्करण की विधि पर आधारित है।",
+        "en": "This question tests the concept of mixtures and the appropriate physical separation method."
+      }
     }
   ]
 }
