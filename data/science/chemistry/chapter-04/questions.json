@@ -840,6 +840,3366 @@
         "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
         "en": "This question tests a core chemistry concept from the chapter."
       }
+    },
+    {
+      "id": "c04q031",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: तत्व क्या है?",
+        "en": "Choose the correct answer: What is an element?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
+          "दो पदार्थों का मिश्रण",
+          "केवल एक प्रकार का मिश्रण",
+          "हमेशा दो तत्वों का मेल"
+        ],
+        "en": [
+          "A pure substance that cannot be broken into simpler substances by chemical means",
+          "A mixture of two substances",
+          "Only one type of mixture",
+          "Always a combination of two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q032",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: तत्व क्या है?",
+        "en": "In the context of chemistry, answer: What is an element?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
+          "दो पदार्थों का मिश्रण",
+          "केवल एक प्रकार का मिश्रण",
+          "हमेशा दो तत्वों का मेल"
+        ],
+        "en": [
+          "A pure substance that cannot be broken into simpler substances by chemical means",
+          "A mixture of two substances",
+          "Only one type of mixture",
+          "Always a combination of two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q033",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: तत्व क्या है?",
+        "en": "Practice question: What is an element?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
+          "दो पदार्थों का मिश्रण",
+          "केवल एक प्रकार का मिश्रण",
+          "हमेशा दो तत्वों का मेल"
+        ],
+        "en": [
+          "A pure substance that cannot be broken into simpler substances by chemical means",
+          "A mixture of two substances",
+          "Only one type of mixture",
+          "Always a combination of two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q034",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि तत्व क्या है?",
+        "en": "If asked in an exam: What is an element?"
+      },
+      "options": {
+        "hi": [
+          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
+          "दो पदार्थों का मिश्रण",
+          "केवल एक प्रकार का मिश्रण",
+          "हमेशा दो तत्वों का मेल"
+        ],
+        "en": [
+          "A pure substance that cannot be broken into simpler substances by chemical means",
+          "A mixture of two substances",
+          "Only one type of mixture",
+          "Always a combination of two elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q035",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यौगिक किससे बनता है?",
+        "en": "Choose the correct answer: What is a compound made of?"
+      },
+      "options": {
+        "hi": [
+          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
+          "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
+          "केवल धातुओं से",
+          "केवल गैसों से"
+        ],
+        "en": [
+          "Chemical combination of elements in a fixed ratio",
+          "Physical mixing in any ratio",
+          "Only metals",
+          "Only gases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q036",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: यौगिक किससे बनता है?",
+        "en": "In the context of chemistry, answer: What is a compound made of?"
+      },
+      "options": {
+        "hi": [
+          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
+          "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
+          "केवल धातुओं से",
+          "केवल गैसों से"
+        ],
+        "en": [
+          "Chemical combination of elements in a fixed ratio",
+          "Physical mixing in any ratio",
+          "Only metals",
+          "Only gases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q037",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यौगिक किससे बनता है?",
+        "en": "Practice question: What is a compound made of?"
+      },
+      "options": {
+        "hi": [
+          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
+          "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
+          "केवल धातुओं से",
+          "केवल गैसों से"
+        ],
+        "en": [
+          "Chemical combination of elements in a fixed ratio",
+          "Physical mixing in any ratio",
+          "Only metals",
+          "Only gases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q038",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यौगिक किससे बनता है?",
+        "en": "If asked in an exam: What is a compound made of?"
+      },
+      "options": {
+        "hi": [
+          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
+          "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
+          "केवल धातुओं से",
+          "केवल गैसों से"
+        ],
+        "en": [
+          "Chemical combination of elements in a fixed ratio",
+          "Physical mixing in any ratio",
+          "Only metals",
+          "Only gases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q039",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: जल किसका उदाहरण है?",
+        "en": "Choose the correct answer: Water is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण",
+          "तत्वों का भौतिक मिश्रण"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Heterogeneous mixture",
+          "Physical mixture of elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q040",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: जल किसका उदाहरण है?",
+        "en": "In the context of chemistry, answer: Water is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण",
+          "तत्वों का भौतिक मिश्रण"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Heterogeneous mixture",
+          "Physical mixture of elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q041",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: जल किसका उदाहरण है?",
+        "en": "Practice question: Water is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण",
+          "तत्वों का भौतिक मिश्रण"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Heterogeneous mixture",
+          "Physical mixture of elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q042",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि जल किसका उदाहरण है?",
+        "en": "If asked in an exam: Water is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण",
+          "तत्वों का भौतिक मिश्रण"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Heterogeneous mixture",
+          "Physical mixture of elements"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q043",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ऑक्सीजन क्या है?",
+        "en": "Choose the correct answer: What is oxygen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q044",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: ऑक्सीजन क्या है?",
+        "en": "In the context of chemistry, answer: What is oxygen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q045",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ऑक्सीजन क्या है?",
+        "en": "Practice question: What is oxygen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q046",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ऑक्सीजन क्या है?",
+        "en": "If asked in an exam: What is oxygen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q047",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: वायु किस प्रकार का पदार्थ है?",
+        "en": "Choose the correct answer: What type of substance is air?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q048",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: वायु किस प्रकार का पदार्थ है?",
+        "en": "In the context of chemistry, answer: What type of substance is air?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q049",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: वायु किस प्रकार का पदार्थ है?",
+        "en": "Practice question: What type of substance is air?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q050",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि वायु किस प्रकार का पदार्थ है?",
+        "en": "If asked in an exam: What type of substance is air?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q051",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यौगिक के घटक तत्वों का अनुपात कैसा होता है?",
+        "en": "Choose the correct answer: What is the ratio of constituent elements in a compound?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलता हुआ",
+          "कोई निश्चित अनुपात नहीं",
+          "केवल 1:1"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "No fixed ratio",
+          "Only 1:1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q052",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: यौगिक के घटक तत्वों का अनुपात कैसा होता है?",
+        "en": "In the context of chemistry, answer: What is the ratio of constituent elements in a compound?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलता हुआ",
+          "कोई निश्चित अनुपात नहीं",
+          "केवल 1:1"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "No fixed ratio",
+          "Only 1:1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q053",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यौगिक के घटक तत्वों का अनुपात कैसा होता है?",
+        "en": "Practice question: What is the ratio of constituent elements in a compound?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलता हुआ",
+          "कोई निश्चित अनुपात नहीं",
+          "केवल 1:1"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "No fixed ratio",
+          "Only 1:1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q054",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यौगिक के घटक तत्वों का अनुपात कैसा होता है?",
+        "en": "If asked in an exam: What is the ratio of constituent elements in a compound?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलता हुआ",
+          "कोई निश्चित अनुपात नहीं",
+          "केवल 1:1"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "No fixed ratio",
+          "Only 1:1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q055",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रण में घटकों के अनुपात में क्या हो सकता है?",
+        "en": "Choose the correct answer: What can happen to the ratio of components in a mixture?"
+      },
+      "options": {
+        "hi": [
+          "वह बदल सकता है",
+          "वह हमेशा निश्चित रहता है",
+          "वह केवल 1:1 होता है",
+          "वह शून्य होता है"
+        ],
+        "en": [
+          "It can vary",
+          "It is always fixed",
+          "It is always 1:1",
+          "It is zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q056",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रण में घटकों के अनुपात में क्या हो सकता है?",
+        "en": "In the context of chemistry, answer: What can happen to the ratio of components in a mixture?"
+      },
+      "options": {
+        "hi": [
+          "वह बदल सकता है",
+          "वह हमेशा निश्चित रहता है",
+          "वह केवल 1:1 होता है",
+          "वह शून्य होता है"
+        ],
+        "en": [
+          "It can vary",
+          "It is always fixed",
+          "It is always 1:1",
+          "It is zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q057",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: मिश्रण में घटकों के अनुपात में क्या हो सकता है?",
+        "en": "Practice question: What can happen to the ratio of components in a mixture?"
+      },
+      "options": {
+        "hi": [
+          "वह बदल सकता है",
+          "वह हमेशा निश्चित रहता है",
+          "वह केवल 1:1 होता है",
+          "वह शून्य होता है"
+        ],
+        "en": [
+          "It can vary",
+          "It is always fixed",
+          "It is always 1:1",
+          "It is zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q058",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि मिश्रण में घटकों के अनुपात में क्या हो सकता है?",
+        "en": "If asked in an exam: What can happen to the ratio of components in a mixture?"
+      },
+      "options": {
+        "hi": [
+          "वह बदल सकता है",
+          "वह हमेशा निश्चित रहता है",
+          "वह केवल 1:1 होता है",
+          "वह शून्य होता है"
+        ],
+        "en": [
+          "It can vary",
+          "It is always fixed",
+          "It is always 1:1",
+          "It is zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q059",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: पीतल किसका उदाहरण है?",
+        "en": "Choose the correct answer: Brass is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध धातु"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q060",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: पीतल किसका उदाहरण है?",
+        "en": "In the context of chemistry, answer: Brass is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध धातु"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q061",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: पीतल किसका उदाहरण है?",
+        "en": "Practice question: Brass is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध धातु"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q062",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि पीतल किसका उदाहरण है?",
+        "en": "If asked in an exam: Brass is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध धातु"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q063",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: सोडियम क्लोराइड किस प्रकार का पदार्थ है?",
+        "en": "Choose the correct answer: What type of substance is sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "निलंबन"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q064",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: सोडियम क्लोराइड किस प्रकार का पदार्थ है?",
+        "en": "In the context of chemistry, answer: What type of substance is sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "निलंबन"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q065",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: सोडियम क्लोराइड किस प्रकार का पदार्थ है?",
+        "en": "Practice question: What type of substance is sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "निलंबन"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q066",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि सोडियम क्लोराइड किस प्रकार का पदार्थ है?",
+        "en": "If asked in an exam: What type of substance is sodium chloride?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "निलंबन"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q067",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: समांगी मिश्रण में संरचना कैसी होती है?",
+        "en": "Choose the correct answer: What is the composition of a homogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "समान रूप से वितरित",
+          "हर जगह अलग-अलग",
+          "केवल ठोस",
+          "केवल गैस"
+        ],
+        "en": [
+          "Uniformly distributed",
+          "Different everywhere",
+          "Only solid",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q068",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: समांगी मिश्रण में संरचना कैसी होती है?",
+        "en": "In the context of chemistry, answer: What is the composition of a homogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "समान रूप से वितरित",
+          "हर जगह अलग-अलग",
+          "केवल ठोस",
+          "केवल गैस"
+        ],
+        "en": [
+          "Uniformly distributed",
+          "Different everywhere",
+          "Only solid",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q069",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: समांगी मिश्रण में संरचना कैसी होती है?",
+        "en": "Practice question: What is the composition of a homogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "समान रूप से वितरित",
+          "हर जगह अलग-अलग",
+          "केवल ठोस",
+          "केवल गैस"
+        ],
+        "en": [
+          "Uniformly distributed",
+          "Different everywhere",
+          "Only solid",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q070",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि समांगी मिश्रण में संरचना कैसी होती है?",
+        "en": "If asked in an exam: What is the composition of a homogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "समान रूप से वितरित",
+          "हर जगह अलग-अलग",
+          "केवल ठोस",
+          "केवल गैस"
+        ],
+        "en": [
+          "Uniformly distributed",
+          "Different everywhere",
+          "Only solid",
+          "Only gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q071",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: विषमांगी मिश्रण की मुख्य विशेषता क्या है?",
+        "en": "Choose the correct answer: What is a key feature of a heterogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "संघटक समान रूप से वितरित नहीं होते",
+          "संरचना हमेशा निश्चित होती है",
+          "वह हमेशा तत्व होता है",
+          "वह केवल गैस होता है"
+        ],
+        "en": [
+          "Components are not uniformly distributed",
+          "Composition is always fixed",
+          "It is always an element",
+          "It is only a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q072",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: विषमांगी मिश्रण की मुख्य विशेषता क्या है?",
+        "en": "In the context of chemistry, answer: What is a key feature of a heterogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "संघटक समान रूप से वितरित नहीं होते",
+          "संरचना हमेशा निश्चित होती है",
+          "वह हमेशा तत्व होता है",
+          "वह केवल गैस होता है"
+        ],
+        "en": [
+          "Components are not uniformly distributed",
+          "Composition is always fixed",
+          "It is always an element",
+          "It is only a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q073",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: विषमांगी मिश्रण की मुख्य विशेषता क्या है?",
+        "en": "Practice question: What is a key feature of a heterogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "संघटक समान रूप से वितरित नहीं होते",
+          "संरचना हमेशा निश्चित होती है",
+          "वह हमेशा तत्व होता है",
+          "वह केवल गैस होता है"
+        ],
+        "en": [
+          "Components are not uniformly distributed",
+          "Composition is always fixed",
+          "It is always an element",
+          "It is only a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q074",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि विषमांगी मिश्रण की मुख्य विशेषता क्या है?",
+        "en": "If asked in an exam: What is a key feature of a heterogeneous mixture?"
+      },
+      "options": {
+        "hi": [
+          "संघटक समान रूप से वितरित नहीं होते",
+          "संरचना हमेशा निश्चित होती है",
+          "वह हमेशा तत्व होता है",
+          "वह केवल गैस होता है"
+        ],
+        "en": [
+          "Components are not uniformly distributed",
+          "Composition is always fixed",
+          "It is always an element",
+          "It is only a gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q075",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: लोहे को किस प्रतीक से दर्शाते हैं?",
+        "en": "Choose the correct answer: Which symbol represents iron?"
+      },
+      "options": {
+        "hi": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ],
+        "en": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q076",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: लोहे को किस प्रतीक से दर्शाते हैं?",
+        "en": "In the context of chemistry, answer: Which symbol represents iron?"
+      },
+      "options": {
+        "hi": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ],
+        "en": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q077",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: लोहे को किस प्रतीक से दर्शाते हैं?",
+        "en": "Practice question: Which symbol represents iron?"
+      },
+      "options": {
+        "hi": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ],
+        "en": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q078",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि लोहे को किस प्रतीक से दर्शाते हैं?",
+        "en": "If asked in an exam: Which symbol represents iron?"
+      },
+      "options": {
+        "hi": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ],
+        "en": [
+          "Fe",
+          "F",
+          "Ir",
+          "I"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q079",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: तांबे का रासायनिक प्रतीक क्या है?",
+        "en": "Choose the correct answer: What is the chemical symbol for copper?"
+      },
+      "options": {
+        "hi": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ],
+        "en": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q080",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: तांबे का रासायनिक प्रतीक क्या है?",
+        "en": "In the context of chemistry, answer: What is the chemical symbol for copper?"
+      },
+      "options": {
+        "hi": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ],
+        "en": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q081",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: तांबे का रासायनिक प्रतीक क्या है?",
+        "en": "Practice question: What is the chemical symbol for copper?"
+      },
+      "options": {
+        "hi": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ],
+        "en": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q082",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि तांबे का रासायनिक प्रतीक क्या है?",
+        "en": "If asked in an exam: What is the chemical symbol for copper?"
+      },
+      "options": {
+        "hi": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ],
+        "en": [
+          "Cu",
+          "Co",
+          "C",
+          "Cp"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q083",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: सोडियम का प्रतीक क्या है?",
+        "en": "Choose the correct answer: What is the symbol of sodium?"
+      },
+      "options": {
+        "hi": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ],
+        "en": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q084",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: सोडियम का प्रतीक क्या है?",
+        "en": "In the context of chemistry, answer: What is the symbol of sodium?"
+      },
+      "options": {
+        "hi": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ],
+        "en": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q085",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: सोडियम का प्रतीक क्या है?",
+        "en": "Practice question: What is the symbol of sodium?"
+      },
+      "options": {
+        "hi": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ],
+        "en": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q086",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि सोडियम का प्रतीक क्या है?",
+        "en": "If asked in an exam: What is the symbol of sodium?"
+      },
+      "options": {
+        "hi": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ],
+        "en": [
+          "Na",
+          "S",
+          "So",
+          "N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q087",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यौगिक के गुण उसके तत्वों से कैसे होते हैं?",
+        "en": "Choose the correct answer: How are the properties of a compound related to its elements?"
+      },
+      "options": {
+        "hi": [
+          "अक्सर भिन्न होते हैं",
+          "हमेशा बिल्कुल समान होते हैं",
+          "हमेशा केवल धातु जैसे होते हैं",
+          "कोई संबंध नहीं"
+        ],
+        "en": [
+          "They are often different",
+          "Always exactly the same",
+          "Always metallic",
+          "No relation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q088",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: यौगिक के गुण उसके तत्वों से कैसे होते हैं?",
+        "en": "In the context of chemistry, answer: How are the properties of a compound related to its elements?"
+      },
+      "options": {
+        "hi": [
+          "अक्सर भिन्न होते हैं",
+          "हमेशा बिल्कुल समान होते हैं",
+          "हमेशा केवल धातु जैसे होते हैं",
+          "कोई संबंध नहीं"
+        ],
+        "en": [
+          "They are often different",
+          "Always exactly the same",
+          "Always metallic",
+          "No relation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q089",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यौगिक के गुण उसके तत्वों से कैसे होते हैं?",
+        "en": "Practice question: How are the properties of a compound related to its elements?"
+      },
+      "options": {
+        "hi": [
+          "अक्सर भिन्न होते हैं",
+          "हमेशा बिल्कुल समान होते हैं",
+          "हमेशा केवल धातु जैसे होते हैं",
+          "कोई संबंध नहीं"
+        ],
+        "en": [
+          "They are often different",
+          "Always exactly the same",
+          "Always metallic",
+          "No relation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q090",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यौगिक के गुण उसके तत्वों से कैसे होते हैं?",
+        "en": "If asked in an exam: How are the properties of a compound related to its elements?"
+      },
+      "options": {
+        "hi": [
+          "अक्सर भिन्न होते हैं",
+          "हमेशा बिल्कुल समान होते हैं",
+          "हमेशा केवल धातु जैसे होते हैं",
+          "कोई संबंध नहीं"
+        ],
+        "en": [
+          "They are often different",
+          "Always exactly the same",
+          "Always metallic",
+          "No relation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q091",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रण के घटक अपने मूल गुण रखते हैं या नहीं?",
+        "en": "Choose the correct answer: Do components of a mixture retain their original properties?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, सामान्यतः",
+          "नहीं, हमेशा नष्ट हो जाते हैं",
+          "केवल गैस रखते हैं",
+          "केवल ठोस रखते हैं"
+        ],
+        "en": [
+          "Yes, generally",
+          "No, they are always destroyed",
+          "Only gases retain them",
+          "Only solids retain them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q092",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रण के घटक अपने मूल गुण रखते हैं या नहीं?",
+        "en": "In the context of chemistry, answer: Do components of a mixture retain their original properties?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, सामान्यतः",
+          "नहीं, हमेशा नष्ट हो जाते हैं",
+          "केवल गैस रखते हैं",
+          "केवल ठोस रखते हैं"
+        ],
+        "en": [
+          "Yes, generally",
+          "No, they are always destroyed",
+          "Only gases retain them",
+          "Only solids retain them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q093",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: मिश्रण के घटक अपने मूल गुण रखते हैं या नहीं?",
+        "en": "Practice question: Do components of a mixture retain their original properties?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, सामान्यतः",
+          "नहीं, हमेशा नष्ट हो जाते हैं",
+          "केवल गैस रखते हैं",
+          "केवल ठोस रखते हैं"
+        ],
+        "en": [
+          "Yes, generally",
+          "No, they are always destroyed",
+          "Only gases retain them",
+          "Only solids retain them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q094",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि मिश्रण के घटक अपने मूल गुण रखते हैं या नहीं?",
+        "en": "If asked in an exam: Do components of a mixture retain their original properties?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, सामान्यतः",
+          "नहीं, हमेशा नष्ट हो जाते हैं",
+          "केवल गैस रखते हैं",
+          "केवल ठोस रखते हैं"
+        ],
+        "en": [
+          "Yes, generally",
+          "No, they are always destroyed",
+          "Only gases retain them",
+          "Only solids retain them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q095",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: यौगिक को अलग करने के लिए सामान्यतः क्या चाहिए?",
+        "en": "Choose the correct answer: What is generally needed to separate a compound?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक विधि",
+          "साधारण छानना",
+          "चुंबक",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "A chemical method",
+          "Simple filtration",
+          "A magnet",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q096",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: यौगिक को अलग करने के लिए सामान्यतः क्या चाहिए?",
+        "en": "In the context of chemistry, answer: What is generally needed to separate a compound?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक विधि",
+          "साधारण छानना",
+          "चुंबक",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "A chemical method",
+          "Simple filtration",
+          "A magnet",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q097",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: यौगिक को अलग करने के लिए सामान्यतः क्या चाहिए?",
+        "en": "Practice question: What is generally needed to separate a compound?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक विधि",
+          "साधारण छानना",
+          "चुंबक",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "A chemical method",
+          "Simple filtration",
+          "A magnet",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q098",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि यौगिक को अलग करने के लिए सामान्यतः क्या चाहिए?",
+        "en": "If asked in an exam: What is generally needed to separate a compound?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक विधि",
+          "साधारण छानना",
+          "चुंबक",
+          "हाथ से चुनना"
+        ],
+        "en": [
+          "A chemical method",
+          "Simple filtration",
+          "A magnet",
+          "Handpicking"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q099",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: नमक-पानी क्या है?",
+        "en": "Choose the correct answer: What is salt water?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Compound",
+          "Element",
+          "Heterogeneous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q100",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: नमक-पानी क्या है?",
+        "en": "In the context of chemistry, answer: What is salt water?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Compound",
+          "Element",
+          "Heterogeneous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q101",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: नमक-पानी क्या है?",
+        "en": "Practice question: What is salt water?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Compound",
+          "Element",
+          "Heterogeneous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q102",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि नमक-पानी क्या है?",
+        "en": "If asked in an exam: What is salt water?"
+      },
+      "options": {
+        "hi": [
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "विषमांगी मिश्रण"
+        ],
+        "en": [
+          "Homogeneous mixture",
+          "Compound",
+          "Element",
+          "Heterogeneous mixture"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q103",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: ग्रेनाइट किस प्रकार का मिश्रण है?",
+        "en": "Choose the correct answer: What type of mixture is granite?"
+      },
+      "options": {
+        "hi": [
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व"
+        ],
+        "en": [
+          "Heterogeneous mixture",
+          "Homogeneous mixture",
+          "Compound",
+          "Element"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q104",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: ग्रेनाइट किस प्रकार का मिश्रण है?",
+        "en": "In the context of chemistry, answer: What type of mixture is granite?"
+      },
+      "options": {
+        "hi": [
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व"
+        ],
+        "en": [
+          "Heterogeneous mixture",
+          "Homogeneous mixture",
+          "Compound",
+          "Element"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q105",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: ग्रेनाइट किस प्रकार का मिश्रण है?",
+        "en": "Practice question: What type of mixture is granite?"
+      },
+      "options": {
+        "hi": [
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व"
+        ],
+        "en": [
+          "Heterogeneous mixture",
+          "Homogeneous mixture",
+          "Compound",
+          "Element"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q106",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि ग्रेनाइट किस प्रकार का मिश्रण है?",
+        "en": "If asked in an exam: What type of mixture is granite?"
+      },
+      "options": {
+        "hi": [
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण",
+          "यौगिक",
+          "तत्व"
+        ],
+        "en": [
+          "Heterogeneous mixture",
+          "Homogeneous mixture",
+          "Compound",
+          "Element"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q107",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: शुद्ध पदार्थ की संरचना कैसी होती है?",
+        "en": "Choose the correct answer: What is the composition of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलती हुई",
+          "अनिश्चित",
+          "केवल गैसीय"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "Uncertain",
+          "Only gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q108",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: शुद्ध पदार्थ की संरचना कैसी होती है?",
+        "en": "In the context of chemistry, answer: What is the composition of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलती हुई",
+          "अनिश्चित",
+          "केवल गैसीय"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "Uncertain",
+          "Only gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q109",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: शुद्ध पदार्थ की संरचना कैसी होती है?",
+        "en": "Practice question: What is the composition of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलती हुई",
+          "अनिश्चित",
+          "केवल गैसीय"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "Uncertain",
+          "Only gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q110",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि शुद्ध पदार्थ की संरचना कैसी होती है?",
+        "en": "If asked in an exam: What is the composition of a pure substance?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित",
+          "हमेशा बदलती हुई",
+          "अनिश्चित",
+          "केवल गैसीय"
+        ],
+        "en": [
+          "Fixed",
+          "Always changing",
+          "Uncertain",
+          "Only gaseous"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q111",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: किसमें गलनांक और क्वथनांक निश्चित होते हैं?",
+        "en": "Choose the correct answer: Which generally has definite melting and boiling points?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "हर मिश्रण",
+          "केवल निलंबन",
+          "केवल कोलॉइड"
+        ],
+        "en": [
+          "Pure substance",
+          "Every mixture",
+          "Only suspensions",
+          "Only colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q112",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: किसमें गलनांक और क्वथनांक निश्चित होते हैं?",
+        "en": "In the context of chemistry, answer: Which generally has definite melting and boiling points?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "हर मिश्रण",
+          "केवल निलंबन",
+          "केवल कोलॉइड"
+        ],
+        "en": [
+          "Pure substance",
+          "Every mixture",
+          "Only suspensions",
+          "Only colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q113",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: किसमें गलनांक और क्वथनांक निश्चित होते हैं?",
+        "en": "Practice question: Which generally has definite melting and boiling points?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "हर मिश्रण",
+          "केवल निलंबन",
+          "केवल कोलॉइड"
+        ],
+        "en": [
+          "Pure substance",
+          "Every mixture",
+          "Only suspensions",
+          "Only colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q114",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि किसमें गलनांक और क्वथनांक निश्चित होते हैं?",
+        "en": "If asked in an exam: Which generally has definite melting and boiling points?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "हर मिश्रण",
+          "केवल निलंबन",
+          "केवल कोलॉइड"
+        ],
+        "en": [
+          "Pure substance",
+          "Every mixture",
+          "Only suspensions",
+          "Only colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q115",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: दूध किस प्रकार का मिश्रण माना जाता है?",
+        "en": "Choose the correct answer: What type of mixture is milk considered?"
+      },
+      "options": {
+        "hi": [
+          "कोलॉइड",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Colloid",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q116",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: दूध किस प्रकार का मिश्रण माना जाता है?",
+        "en": "In the context of chemistry, answer: What type of mixture is milk considered?"
+      },
+      "options": {
+        "hi": [
+          "कोलॉइड",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Colloid",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q117",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: दूध किस प्रकार का मिश्रण माना जाता है?",
+        "en": "Practice question: What type of mixture is milk considered?"
+      },
+      "options": {
+        "hi": [
+          "कोलॉइड",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Colloid",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q118",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि दूध किस प्रकार का मिश्रण माना जाता है?",
+        "en": "If asked in an exam: What type of mixture is milk considered?"
+      },
+      "options": {
+        "hi": [
+          "कोलॉइड",
+          "तत्व",
+          "यौगिक",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Colloid",
+          "Element",
+          "Compound",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q119",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कांसा मुख्यतः किसका मिश्रण है?",
+        "en": "Choose the correct answer: Bronze is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Copper and tin",
+          "Iron and carbon",
+          "Copper and zinc",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q120",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कांसा मुख्यतः किसका मिश्रण है?",
+        "en": "In the context of chemistry, answer: Bronze is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Copper and tin",
+          "Iron and carbon",
+          "Copper and zinc",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q121",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कांसा मुख्यतः किसका मिश्रण है?",
+        "en": "Practice question: Bronze is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Copper and tin",
+          "Iron and carbon",
+          "Copper and zinc",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q122",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कांसा मुख्यतः किसका मिश्रण है?",
+        "en": "If asked in an exam: Bronze is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "तांबा और जस्ता",
+          "सोडियम और क्लोरीन"
+        ],
+        "en": [
+          "Copper and tin",
+          "Iron and carbon",
+          "Copper and zinc",
+          "Sodium and chlorine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q123",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: पीतल मुख्यतः किन धातुओं का मिश्रण है?",
+        "en": "Choose the correct answer: Brass is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "सोडियम और पोटैशियम"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Sodium and potassium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q124",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: पीतल मुख्यतः किन धातुओं का मिश्रण है?",
+        "en": "In the context of chemistry, answer: Brass is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "सोडियम और पोटैशियम"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Sodium and potassium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q125",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: पीतल मुख्यतः किन धातुओं का मिश्रण है?",
+        "en": "Practice question: Brass is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "सोडियम और पोटैशियम"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Sodium and potassium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q126",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि पीतल मुख्यतः किन धातुओं का मिश्रण है?",
+        "en": "If asked in an exam: Brass is mainly a mixture of which metals?"
+      },
+      "options": {
+        "hi": [
+          "तांबा और जस्ता",
+          "तांबा और टिन",
+          "लोहा और कार्बन",
+          "सोडियम और पोटैशियम"
+        ],
+        "en": [
+          "Copper and zinc",
+          "Copper and tin",
+          "Iron and carbon",
+          "Sodium and potassium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q127",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: कार्बन डाइऑक्साइड क्या है?",
+        "en": "Choose the correct answer: What is carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "मिश्रधातु"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Alloy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q128",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: कार्बन डाइऑक्साइड क्या है?",
+        "en": "In the context of chemistry, answer: What is carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "मिश्रधातु"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Alloy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q129",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: कार्बन डाइऑक्साइड क्या है?",
+        "en": "Practice question: What is carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "मिश्रधातु"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Alloy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q130",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि कार्बन डाइऑक्साइड क्या है?",
+        "en": "If asked in an exam: What is carbon dioxide?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "तत्व",
+          "मिश्रण",
+          "मिश्रधातु"
+        ],
+        "en": [
+          "Compound",
+          "Element",
+          "Mixture",
+          "Alloy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q131",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: हाइड्रोजन क्या है?",
+        "en": "Choose the correct answer: What is hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q132",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: हाइड्रोजन क्या है?",
+        "en": "In the context of chemistry, answer: What is hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q133",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: हाइड्रोजन क्या है?",
+        "en": "Practice question: What is hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q134",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि हाइड्रोजन क्या है?",
+        "en": "If asked in an exam: What is hydrogen?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q135",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: दो या अधिक तत्वों का रासायनिक संयोजन क्या बना सकता है?",
+        "en": "Choose the correct answer: What can chemical combination of two or more elements form?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "मिश्रण ही",
+          "तत्व",
+          "निलंबन"
+        ],
+        "en": [
+          "A compound",
+          "Only a mixture",
+          "An element",
+          "A suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q136",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: दो या अधिक तत्वों का रासायनिक संयोजन क्या बना सकता है?",
+        "en": "In the context of chemistry, answer: What can chemical combination of two or more elements form?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "मिश्रण ही",
+          "तत्व",
+          "निलंबन"
+        ],
+        "en": [
+          "A compound",
+          "Only a mixture",
+          "An element",
+          "A suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q137",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: दो या अधिक तत्वों का रासायनिक संयोजन क्या बना सकता है?",
+        "en": "Practice question: What can chemical combination of two or more elements form?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "मिश्रण ही",
+          "तत्व",
+          "निलंबन"
+        ],
+        "en": [
+          "A compound",
+          "Only a mixture",
+          "An element",
+          "A suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q138",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि दो या अधिक तत्वों का रासायनिक संयोजन क्या बना सकता है?",
+        "en": "If asked in an exam: What can chemical combination of two or more elements form?"
+      },
+      "options": {
+        "hi": [
+          "यौगिक",
+          "मिश्रण ही",
+          "तत्व",
+          "निलंबन"
+        ],
+        "en": [
+          "A compound",
+          "Only a mixture",
+          "An element",
+          "A suspension"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q139",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: शुद्ध सोना किस प्रकार का पदार्थ है?",
+        "en": "Choose the correct answer: Pure gold is what type of substance?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q140",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: शुद्ध सोना किस प्रकार का पदार्थ है?",
+        "en": "In the context of chemistry, answer: Pure gold is what type of substance?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q141",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: शुद्ध सोना किस प्रकार का पदार्थ है?",
+        "en": "Practice question: Pure gold is what type of substance?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q142",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि शुद्ध सोना किस प्रकार का पदार्थ है?",
+        "en": "If asked in an exam: Pure gold is what type of substance?"
+      },
+      "options": {
+        "hi": [
+          "तत्व",
+          "यौगिक",
+          "मिश्रण",
+          "विलयन"
+        ],
+        "en": [
+          "Element",
+          "Compound",
+          "Mixture",
+          "Solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q143",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: शक्कर का जल में विलयन क्या है?",
+        "en": "Choose the correct answer: Sugar dissolved in water is what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q144",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: शक्कर का जल में विलयन क्या है?",
+        "en": "In the context of chemistry, answer: Sugar dissolved in water is what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q145",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: शक्कर का जल में विलयन क्या है?",
+        "en": "Practice question: Sugar dissolved in water is what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q146",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि शक्कर का जल में विलयन क्या है?",
+        "en": "If asked in an exam: Sugar dissolved in water is what?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण",
+          "यौगिक",
+          "तत्व",
+          "शुद्ध पदार्थ"
+        ],
+        "en": [
+          "Mixture",
+          "Compound",
+          "Element",
+          "Pure substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q147",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्नलिखित में से सही उत्तर चुनिए: तत्व और यौगिक दोनों किस श्रेणी में आते हैं?",
+        "en": "Choose the correct answer: Elements and compounds both belong to which category?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "मिश्रण",
+          "निलंबन",
+          "कोलॉइड"
+        ],
+        "en": [
+          "Pure substances",
+          "Mixtures",
+          "Suspensions",
+          "Colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q148",
+      "topic": "core",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: तत्व और यौगिक दोनों किस श्रेणी में आते हैं?",
+        "en": "In the context of chemistry, answer: Elements and compounds both belong to which category?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "मिश्रण",
+          "निलंबन",
+          "कोलॉइड"
+        ],
+        "en": [
+          "Pure substances",
+          "Mixtures",
+          "Suspensions",
+          "Colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q149",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अभ्यास प्रश्न: तत्व और यौगिक दोनों किस श्रेणी में आते हैं?",
+        "en": "Practice question: Elements and compounds both belong to which category?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "मिश्रण",
+          "निलंबन",
+          "कोलॉइड"
+        ],
+        "en": [
+          "Pure substances",
+          "Mixtures",
+          "Suspensions",
+          "Colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
+    },
+    {
+      "id": "c04q150",
+      "topic": "core",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परीक्षा में पूछा जाए कि तत्व और यौगिक दोनों किस श्रेणी में आते हैं?",
+        "en": "If asked in an exam: Elements and compounds both belong to which category?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध पदार्थ",
+          "मिश्रण",
+          "निलंबन",
+          "कोलॉइड"
+        ],
+        "en": [
+          "Pure substances",
+          "Mixtures",
+          "Suspensions",
+          "Colloids"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यह प्रश्न अध्याय की मूल रसायन अवधारणा पर आधारित है।",
+        "en": "This question tests a core chemistry concept from the chapter."
+      }
     }
   ]
 }
