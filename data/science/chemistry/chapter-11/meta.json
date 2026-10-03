@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-11",
+  "chapterNumber": 11,
+  "chapterName": {
+    "hi": "वायु, जल एवं पर्यावरणीय रसायन",
+    "en": "Air, Water and Environmental Chemistry"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
