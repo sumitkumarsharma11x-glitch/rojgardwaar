@@ -1,0 +1,12 @@
+{
+  "class": 9,
+  "subject": "chemistry",
+  "chapter": "chapter-09",
+  "chapterNumber": 9,
+  "chapterName": {
+    "hi": "धातुएँ एवं अधातुएँ",
+    "en": "Metals and Non-metals"
+  },
+  "mockQuestionCount": 30,
+  "topics": "core concepts and applications"
+}
