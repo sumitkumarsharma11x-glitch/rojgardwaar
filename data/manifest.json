@@ -87,7 +87,15 @@
             "hi": "रसायन विज्ञान",
             "en": "Chemistry"
           },
-          "chapters": []
+          "chapters": [
+            {
+              "chapter": "chapter-03",
+              "name": {
+                "hi": "पदार्थों का पृथक्करण एवं मिश्रण",
+                "en": "Separation of Substances and Mixtures"
+              }
+            }
+          ]
         },
         {
           "subject": "physics",
