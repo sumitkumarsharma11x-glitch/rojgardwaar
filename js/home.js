@@ -345,13 +345,25 @@
       </div>
 
       <div class="rjd-rail-grid">
-        ${chapters.map((ch) => `
-          <a class="rjd-rail-card" href="index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}">
-            <span class="rjd-rail-card__icon">📖</span>
-            <span class="rjd-rail-card__label">${pickLabel(ch.name)}</span>
-            <span class="rjd-rail-card__meta">${text("पढ़ाई शुरू करें", "Start Learning")}</span>
-          </a>
-        `).join("")}
+        ${chapters.map((ch) => {
+          const chapterUrl = `index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}`;
+          const mockUrl = `index.html?class=${selectedClass.class}&subject=${selectedSubject.subject}&chapter=${ch.chapter}&open=mocktests`;
+          return `
+            <div class="rjd-rail-card">
+              <span class="rjd-rail-card__icon">📖</span>
+              <span class="rjd-rail-card__label">${pickLabel(ch.name)}</span>
+              <span class="rjd-rail-card__meta">${text("अध्याय", "Chapter")}</span>
+              <div class="rjd-rail-card__actions">
+                <a class="rjd-rail-card__link" href="${chapterUrl}">
+                  ${text("अध्याय खोलें →", "Open Chapter →")}
+                </a>
+                <a class="rjd-rail-card__link rjd-rail-card__link--mock" href="${mockUrl}">
+                  📝 ${text("मॉक टेस्ट →", "Mock Test →")}
+                </a>
+              </div>
+            </div>
+          `;
+        }).join("")}
       </div>
 
       <div style="text-align:center; padding-bottom: 32px;">
