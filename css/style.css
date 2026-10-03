@@ -1865,6 +1865,32 @@ button:focus-visible {
   letter-spacing: 0.03em;
 }
 
+.rjd-rail-card__actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  margin-top: 4px;
+  width: 100%;
+}
+
+.rjd-rail-card__link {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--stamp-red);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.rjd-rail-card__link--mock {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.rjd-rail-card__link:hover {
+  color: var(--gold);
+}
+
 .rjd-rail-card__badge {
   font-family: var(--font-mono);
   font-size: 10px;
